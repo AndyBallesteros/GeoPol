@@ -14,7 +14,7 @@ import {
   useWindowDimensions,
   View,
 } from "react-native";
-import { loadSignals } from "./api.js";
+import { API_URL, loadSignals } from "./api.js";
 import { signals, sourcesByCountry } from "./data.js";
 
 const priorities = ["Todas", "Alta", "Media"];
@@ -111,10 +111,10 @@ export default function App() {
       setFeedNotice(
         payload.source === "api" && payload.generatedAt ? `API: ${formatTimestamp(payload.generatedAt)}` : "Modo demo"
       );
-    } catch {
+    } catch (error) {
       setSignalData(signals);
       setGeneratedAt(null);
-      setFeedNotice("API no disponible; usando demo");
+      setFeedNotice(`API no disponible (${error.message}); usando demo`);
     } finally {
       setIsRefreshing(false);
     }
@@ -152,6 +152,7 @@ export default function App() {
             meta={feedNotice || `Actualizado: ${updatedAt}`}
             title="Señales políticas priorizadas"
           />
+          {API_URL ? <Text style={styles.apiHint}>Endpoint: {API_URL}</Text> : null}
 
           <TextInput
             value={query}
@@ -547,6 +548,7 @@ const styles = StyleSheet.create({
   sectionHeading: { gap: 12, marginBottom: 22 },
   sectionTitle: { color: colors.ink, fontSize: 30, fontWeight: "900", letterSpacing: 0, lineHeight: 32 },
   timestamp: { color: colors.muted, fontSize: 13 },
+  apiHint: { color: colors.muted, fontSize: 12, marginBottom: 14 },
   searchInput: {
     backgroundColor: "#121614",
     borderColor: colors.line,
