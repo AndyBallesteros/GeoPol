@@ -1,5 +1,5 @@
 import { createServer } from "node:http";
-import { readFile } from "node:fs/promises";
+import { readFile, stat } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { ingest } from "./ingest.js";
@@ -8,12 +8,41 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataPath = join(__dirname, "..", "data", "signals.json");
 const port = Number(process.env.PORT ?? 8787);
 const host = process.env.HOST ?? "0.0.0.0";
+const refreshIntervalMinutes = Number(process.env.REFRESH_INTERVAL_MINUTES ?? 360);
+const refreshIntervalMs = refreshIntervalMinutes * 60 * 1000;
+let refreshPromise = null;
+
+async function refreshSignals() {
+  if (!refreshPromise) {
+    refreshPromise = ingest().finally(() => {
+      refreshPromise = null;
+    });
+  }
+
+  return refreshPromise;
+}
+
+async function readSignalsFile() {
+  return JSON.parse(await readFile(dataPath, "utf8"));
+}
 
 async function readSignals() {
   try {
-    return JSON.parse(await readFile(dataPath, "utf8"));
+    const payload = await readSignalsFile();
+    const fileInfo = await stat(dataPath);
+    const isStale = Date.now() - fileInfo.mtimeMs >= refreshIntervalMs;
+
+    if (!isStale) {
+      return payload;
+    }
+
+    try {
+      return await refreshSignals();
+    } catch {
+      return payload;
+    }
   } catch {
-    return await ingest();
+    return await refreshSignals();
   }
 }
 
@@ -38,7 +67,11 @@ createServer(async (request, response) => {
     }
 
     if (request.url === "/health") {
-      sendJson(response, 200, { ok: true, service: "geopol-inteligencia-api" });
+      sendJson(response, 200, {
+        ok: true,
+        service: "geopol-inteligencia-api",
+        refreshIntervalMinutes,
+      });
       return;
     }
 

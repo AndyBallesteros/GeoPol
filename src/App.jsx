@@ -18,6 +18,13 @@ import { API_URL, loadSignals } from "./api.js";
 import { signals, sourcesByCountry } from "./data.js";
 
 const priorities = ["Todas", "Alta", "Media"];
+const dateRanges = [
+  { label: "Todas", hours: null },
+  { label: "24 h", hours: 24 },
+  { label: "3 días", hours: 72 },
+  { label: "7 días", hours: 168 },
+  { label: "30 días", hours: 720 },
+];
 const heroImage = require("../assets/geopol-hero.png");
 
 function normalizeText(value) {
@@ -45,10 +52,30 @@ function formatTimestamp(value, includeYear = false) {
   }).format(new Date(value));
 }
 
+function publishedTime(item) {
+  if (!item?.publishedAt) return null;
+  const parsed = new Date(item.publishedAt).getTime();
+  return Number.isNaN(parsed) ? null : parsed;
+}
+
+function formatSignalDate(item) {
+  const timestamp = publishedTime(item);
+  if (!timestamp) return null;
+
+  return new Intl.DateTimeFormat("es-ES", {
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(new Date(timestamp));
+}
+
 export default function App() {
   const [country, setCountry] = useState("Todos");
   const [topic, setTopic] = useState("Todos");
   const [priority, setPriority] = useState("Todas");
+  const [dateRange, setDateRange] = useState("Todas");
   const [query, setQuery] = useState("");
   const [watchIds, setWatchIds] = useState(new Set());
   const [signalData, setSignalData] = useState(signals);
@@ -73,18 +100,23 @@ export default function App() {
 
   const filteredSignals = useMemo(() => {
     const normalizedQuery = normalizeText(query.trim());
+    const activeRange = dateRanges.find((item) => item.label === dateRange) ?? dateRanges[0];
+    const cutoff = activeRange.hours ? Date.now() - activeRange.hours * 60 * 60 * 1000 : null;
 
     return signalData.filter((item) => {
       const queryBlob = normalizeText(`${item.country} ${item.source} ${item.topic} ${item.title} ${item.summary}`);
+      const itemTime = publishedTime(item);
+      const passesDate = cutoff ? Boolean(itemTime && itemTime >= cutoff) : true;
 
       return (
         (country === "Todos" || item.country === country) &&
         (topic === "Todos" || item.topic === topic) &&
         (priority === "Todas" || item.priority === priority) &&
+        passesDate &&
         (!normalizedQuery || queryBlob.includes(normalizedQuery))
       );
     });
-  }, [country, topic, priority, query, signalData]);
+  }, [country, dateRange, topic, priority, query, signalData]);
 
   const watchedSignals = useMemo(() => signalData.filter((item) => watchIds.has(signalKey(item))), [signalData, watchIds]);
 
@@ -164,6 +196,12 @@ export default function App() {
 
           <FilterRail label="País" options={countries} selected={country} onSelect={setCountry} />
           <FilterRail label="Tema" options={topics} selected={topic} onSelect={setTopic} />
+          <FilterRail
+            label="Fecha"
+            options={dateRanges.map((item) => item.label)}
+            selected={dateRange}
+            onSelect={setDateRange}
+          />
           <Segmented options={priorities} selected={priority} onSelect={setPriority} />
 
           <View style={[styles.monitorLayout, isTablet && styles.monitorLayoutWide]}>
@@ -266,6 +304,7 @@ function SignalCard({ index, isWatching, item, onToggle }) {
           <Tag>{item.topic}</Tag>
         </View>
       </View>
+      {item.publishedAt ? <Text style={styles.cardDate}>{formatSignalDate(item)}</Text> : null}
       <Text style={styles.cardTitle}>{item.title}</Text>
       <Text style={styles.cardSummary}>{item.summary}</Text>
       <View style={styles.cardActions}>
@@ -611,6 +650,7 @@ const styles = StyleSheet.create({
   priority: { borderWidth: 1, fontSize: 12, fontWeight: "900", paddingHorizontal: 8, paddingVertical: 6 },
   priorityHigh: { borderColor: "rgba(212, 91, 79, 0.54)", color: "#ffc9c3" },
   priorityMedium: { borderColor: "rgba(214, 166, 71, 0.5)", color: "#ffe0a0" },
+  cardDate: { color: colors.muted, fontSize: 12, marginTop: -2 },
   cardTitle: { color: colors.ink, fontSize: 19, fontWeight: "900", lineHeight: 23 },
   cardSummary: { color: colors.soft, fontSize: 14, lineHeight: 21 },
   cardActions: { flexDirection: "row", gap: 8 },

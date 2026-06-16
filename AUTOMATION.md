@@ -6,8 +6,9 @@
 2. `npm run ingest` descarga feeds, normaliza titulares, deduplica y clasifica señales.
 3. El resultado se escribe en `backend/data/signals.json`.
 4. `npm start` dentro de `backend/` expone `GET /signals`.
-5. La app Expo usa `EXPO_PUBLIC_SIGNALS_API_URL` o `EXPO_PUBLIC_SIGNALS_API_BASE_URL` para consumir ese endpoint.
-6. GitHub Actions ejecuta la ingesta cada 6 horas y puede versionar el JSON generado.
+5. El backend refresca automáticamente la caché si `signals.json` supera `REFRESH_INTERVAL_MINUTES` sin actualizarse.
+6. La app Expo usa `EXPO_PUBLIC_SIGNALS_API_URL` o `EXPO_PUBLIC_SIGNALS_API_BASE_URL` para consumir ese endpoint.
+7. GitHub Actions ejecuta la ingesta cada 6 horas y puede versionar el JSON generado.
 
 ## Desarrollo local
 
@@ -43,6 +44,20 @@ También puedes usar:
 ```text
 EXPO_PUBLIC_SIGNALS_API_BASE_URL=https://tu-api.onrender.com
 ```
+
+Variables útiles del backend:
+
+```text
+HOST=0.0.0.0
+PORT=8787
+REFRESH_INTERVAL_MINUTES=360
+```
+
+Con esta configuración, el refresco automático queda así:
+
+- GitHub Actions genera un `signals.json` nuevo cada 6 horas.
+- Si Render redepliega con cada push, la API servirá ese JSON actualizado.
+- Además, si el archivo queda viejo, el propio backend intentará regenerarlo en la siguiente petición a `/signals`.
 
 ## Límites editoriales y legales
 
