@@ -7,6 +7,7 @@ import { ingest } from "./ingest.js";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataPath = join(__dirname, "..", "data", "signals.json");
 const port = Number(process.env.PORT ?? 8787);
+const host = process.env.HOST ?? "0.0.0.0";
 
 async function readSignals() {
   try {
@@ -26,8 +27,18 @@ function sendJson(response, status, payload) {
 
 createServer(async (request, response) => {
   try {
+    if (request.method === "OPTIONS") {
+      response.writeHead(204, {
+        "access-control-allow-origin": "*",
+        "access-control-allow-methods": "GET, OPTIONS",
+        "access-control-allow-headers": "content-type",
+      });
+      response.end();
+      return;
+    }
+
     if (request.url === "/health") {
-      sendJson(response, 200, { ok: true });
+      sendJson(response, 200, { ok: true, service: "geopol-inteligencia-api" });
       return;
     }
 
@@ -40,6 +51,6 @@ createServer(async (request, response) => {
   } catch (error) {
     sendJson(response, 500, { error: error.message });
   }
-}).listen(port, () => {
-  console.log(`GeoPol API listening on http://localhost:${port}`);
+}).listen(port, host, () => {
+  console.log(`GeoPol API listening on http://${host}:${port}`);
 });

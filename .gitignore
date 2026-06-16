@@ -4,9 +4,15 @@ dist
 .DS_Store
 *.local
 .env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
 .env.local
 .expo
 web-build
+*.log
 expo.log
 expo-error.log
 backend-api.log

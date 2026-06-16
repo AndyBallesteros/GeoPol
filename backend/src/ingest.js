@@ -103,6 +103,7 @@ async function fetchSource(source) {
     headers: {
       "user-agent": "GeoPolInteligenciaBot/0.1 (+https://github.com/AndyBallesteros/GeoPol-Inteligencia)",
     },
+    signal: AbortSignal.timeout(15000),
   });
 
   if (!response.ok) {

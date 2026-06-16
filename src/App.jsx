@@ -27,8 +27,22 @@ function normalizeText(value) {
     .replace(/[\u0300-\u036f]/g, "");
 }
 
-function signalId(item) {
-  return normalizeText(`${item.country}-${item.source}-${item.topic}`).replace(/[^a-z0-9]+/g, "-");
+function fallbackSignalId(item) {
+  return normalizeText(`${item.country}-${item.source}-${item.topic}-${item.title}`).replace(/[^a-z0-9]+/g, "-");
+}
+
+function signalKey(item) {
+  return item.id ?? fallbackSignalId(item);
+}
+
+function formatTimestamp(value, includeYear = false) {
+  return new Intl.DateTimeFormat("es-ES", {
+    day: "2-digit",
+    month: "short",
+    ...(includeYear ? { year: "numeric" } : {}),
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(new Date(value));
 }
 
 export default function App() {
@@ -39,6 +53,7 @@ export default function App() {
   const [watchIds, setWatchIds] = useState(new Set());
   const [signalData, setSignalData] = useState(signals);
   const [feedNotice, setFeedNotice] = useState("");
+  const [generatedAt, setGeneratedAt] = useState(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
   const { width } = useWindowDimensions();
   const isTablet = width >= 760;
@@ -71,7 +86,7 @@ export default function App() {
     });
   }, [country, topic, priority, query, signalData]);
 
-  const watchedSignals = useMemo(() => signalData.filter((item) => watchIds.has(signalId(item))), [signalData, watchIds]);
+  const watchedSignals = useMemo(() => signalData.filter((item) => watchIds.has(signalKey(item))), [signalData, watchIds]);
 
   const metrics = useMemo(
     () => ({
@@ -83,15 +98,8 @@ export default function App() {
   );
 
   const updatedAt = useMemo(
-    () =>
-      new Intl.DateTimeFormat("es-ES", {
-        day: "2-digit",
-        month: "short",
-        year: "numeric",
-        hour: "2-digit",
-        minute: "2-digit",
-      }).format(new Date()),
-    []
+    () => (generatedAt ? formatTimestamp(generatedAt, true) : formatTimestamp(Date.now(), true)),
+    [generatedAt]
   );
 
   async function refreshSignals() {
@@ -99,18 +107,13 @@ export default function App() {
     try {
       const payload = await loadSignals();
       setSignalData(payload.signals);
+      setGeneratedAt(payload.generatedAt ?? null);
       setFeedNotice(
-        payload.source === "api" && payload.generatedAt
-          ? `API: ${new Intl.DateTimeFormat("es-ES", {
-              day: "2-digit",
-              month: "short",
-              hour: "2-digit",
-              minute: "2-digit",
-            }).format(new Date(payload.generatedAt))}`
-          : "Modo demo"
+        payload.source === "api" && payload.generatedAt ? `API: ${formatTimestamp(payload.generatedAt)}` : "Modo demo"
       );
     } catch {
       setSignalData(signals);
+      setGeneratedAt(null);
       setFeedNotice("API no disponible; usando demo");
     } finally {
       setIsRefreshing(false);
@@ -168,10 +171,10 @@ export default function App() {
                 filteredSignals.map((item, index) => (
                   <SignalCard
                     index={index}
-                    isWatching={watchIds.has(signalId(item))}
+                    isWatching={watchIds.has(signalKey(item))}
                     item={item}
-                    key={signalId(item)}
-                    onToggle={() => toggleWatch(signalId(item))}
+                    key={signalKey(item)}
+                    onToggle={() => toggleWatch(signalKey(item))}
                   />
                 ))
               ) : (
@@ -183,7 +186,7 @@ export default function App() {
           </View>
         </View>
 
-        <Coverage isTablet={isTablet} />
+        <Coverage isTablet={isTablet} signalData={signalData} />
         <Sources isTablet={isTablet} />
         <Method isTablet={isTablet} />
 
@@ -283,7 +286,7 @@ function Briefing({ watchedSignals }) {
       <View style={styles.watchList}>
         {watchedSignals.length ? (
           watchedSignals.map((item) => (
-            <View style={styles.watchItem} key={signalId(item)}>
+            <View style={styles.watchItem} key={signalKey(item)}>
               <Text style={styles.watchTitle}>
                 {item.country}: {item.topic}
               </Text>
@@ -300,13 +303,13 @@ function Briefing({ watchedSignals }) {
   );
 }
 
-function Coverage({ isTablet }) {
+function Coverage({ isTablet, signalData }) {
   return (
     <View style={styles.coverageBand}>
       <SectionHeader eyebrow="Cobertura territorial" title="Mapa operativo de países" />
       <View style={[styles.countryGrid, isTablet && styles.countryGridWide]}>
         {sourcesByCountry.map((item) => {
-          const activeSignals = signals.filter((signal) => signal.country === item.country);
+          const activeSignals = signalData.filter((signal) => signal.country === item.country);
           const score = Math.min(100, 24 + item.sources.length * 9 + activeSignals.length * 18);
 
           return (

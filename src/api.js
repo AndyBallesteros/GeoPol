@@ -1,6 +1,11 @@
 import { signals as fallbackSignals } from "./data.js";
 
-const API_URL = process.env.EXPO_PUBLIC_SIGNALS_API_URL;
+const rawApiUrl = process.env.EXPO_PUBLIC_SIGNALS_API_URL ?? process.env.EXPO_PUBLIC_SIGNALS_API_BASE_URL ?? "";
+const API_URL = rawApiUrl
+  ? rawApiUrl.replace(/\/+$/, "").endsWith("/signals")
+    ? rawApiUrl.replace(/\/+$/, "")
+    : `${rawApiUrl.replace(/\/+$/, "")}/signals`
+  : "";
 
 export async function loadSignals() {
   if (!API_URL) {
