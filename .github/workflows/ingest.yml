@@ -1,0 +1,28 @@
+name: Ingest political news
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: backend/package-lock.json
+      - run: npm install
+        working-directory: backend
+      - run: npm run ingest
+        working-directory: backend
+      - name: Commit generated signals
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update generated political signals"
+          file_pattern: backend/data/signals.json

@@ -1,9 +1,10 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   Image,
   Linking,
   Platform,
   Pressable,
+  RefreshControl,
   SafeAreaView,
   ScrollView,
   StatusBar,
@@ -13,6 +14,7 @@ import {
   useWindowDimensions,
   View,
 } from "react-native";
+import { loadSignals } from "./api.js";
 import { signals, sourcesByCountry } from "./data.js";
 
 const priorities = ["Todas", "Alta", "Media"];
@@ -35,6 +37,9 @@ export default function App() {
   const [priority, setPriority] = useState("Todas");
   const [query, setQuery] = useState("");
   const [watchIds, setWatchIds] = useState(new Set());
+  const [signalData, setSignalData] = useState(signals);
+  const [feedNotice, setFeedNotice] = useState("");
+  const [isRefreshing, setIsRefreshing] = useState(false);
   const { width } = useWindowDimensions();
   const isTablet = width >= 760;
 
@@ -45,16 +50,16 @@ export default function App() {
 
   const topics = useMemo(
     () =>
-      ["Todos", ...new Set(signals.map((item) => item.topic))].sort((a, b) =>
+      ["Todos", ...new Set(signalData.map((item) => item.topic))].sort((a, b) =>
         a === "Todos" ? -1 : b === "Todos" ? 1 : a.localeCompare(b)
       ),
-    []
+    [signalData]
   );
 
   const filteredSignals = useMemo(() => {
     const normalizedQuery = normalizeText(query.trim());
 
-    return signals.filter((item) => {
+    return signalData.filter((item) => {
       const queryBlob = normalizeText(`${item.country} ${item.source} ${item.topic} ${item.title} ${item.summary}`);
 
       return (
@@ -64,17 +69,17 @@ export default function App() {
         (!normalizedQuery || queryBlob.includes(normalizedQuery))
       );
     });
-  }, [country, topic, priority, query]);
+  }, [country, topic, priority, query, signalData]);
 
-  const watchedSignals = useMemo(() => signals.filter((item) => watchIds.has(signalId(item))), [watchIds]);
+  const watchedSignals = useMemo(() => signalData.filter((item) => watchIds.has(signalId(item))), [signalData, watchIds]);
 
   const metrics = useMemo(
     () => ({
       countries: sourcesByCountry.length,
       sources: sourcesByCountry.reduce((total, item) => total + item.sources.length, 0),
-      alerts: signals.filter((item) => item.priority === "Alta").length,
+      alerts: signalData.filter((item) => item.priority === "Alta").length,
     }),
-    []
+    [signalData]
   );
 
   const updatedAt = useMemo(
@@ -88,6 +93,33 @@ export default function App() {
       }).format(new Date()),
     []
   );
+
+  async function refreshSignals() {
+    setIsRefreshing(true);
+    try {
+      const payload = await loadSignals();
+      setSignalData(payload.signals);
+      setFeedNotice(
+        payload.source === "api" && payload.generatedAt
+          ? `API: ${new Intl.DateTimeFormat("es-ES", {
+              day: "2-digit",
+              month: "short",
+              hour: "2-digit",
+              minute: "2-digit",
+            }).format(new Date(payload.generatedAt))}`
+          : "Modo demo"
+      );
+    } catch {
+      setSignalData(signals);
+      setFeedNotice("API no disponible; usando demo");
+    } finally {
+      setIsRefreshing(false);
+    }
+  }
+
+  useEffect(() => {
+    refreshSignals();
+  }, []);
 
   function toggleWatch(id) {
     setWatchIds((current) => {
@@ -104,14 +136,17 @@ export default function App() {
   return (
     <SafeAreaView style={styles.safeArea}>
       <StatusBar barStyle="light-content" />
-      <ScrollView contentContainerStyle={styles.scrollContent}>
+      <ScrollView
+        contentContainerStyle={styles.scrollContent}
+        refreshControl={<RefreshControl refreshing={isRefreshing} tintColor="#2dc5b3" onRefresh={refreshSignals} />}
+      >
         <Header />
         <Hero isTablet={isTablet} metrics={metrics} />
 
         <View style={styles.section}>
           <SectionHeader
             eyebrow="Monitor de análisis"
-            meta={`Actualizado: ${updatedAt}`}
+            meta={feedNotice || `Actualizado: ${updatedAt}`}
             title="Señales políticas priorizadas"
           />
 
