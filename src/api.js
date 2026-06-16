@@ -1,6 +1,10 @@
+import { Platform } from "react-native";
 import { signals as fallbackSignals } from "./data.js";
 
-const rawApiUrl = process.env.EXPO_PUBLIC_SIGNALS_API_URL ?? process.env.EXPO_PUBLIC_SIGNALS_API_BASE_URL ?? "";
+const rawApiUrl =
+  process.env.EXPO_PUBLIC_SIGNALS_API_URL ??
+  process.env.EXPO_PUBLIC_SIGNALS_API_BASE_URL ??
+  (Platform.OS === "web" ? "/api" : "");
 export const API_URL = rawApiUrl
   ? rawApiUrl.replace(/\/+$/, "").endsWith("/signals")
     ? rawApiUrl.replace(/\/+$/, "")
