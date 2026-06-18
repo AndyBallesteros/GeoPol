@@ -1,16 +1,31 @@
 {
-  "generatedAt": "2026-06-18T10:38:27.814Z",
-  "count": 58,
+  "generatedAt": "2026-06-18T15:37:24.540Z",
+  "count": 66,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-06-18T10:38:27.814Z",
-    "activeSignals": 58,
-    "archiveSignals": 61,
+    "generatedAt": "2026-06-18T15:37:24.540Z",
+    "activeSignals": 66,
+    "archiveSignals": 87,
     "countriesCovered": 9,
-    "highPrioritySignals": 29,
-    "averagePoliticalScore": 6.29
+    "highPrioritySignals": 33,
+    "averagePoliticalScore": 6.38
   },
   "briefings": [
+    {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "El Gobierno estrenó su polémico decreto de designación de jueces",
+      "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-estreno-su-polemico-decreto-de-designacion-de-jueces-nid18062026/",
+      "focusTopics": [
+        "Instituciones",
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 13,
+      "summary": "Foco en Instituciones, Economia politica. Vigilar La Nacion y La Nacion."
+    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -42,47 +57,33 @@
       "summary": "Foco en Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
     },
     {
-      "country": "Argentina",
+      "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Juliana Di Tullio se refirió a la convocatoria de Adorni al Congreso: “Va a venir para ser interpelado y removido de su",
-      "leadUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-ano-de-prision-domiciliaria-de-cristina-kirchner-y-el-nid17062026/",
-      "focusTopics": [
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 9,
-      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
-    },
-    {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "Feijóo cuestiona a Zapatero tras su declaración y vincula su \"blanqueo de una dictadura\" con el de capitales",
-      "leadUrl": "https://www.elmundo.es/espana/2026/06/17/6a331373fc6c837a1e8b45c8.html",
+      "leadTitle": "Más de 50 organizaciones llaman a campañas a aceptar resultados electorales",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/mas-de-50-organizaciones-llaman-a-campanas-a-aceptar-resultados-electorales/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
-        "El Mundo"
+        "La Silla Vacia"
       ],
       "signalCount": 7,
-      "summary": "Foco en Elecciones. Vigilar El Mundo y El Mundo."
+      "summary": "Foco en Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Colombia",
+      "country": "Espana",
       "priority": "Alta",
-      "leadTitle": "Congresistas gringos piden a Trump “no interferir” en las elecciones",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/congresistas-gringos-piden-a-trump-no-interferir-en-las-elecciones/",
+      "leadTitle": "El juez del ‘caso Plus Ultra’ cita como imputadas a las hijas y a la secretaria de Zapatero",
+      "leadUrl": "https://elpais.com/espana/2026-06-18/el-juez-del-caso-plus-ultra-acuerda-citar-como-investigadas-a-las-hijas-de-zapatero.html",
       "focusTopics": [
-        "Elecciones",
         "Gobernabilidad"
       ],
       "topSources": [
-        "La Silla Vacia"
+        "El Pais",
+        "El Mundo"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 7,
+      "summary": "Foco en Gobernabilidad. Vigilar El Pais y El Mundo."
     },
     {
       "country": "Uruguay",
@@ -96,7 +97,7 @@
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 4,
+      "signalCount": 5,
       "summary": "Foco en Diplomacia, Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
@@ -106,29 +107,30 @@
       "leadUrl": "https://www.14ymedio.com/cuba/diaz-canel-convoca-tres-expertos_1_1127886.html",
       "focusTopics": [
         "Economia politica",
-        "Instituciones",
-        "Diplomacia"
+        "Diplomacia",
+        "Instituciones"
       ],
       "topSources": [
         "14ymedio"
       ],
       "signalCount": 4,
-      "summary": "Foco en Economia politica, Instituciones, Diplomacia. Vigilar 14ymedio y 14ymedio."
+      "summary": "Foco en Economia politica, Diplomacia, Instituciones. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "Andreína Baduel denuncia ante el Congreso de Colombia la crisis de los presos políticos en Venezuela",
-      "leadUrl": "https://efectococuyo.com/la-humanidad/andreina-baduel-denuncia-ante-el-congreso-de-colombia-la-crisis-de-los-presos-politicos-en-venezuela/",
+      "leadTitle": "Sindicalistas convocan nuevas movilizaciones para el 3 de julio",
+      "leadUrl": "https://efectococuyo.com/la-humanidad/sindicalistas-convocan-nuevas-movilizaciones-para-el-3-de-julio/",
       "focusTopics": [
+        "Elecciones",
         "Diplomacia",
         "Economia politica"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Diplomacia, Economia politica. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 4,
+      "summary": "Foco en Elecciones, Diplomacia, Economia politica. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Peru",
@@ -147,23 +149,6 @@
   ],
   "signals": [
     {
-      "id": "a545f563e9d2e7e1",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Feijóo cuestiona a Zapatero tras su declaración y vincula su \"blanqueo de una dictadura\" con el de capitales",
-      "summary": "El líder del PP arremete contra la \"selva de casos de corrupción\" del Gobierno y tilda de \"antidemocrática\" la maniobra de la Mesa del Congreso que impide a su formación votar la exigencia de elecciones&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/17/6a331373fc6c837a1e8b45c8.html",
-      "publishedAt": "Wed, 17 Jun 2026 23:37:18 +0200",
-      "politicalScore": 15,
-      "eventKey": "espana-elecciones-espana-elecciones-feijoo-cuestiona",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
       "id": "00a7c19d3feeb648",
       "country": "Nicaragua",
       "source": "Confidencial",
@@ -177,42 +162,59 @@
       "politicalScore": 15,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-eurodiputados-piden",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "e9bf6837ad8ea708",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El PNV, socio clave del Gobierno, se suma al clamor mayoritario del Congreso que reclama a Sánchez llamar a las urnas: \"Si no aprueba Presupuestos, disuelva y convoque elecciones\"",
-      "summary": "El jefe del Ejecutivo, trata de desviar la atención anunciando un próximo decreto para proteger a la gente de los derroteros que pueda tomar el inestable alto al fuego entre EEUU e Irán&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/17/6a32458d21efa099308b4592.html",
-      "publishedAt": "Wed, 17 Jun 2026 12:19:38 +0200",
-      "politicalScore": 15,
-      "eventKey": "espana-elecciones-espana-elecciones-socio-clave",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "afe492cc777b47b0",
+      "id": "0b5e10d11c2bdec2",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Juliana Di Tullio se refirió a la convocatoria de Adorni al Congreso: “Va a venir para ser interpelado y removido de su",
-      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-ano-de-prision-domiciliaria-de-cristina-kirchner-y-el-nid17062026/",
-      "publishedAt": "Thu, 18 Jun 2026 03:44:06 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-juliana",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "title": "El Gobierno estrenó su polémico decreto de designación de jueces",
+      "summary": "Publicó en el Boletín Oficial las ternas que recibió el Presidente para cubrir tribunales que llevan causas de alta sensibilidad política; por primera vez, se aplica un trámite que limita la participación popular en esta parte del proceso",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-estreno-su-polemico-decreto-de-designacion-de-jueces-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 15:24:03 +0000",
+      "politicalScore": 14,
+      "eventKey": "argentina-instituciones-argentina-instituciones-gobierno-estreno",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a4eff49685d6e209",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Más de 50 organizaciones llaman a campañas a aceptar resultados electorales",
+      "summary": "Pese a que sostienen que el sistema electoral no es perfecto, advierten que no hay evidencia sólida de fraude en las elecciones. The post Más de 50 organizaciones llaman a campañas a aceptar resultados electorales appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/mas-de-50-organizaciones-llaman-a-campanas-a-aceptar-resultados-electorales/",
+      "publishedAt": "Thu, 18 Jun 2026 15:23:55 +0000",
+      "politicalScore": 13,
+      "eventKey": "colombia-elecciones-colombia-elecciones-organizaciones-llaman",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "637375c98d7fa1e7",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Trump replica apoyo a Abelardo tras petición de no incidir en elecciones",
+      "summary": "“Salgan y voten por ‘El Tigre’”, dijo en nuevo mensaje. Ayer, congresistas demócratas le pidieron no intervenir en el proceso electoral colombiano. The post Trump replica apoyo a Abelardo tras petición de no incidir en elecciones appeared first on La Silla Vac",
+      "url": "https://www.lasillavacia.com/en-vivo/trump-replica-apoyo-a-abelardo-tras-peticion-de-no-incidir-en-elecciones/",
+      "publishedAt": "Thu, 18 Jun 2026 14:28:45 +0000",
+      "politicalScore": 11,
+      "eventKey": "colombia-elecciones-colombia-elecciones-trump-replica",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "478ff96e7688cdf7",
@@ -224,12 +226,29 @@
       "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
       "summary": "Ultima actualizacion de El Comercio.",
       "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
-      "publishedAt": "Thu, 18 Jun 2026 10:30:59 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 15:30:59 +0000",
       "politicalScore": 10,
       "eventKey": "peru-elecciones-peru-elecciones-cual-cantidad",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
+    },
+    {
+      "id": "9910d7ee380aae52",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Patricia Bullrich: “El Presidente considera que Adorni no mintió, que no hay nada cuestionable”",
+      "summary": "La jefa de bloque de LLA habló tras la postergación de la sesión en el Senado hasta la semana próxima que le dio un respiro al jefe de Gabinete",
+      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-el-presidente-considera-que-adorni-no-mintio-que-no-hay-nada-cuestionable-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 13:37:54 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-patricia",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "51177a54212a84ba",
@@ -245,7 +264,7 @@
       "politicalScore": 10,
       "eventKey": "uruguay-diplomacia-uruguay-diplomacia-diputados-sancion",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -262,7 +281,7 @@
       "politicalScore": 10,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-diaz",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -279,8 +298,76 @@
       "politicalScore": 10,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-laura",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
+    },
+    {
+      "id": "f8d994bdd4383d02",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Milei estaría dispuesto a sostener a Adorni hasta que la Justicia defina si hubo un delito",
+      "summary": "En la Casa Rosada dicen que el Presidente no reemplazará al jefe de Gabinete hasta que no haya avances judiciales; alivio oficial por la postergación de la interpelación y la moción de censura",
+      "url": "https://www.lanacion.com.ar/politica/milei-estaria-dispuesto-a-sostener-a-adorni-hasta-que-la-justicia-defina-si-hubo-un-delito-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 14:42:03 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-milei-estaria",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fed67f1ee4114cb6",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "La Justicia validó el cambio de domicilio de la AFA y anuló la designación de veedores que había dispuesto el Gobierno",
+      "summary": "Un fallo de la Cámara Nacional en lo Civil avaló la mudanza de la sede social de la calle Viamonte, en la Ciudad de Buenos Aires, a Pilar, como había solicitado Chiqui Tapia; se desactiva la intervención que había dispuesto el Gobierno por 180 días",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-valido-el-cambio-de-domicilio-de-la-afa-y-anulo-la-designacion-de-veedores-que-habia-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 13:38:20 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-valido",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2d40a080de39fe5e",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "El Gobierno creó un plus salarial para militares con títulos universitarios",
+      "summary": "Lo oficializó a través del Decreto 473/2026; la administración mileísta busca incentivar la formación profesional y mejorar la retención de personal especializado en el ámbito militar",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-creo-un-plus-salarial-para-militares-con-titulos-universitarios-nid17062026/",
+      "publishedAt": "Thu, 18 Jun 2026 12:30:15 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-seguridad-argentina-seguridad-gobierno-creo",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "31842f9668f6700d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Caso $LIBRA: dos entidades piden que se indague a Milei por negociaciones incompatibles con la función pública",
+      "summary": "Aceptados como “amicus curiae” en el expediente, Inecip y Cipce plantearon que la Justicia puede avanzar sobre el Presidente en la causa en la que se investiga una estafa con la criptomoneda",
+      "url": "https://www.lanacion.com.ar/politica/caso-libra-dos-entidades-piden-que-se-indague-a-milei-por-negociaciones-incompatibles-con-la-funcion-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 12:27:56 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-caso-libra",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "71130946af880636",
@@ -292,12 +379,29 @@
       "title": "Senado: postergan una semana la sesión y Adorni gana tiempo, aunque sería citado a interpelación el 2 de julio",
       "summary": "La jefa del bloque oficialista, Patricia Bullrich, logró un acuerdo con la oposición dialoguista para sesionar el 25 de junio; ese día el jefe de Gabinete será convocado a comparecer ante la Cámara alta; sigue abierta la posibilidad de que avancen con una moci",
       "url": "https://www.lanacion.com.ar/politica/senado-se-posterga-una-semana-la-sesion-y-adorni-gana-tiempo-aunque-seria-citado-a-interpelacion-el-nid17062026/",
-      "publishedAt": "Thu, 18 Jun 2026 07:25:02 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 11:34:01 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-senado",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
+    },
+    {
+      "id": "0570b0651091ad93",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "El juez del ‘caso Plus Ultra’ cita como imputadas a las hijas y a la secretaria de Zapatero",
+      "summary": "El instructor rechaza de momento pedir más información a Estados Unidos, como requería el expresidente del Gobierno",
+      "url": "https://elpais.com/espana/2026-06-18/el-juez-del-caso-plus-ultra-acuerda-citar-como-investigadas-a-las-hijas-de-zapatero.html",
+      "publishedAt": "Thu, 18 Jun 2026 11:25:28 GMT",
+      "politicalScore": 9,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-caso",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "5db9ae59b01089d5",
@@ -313,25 +417,25 @@
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-banco",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "a45841dc188a126d",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "id": "77c47006908434a9",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Congresistas gringos piden a Trump “no interferir” en las elecciones",
-      "summary": "A Abelardo De la Espriella lo describen como un “candidato con un historial profundamente preocupante que parece contravenir los intereses de Estados Unidos\". The post Congresistas gringos piden a Trump “no interferir” en las elecciones appeared first on La Si",
-      "url": "https://www.lasillavacia.com/en-vivo/congresistas-gringos-piden-a-trump-no-interferir-en-las-elecciones/",
-      "publishedAt": "Thu, 18 Jun 2026 00:33:22 +0000",
+      "title": "El PP lleva al Constitucional el veto del Gobierno a que el Congreso pida un adelanto electoral a Sánchez",
+      "summary": "Los 'populares' van a presentar este jueves un recurso de inconstitucionalidad contra la decisión de la Mesa de la Cámara Baja&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/06/18/6a32dba2e4d4d815798b45b0.html",
+      "publishedAt": "Thu, 18 Jun 2026 02:06:22 +0200",
       "politicalScore": 9,
-      "eventKey": "colombia-elecciones-colombia-elecciones-congresistas-gringos",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-lleva-constitucional",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "bb3323ec04557151",
@@ -347,24 +451,24 @@
       "politicalScore": 9,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-dictadura",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "2ba3b29e2ea3d601",
-      "country": "Espana",
-      "source": "El Mundo",
+      "id": "5f748f514879757f",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Dimite el líder de Podemos Castilla y León: \"No puedo implicarme como el cargo requiere\"",
-      "summary": "\"Me gustaría pedir disculpas por mis errores, que han sido muchos\", señala Miguel Ángel Llamas, que no consiguió entrar en las Cortes en las últimas elecciones&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/18/6a339de5e9cf4a1d468b4575.html",
-      "publishedAt": "Thu, 18 Jun 2026 09:44:49 +0200",
+      "title": "Fuerte cruce entre Juan Grabois y Benegas Lynch en plena comisión de Diputados",
+      "summary": "El acalorado intercambio se produjo por el orden de los oradores, mientras en el plenario se debatían los acuerdos de conciliación alcanzados entre la Argentina y dos holdouts",
+      "url": "https://www.lanacion.com.ar/politica/fuerte-cruce-entre-juan-grabois-y-benegas-lynch-en-plena-comision-de-diputados-nid17062026/",
+      "publishedAt": "Thu, 18 Jun 2026 11:48:02 +0000",
       "politicalScore": 8,
-      "eventKey": "espana-elecciones-espana-elecciones-dimite-lider",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-fuerte",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -381,7 +485,7 @@
       "politicalScore": 8,
       "eventKey": "colombia-elecciones-colombia-elecciones-votaran-lideres",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -398,41 +502,7 @@
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-alivio-gobierno",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "5f748f514879757f",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Fuerte cruce entre Juan Grabois y Benegas Lynch en plena comisión de Diputados",
-      "summary": "El acalorado intercambio se produjo por el orden de los oradores, mientras en el plenario se debatían los acuerdos de conciliación alcanzados entre la Argentina y dos holdouts",
-      "url": "https://www.lanacion.com.ar/politica/fuerte-cruce-entre-juan-grabois-y-benegas-lynch-en-plena-comision-de-diputados-nid17062026/",
-      "publishedAt": "Wed, 17 Jun 2026 21:04:25 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-fuerte",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "e2fd2de25f9348ca",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El juez Lijo y el ministro Mahiques participan juntos de un encuentro del GAFI en París",
-      "summary": "El magistrado tiene a su cargo la causa contra Adorni por presunto enriquecimiento ilícito; se lo considera cercano a Santiago Caputo, mientras el ministro responde a Karina Milei",
-      "url": "https://www.lanacion.com.ar/politica/el-juez-lijo-y-el-ministro-mahiques-participaron-juntos-de-un-encuentro-del-gafi-en-paris-nid17062026/",
-      "publishedAt": "Wed, 17 Jun 2026 20:53:28 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-juez",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -449,25 +519,76 @@
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-gobierno-confirma",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "169aeedc9be18a5f",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
+      "id": "6c5d7c9857b767d8",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Embajador en Suecia niega campaña de desprestigio contra primera dama",
+      "summary": "El presidente acusó a diplomáticos de pagar para ese fin. “Ella sola se desprestigiaba”, dijo hoy Guillermo Reyes. The post Embajador en Suecia niega campaña de desprestigio contra primera dama appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/embajador-en-suecia-niega-campana-de-desprestigio-contra-primera-dama/",
+      "publishedAt": "Thu, 18 Jun 2026 15:24:07 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-elecciones-colombia-elecciones-embajador-suecia",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "dc027a17cfa8ccb8",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Temen menores cosechas y alza de precios por El Niño",
-      "summary": "Las metas agrícolas de 2025 se cumplieron en el 87.3%, según el presidente del Banco Central de Nicaragua, Ovidio Reyes. Las proyecciones para ese mismo sector en el presente ciclo productivo, marcan una disminución de 2.2%, siempre según el mismo funcionario.",
-      "url": "https://confidencial.digital/economia/temen-menores-cosechas-y-alza-de-precios-por-el-nino/",
-      "publishedAt": "Tue, 16 Jun 2026 06:12:00 +0000",
-      "politicalScore": 8,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-temen",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "title": "El Gobierno le adelantó a Entre Ríos un pago de coparticipación por $150.000 millones",
+      "summary": "La provincia que administra Rogelio Frigerio había tenido hace unos meses otro pago de $220.0000 millones; se trata de un gobernador aliado de La Libertad Avanza",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-adelanto-a-entre-rios-un-pago-de-coparticipacion-por-150000-millones-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 14:51:04 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "da7becc488f626cc",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Sindicalistas convocan nuevas movilizaciones para el 3 de julio",
+      "summary": "Piden por reivindicaciones salariales y elecciones en corto plazo",
+      "url": "https://efectococuyo.com/la-humanidad/sindicalistas-convocan-nuevas-movilizaciones-para-el-3-de-julio/",
+      "publishedAt": "Thu, 18 Jun 2026 14:48:37 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-sindicalistas-convocan",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3e52f38e51b8dfe8",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Confirman una gira del papa León XIV por Sudamérica en noviembre e incluiría un paso por la Argentina",
+      "summary": "El presidente de Perú, que estuvo hoy en el Vaticano, dijo que el Pontífice visitará su país a fin de año; en ese mismo viaje, se prevé que pase por la Argentina y Uruguay; resta el anuncio oficial",
+      "url": "https://www.lanacion.com.ar/politica/confirman-una-gira-del-papa-leon-xiv-por-sudamerica-en-noviembre-e-incluiria-un-paso-por-la-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 14:24:20 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-confirman",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "08a01c7381927427",
@@ -476,49 +597,32 @@
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Milei va a Rosario: bastión para 2027, un llamado a Pullaro y las dudas sobre si irrumpe Villarruel",
+      "title": "Milei va a Rosario: bastión para 2027, un llamado a Pullaro y el desafío de Villarruel",
       "summary": "El Presidente y el Gabinete desembarcarán en la ciudad del Monumento a la Bandera para el 20 de junio; una concejala de Pro reclamó que el Presidente no lo lleve a Adorni",
       "url": "https://www.lanacion.com.ar/politica/milei-va-a-rosario-bastion-para-2027-un-llamado-a-pullaro-y-las-dudas-sobre-si-irrumpe-villarruel-nid17062026/",
-      "publishedAt": "Thu, 18 Jun 2026 07:03:52 +0000",
+      "publishedAt": "Thu, 18 Jun 2026 12:19:16 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "4b686490491c794f",
+      "id": "fc2227499cc91577",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "El Gobierno extendió el anticipo financiero de $400.000 millones a otras tres provincias",
-      "summary": "A las 12 jurisdicciones que ya habían accedido se suman Entre Ríos, Jujuy y Santa Fe; Según el Ejecutivo, será para “atender compromisos urgentes”",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-extendio-el-anticipo-financiero-de-400000-millones-a-otras-tres-provincias-nid18062026/",
-      "publishedAt": "Thu, 18 Jun 2026 06:44:11 +0000",
+      "title": "Quién es Martín Ruiz, el intendente de Pueblo Brugo agredido por un concejal",
+      "summary": "Llegó al gobierno local en 2019 y es el primer jefe comunal de la historia de la localidad tras ser declarado municipio",
+      "url": "https://www.lanacion.com.ar/politica/quien-es-martin-ruiz-el-intendente-de-pueblo-brugo-agredido-por-un-concejal-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 12:04:05 +0000",
       "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "7a5da647b6dbc027",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Rodríguez Larreta dijo que Adorni “tiene que tener un poco de dignidad y renunciar”",
-      "summary": "Para el ex jefe de Gobierno, el caso del funcionario mileísta es una “vergüenza” y expone las “contradicciones” del Gobierno",
-      "url": "https://www.lanacion.com.ar/politica/la-frase-explicita-de-rodriguez-larreta-sobre-la-situacion-de-adorni-tiene-que-tener-un-poco-de-nid17062026/",
-      "publishedAt": "Wed, 17 Jun 2026 22:36:20 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-rodriguez",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-quien",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "364d9b58386ed3a4",
@@ -534,7 +638,7 @@
       "politicalScore": 7,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-presidenta-costa",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -551,7 +655,7 @@
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-presidenta-fernandez",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -568,7 +672,7 @@
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-diputados-portan",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -585,7 +689,7 @@
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-asesores-colaboradores",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -602,59 +706,42 @@
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-kast",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "27ac6a7527d5fa38",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "El Gobierno mantiene el apoyo a Zapatero: “Hay tranquilidad. No hubo cautelares”",
-      "summary": "Sin respuestas todavía sobre las joyas, Sánchez traslada a su entorno la instrucción de que se conserva el respaldo al expresidente",
-      "url": "https://elpais.com/espana/2026-06-18/el-gobierno-mantiene-el-apoyo-a-zapatero-hay-tranquilidad-no-hubo-cautelares.html",
-      "publishedAt": "Thu, 18 Jun 2026 03:30:01 GMT",
+      "id": "ebc14673842f9529",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "46% desaprueba la gestión de Mario Bergara en la Intendencia de Montevideo, según Factum",
+      "summary": "El trabajo de la consultora registró una aprobación de 23% y un restante 30% que no aprueba ni desaprueba la actuación de la comuna capitalina. La consultora Factum divulgó en la tarde del miércoles una encuesta de aprobación de la gestión del intendente de Mo",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/46-desaprueba-la-gestion-de-mario-bergara-en-la-intendencia-de-montevideo-segun-factum/",
+      "publishedAt": "Thu, 18 Jun 2026 11:27:26 -0300",
       "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-mantiene",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-desaprueba-gestion",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
-      "id": "d22fb0d8fab5f7be",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Andreína Baduel denuncia ante el Congreso de Colombia la crisis de los presos políticos en Venezuela",
-      "summary": "Pidió mayor atención de la comunidad internacional y de Colombia para visibilizar estos casos",
-      "url": "https://efectococuyo.com/la-humanidad/andreina-baduel-denuncia-ante-el-congreso-de-colombia-la-crisis-de-los-presos-politicos-en-venezuela/",
-      "publishedAt": "Wed, 17 Jun 2026 16:40:04 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-andreina-baduel",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "e5394990c9dcd9a4",
+      "id": "7549081e0bfb09fe",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Media",
-      "title": "Nuevas medidas del fiscal: indaga sobre las operaciones de Adorni con criptomonedas y una compra de blanquería por $8 millones",
-      "summary": "Gerardo Pollicita solicitó una copia de la entrevista que dio el jefe de Gabinete en LN+ y ordenó medidas sobre su familia, sus antecedentes laborales, dos countries y las plataformas cripto que operaron en el país desde 2012",
-      "url": "https://www.lanacion.com.ar/politica/presunto-enriquecimiento-ilicito-el-fiscal-pone-la-lupa-sobre-las-nuevas-explicaciones-de-manuel-nid17062026/",
-      "publishedAt": "Thu, 18 Jun 2026 07:20:53 +0000",
+      "title": "El fiscal Marijuan pidió la indagatoria de Francisco Adorni, el hermano del jefe de Gabinete",
+      "summary": "Lo acusó del delito de “omisión maliciosa” porque consideró que hay pruebas suficientes para creer que falseó sus declaraciones juradas patrimoniales",
+      "url": "https://www.lanacion.com.ar/politica/el-fiscal-marijuan-pidio-la-indagatoria-de-francisco-adorni-el-hermano-del-jefe-de-gabinete-nid18062026/",
+      "publishedAt": "Thu, 18 Jun 2026 14:03:12 +0000",
       "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-nuevas",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscal",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "dc78f3c2f415efd8",
@@ -670,42 +757,59 @@
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-mantiene",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "6bb42ce2ead1bbbe",
+      "id": "b7c596a70bff844a",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Diosdado Cabello dice que el Tren de Aragua ya había sido &#8220;echado&#8221; de Venezuela",
+      "summary": "Aseguró que que de esa estructura criminal “solo quedaba un personaje”, en alusión a Héctor “Niño\" Guerrero",
+      "url": "https://efectococuyo.com/politica/diosdado-cabello-dice-que-el-tren-de-aragua-ya-habia-sido-echado-de-venezuela/",
+      "publishedAt": "Thu, 18 Jun 2026 14:01:19 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-diosdado-cabello",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6d57b66a5bda6a26",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Gobierno dice que suspensión de la ZUT del Cneb es “imposible&#8221; de cumplir",
-      "summary": "Un juzgado de Valle del Guamuez ordenó frenar las actividades tras una tutela presentada por el resguardo indígena Telar Luz del Amanecer. The post Gobierno dice que suspensión de la ZUT del Cneb es “imposible&#8221; de cumplir appeared first on La Silla Vacía",
-      "url": "https://www.lasillavacia.com/en-vivo/gobierno-dice-que-suspension-de-la-zut-del-cneb-es-de-imposible-cumplimiento/",
-      "publishedAt": "Wed, 17 Jun 2026 23:12:59 +0000",
+      "title": "Así sería la Colombia de Iván Cepeda",
+      "summary": "Hoy en el pódcast Huevos Revueltos con Política hablamos de cómo sería un eventual gobierno de Iván Cepeda. The post Así sería la Colombia de Iván Cepeda appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-seria-la-colombia-de-ivan-cepeda/",
+      "publishedAt": "Thu, 18 Jun 2026 12:00:00 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-dice",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-seria-ivan",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
-      "id": "ffe5cdebdf0c2ef0",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
+      "id": "a31d28a222c92858",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "En Bonn activistas ambientales piden que Colombia rechace el fracking",
-      "summary": "Activistas y líderes de comunidades indígenas afirmaron que la prohibición del fracking debe ser independiente de la contienda electoral. The post En Bonn activistas ambientales piden que Colombia rechace el fracking appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/en-bonn-activistas-ambientales-piden-que-colombia-rechace-el-fracking/",
-      "publishedAt": "Wed, 17 Jun 2026 22:49:23 +0000",
+      "title": "El Congreso aprobará a instancias del PSOE penas de hasta dos años de cárcel para quienes apliquen \"terapias de conversión\"",
+      "summary": "Sólo el PP y Vox han votado en contra del dictamen de la ley para modificar el Código Penal&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/06/18/6a33c5ece9cf4a8e258b459b.html",
+      "publishedAt": "Thu, 18 Jun 2026 12:54:55 +0200",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-bonn-activistas",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-congreso-aprobara",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "93f47c3656f81ee9",
@@ -721,8 +825,25 @@
       "politicalScore": 5,
       "eventKey": "venezuela-economia-politica-venezuela-economia-politica-funcionarios",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
+    },
+    {
+      "id": "1ab7be8b1e1d7497",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Tres horas de evasivas de Zapatero ante el juez: silencio con las joyas, no recuerda una cita clave y no usa Excel ni el 'email'",
+      "summary": "Múltiples fuentes presentes en el interrogatorio coinciden en que las explicaciones dadas por el ex presidente ante las preguntas de Calama fueron inconsistentes o vagas&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/06/17/6a32db1de4d4d8cc058b4584.html",
+      "publishedAt": "Wed, 17 Jun 2026 22:45:40 +0200",
+      "politicalScore": 5,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-tres-horas",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "ed76de39b3465c27",
@@ -737,26 +858,9 @@
       "publishedAt": "Wed, 17 Jun 2026 22:45:10 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-zapatero-comparecio",
-      "firstSeenAt": "2026-06-18T10:38:27.814Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 1
-    },
-    {
-      "id": "0237302d205b4d09",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Un tribunal de EE UU falla contra Bacardí en la disputa por Havana Club",
-      "summary": "La corte respalda la renovación del registro a favor de Cubaexport, aunque caduca este mismo mes",
-      "url": "https://www.14ymedio.com/cuba/bacardi-pierde-tribunales-disputa-cubaexport_1_1127888.html",
-      "publishedAt": "Wed, 17 Jun 2026 15:14:12 +0000",
-      "politicalScore": 5,
-      "eventKey": "cuba-instituciones-cuba-instituciones-tribunal-falla",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
     },
     {
       "id": "c9ed3e3212e7c77d",
@@ -772,24 +876,75 @@
       "politicalScore": 5,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-hija-vicepresidente",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "adf89d41095dcc53",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "id": "0e538fe169cbcff0",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "Jorge Macri y LLA buscan desregular las VTV en la Ciudad, un negocio que concentran empresarios bajo la mira judicial",
-      "summary": "Esperan aprobar en la Legislatura porteña un proyecto para ampliar los plazos de revisión y abrir el servicio a talleres privados; los nombres detrás de las plantas habilitadas hasta ahora y la investigación en su contra",
-      "url": "https://www.lanacion.com.ar/politica/jorge-macri-y-lla-buscan-desregular-las-vtv-en-la-ciudad-un-negocio-que-concentran-empresarios-bajo-nid18062026/",
-      "publishedAt": "Thu, 18 Jun 2026 09:00:00 +0000",
+      "title": "El acuerdo sin foto, el tuit corregido y el canciller lesionado detrás el pacto EE.UU.-Irán",
+      "summary": "El acuerdo alcanzado entre Estados Unidos e Irán para empezar a poner fin a la guerra no dejó apretón de manos, foto solemne ni firma en una sala con banderas. Llegó con un memorando a distancia, una ceremonia en Suiza que desapareció de un anuncio oficial y u",
+      "url": "https://confidencial.digital/mundo/el-acuerdo-sin-foto-el-tuit-corregido-y-el-canciller-lesionado-detras-el-pacto-ee-uu-iran/",
+      "publishedAt": "Thu, 18 Jun 2026 14:00:00 +0000",
       "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-jorge",
-      "firstSeenAt": "2026-06-18T10:38:27.814Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-acuerdo-foto",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "31e62dc71b34ca07",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Cepeda en RCN: Acuerdo Nacional, debates y acusaciones de De la Espriella",
+      "summary": "El candidato se refirió a las denuncias de De la Espriella sobre una supuesta operación de compra de votos. Le volvió a cerrar la puerta a la Constituyente. The post Cepeda en RCN: Acuerdo Nacional, debates y acusaciones de De la Espriella appeared first on La",
+      "url": "https://www.lasillavacia.com/en-vivo/cepeda-en-rcn-acuerdo-nacional-debates-y-acusaciones-de-de-la-espriella/",
+      "publishedAt": "Thu, 18 Jun 2026 13:28:44 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-cepeda-acuerdo",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0d544a425c781c0b",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Los herederos de Rafael del Pino apuntan a bienes del Estado cubano en España para cobrar una indemnización",
+      "summary": "Una corte de EE UU condenó a La Habana a pagar 628 millones de dólares a la familia del ex piloto asesinado en el Combinado del Este en 1977",
+      "url": "https://www.14ymedio.com/cuba/herederos-rafael-pino-apuntan-bienes_1_1127912.html",
+      "publishedAt": "Thu, 18 Jun 2026 13:11:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-instituciones-cuba-instituciones-herederos-rafael",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "76dd529cb2af5ce3",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Honrar la memoria de Roberto Samcam",
+      "summary": "Cuando nací, en 1972, la dictadura somocista tenía 36 años en el poder. Nicaragua ya cargaba una historia de resistencias, silencios y heridas acumuladas. Roberto participaba activamente en esa resistencia y, para 1979, ya había sido correo, y había conocido l",
+      "url": "https://confidencial.digital/opinion/honrar-la-memoria-de-roberto-samcam/",
+      "publishedAt": "Thu, 18 Jun 2026 10:53:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-honrar-memoria",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 1
     },
     {
@@ -806,24 +961,7 @@
       "politicalScore": 4,
       "eventKey": "colombia-elecciones-colombia-elecciones-duerma-informado",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "55ae0943088e676c",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Eso no se hace: Benedetti a Carrillo por advertencia de protestas",
-      "summary": "El exdirector de Gestión de Riesgo dijo en una entrevista que una victoria de Abelardo de la Espriella “incendiaría” al país. El MinInterior advirtió que la alerta “es un error”. The post Eso no se hace: Benedetti a Carrillo por advertencia de protestas appear",
-      "url": "https://www.lasillavacia.com/en-vivo/eso-no-se-hace-benedetti-a-carrillo-por-advertencia-de-protestas/",
-      "publishedAt": "Wed, 17 Jun 2026 21:51:15 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-hace-benedetti",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -840,25 +978,42 @@
       "politicalScore": 4,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-miedo-debe",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
-      "id": "9e39971dfeb2974c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "1e482d658b0aee62",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
       "priority": "Media",
-      "title": "La frase de Laura Fernández sobre Nicaragua",
-      "summary": "Hay palabras que trascienden la política y terminan convirtiéndose en una prueba moral. Las declaraciones de la&#160;presidenta costarricense&#160;Laura Fernández sobre Nicaragua son una de ellas. Al afirmar, el pasado 13 de junio en NTN24, que los nicaragüens",
-      "url": "https://confidencial.digital/opinion/la-frase-de-laura-fernandez-sobre-nicaragua/",
-      "publishedAt": "Tue, 16 Jun 2026 14:33:49 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-frase-laura",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
+      "title": "La Eurocámara pide suspender el acuerdo político con Cuba si no hay una \"transición a corto plazo\"",
+      "summary": "La resolución vuelve a pedir sanciones a las autoridades cubanas y la libertad de los presos políticos, así como que los cubanos lideren los cambios, pero la decisión es de la Comisión",
+      "url": "https://www.14ymedio.com/cuba/eurocamara-pide-suspender-acuerdo-politico_1_1127914.html",
+      "publishedAt": "Thu, 18 Jun 2026 14:07:44 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-diplomacia-cuba-diplomacia-eurocamara-pide",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
+    },
+    {
+      "id": "373862105c67aa42",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El dólar oficial en Venezuela supera la barrera de los 600 bolívares",
+      "summary": "El Banco Central de Venezuela (BCV) ubicó el tipo de cambio referencial para la jornada en 602,33 bolívares",
+      "url": "https://efectococuyo.com/economia/el-dolar-oficial-en-venezuela-supera-la-barrera-de-los-600-bolivares/",
+      "publishedAt": "Thu, 18 Jun 2026 13:27:04 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-dolar",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
+      "seenCount": 1
     },
     {
       "id": "5e3c9eaeabe8aca4",
@@ -873,8 +1028,8 @@
       "publishedAt": "Thu, 18 Jun 2026 10:28:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-regimen-utiliza",
-      "firstSeenAt": "2026-06-18T10:38:27.814Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "firstSeenAt": "2026-06-18T15:37:24.540Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 1
     },
     {
@@ -891,7 +1046,7 @@
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-lenguaje-memoria",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -908,7 +1063,7 @@
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-despejemos-ruta",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -925,7 +1080,7 @@
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-bengochea-profesor",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -942,24 +1097,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-querella-clinica",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
-      "seenCount": 3
-    },
-    {
-      "id": "5eeff09d85ed75a6",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "La Eurocámara votará si exige suspender el acuerdo con Cuba ante la falta de avances democráticos",
-      "summary": "La propuesta reclama la liberación de los presos políticos, sanciones contra Díaz-Canel y garantías para el regreso de los exiliados",
-      "url": "https://www.14ymedio.com/internacional/eurocamara-votara-si-exige-suspender_1_1127893.html",
-      "publishedAt": "Wed, 17 Jun 2026 19:09:39 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-diplomacia-cuba-diplomacia-eurocamara-votara",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -976,7 +1114,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-2024-2026",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -993,7 +1131,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-camiseta-incomodo",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1010,7 +1148,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-bancarrota-hidrica",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1027,7 +1165,7 @@
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-guerra-iran",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1044,7 +1182,7 @@
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-salud-deteriorado",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1061,7 +1199,7 @@
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-apoyo-google",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1078,7 +1216,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cancer-prostata",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1095,7 +1233,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-realmente-inclusivo",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1112,7 +1250,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tarifas-electricas",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     },
     {
@@ -1129,7 +1267,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-espada-damocles",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-18T10:38:27.814Z",
+      "lastSeenAt": "2026-06-18T15:37:24.540Z",
       "seenCount": 3
     }
   ]
