@@ -21,14 +21,14 @@ const priorities = ["Todas", "Alta", "Media"];
 const dateRanges = [
   { label: "Todas", hours: null },
   { label: "24 h", hours: 24 },
-  { label: "3 días", hours: 72 },
-  { label: "7 días", hours: 168 },
-  { label: "30 días", hours: 720 },
+  { label: "3 dias", hours: 72 },
+  { label: "7 dias", hours: 168 },
+  { label: "30 dias", hours: 720 },
 ];
 const heroImage = require("../assets/geopol-hero.png");
 
 function normalizeText(value) {
-  return value
+  return String(value ?? "")
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "");
@@ -71,6 +71,41 @@ function formatSignalDate(item) {
   }).format(new Date(timestamp));
 }
 
+function buildFallbackBriefings(signalData) {
+  const byCountry = new Map();
+
+  for (const signal of signalData) {
+    if (!byCountry.has(signal.country)) {
+      byCountry.set(signal.country, []);
+    }
+    byCountry.get(signal.country).push(signal);
+  }
+
+  return [...byCountry.entries()].map(([country, countrySignals]) => {
+    const lead = countrySignals[0];
+    return {
+      country,
+      priority: countrySignals.some((signal) => signal.priority === "Alta") ? "Alta" : "Media",
+      leadTitle: lead.title,
+      leadUrl: lead.url,
+      focusTopics: [...new Set(countrySignals.map((signal) => signal.topic))].slice(0, 3),
+      topSources: [...new Set(countrySignals.map((signal) => signal.source))].slice(0, 3),
+      signalCount: countrySignals.length,
+      summary: `Foco en ${[...new Set(countrySignals.map((signal) => signal.topic))].slice(0, 2).join(", ")}.`,
+    };
+  });
+}
+
+function buildFallbackStats(signalData) {
+  return {
+    activeSignals: signalData.length,
+    archiveSignals: signalData.length,
+    countriesCovered: new Set(signalData.map((signal) => signal.country)).size,
+    highPrioritySignals: signalData.filter((signal) => signal.priority === "Alta").length,
+    averagePoliticalScore: null,
+  };
+}
+
 export default function App() {
   const [country, setCountry] = useState("Todos");
   const [topic, setTopic] = useState("Todos");
@@ -79,6 +114,8 @@ export default function App() {
   const [query, setQuery] = useState("");
   const [watchIds, setWatchIds] = useState(new Set());
   const [signalData, setSignalData] = useState(signals);
+  const [briefings, setBriefings] = useState(buildFallbackBriefings(signals));
+  const [stats, setStats] = useState(buildFallbackStats(signals));
   const [feedNotice, setFeedNotice] = useState("");
   const [generatedAt, setGeneratedAt] = useState(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
@@ -122,11 +159,12 @@ export default function App() {
 
   const metrics = useMemo(
     () => ({
-      countries: sourcesByCountry.length,
+      countries: stats?.countriesCovered ?? sourcesByCountry.length,
       sources: sourcesByCountry.reduce((total, item) => total + item.sources.length, 0),
-      alerts: signalData.filter((item) => item.priority === "Alta").length,
+      alerts: stats?.highPrioritySignals ?? signalData.filter((item) => item.priority === "Alta").length,
+      archive: stats?.archiveSignals ?? signalData.length,
     }),
-    [signalData]
+    [signalData, stats]
   );
 
   const updatedAt = useMemo(
@@ -138,13 +176,18 @@ export default function App() {
     setIsRefreshing(true);
     try {
       const payload = await loadSignals();
-      setSignalData(payload.signals);
+      const nextSignals = payload.signals;
+      setSignalData(nextSignals);
+      setBriefings(payload.briefings?.length ? payload.briefings : buildFallbackBriefings(nextSignals));
+      setStats(payload.stats ?? buildFallbackStats(nextSignals));
       setGeneratedAt(payload.generatedAt ?? null);
       setFeedNotice(
         payload.source === "api" && payload.generatedAt ? `API: ${formatTimestamp(payload.generatedAt)}` : "Modo demo"
       );
     } catch (error) {
       setSignalData(signals);
+      setBriefings(buildFallbackBriefings(signals));
+      setStats(buildFallbackStats(signals));
       setGeneratedAt(null);
       setFeedNotice(`API no disponible (${error.message}); usando demo`);
     } finally {
@@ -177,31 +220,23 @@ export default function App() {
       >
         <Header />
         <Hero isTablet={isTablet} metrics={metrics} />
+        <BriefingsBand briefings={briefings} isTablet={isTablet} stats={stats} />
 
         <View style={styles.section}>
-          <SectionHeader
-            eyebrow="Monitor de análisis"
-            meta={feedNotice || `Actualizado: ${updatedAt}`}
-            title="Señales políticas priorizadas"
-          />
+          <SectionHeader eyebrow="Monitor de analisis" meta={feedNotice || `Actualizado: ${updatedAt}`} title="Senales politicas priorizadas" />
           {API_URL ? <Text style={styles.apiHint}>Endpoint: {API_URL}</Text> : null}
 
           <TextInput
             value={query}
             onChangeText={setQuery}
-            placeholder="Buscar país, tema o fuente"
+            placeholder="Buscar pais, tema o fuente"
             placeholderTextColor="#7f8984"
             style={styles.searchInput}
           />
 
-          <FilterRail label="País" options={countries} selected={country} onSelect={setCountry} />
+          <FilterRail label="Pais" options={countries} selected={country} onSelect={setCountry} />
           <FilterRail label="Tema" options={topics} selected={topic} onSelect={setTopic} />
-          <FilterRail
-            label="Fecha"
-            options={dateRanges.map((item) => item.label)}
-            selected={dateRange}
-            onSelect={setDateRange}
-          />
+          <FilterRail label="Fecha" options={dateRanges.map((item) => item.label)} selected={dateRange} onSelect={setDateRange} />
           <Segmented options={priorities} selected={priority} onSelect={setPriority} />
 
           <View style={[styles.monitorLayout, isTablet && styles.monitorLayoutWide]}>
@@ -217,11 +252,11 @@ export default function App() {
                   />
                 ))
               ) : (
-                <EmptyState text="No hay señales con esos filtros." />
+                <EmptyState text="No hay senales con esos filtros." />
               )}
             </View>
 
-            <Briefing watchedSignals={watchedSignals} />
+            <BriefingQueue watchedSignals={watchedSignals} />
           </View>
         </View>
 
@@ -231,7 +266,7 @@ export default function App() {
 
         <View style={styles.footer}>
           <Text style={styles.footerBrand}>GeoPol Inteligencia</Text>
-          <Text style={styles.footerText}>Portal base para agregación RSS/API y revisión analítica.</Text>
+          <Text style={styles.footerText}>Portal base para agregacion RSS/API y revision analitica.</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
@@ -246,7 +281,7 @@ function Header() {
       </View>
       <View style={styles.brandCopy}>
         <Text style={styles.brandTitle}>GeoPol Inteligencia</Text>
-        <Text style={styles.brandSubtitle}>Monitor político iberoamericano</Text>
+        <Text style={styles.brandSubtitle}>Monitor politico iberoamericano</Text>
       </View>
     </View>
   );
@@ -259,10 +294,10 @@ function Hero({ isTablet, metrics }) {
       <View style={styles.heroOverlay} />
       <View style={[styles.heroContent, isTablet && styles.heroContentWide]}>
         <View style={styles.heroCopy}>
-          <Text style={styles.eyebrow}>España e Hispanoamérica</Text>
+          <Text style={styles.eyebrow}>Espana e Hispanoamerica</Text>
           <Text style={[styles.heroTitle, isTablet && styles.heroTitleWide]}>GeoPol Inteligencia</Text>
           <Text style={styles.lede}>
-            Un tablero operativo para seguir señales políticas, comparar fuentes por país y priorizar cambios de poder,
+            Un tablero operativo para seguir senales politicas, comparar fuentes por pais y priorizar cambios de poder,
             elecciones, reformas, seguridad y diplomacia regional.
           </Text>
         </View>
@@ -270,12 +305,13 @@ function Hero({ isTablet, metrics }) {
         <View style={styles.commandPanel}>
           <View style={styles.panelHeader}>
             <View style={styles.liveDot} />
-            <Text style={styles.panelHeaderText}>Centro de situación</Text>
+            <Text style={styles.panelHeaderText}>Centro de situacion</Text>
           </View>
           <View style={styles.metrics}>
-            <Metric value={metrics.countries} label="países" />
+            <Metric value={metrics.countries} label="paises" />
             <Metric value={metrics.sources} label="fuentes" />
-            <Metric value={metrics.alerts} label="prioridad alta" />
+            <Metric value={metrics.alerts} label="alertas" />
+            <Metric value={metrics.archive} label="historico" />
           </View>
           <View style={styles.signalStrip}>
             {["Gobernabilidad", "Elecciones", "Seguridad", "Diplomacia"].map((item) => (
@@ -283,6 +319,40 @@ function Hero({ isTablet, metrics }) {
             ))}
           </View>
         </View>
+      </View>
+    </View>
+  );
+}
+
+function BriefingsBand({ briefings, isTablet, stats }) {
+  const featured = briefings.slice(0, isTablet ? 4 : 3);
+
+  return (
+    <View style={styles.coverageBand}>
+      <SectionHeader
+        eyebrow="Panorama regional"
+        meta={stats?.averagePoliticalScore ? `Score medio: ${stats.averagePoliticalScore}` : undefined}
+        title="Briefings por pais"
+      />
+      <View style={[styles.methodGrid, isTablet && styles.sourceDirectoryWide]}>
+        {featured.map((briefing) => (
+          <Pressable key={briefing.country} onPress={() => Linking.openURL(briefing.leadUrl)} style={styles.methodCard}>
+            <View style={styles.briefingMetaLine}>
+              <Text style={[styles.priority, briefing.priority === "Alta" ? styles.priorityHigh : styles.priorityMedium]}>
+                {briefing.priority}
+              </Text>
+              <Tag>{briefing.country}</Tag>
+              <Tag>{briefing.signalCount} senales</Tag>
+            </View>
+            <Text style={styles.methodTitle}>{briefing.leadTitle}</Text>
+            <Text style={styles.methodText}>{briefing.summary}</Text>
+            <View style={styles.signalStrip}>
+              {briefing.focusTopics.map((topic) => (
+                <Tag key={`${briefing.country}-${topic}`}>{topic}</Tag>
+              ))}
+            </View>
+          </Pressable>
+        ))}
       </View>
     </View>
   );
@@ -296,15 +366,17 @@ function SignalCard({ index, isWatching, item, onToggle }) {
           <Text style={styles.rankText}>{String(index + 1).padStart(2, "0")}</Text>
         </View>
         <View style={styles.metaLine}>
-          <Text style={[styles.priority, item.priority === "Alta" ? styles.priorityHigh : styles.priorityMedium]}>
-            {item.priority}
-          </Text>
+          <Text style={[styles.priority, item.priority === "Alta" ? styles.priorityHigh : styles.priorityMedium]}>{item.priority}</Text>
           <Tag>{item.country}</Tag>
           <Tag>{item.source}</Tag>
           <Tag>{item.topic}</Tag>
+          {item.politicalScore ? <Tag>Score {item.politicalScore}</Tag> : null}
         </View>
       </View>
-      {item.publishedAt ? <Text style={styles.cardDate}>{formatSignalDate(item)}</Text> : null}
+      <View style={styles.cardMetaRow}>
+        {item.publishedAt ? <Text style={styles.cardDate}>{formatSignalDate(item)}</Text> : <View />}
+        {item.seenCount ? <Text style={styles.cardDate}>Vistas en ingestas: {item.seenCount}</Text> : null}
+      </View>
       <Text style={styles.cardTitle}>{item.title}</Text>
       <Text style={styles.cardSummary}>{item.summary}</Text>
       <View style={styles.cardActions}>
@@ -319,7 +391,7 @@ function SignalCard({ index, isWatching, item, onToggle }) {
   );
 }
 
-function Briefing({ watchedSignals }) {
+function BriefingQueue({ watchedSignals }) {
   return (
     <View style={styles.briefing}>
       <Text style={styles.sideTitle}>Cola del analista</Text>
@@ -331,12 +403,12 @@ function Briefing({ watchedSignals }) {
                 {item.country}: {item.topic}
               </Text>
               <Text style={styles.watchMeta}>
-                {item.source} - {item.priority}
+                {item.source} · {item.priority}
               </Text>
             </View>
           ))
         ) : (
-          <EmptyState text="Marca señales para seguimiento." />
+          <EmptyState text="Marca senales para seguimiento." />
         )}
       </View>
     </View>
@@ -346,7 +418,7 @@ function Briefing({ watchedSignals }) {
 function Coverage({ isTablet, signalData }) {
   return (
     <View style={styles.coverageBand}>
-      <SectionHeader eyebrow="Cobertura territorial" title="Mapa operativo de países" />
+      <SectionHeader eyebrow="Cobertura territorial" title="Mapa operativo de paises" />
       <View style={[styles.countryGrid, isTablet && styles.countryGridWide]}>
         {sourcesByCountry.map((item) => {
           const activeSignals = signalData.filter((signal) => signal.country === item.country);
@@ -360,7 +432,7 @@ function Coverage({ isTablet, signalData }) {
                 <Text style={styles.tileMeta}>{item.sources.length} fuentes</Text>
               </View>
               <View style={styles.tileRow}>
-                <Text style={styles.tileMeta}>{activeSignals.length} señales</Text>
+                <Text style={styles.tileMeta}>{activeSignals.length} senales</Text>
                 <Text style={styles.tileMeta}>{score}%</Text>
               </View>
               <View style={styles.bar}>
@@ -377,7 +449,7 @@ function Coverage({ isTablet, signalData }) {
 function Sources({ isTablet }) {
   return (
     <View style={styles.section}>
-      <SectionHeader eyebrow="Directorio editorial" title="Fuentes políticas por país" />
+      <SectionHeader eyebrow="Directorio editorial" title="Fuentes politicas por pais" />
       <View style={[styles.sourceDirectory, isTablet && styles.sourceDirectoryWide]}>
         {sourcesByCountry.map((country) => (
           <View style={[styles.sourceCard, isTablet && styles.sourceCardWide]} key={country.country}>
@@ -405,22 +477,22 @@ function Sources({ isTablet }) {
 function Method({ isTablet }) {
   return (
     <View style={styles.section}>
-      <SectionHeader eyebrow="Método" title="Criterios de seguimiento" />
+      <SectionHeader eyebrow="Metodo" title="Criterios de seguimiento" />
       <View style={[styles.methodGrid, isTablet && styles.methodGridWide]}>
         <MethodCard
           number="01"
-          text="Priorización de cambios con impacto en gobiernos, congresos, tribunales, partidos y órganos electorales."
+          text="Priorizacion de cambios con impacto en gobiernos, congresos, tribunales, partidos y organos electorales."
           title="Relevancia institucional"
         />
         <MethodCard
           number="02"
-          text="Lectura cruzada entre prensa nacional, medios de investigación, portales económicos y fuentes regionales."
+          text="Lectura cruzada entre prensa nacional, medios de investigacion, portales economicos y fuentes regionales."
           title="Contraste regional"
         />
         <MethodCard
           number="03"
-          text="Clasificación por estabilidad, conflictividad, agenda legislativa, seguridad pública y alineamientos exteriores."
-          title="Riesgo político"
+          text="Ranking por prioridad, score politico, persistencia en el tiempo e historial acumulado."
+          title="Persistencia analitica"
         />
       </View>
     </View>
@@ -563,14 +635,14 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     flex: 1,
     gap: 18,
-    maxWidth: 420,
+    maxWidth: 480,
     padding: 20,
   },
   panelHeader: { alignItems: "center", flexDirection: "row", gap: 10 },
   liveDot: { backgroundColor: colors.teal, borderRadius: 99, height: 9, width: 9 },
   panelHeaderText: { color: colors.muted, fontSize: 13 },
-  metrics: { flexDirection: "row", gap: 10 },
-  metric: { borderLeftColor: colors.line, borderLeftWidth: 1, flex: 1, paddingLeft: 12 },
+  metrics: { flexDirection: "row", flexWrap: "wrap", gap: 10 },
+  metric: { borderLeftColor: colors.line, borderLeftWidth: 1, flexGrow: 1, minWidth: 96, paddingLeft: 12 },
   metricValue: { color: colors.ink, fontSize: 34, fontWeight: "900", lineHeight: 38 },
   metricLabel: { color: colors.muted, fontSize: 12 },
   signalStrip: { flexDirection: "row", flexWrap: "wrap", gap: 8 },
@@ -629,6 +701,7 @@ const styles = StyleSheet.create({
   feedColumn: { flex: 1, gap: 12 },
   newsCard: { backgroundColor: "rgba(23, 27, 25, 0.88)", borderColor: colors.line, borderWidth: 1, gap: 12, padding: 16 },
   cardTopline: { alignItems: "flex-start", flexDirection: "row", gap: 10 },
+  cardMetaRow: { alignItems: "center", flexDirection: "row", justifyContent: "space-between" },
   rank: {
     alignItems: "center",
     borderColor: "rgba(246, 244, 238, 0.18)",
@@ -639,6 +712,7 @@ const styles = StyleSheet.create({
   },
   rankText: { color: colors.muted, fontWeight: "900" },
   metaLine: { flex: 1, flexDirection: "row", flexWrap: "wrap", gap: 7 },
+  briefingMetaLine: { flexDirection: "row", flexWrap: "wrap", gap: 7, marginBottom: 12 },
   tag: {
     backgroundColor: "rgba(246, 244, 238, 0.06)",
     borderColor: colors.line,
@@ -650,7 +724,7 @@ const styles = StyleSheet.create({
   priority: { borderWidth: 1, fontSize: 12, fontWeight: "900", paddingHorizontal: 8, paddingVertical: 6 },
   priorityHigh: { borderColor: "rgba(212, 91, 79, 0.54)", color: "#ffc9c3" },
   priorityMedium: { borderColor: "rgba(214, 166, 71, 0.5)", color: "#ffe0a0" },
-  cardDate: { color: colors.muted, fontSize: 12, marginTop: -2 },
+  cardDate: { color: colors.muted, fontSize: 12 },
   cardTitle: { color: colors.ink, fontSize: 19, fontWeight: "900", lineHeight: 23 },
   cardSummary: { color: colors.soft, fontSize: 14, lineHeight: 21 },
   cardActions: { flexDirection: "row", gap: 8 },

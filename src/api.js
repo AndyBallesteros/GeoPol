@@ -15,7 +15,9 @@ export async function loadSignals() {
   if (!API_URL) {
     return {
       generatedAt: null,
+      briefings: [],
       signals: fallbackSignals,
+      stats: null,
       source: "fallback",
     };
   }
@@ -29,8 +31,10 @@ export async function loadSignals() {
   const payload = await response.json();
 
   return {
+    briefings: Array.isArray(payload.briefings) ? payload.briefings : [],
     generatedAt: payload.generatedAt ?? null,
     signals: Array.isArray(payload.signals) ? payload.signals : fallbackSignals,
+    stats: payload.stats ?? null,
     source: "api",
   };
 }

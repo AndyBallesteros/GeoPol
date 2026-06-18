@@ -6,6 +6,7 @@ import { ingest } from "./ingest.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const dataPath = join(__dirname, "..", "data", "signals.json");
+const archivePath = join(__dirname, "..", "data", "signals-archive.json");
 const port = Number(process.env.PORT ?? 8787);
 const host = process.env.HOST ?? "0.0.0.0";
 const refreshIntervalMinutes = Number(process.env.REFRESH_INTERVAL_MINUTES ?? 360);
@@ -24,6 +25,10 @@ async function refreshSignals() {
 
 async function readSignalsFile() {
   return JSON.parse(await readFile(dataPath, "utf8"));
+}
+
+async function readArchiveFile() {
+  return JSON.parse(await readFile(archivePath, "utf8"));
 }
 
 async function readSignals() {
@@ -77,6 +82,11 @@ createServer(async (request, response) => {
 
     if (request.url === "/signals") {
       sendJson(response, 200, await readSignals());
+      return;
+    }
+
+    if (request.url === "/archive") {
+      sendJson(response, 200, await readArchiveFile());
       return;
     }
 
