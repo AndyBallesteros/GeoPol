@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-20T04:09:26.821Z",
-  "count": 72,
+  "generatedAt": "2026-06-20T09:26:17.401Z",
+  "count": 68,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-06-20T04:09:26.821Z",
-    "activeSignals": 72,
-    "archiveSignals": 123,
+    "generatedAt": "2026-06-20T09:26:17.401Z",
+    "activeSignals": 68,
+    "archiveSignals": 120,
     "countriesCovered": 9,
-    "highPrioritySignals": 28,
-    "averagePoliticalScore": 6.03
+    "highPrioritySignals": 26,
+    "averagePoliticalScore": 5.84
   },
   "briefings": [
     {
@@ -49,13 +49,13 @@
       "focusTopics": [
         "Economia politica",
         "Seguridad",
-        "Diplomacia"
+        "Instituciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 12,
-      "summary": "Foco en Economia politica, Seguridad, Diplomacia. Vigilar Confidencial y Confidencial."
+      "signalCount": 11,
+      "summary": "Foco en Economia politica, Seguridad, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Colombia",
@@ -88,21 +88,6 @@
       "summary": "Foco en Economia politica, Elecciones. Vigilar El Mundo y El Mundo."
     },
     {
-      "country": "Uruguay",
-      "priority": "Alta",
-      "leadTitle": "Interpelación a Oddone el lunes en el Senado: ¿qué opinan los especialistas sobre los temas que se discutirán?",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/6/interpelacion-a-oddone-el-lunes-en-el-senado-que-opinan-los-especialistas-sobre-los-temas-que-se-discutiran/",
-      "focusTopics": [
-        "Economia politica",
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Diaria"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
-    },
-    {
       "country": "Venezuela",
       "priority": "Alta",
       "leadTitle": "MPV califica de “muy positivas” las reuniones de Dinorah Figuera con gobierno interino y EEUU",
@@ -117,19 +102,33 @@
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
+      "country": "Uruguay",
+      "priority": "Alta",
+      "leadTitle": "Interpelación a Oddone el lunes en el Senado: ¿qué opinan los especialistas sobre los temas que se discutirán?",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/6/interpelacion-a-oddone-el-lunes-en-el-senado-que-opinan-los-especialistas-sobre-los-temas-que-se-discutiran/",
+      "focusTopics": [
+        "Economia politica",
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Diaria"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
       "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Congreso 2026: quiénes son los diputados y senadores elegidos | Especial interactivo",
-      "leadUrl": "https://elcomercio.pe/politica/elecciones/congreso-2026-perfil-diputados-senadores-hojas-de-vida-especial-interactivo-especdis-narp-noticia/",
+      "leadTitle": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
+      "leadUrl": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
       "focusTopics": [
-        "Gobernabilidad",
         "Elecciones"
       ],
       "topSources": [
         "El Comercio"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Comercio y El Comercio."
+      "signalCount": 1,
+      "summary": "Foco en Elecciones. Vigilar El Comercio."
     },
     {
       "country": "Cuba",
@@ -148,23 +147,6 @@
   ],
   "signals": [
     {
-      "id": "4c2c51e2287111aa",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Congreso 2026: quiénes son los diputados y senadores elegidos | Especial interactivo",
-      "summary": "Explora quiénes integrarán el Congreso bicameral 2026-2031. Revisa las hojas de vida, perfiles, experiencia política, bancadas y distribución regional de los diputados y senadores elegidos.",
-      "url": "https://elcomercio.pe/politica/elecciones/congreso-2026-perfil-diputados-senadores-hojas-de-vida-especial-interactivo-especdis-narp-noticia/",
-      "publishedAt": "Thu, 18 Jun 2026 14:57:14 +0000",
-      "politicalScore": 22,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-congreso-2026",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 1
-    },
-    {
       "id": "3de794193ed5af83",
       "country": "Espana",
       "source": "El Mundo",
@@ -177,8 +159,8 @@
       "publishedAt": "Fri, 19 Jun 2026 15:16:14 +0200",
       "politicalScore": 13,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscal",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -194,8 +176,8 @@
       "publishedAt": "Fri, 19 Jun 2026 20:09:57 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -211,8 +193,8 @@
       "publishedAt": "Fri, 19 Jun 2026 14:38:24 +0200",
       "politicalScore": 12,
       "eventKey": "espana-elecciones-espana-elecciones-congreso-votara",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -228,8 +210,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:23:40 -0300",
       "politicalScore": 11,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-interpelacion",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -245,8 +227,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:04:07 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-bullrich",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -262,8 +244,8 @@
       "publishedAt": "Fri, 19 Jun 2026 21:00:39 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobernador",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -276,11 +258,11 @@
       "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
       "summary": "Ultima actualizacion de El Comercio.",
       "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
-      "publishedAt": "Sat, 20 Jun 2026 04:00:59 +0000",
+      "publishedAt": "Sat, 20 Jun 2026 09:20:59 +0000",
       "politicalScore": 10,
       "eventKey": "peru-elecciones-peru-elecciones-cual-cantidad",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 3
     },
     {
@@ -296,8 +278,8 @@
       "publishedAt": "Fri, 19 Jun 2026 14:49:52 +0200",
       "politicalScore": 10,
       "eventKey": "espana-economia-politica-espana-economia-politica-peinado",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -313,8 +295,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:23:38 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-izquierda-debe",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -330,8 +312,8 @@
       "publishedAt": "Sat, 20 Jun 2026 02:47:28 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santiago",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -347,8 +329,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:14:27 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-seguridad-colombia-seguridad-segunda-vuelta",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -364,8 +346,8 @@
       "publishedAt": "Fri, 19 Jun 2026 22:03:36 +0000",
       "politicalScore": 9,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-califica-positivas",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -381,8 +363,8 @@
       "publishedAt": "Fri, 19 Jun 2026 21:08:31 +0000",
       "politicalScore": 9,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-estos-exdiputados",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -398,8 +380,8 @@
       "publishedAt": "Fri, 19 Jun 2026 20:56:10 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sumo",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -415,8 +397,8 @@
       "publishedAt": "Fri, 19 Jun 2026 20:20:30 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-primer",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -433,7 +415,7 @@
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-banco",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 3
     },
     {
@@ -449,8 +431,8 @@
       "publishedAt": "Sat, 20 Jun 2026 03:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-zapatero-defendio",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -466,8 +448,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:59:37 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-indagatoria-martha",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -483,8 +465,25 @@
       "publishedAt": "Fri, 19 Jun 2026 19:55:09 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-libertad",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6c672039bef17f89",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Una designación pensada para remediar un problema urgente, que conforma a “celestiales” y “territoriales”",
+      "summary": "La decisión la tomó el Presidente y se anunció tras un encuentro con Adorni que se extendió por casi seis horas; los mensajes de apoyo y la perspectiva a futuro",
+      "url": "https://www.lanacion.com.ar/politica/una-designacion-pensada-para-remediar-un-problema-urgente-que-conforma-a-celestiales-y-territoriales-nid19062026/",
+      "publishedAt": "Sat, 20 Jun 2026 06:32:32 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-designacion",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -500,8 +499,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:29:11 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -517,25 +516,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:38:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-manuel",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6c672039bef17f89",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Una designación pensada para remediar un problema urgente, que conforma a “celestiales” y “territoriales”",
-      "summary": "La decisión la tomó el Presidente y se anunció tras un encuentro con Adorni que se extendió por casi seis horas; los mensajes de apoyo y la perspectiva a futuro",
-      "url": "https://www.lanacion.com.ar/politica/una-designacion-pensada-para-remediar-un-problema-urgente-que-conforma-a-celestiales-y-territoriales-nid19062026/",
-      "publishedAt": "Fri, 19 Jun 2026 20:43:23 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-designacion",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -551,26 +533,9 @@
       "publishedAt": "Fri, 19 Jun 2026 18:40:44 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-ordenan-transferir",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
-    },
-    {
-      "id": "364d9b58386ed3a4",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Presidenta de Costa Rica quiere relación “fraternal” con Nicaragua en comercio y fronteras",
-      "summary": "La presidenta de Costa Rica, Laura Fernández, dijo el miércoles 17 de junio de 2026 que le interesa mantener con Nicaragua una relación “fraternal” en comercio y fronteras, y afirmó que unas recientes declaraciones suyas sobre el país vecino fueron sacadas de ",
-      "url": "https://confidencial.digital/politica/presidenta-de-costa-rica-quiere-relacion-fraternal-con-nicaragua-en-comercio-y-fronteras/",
-      "publishedAt": "Wed, 17 Jun 2026 21:58:52 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-presidenta-costa",
-      "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 3
     },
     {
       "id": "6ed6350be9c7dbad",
@@ -585,8 +550,8 @@
       "publishedAt": "Sat, 20 Jun 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-socios",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -602,8 +567,8 @@
       "publishedAt": "Thu, 18 Jun 2026 16:33:15 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cometio-violaciones",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -619,8 +584,8 @@
       "publishedAt": "Fri, 19 Jun 2026 06:08:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-cuba",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -636,8 +601,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:24:44 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-luis",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -653,8 +618,8 @@
       "publishedAt": "Fri, 19 Jun 2026 00:36:08 +0000",
       "politicalScore": 6,
       "eventKey": "chile-elecciones-chile-elecciones-kast-convoca",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -670,8 +635,8 @@
       "publishedAt": "Thu, 18 Jun 2026 23:04:40 +0000",
       "politicalScore": 6,
       "eventKey": "chile-instituciones-chile-instituciones-corrupcion-poder",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -687,8 +652,25 @@
       "publishedAt": "Thu, 18 Jun 2026 23:03:40 +0000",
       "politicalScore": 6,
       "eventKey": "chile-instituciones-chile-instituciones-podcast-corrupcion",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c745fa9b433781c",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Milei viaja a Rosario para celebrar el Día de la Bandera, con Adorni en la tormenta y frente a la irrupción de Villarruel",
+      "summary": "Reaparecerá el jefe de Gabinete luego de la designación de un nuevo vocero presidencial; la polémica por el estado del Monumento a la Bandera",
+      "url": "https://www.lanacion.com.ar/politica/milei-viaja-a-rosario-para-celebrar-el-dia-de-la-bandera-con-adorni-en-la-tormenta-y-la-irrupcion-de-nid19062026/",
+      "publishedAt": "Sat, 20 Jun 2026 06:31:05 +0000",
+      "politicalScore": 5,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -704,8 +686,8 @@
       "publishedAt": "Sat, 20 Jun 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-zapatero",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -721,25 +703,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:39:38 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-elecciones-colombia-elecciones-cepeda-espriella",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3c745fa9b433781c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Milei viaja a Rosario para celebrar el Día de la Bandera, con Adorni en la tormenta y frente a la irrupción de Villarruel",
-      "summary": "Reaparecerá el jefe de Gabinete luego de la designación de un nuevo vocero presidencial; la polémica por el estado del Monumento a la Bandera",
-      "url": "https://www.lanacion.com.ar/politica/milei-viaja-a-rosario-para-celebrar-el-dia-de-la-bandera-con-adorni-en-la-tormenta-y-la-irrupcion-de-nid19062026/",
-      "publishedAt": "Fri, 19 Jun 2026 22:12:22 +0000",
-      "politicalScore": 5,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -755,25 +720,8 @@
       "publishedAt": "Fri, 19 Jun 2026 17:31:11 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-asesores-parlamentarios",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4885a72aa9e4f3c2",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Pleno del JNE declara infundadas apelaciones de Juntos por el Perú para anular 2.398 mesas en Lima y Estados Unidos",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/roberto-sanchez-en-vivo-jne-audiencia-resuelve-apelaciones-de-juntos-por-el-peru-que-buscan-anular-2398-mesas-en-lima-y-eeuu-noticia/",
-      "publishedAt": "Fri, 19 Jun 2026 16:29:38 +0000",
-      "politicalScore": 5,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-pleno-declara",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -789,8 +737,8 @@
       "publishedAt": "Fri, 19 Jun 2026 15:21:32 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-reacciones-analistas",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -806,8 +754,8 @@
       "publishedAt": "Fri, 19 Jun 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-camino-hacia",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -823,8 +771,8 @@
       "publishedAt": "Thu, 18 Jun 2026 21:24:22 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-sociedad-cuba-sociedad-presion-regimen",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -840,8 +788,25 @@
       "publishedAt": "Thu, 18 Jun 2026 20:59:40 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-conducta-conspira",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
+      "seenCount": 1
+    },
+    {
+      "id": "82aa0451ae9e99a0",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Sin el centro como fiel de la balanza, esta campaña fue inédita",
+      "summary": "La segunda vuelta, en la práctica, se adelantó a la primera y la campaña giró alrededor de maximizar la lealtad, el miedo y la participación de los propios. The post Sin el centro como fiel de la balanza, esta campaña fue inédita appeared first on La Silla Vac",
+      "url": "https://www.lasillavacia.com/silla-nacional/sin-el-centro-como-fiel-de-la-balanza-esta-campana-fue-inedita/",
+      "publishedAt": "Sat, 20 Jun 2026 06:34:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-centro-fiel",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -857,8 +822,8 @@
       "publishedAt": "Sat, 20 Jun 2026 03:02:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-adorni",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -874,8 +839,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:57:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-elecciones-colombia-elecciones-videos-cepeda",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -891,8 +856,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:19:21 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-carcel-responsable",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -908,25 +873,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:37:28 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-madre",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8f886eee9f3969bd",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Paz territorial en Putumayo: retos del proceso con la Cneb",
-      "summary": "La concentración de la Cneb es un avance para la paz, pero su futuro depende de resolver incertidumbres políticas, jurídicas y de seguridad. The post Paz territorial en Putumayo: retos del proceso con la Cneb appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/paz-territorial-en-putumayo-retos-del-proceso-con-la-cneb/",
-      "publishedAt": "Fri, 19 Jun 2026 23:17:11 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-seguridad-colombia-seguridad-territorial-putumayo",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -942,8 +890,8 @@
       "publishedAt": "Fri, 19 Jun 2026 21:20:51 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-petro-dice",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -959,8 +907,8 @@
       "publishedAt": "Fri, 19 Jun 2026 21:12:27 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-ravier",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -976,8 +924,8 @@
       "publishedAt": "Fri, 19 Jun 2026 20:59:46 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-trump-posible",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -993,8 +941,8 @@
       "publishedAt": "Fri, 19 Jun 2026 14:32:33 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-trump-afirma",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1010,8 +958,8 @@
       "publishedAt": "Fri, 19 Jun 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-compro-petroleo",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1027,8 +975,8 @@
       "publishedAt": "Thu, 18 Jun 2026 14:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-acuerdo-foto",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1044,8 +992,8 @@
       "publishedAt": "Thu, 18 Jun 2026 10:53:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-honrar-memoria",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1061,8 +1009,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:20:40 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-trabajo-muerto",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1078,25 +1026,8 @@
       "publishedAt": "Sat, 20 Jun 2026 00:20:39 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-trabajadores-plataformas",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8406922525df4bf9",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Objeciones con mala puntería",
-      "summary": "No hace falta ser especialista en criminología para darse cuenta de que el acceso ilegal a armas de fuego y municiones se vincula con los problemas de criminalidad violenta que afronta Uruguay. Resulta innegable la necesidad de políticas para reducir su incide",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/6/objeciones-con-mala-punteria/",
-      "publishedAt": "Sat, 20 Jun 2026 00:20:39 -0300",
-      "politicalScore": 3,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-objeciones-mala",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1112,8 +1043,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:29:29 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-ejercito-anuncia",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1129,8 +1060,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:14:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1146,8 +1077,8 @@
       "publishedAt": "Fri, 19 Jun 2026 19:12:49 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-deporta-ecuador",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1163,8 +1094,8 @@
       "publishedAt": "Fri, 19 Jun 2026 16:17:32 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-atreven-quitar",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1180,8 +1111,8 @@
       "publishedAt": "Fri, 19 Jun 2026 14:24:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-error-decapitacion",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1197,8 +1128,8 @@
       "publishedAt": "Fri, 19 Jun 2026 12:41:31 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sala-cuna",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1214,8 +1145,8 @@
       "publishedAt": "Fri, 19 Jun 2026 10:08:44 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-nuevo",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1231,8 +1162,8 @@
       "publishedAt": "Fri, 19 Jun 2026 09:44:46 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-paquete",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1248,8 +1179,8 @@
       "publishedAt": "Thu, 18 Jun 2026 20:43:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-infraestructura",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1265,8 +1196,8 @@
       "publishedAt": "Thu, 18 Jun 2026 20:05:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tiene-tasas",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1282,8 +1213,8 @@
       "publishedAt": "Thu, 18 Jun 2026 16:55:47 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-petrolera-australiana",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1299,8 +1230,8 @@
       "publishedAt": "Thu, 18 Jun 2026 10:28:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-regimen-utiliza",
-      "firstSeenAt": "2026-06-20T04:09:26.821Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "firstSeenAt": "2026-06-20T09:26:17.401Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 1
     },
     {
@@ -1317,7 +1248,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-querella-clinica",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 3
     },
     {
@@ -1334,7 +1265,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-2024-2026",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 3
     },
     {
@@ -1351,7 +1282,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-camiseta-incomodo",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 3
     },
     {
@@ -1368,7 +1299,7 @@
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-bancarrota-hidrica",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-20T04:09:26.821Z",
+      "lastSeenAt": "2026-06-20T09:26:17.401Z",
       "seenCount": 3
     }
   ]
