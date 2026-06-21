@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-21T04:50:52.100Z",
-  "count": 66,
+  "generatedAt": "2026-06-21T09:57:09.914Z",
+  "count": 69,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-06-21T04:50:52.100Z",
-    "activeSignals": 66,
-    "archiveSignals": 122,
+    "generatedAt": "2026-06-21T09:57:09.914Z",
+    "activeSignals": 69,
+    "archiveSignals": 125,
     "countriesCovered": 8,
-    "highPrioritySignals": 30,
-    "averagePoliticalScore": 5.94
+    "highPrioritySignals": 26,
+    "averagePoliticalScore": 5.81
   },
   "briefings": [
     {
@@ -30,16 +30,17 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "El Gobierno apura los cambios en la estratégica Cámara Federal, que decide sobre las causas de corrupción",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-apura-los-cambios-en-la-estrategica-camara-federal-que-decide-sobre-las-causas-de-nid20062026/",
+      "leadTitle": "El Gobierno apela a un debate reglamentario para poder blindar a Adorni en el Senado",
+      "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-apela-a-un-debate-reglamentario-para-poder-blindar-a-adorni-en-el-senado-nid21062026/",
       "focusTopics": [
+        "Elecciones",
         "Economia politica"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 13,
-      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -48,13 +49,14 @@
       "leadUrl": "https://confidencial.digital/mundo/colombia-elige-entre-la-paz-y-la-mano-dura/",
       "focusTopics": [
         "Seguridad",
+        "Instituciones",
         "Economia politica"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 11,
-      "summary": "Foco en Seguridad, Economia politica. Vigilar Confidencial y Confidencial."
+      "signalCount": 13,
+      "summary": "Foco en Seguridad, Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Cuba",
@@ -88,21 +90,6 @@
       "summary": "Foco en Instituciones, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "EGU llama a la independencia judicial en medio de proceso para elección de magistrados",
-      "leadUrl": "https://efectococuyo.com/politica/egu-llama-a-la-independencia-judicial-en-medio-de-proceso-para-eleccion-de-magistrados/",
-      "focusTopics": [
-        "Elecciones",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
       "country": "Espana",
       "priority": "Alta",
       "leadTitle": "El PP, tras enviar el juez a Begoña Gómez a juicio: \"Sánchez ha convertido La Moncloa en una guarida de delincuentes\"",
@@ -119,21 +106,54 @@
       "summary": "Foco en Elecciones, Instituciones, Seguridad. Vigilar El Mundo y El Mundo."
     },
     {
+      "country": "Venezuela",
+      "priority": "Alta",
+      "leadTitle": "EEUU habla de “felicidad” y de caída de la inflación en Venezuela: ¿disminuye la credibilidad?",
+      "leadUrl": "https://efectococuyo.com/politica/eeuu-felicidad-caida-inflacion-venezuela-disminuye-credibilidad/",
+      "focusTopics": [
+        "Economia politica",
+        "Diplomacia"
+      ],
+      "topSources": [
+        "Efecto Cocuyo"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Economia politica, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+    },
+    {
       "country": "Peru",
       "priority": "Alta",
       "leadTitle": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
       "leadUrl": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
       "focusTopics": [
-        "Elecciones"
+        "Elecciones",
+        "Gobernabilidad"
       ],
       "topSources": [
         "El Comercio"
       ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
+      "signalCount": 2,
+      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
     }
   ],
   "signals": [
+    {
+      "id": "d342ac95735e9915",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "El Gobierno apela a un debate reglamentario para poder blindar a Adorni en el Senado",
+      "summary": "El oficialismo buscar plantear que para postergar la interpelación y eventual moción de censura se necesitan dos tercios, y no mayoría absoluta; si impone su postura, está a sólo cuatro votos de lograrlo",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-apela-a-un-debate-reglamentario-para-poder-blindar-a-adorni-en-el-senado-nid21062026/",
+      "publishedAt": "Sun, 21 Jun 2026 06:57:14 +0000",
+      "politicalScore": 14,
+      "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-apela",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
     {
       "id": "1b71656a3df244c8",
       "country": "Argentina",
@@ -147,8 +167,8 @@
       "publishedAt": "Sat, 20 Jun 2026 21:18:37 +0000",
       "politicalScore": 14,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -161,28 +181,11 @@
       "title": "Las aventuras que tienen en jaque al poder",
       "summary": "En el Gobierno admiten que el caso Adorni les terminó de arrebatar la bandera anticasta y ahora dependen más de la economía; las tensiones internas, las disputas en el Congreso y el pacto con la Justicia",
       "url": "https://www.lanacion.com.ar/politica/las-aventuras-que-tienen-en-jaque-al-poder-nid20062026/",
-      "publishedAt": "Sun, 21 Jun 2026 01:50:00 +0000",
+      "publishedAt": "Sun, 21 Jun 2026 06:57:45 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-aventuras",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7940de5429dc98f3",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "EGU llama a la independencia judicial en medio de proceso para elección de magistrados",
-      "summary": "La Asamblea Nacional ya publicó la lista de aspirantes para el Tribunal Supremo de Justicia",
-      "url": "https://efectococuyo.com/politica/egu-llama-a-la-independencia-judicial-en-medio-de-proceso-para-eleccion-de-magistrados/",
-      "publishedAt": "Sun, 21 Jun 2026 00:38:38 +0000",
-      "politicalScore": 12,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-llama-independencia",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -198,8 +201,25 @@
       "publishedAt": "Sat, 20 Jun 2026 14:00:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-colombia-elige",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "388a88ffe8589e19",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Condena unánime a la dictadura en Parlamento Europeo: “están solos”",
+      "summary": "La votación en el Parlamento Europeo de una resolución aprobada de forma unánime en la que los eurodiputados demandan rendición de cuentas y la excarcelación de todos los presos políticos, demuestra que el régimen Ortega Murillo no tiene apoyo alguno en esa in",
+      "url": "https://confidencial.digital/politica/condena-unanime-a-la-dictadura-en-parlamento-europeo-estan-solos/",
+      "publishedAt": "Sun, 21 Jun 2026 06:15:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-condena-unanime",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -215,8 +235,8 @@
       "publishedAt": "Sat, 20 Jun 2026 14:58:30 +0200",
       "politicalScore": 11,
       "eventKey": "espana-elecciones-espana-elecciones-enviar-juez",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -229,11 +249,11 @@
       "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
       "summary": "Ultima actualizacion de El Comercio.",
       "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
-      "publishedAt": "Sun, 21 Jun 2026 04:40:59 +0000",
+      "publishedAt": "Sun, 21 Jun 2026 09:40:59 +0000",
       "politicalScore": 10,
       "eventKey": "peru-elecciones-peru-elecciones-cual-cantidad",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 3
     },
     {
@@ -249,8 +269,8 @@
       "publishedAt": "Sun, 21 Jun 2026 00:11:33 +0200",
       "politicalScore": 9,
       "eventKey": "espana-instituciones-espana-instituciones-empatia-victimas",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -266,8 +286,8 @@
       "publishedAt": "Sat, 20 Jun 2026 21:49:32 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-instituciones-colombia-instituciones-senador-miguel",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -283,25 +303,8 @@
       "publishedAt": "Sat, 20 Jun 2026 18:11:48 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-instituciones-colombia-instituciones-senadora-martha",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "bf2d00659d9a83c5",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Santiago Caputo se refirió a la designación de Ravier como vocero presidencial",
-      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-situacion-judicial-de-manuel-adorni-y-la-nueva-licitacion-de-nid19062026/",
-      "publishedAt": "Sat, 20 Jun 2026 02:47:28 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-santiago",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -317,8 +320,8 @@
       "publishedAt": "Fri, 19 Jun 2026 20:20:30 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-primer",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -335,8 +338,25 @@
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-banco",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 3
+    },
+    {
+      "id": "c887699293695632",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "EEUU habla de “felicidad” y de caída de la inflación en Venezuela: ¿disminuye la credibilidad?",
+      "summary": "Miguel Barone señala que EEUU debe incluir en agenda pública a la oposición mayoritaria. Luis Rendueles advierte sobre errores en comunicación política de la embajada",
+      "url": "https://efectococuyo.com/politica/eeuu-felicidad-caida-inflacion-venezuela-disminuye-credibilidad/",
+      "publishedAt": "Sun, 21 Jun 2026 06:23:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-eeuu",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
     },
     {
       "id": "151e5b2ebb2b5c19",
@@ -345,14 +365,14 @@
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "En medio de su batalla con Piccirillo, el financista Francisco Hauque pide que declare Jésica Cirio",
+      "title": "En medio de su batalla con Piccirillo, el financista Francisco Hauque pide que declare Jesica Cirio",
       "summary": "Hizo una presentación esta semana en una causa por extorsión que investigan el fiscal Picardi y el juez Lijo; Hauque también denunció amenazas y se ofreció como arrepentido",
       "url": "https://www.lanacion.com.ar/politica/en-su-batalla-con-piccirillo-el-financista-francisco-hauque-pide-que-declare-jesica-cirio-nid20062026/",
       "publishedAt": "Sat, 20 Jun 2026 23:41:47 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-medio",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -368,8 +388,25 @@
       "publishedAt": "Sat, 20 Jun 2026 16:45:42 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-tiempo",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6dbe25ee4008b402",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "¿Puede obstaculizar Cabello la negociación directa?",
+      "summary": "Politólogos no ven extraña la posición del ministro chavista, quien afirman, le sigue hablando a las “gradas radicales”",
+      "url": "https://efectococuyo.com/politica/interinato-eeuu-negociacion-machado-obstaculizar-cabello/",
+      "publishedAt": "Sun, 21 Jun 2026 06:15:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-puede-obstaculizar",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -385,8 +422,8 @@
       "publishedAt": "Sat, 20 Jun 2026 23:29:21 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-google-trends",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -402,25 +439,8 @@
       "publishedAt": "Sat, 20 Jun 2026 19:30:22 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-8220-presidente",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dca9a37306e2a052",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Capriles: &#8220;EEUU tiene muy claro que la decisión final le corresponde a la gente con su voto&#8221;",
-      "summary": "La reflexión surge a propósito de la designación de Dinora Figuera, como figura para encaminar la conformación del CNE",
-      "url": "https://efectococuyo.com/politica/capriles-eeuu-tiene-muy-claro-que-la-decision-final-le-corresponde-a-la-gente-con-su-voto/",
-      "publishedAt": "Sat, 20 Jun 2026 19:01:33 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-capriles-8220",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -436,25 +456,8 @@
       "publishedAt": "Sat, 20 Jun 2026 20:45:11 +0200",
       "politicalScore": 7,
       "eventKey": "espana-seguridad-espana-seguridad-marlaska-eleva",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "57f8835e096ff223",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Ministro de la Defensa asegura que la soberanía venezolana &#8220;no es negociable&#8221;",
-      "summary": "Las declaraciones del titular castrense se dieron en el marco del reconocimiento a 240 oficiales por sus 30 años de servicio",
-      "url": "https://efectococuyo.com/politica/ministro-de-la-defensa-asegura-que-la-soberania-venezolana-no-es-negociable/",
-      "publishedAt": "Sat, 20 Jun 2026 17:56:11 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-ministro-defensa",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -470,42 +473,8 @@
       "publishedAt": "Sat, 20 Jun 2026 17:02:03 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-diplomacia-colombia-diplomacia-cierre-frontera",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6109f8c00c5270f7",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Detector: Juan Manuel Santos no se unió a la campaña de Iván Cepeda",
-      "summary": "El 19 de junio el expresidente escribió: \"No apoyo ninguna candidatura\" y añadió: \"Sea cual sea el resultado, las instituciones deben respetarse\". The post Detector: Juan Manuel Santos no se unió a la campaña de Iván Cepeda appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-juan-manuel-santos-no-se-unio-a-la-campana-de-ivan-cepeda/",
-      "publishedAt": "Sat, 20 Jun 2026 16:18:49 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-elecciones-colombia-elecciones-detector-juan",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ec6e36c0683332f1",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Colombia adelantó cierre de fronteras",
-      "summary": "El cierre se produce a propósito de la segunda vuelta electoral en Colombia, pero el gobierno no explicó la razón del adelanto",
-      "url": "https://efectococuyo.com/internacionales/colombia-adelanto-cierre-de-fronteras/",
-      "publishedAt": "Sat, 20 Jun 2026 15:39:37 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-colombia-adelanto",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -521,8 +490,8 @@
       "publishedAt": "Sat, 20 Jun 2026 15:28:29 +0000",
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-carta-asociacion",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -538,25 +507,8 @@
       "publishedAt": "Sat, 20 Jun 2026 15:17:02 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-acto",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "12946ffde03d0d80",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "¿Es viable un debate sobre la reforma constitucional con interinato y tutelaje?",
-      "summary": "Gustavo Manzo y Tony Frangie Mawad dicen que una reforma de la Carta Magna procede una vez rescatada la democracia",
-      "url": "https://efectococuyo.com/politica/es-viable-un-debate-sobre-la-reforma-constitucional-con-interinato-y-tutelaje/",
-      "publishedAt": "Sat, 20 Jun 2026 15:00:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-viable-debate",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -572,8 +524,8 @@
       "publishedAt": "Sat, 20 Jun 2026 06:32:32 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-designacion",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -589,8 +541,8 @@
       "publishedAt": "Fri, 19 Jun 2026 18:40:44 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-ordenan-transferir",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -606,25 +558,8 @@
       "publishedAt": "Sun, 21 Jun 2026 00:19:16 +0200",
       "politicalScore": 6,
       "eventKey": "espana-elecciones-espana-elecciones-plazos-audiencia",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e14932e02c8250cc",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "HRW: ICE cometió violaciones generalizadas de derechos humanos en Minnesota",
-      "summary": "Human Rights Watch (HRW) divulgó el jueves 18 de junio de 2026 el informe “Una crisis fabricada: comunidades de Minnesota aterrorizadas por el Gobierno federal”, en el que documenta cómo la &#8216;Operación Metro Surge&#8217; de la Administración de Donald Tru",
-      "url": "https://confidencial.digital/mundo/hrw-ice-cometio-violaciones-generalizadas-de-derechos-humanos-en-minnesota/",
-      "publishedAt": "Thu, 18 Jun 2026 16:33:15 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cometio-violaciones",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -640,8 +575,8 @@
       "publishedAt": "Fri, 19 Jun 2026 06:08:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-cuba",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -657,8 +592,8 @@
       "publishedAt": "Sat, 20 Jun 2026 15:43:06 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-nuevo-marco",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -674,8 +609,8 @@
       "publishedAt": "Fri, 19 Jun 2026 00:36:08 +0000",
       "politicalScore": 6,
       "eventKey": "chile-elecciones-chile-elecciones-kast-convoca",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -691,8 +626,8 @@
       "publishedAt": "Thu, 18 Jun 2026 23:04:40 +0000",
       "politicalScore": 6,
       "eventKey": "chile-instituciones-chile-instituciones-corrupcion-poder",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -708,8 +643,76 @@
       "publishedAt": "Thu, 18 Jun 2026 23:03:40 +0000",
       "politicalScore": 6,
       "eventKey": "chile-instituciones-chile-instituciones-podcast-corrupcion",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "95a2f0b624acb60a",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El hambre y el agro en la encrucijada electoral",
+      "summary": "Análisis de las propuestas de los candidatos para la ruralidad colombiana y balance sobre la situación del hambre al final del cuatrienio. The post El hambre y el agro en la encrucijada electoral appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/red-de-expertos/el-hambre-y-el-agro-en-la-encrucijada-electoral/",
+      "publishedAt": "Sun, 21 Jun 2026 06:51:14 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-hambre-agro",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "555d4bacbc39f202",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "¿Quiénes son los aspirantes a magistrados del TSJ?",
+      "summary": "Entre candidatos a integrar el TSJ se encuentra rectora del CNE Aime Nogal y el exrector Luis Emilio Rondón",
+      "url": "https://efectococuyo.com/politica/quienes-son-los-aspirantes-a-magistrados-del-tsj/",
+      "publishedAt": "Sun, 21 Jun 2026 06:50:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-quienes-aspirantes",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "dcd4d7ded6ecc686",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Empresas en la mira de la privatización: expertos exigen transparencia en el proceso",
+      "summary": "ONG Transparencia Venezuela cuenta 920 empresas propiedad del Estado. Exdiputado Elias Matta dice que muchas están en ruinas",
+      "url": "https://efectococuyo.com/economia/empresas-estado-mira-privatizacion-expertos-transparencia-proceso/",
+      "publishedAt": "Sun, 21 Jun 2026 06:45:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-empresas-mira",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8f3a5554f0be13fd",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "EEUU abre otro tablero para negociaciones: Dinorah Figuera ¿destranca el juego?",
+      "summary": "Raniero Cassoni destaca que las condiciones de la negociación han cambiado con el tutelaje de EEUU. Para Piero Trepiccione, esta jugada muestra que no hay una sola partida de ajedrez, sino otras simultáneas",
+      "url": "https://efectococuyo.com/politica/eeuu-institucional-oposicion-jugadores-entrada-dinorah-figuera-negociaciones/",
+      "publishedAt": "Sun, 21 Jun 2026 06:25:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-eeuu-abre",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -725,8 +728,8 @@
       "publishedAt": "Sat, 20 Jun 2026 17:52:22 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-llegar-autores",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -742,8 +745,8 @@
       "publishedAt": "Sat, 20 Jun 2026 06:31:05 +0000",
       "politicalScore": 5,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -759,8 +762,8 @@
       "publishedAt": "Fri, 19 Jun 2026 17:31:11 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-asesores-parlamentarios",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -776,8 +779,8 @@
       "publishedAt": "Fri, 19 Jun 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-camino-hacia",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -793,8 +796,25 @@
       "publishedAt": "Thu, 18 Jun 2026 20:59:40 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-conducta-conspira",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "cfaed38145572522",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Las tareas que no pueden esperar",
+      "summary": "El Fenómeno del Niño puede venir con todo, Petro-Perú amenaza con implosionar, el Reinfo sobrevive indefinidamente y el fisco se llena de huecos. El próximo Gobierno debe ir pensando en estos pendientes, apunta Diego Macera, director del IPE.",
+      "url": "https://elcomercio.pe/economia/peru/elecciones-las-tareas-que-no-pueden-esperar-noticia/",
+      "publishedAt": "Sun, 21 Jun 2026 09:27:02 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-tareas-pueden",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -807,11 +827,28 @@
       "title": "Arsat | Citas en un hotel, cenas con vino y un viaje a Córdoba: la trama detrás de un sensible contrato millonario que benefició a Huawei",
       "summary": "Una firma cordobesa asociada al gigante chino logró un negocio de unos US$30 millones para ampliar la red de fibra óptica; Facundo Leal es investigado por el origen de US$2,6 millones hallados en sus domicilios",
       "url": "https://www.lanacion.com.ar/politica/arsat-citas-en-un-hotel-cenas-con-vino-y-un-viaje-a-cordoba-la-trama-detras-de-un-sensible-contrato-nid21062026/",
-      "publishedAt": "Sun, 21 Jun 2026 04:29:38 +0000",
+      "publishedAt": "Sun, 21 Jun 2026 06:56:44 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-arsat",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "266769dc257d1825",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Las últimas palabras de Gabriel Cardenal",
+      "summary": "He querido cerrar esta saga sobre Gabriel Cardenal Caldera (Payo) con sus últimos momentos y palabras, conocidas gracias al poeta Ernesto Cardenal y a William Agudelo. En sus Memorias La Revolución Perdida, Ernesto Cardenal cuenta, y cito: A mi oficina del Min",
+      "url": "https://confidencial.digital/opinion/las-ultimas-palabras-de-gabriel-cardenal/",
+      "publishedAt": "Sun, 21 Jun 2026 06:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ultimas-palabras",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -821,14 +858,14 @@
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Media",
-      "title": "Jésica Cirio habló tras conocerse videos en los que muestra bolsas de dólares: “Se detectan manipulaciones digitales”",
-      "summary": "La modelo publicó un comunicado, en el que acusó extorsiones; “Todos mis ingresos se encuentran declarados ante el organismo de recaudación impositiva”, sostuvo",
+      "title": "Jesica Cirio habló tras la publicación de videos en los que muestra bolsas de dólares",
+      "summary": "La modelo emitió un comunicado en el que acusó extorsiones; “Todos mis ingresos se encuentran declarados ante el organismo de recaudación impositiva”, sostuvo",
       "url": "https://www.lanacion.com.ar/politica/jesica-cirio-hablo-tras-la-viralizacion-de-los-videos-con-bolsas-de-dolares-acudi-a-la-justicia-nid20062026/",
       "publishedAt": "Sun, 21 Jun 2026 03:34:20 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-jesica",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -844,8 +881,8 @@
       "publishedAt": "Sun, 21 Jun 2026 02:10:51 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-mensaje",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -861,8 +898,8 @@
       "publishedAt": "Sat, 20 Jun 2026 23:37:14 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-maximo",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -878,8 +915,8 @@
       "publishedAt": "Sat, 20 Jun 2026 19:21:46 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-estado-detiene",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -895,8 +932,8 @@
       "publishedAt": "Sat, 20 Jun 2026 19:03:27 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-terminos-referencia",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -912,8 +949,8 @@
       "publishedAt": "Sat, 20 Jun 2026 19:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-elecciones-colombia-elecciones-posible-probable",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -929,8 +966,8 @@
       "publishedAt": "Sat, 20 Jun 2026 15:12:27 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -946,8 +983,8 @@
       "publishedAt": "Sat, 20 Jun 2026 14:05:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-moncloa-denuncia",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -963,8 +1000,8 @@
       "publishedAt": "Sat, 20 Jun 2026 13:40:51 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-elecciones-cuba-elecciones-colombianos-escogen",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -980,8 +1017,8 @@
       "publishedAt": "Sat, 20 Jun 2026 03:02:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-adorni",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -997,8 +1034,8 @@
       "publishedAt": "Fri, 19 Jun 2026 20:59:46 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-trump-posible",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +1051,25 @@
       "publishedAt": "Fri, 19 Jun 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-compro-petroleo",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
+      "seenCount": 1
+    },
+    {
+      "id": "71da39aa763d7351",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Grethel Matus, la esteliana que llevó sus “Raíces” hasta Madrid",
+      "summary": "Entre las calles del centro de Madrid, a pocos pasos de la Puerta de Toledo, la chef y pastelera esteliana Grethel Matus encontró la manera de acercar Nicaragua a la capital española. En su restaurante “Raíces” sirve nacatamales, carne asada, gallo pinto y pos",
+      "url": "https://confidencial.digital/migrantes/grethel-matus-la-esteliana-que-llevo-sus-raices-hasta-madrid/",
+      "publishedAt": "Sun, 21 Jun 2026 06:05:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-grethel-matus",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1031,8 +1085,8 @@
       "publishedAt": "Sat, 20 Jun 2026 15:19:10 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-insoportable-situacion",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1048,8 +1102,8 @@
       "publishedAt": "Sat, 20 Jun 2026 12:52:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-neutralidad-agenda",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1065,8 +1119,8 @@
       "publishedAt": "Sat, 20 Jun 2026 08:00:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-ninas-principales",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1082,8 +1136,8 @@
       "publishedAt": "Sat, 20 Jun 2026 08:00:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-muerte-sumergida",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1099,8 +1153,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:29:29 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-ejercito-anuncia",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1116,8 +1170,8 @@
       "publishedAt": "Fri, 19 Jun 2026 23:14:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1133,8 +1187,8 @@
       "publishedAt": "Fri, 19 Jun 2026 19:12:49 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-deporta-ecuador",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1150,8 +1204,8 @@
       "publishedAt": "Fri, 19 Jun 2026 16:17:32 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-atreven-quitar",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1167,8 +1221,8 @@
       "publishedAt": "Fri, 19 Jun 2026 14:24:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-error-decapitacion",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1184,8 +1238,8 @@
       "publishedAt": "Fri, 19 Jun 2026 12:41:31 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sala-cuna",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1201,8 +1255,8 @@
       "publishedAt": "Fri, 19 Jun 2026 10:08:44 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-nuevo",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1218,8 +1272,8 @@
       "publishedAt": "Fri, 19 Jun 2026 09:44:46 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-paquete",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1235,8 +1289,8 @@
       "publishedAt": "Thu, 18 Jun 2026 20:43:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-infraestructura",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     },
     {
@@ -1252,8 +1306,8 @@
       "publishedAt": "Thu, 18 Jun 2026 20:05:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tiene-tasas",
-      "firstSeenAt": "2026-06-21T04:50:52.100Z",
-      "lastSeenAt": "2026-06-21T04:50:52.100Z",
+      "firstSeenAt": "2026-06-21T09:57:09.914Z",
+      "lastSeenAt": "2026-06-21T09:57:09.914Z",
       "seenCount": 1
     }
   ]
