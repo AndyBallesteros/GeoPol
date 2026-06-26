@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-26T04:09:29.568Z",
-  "count": 70,
+  "generatedAt": "2026-06-26T09:36:45.732Z",
+  "count": 64,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-06-26T04:09:29.568Z",
-    "activeSignals": 70,
-    "archiveSignals": 127,
+    "generatedAt": "2026-06-26T09:36:45.732Z",
+    "activeSignals": 64,
+    "archiveSignals": 121,
     "countriesCovered": 9,
-    "highPrioritySignals": 30,
-    "averagePoliticalScore": 6.19
+    "highPrioritySignals": 26,
+    "averagePoliticalScore": 6
   },
   "briefings": [
     {
@@ -17,13 +17,14 @@
       "leadTitle": "Corte Suprema avala duras políticas antiinmigración de Trump",
       "leadUrl": "https://confidencial.digital/migrantes/corte-suprema-avala-duras-politicas-antiinmigracion-de-trump/",
       "focusTopics": [
-        "Instituciones"
+        "Instituciones",
+        "Elecciones"
       ],
       "topSources": [
         "Confidencial"
       ],
       "signalCount": 16,
-      "summary": "Foco en Instituciones. Vigilar Confidencial y Confidencial."
+      "summary": "Foco en Instituciones, Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -40,6 +41,21 @@
       "summary": "Foco en Probidad. Vigilar CIPER y CIPER."
     },
     {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "El Gobierno confirmó que la Argentina dará asistencia humanitaria a Venezuela",
+      "leadUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-crece-la-tension-entre-bullrich-y-adorni-y-nid25062026/",
+      "focusTopics": [
+        "Economia politica",
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 11,
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
+    },
+    {
       "country": "Espana",
       "priority": "Alta",
       "leadTitle": "El Congreso y el Senado reclaman a Sánchez que dimita, se someta a una moción de confianza o convoque ya elecciones",
@@ -51,30 +67,16 @@
       "topSources": [
         "El Mundo"
       ],
-      "signalCount": 13,
+      "signalCount": 9,
       "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Mundo y El Mundo."
-    },
-    {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "El Gobierno confirmó que la Argentina dará asistencia humanitaria a Venezuela",
-      "leadUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-crece-la-tension-entre-bullrich-y-adorni-y-nid25062026/",
-      "focusTopics": [
-        "Economia politica",
-        "Instituciones"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 11,
-      "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Así funciona el escrutinio en las elecciones en Colombia",
-      "leadUrl": "https://www.lasillavacia.com/detector-de-mentiras/asi-funciona-el-escrutinio-en-las-elecciones-en-colombia/",
+      "leadTitle": "La pregunta incómoda: ¿voto fusil o voto pistola?",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/voto-fusil-colombia-2026/",
       "focusTopics": [
+        "Seguridad",
         "Elecciones",
         "Economia politica"
       ],
@@ -82,22 +84,21 @@
         "La Silla Vacia"
       ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Seguridad, Elecciones, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Conoce quiénes son los senadores que estarán en el nuevo Congreso Bicameral",
-      "leadUrl": "https://elcomercio.pe/politica/congreso/ellos-son-los-senadores-que-estaran-en-el-nuevo-congreso-bicameral-ultimas-noticia/",
+      "leadTitle": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
+      "leadUrl": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
       "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
+        "Elecciones"
       ],
       "topSources": [
         "El Comercio"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "signalCount": 1,
+      "summary": "Foco en Elecciones. Vigilar El Comercio."
     },
     {
       "country": "Cuba",
@@ -145,23 +146,6 @@
   ],
   "signals": [
     {
-      "id": "5b690002a7a47705",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Conoce quiénes son los senadores que estarán en el nuevo Congreso Bicameral",
-      "summary": "El Jurado Nacional de Elecciones (JNE) entregó este jueves las credenciales a los 60 senadores elegidos en las Elecciones Generales 2026, oficializando así su condición de integrantes de la denominada Cámara Alta que volverá a funcionar en el país tras más de ",
-      "url": "https://elcomercio.pe/politica/congreso/ellos-son-los-senadores-que-estaran-en-el-nuevo-congreso-bicameral-ultimas-noticia/",
-      "publishedAt": "Fri, 26 Jun 2026 02:59:12 +0000",
-      "politicalScore": 20,
-      "eventKey": "peru-elecciones-peru-elecciones-conoce-quienes",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
       "id": "5276b606dc3734a9",
       "country": "Espana",
       "source": "El Mundo",
@@ -174,8 +158,8 @@
       "publishedAt": "Thu, 25 Jun 2026 18:52:46 +0200",
       "politicalScore": 17,
       "eventKey": "espana-elecciones-espana-elecciones-congreso-senado",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -191,8 +175,25 @@
       "publishedAt": "Thu, 25 Jun 2026 19:21:30 +0000",
       "politicalScore": 14,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-corte-suprema",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ce666d497adeec86",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Perú y Colombia, dos elecciones, y una gran lección democrática",
+      "summary": "Las democracias y los sistemas electorales no se ponen verdaderamente a prueba cuando los resultados electorales son claros y contundentes. Su examen más exigente ocurre cuando las elecciones se definen por márgenes mínimos, en contextos de alta polarización p",
+      "url": "https://confidencial.digital/opinion/peru-y-colombia-dos-elecciones-y-una-gran-leccion-democratica/",
+      "publishedAt": "Fri, 26 Jun 2026 06:05:00 +0000",
+      "politicalScore": 13,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-peru-colombia",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -208,8 +209,8 @@
       "publishedAt": "Thu, 25 Jun 2026 01:04:27 +0000",
       "politicalScore": 13,
       "eventKey": "chile-probidad-chile-probidad-caso-senadora",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -225,25 +226,8 @@
       "publishedAt": "Fri, 26 Jun 2026 00:15:04 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c95f0003c2fd8dce",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Roberto Sánchez asegura que “alianza parlamentaria” con Obras y Ahora Nación “se mantiene sólida”",
-      "summary": "Roberto Sánchez afirmó que la alianza parlamentaria entre Juntos por el Perú, Obras y Ahora Nación continúa unida pese al escenario político. El pronunciamiento se produce días después de cuestionar el proceso electoral y anunciar que no reconocerá un eventual",
-      "url": "https://elcomercio.pe/politica/elecciones/roberto-sanchez-asegura-que-alianza-parlamentaria-con-obras-y-ahora-nacion-se-mantiene-solida-ultimas-noticia/",
-      "publishedAt": "Fri, 26 Jun 2026 03:44:57 +0000",
-      "politicalScore": 11,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-roberto-sanchez",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -259,25 +243,8 @@
       "publishedAt": "Thu, 25 Jun 2026 21:21:39 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-criticas",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8d994add65c537ef",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "La Corte Suprema dejó firme el fallo que obligó a aumentar salarios y becas por la ley de financiamiento universitario",
-      "summary": "Son aspectos similares a los que ya acordaron el Gobierno con los rectores; los gremios universitarios, no obstante, reclamarán un 32,5% de suba; el asunto se resolverá en primera instancia",
-      "url": "https://www.lanacion.com.ar/politica/la-corte-suprema-dejo-firme-el-fallo-que-obligo-a-aumentar-salarios-universitarios-y-becas-nid25062026/",
-      "publishedAt": "Thu, 25 Jun 2026 19:27:50 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-instituciones-argentina-instituciones-corte-suprema",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -290,12 +257,29 @@
       "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
       "summary": "Ultima actualizacion de El Comercio.",
       "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
-      "publishedAt": "Fri, 26 Jun 2026 04:00:59 +0000",
+      "publishedAt": "Fri, 26 Jun 2026 09:30:59 +0000",
       "politicalScore": 10,
       "eventKey": "peru-elecciones-peru-elecciones-cual-cantidad",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 3
+    },
+    {
+      "id": "b463485be029b840",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Fuerte emplazamiento de la Justicia: reclama al juez de Campana que envíe de manera “muy urgente” la causa de la mansión de la AFA",
+      "summary": "Pasaron 13 días desde que se ordenó enviar la causa vinculada a Toviggino a la jueza Straccia; ahora la Cámara le propinó otro revés a los supuestos testaferros del dirigente, mano derecha de Chiqui Tapia",
+      "url": "https://www.lanacion.com.ar/politica/reclaman-que-el-juez-de-campana-envie-de-manera-muy-urgente-el-caso-de-la-quinta-de-pilar-al-fuero-nid25062026/",
+      "publishedAt": "Fri, 26 Jun 2026 07:28:04 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-elecciones-argentina-elecciones-fuerte-emplazamiento",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
     },
     {
       "id": "c3dbe51fb0cd17b6",
@@ -310,25 +294,8 @@
       "publishedAt": "Thu, 25 Jun 2026 22:50:38 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b463485be029b840",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Fuerte emplazamiento de la Justicia: reclama al juez de Campana que envíe de manera “muy urgente” la causa de la mansión de la AFA",
-      "summary": "Pasaron 13 días desde que se ordenó enviar la causa vinculada a Toviggino a la jueza Straccia; ahora la Cámara le propinó otro revés a los supuestos testaferros del dirigente, mano derecha de Chiqui Tapia",
-      "url": "https://www.lanacion.com.ar/politica/reclaman-que-el-juez-de-campana-envie-de-manera-muy-urgente-el-caso-de-la-quinta-de-pilar-al-fuero-nid25062026/",
-      "publishedAt": "Thu, 25 Jun 2026 22:24:55 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-fuerte-emplazamiento",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -344,8 +311,8 @@
       "publishedAt": "Thu, 25 Jun 2026 06:15:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tragedia-algunas",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -361,8 +328,42 @@
       "publishedAt": "Wed, 24 Jun 2026 23:03:22 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-oposicion-nicaraguense",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "808da98a26813c53",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "La pregunta incómoda: ¿voto fusil o voto pistola?",
+      "summary": "¿Voto fusil o voto pistola? Un análisis de los 1.122 municipios colombianos muestra que la violencia reciente no explica el resultado electoral del 21 de junio de 2026. Lo que sí aparece es el control armado consolidado. The post La pregunta incómoda: ¿voto fu",
+      "url": "https://www.lasillavacia.com/red-de-expertos/voto-fusil-colombia-2026/",
+      "publishedAt": "Fri, 26 Jun 2026 09:00:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "colombia-seguridad-colombia-seguridad-pregunta-incomoda",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "eb7452452a413acf",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Javier Milei, sobre Manuel Adorni: “Si la Justicia lo considera culpable, lo eyecto de una patada”",
+      "summary": "Desde España, el Presidente fue consultado por la situación del jefe de Gabinete y aseguró que cree en su honestidad; calificó como “plausible” la explicación del exvocero sobre su patrimonio",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-sobre-manuel-adorni-si-la-justicia-lo-considera-culpable-lo-eyecto-de-una-patada-nid26062026/",
+      "publishedAt": "Fri, 26 Jun 2026 07:22:59 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-javier-milei",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -378,8 +379,8 @@
       "publishedAt": "Thu, 25 Jun 2026 03:24:57 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-sanchez-socios",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -395,8 +396,8 @@
       "publishedAt": "Wed, 24 Jun 2026 15:00:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tribunal-autoriza",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -412,8 +413,8 @@
       "publishedAt": "Fri, 26 Jun 2026 01:14:07 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-gobierno-envia",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -429,8 +430,8 @@
       "publishedAt": "Thu, 25 Jun 2026 22:23:02 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-elecciones-colombia-elecciones-funciona-escrutinio",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -446,8 +447,8 @@
       "publishedAt": "Thu, 25 Jun 2026 21:47:33 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-carf",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -463,25 +464,8 @@
       "publishedAt": "Wed, 24 Jun 2026 22:39:23 +0200",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-agenda-zapatero",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7a2bebd9dcddbca6",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Asamblea General de la OEA condena las violaciones a los derechos humanos en Nicaragua",
-      "summary": "La Asamblea General de la Organización de Estados Americanos (OEA) condenó las violaciones a los derechos humanos en Nicaragua, con casos que podrían considerarse como crímenes de lesa humanidad, y expresó su “profunda preocupación” por la muerte del líder ind",
-      "url": "https://confidencial.digital/politica/asamblea-general-de-la-oea-condena-las-violaciones-a-los-derechos-humanos-en-nicaragua/",
-      "publishedAt": "Wed, 24 Jun 2026 07:15:00 +0000",
-      "politicalScore": 8,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-asamblea-general",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -497,8 +481,8 @@
       "publishedAt": "Wed, 24 Jun 2026 00:18:03 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-senado-decidira",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -514,8 +498,8 @@
       "publishedAt": "Thu, 25 Jun 2026 23:19:16 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -531,25 +515,8 @@
       "publishedAt": "Thu, 25 Jun 2026 22:24:08 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "99651a0bd94fc49a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "La nueva comunicación del Gobierno con la dupla Ravier-Fernández: más agenda mileísta y un “reseteo” con los medios",
-      "summary": "El vocero y el secretario intentarán darle mayor impacto público a la gestión; buscarían bajar la tensión con la prensa; ya se confirmó una conferencia para la semana que viene",
-      "url": "https://www.lanacion.com.ar/politica/la-nueva-comunicacion-del-gobierno-con-la-dupla-ravier-fernandez-mas-agenda-mileista-y-un-reseteo-nid25062026/",
-      "publishedAt": "Thu, 25 Jun 2026 20:00:53 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-nueva",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -565,25 +532,8 @@
       "publishedAt": "Thu, 25 Jun 2026 09:26:10 +0200",
       "politicalScore": 7,
       "eventKey": "espana-economia-politica-espana-economia-politica-moreno",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9a98bd5abca1ec63",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "El presidente Trump perdió la guerra de Irán",
-      "summary": "El acuerdo preliminar que podría poner fin a la guerra del presidente Donald Trump contra Irán, que se ha prolongado por cuatro meses, es bienvenido, pero conlleva realidades difíciles. Trump cometió un terrible error al iniciar esta guerra. La llevó a cabo de",
-      "url": "https://confidencial.digital/opinion/el-presidente-trump-perdio-la-guerra-de-iran/",
-      "publishedAt": "Wed, 24 Jun 2026 06:15:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-presidente-trump",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -599,25 +549,8 @@
       "publishedAt": "Tue, 23 Jun 2026 00:04:32 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-detecta",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3471eae29228f7b3",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Feijóo acusa a Sánchez de “indisciplina” al poder legislativo si no dimite tras la votación no vinculante del Congreso",
-      "summary": "El líder del PP amaga con la moción de censura y afirma que “ha tomado buena nota” de que PP, Vox y Junts han votado juntos a favor de pedir la renuncia del presidente",
-      "url": "https://elpais.com/espana/2026-06-25/feijoo-amaga-con-la-mocion-de-censura-tras-la-votacion-que-pide-la-dimision-a-sanchez.html",
-      "publishedAt": "Thu, 25 Jun 2026 13:56:23 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-feijoo-acusa",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -633,8 +566,8 @@
       "publishedAt": "Thu, 25 Jun 2026 14:19:23 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-zapatero-pide",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -650,8 +583,8 @@
       "publishedAt": "Tue, 23 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-instituciones-espana-instituciones-descomposicion-politica",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -667,8 +600,25 @@
       "publishedAt": "Thu, 25 Jun 2026 20:18:48 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscal",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4089331740952f5e",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Juicio de los Cuadernos: las maniobras de los empresarios para extraer efectivo y los “castigos” del kirchnerismo a los empleados de la ex-AFIP que los descubrieron",
+      "summary": "Supervisores de la agencia de recaudación declararon sobre inconsistencias contables detectadas en firmas como Isolux, Iecsa y Esuco; también, cómo fueron amonestados",
+      "url": "https://www.lanacion.com.ar/politica/juicio-de-los-cuadernos-las-maniobras-de-los-empresarios-investigados-para-extraer-efectivo-de-la-nid25062026/",
+      "publishedAt": "Fri, 26 Jun 2026 07:31:37 +0000",
+      "politicalScore": 5,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-juicio",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -684,8 +634,8 @@
       "publishedAt": "Fri, 26 Jun 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-expresidente-diputacion",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -701,25 +651,8 @@
       "publishedAt": "Fri, 26 Jun 2026 00:46:13 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-elecciones-colombia-elecciones-eleccion-cerrada",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c07e9297aca531b9",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "U. de Antioquia tiene nuevo rector y no es de la cuerda del gobernador",
-      "summary": "Se trata de Luquegi Gil, quien asumirá una vez el gobierno nacional derogue al rectoría temporal de Héctor García. The post U. de Antioquia tiene nuevo rector y no es de la cuerda del gobernador appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/u-de-antioquia-tiene-nuevo-rector-y-no-es-de-la-cuerda-del-gobernador/",
-      "publishedAt": "Thu, 25 Jun 2026 20:26:49 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-antioquia-tiene",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -735,42 +668,8 @@
       "publishedAt": "Thu, 25 Jun 2026 19:43:06 +0200",
       "politicalScore": 5,
       "eventKey": "espana-elecciones-espana-elecciones-moda-chanquete",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ae96196731b036e1",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Zapatero pide al juez que declare la “nulidad general” del ‘caso Plus Ultra’ por vulnerar sus derechos fundamentales",
-      "summary": "El expresidente presenta un escrito ante la Audiencia Nacional para reclamar que se excluyan “todas las evidencias obtenidas”",
-      "url": "https://elpais.com/espana/2026-06-25/zapatero-pide-al-juez-que-declare-la-nulidad-del-caso-plus-ultra.html",
-      "publishedAt": "Thu, 25 Jun 2026 13:24:53 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-zapatero-pide",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a97f3d76c3d8f860",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El juez ordena investigar las filtraciones del caso que mantiene imputado a Zapatero",
-      "summary": "El magistrado Calama toma la iniciativa tras difundirse las agendas del expresidente y las conversaciones con su secretaria",
-      "url": "https://elpais.com/espana/2026-06-25/el-juez-ordena-investigar-las-filtraciones-del-caso-que-mantiene-imputado-a-zapatero.html",
-      "publishedAt": "Thu, 25 Jun 2026 12:24:32 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-ordena",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -786,8 +685,8 @@
       "publishedAt": "Thu, 25 Jun 2026 08:00:01 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-cobros-corte",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -803,8 +702,8 @@
       "publishedAt": "Thu, 25 Jun 2026 00:53:27 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-ordena-sumarios",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -820,8 +719,42 @@
       "publishedAt": "Wed, 24 Jun 2026 17:39:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-keiko-fujimori",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9a4bebb793cd6110",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La gran familia transnacional nicaragüense",
+      "summary": "La vida transnacional en Nicaragua se respira día a día en el país, en medio de complejidades y realidades, para los que están aquí y allá, y por supuesto, pone en entredicho a la dictadura misma. Esta complejidad se refleja en la dispersión de la vida transna",
+      "url": "https://confidencial.digital/opinion/la-gran-familia-transnacional-nicaraguense/",
+      "publishedAt": "Fri, 26 Jun 2026 06:15:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-gran-familia",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "79ac12027ed6e708",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "El “voto fusil” no explica las mesas 100% de Cepeda, el voto resguardo sí",
+      "summary": "En segunda vuelta se acentuó el fenómeno anómalo de votaciones unánimes para el candidato del Pacto. Las más grandes están en resguardos que apoyaron al Pacto. The post El “voto fusil” no explica las mesas 100% de Cepeda, el voto resguardo sí appeared first on",
+      "url": "https://www.lasillavacia.com/silla-nacional/el-voto-fusil-no-explica-las-mesas-100-de-cepeda-el-voto-resguardo-si/",
+      "publishedAt": "Fri, 26 Jun 2026 05:02:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-voto-fusil",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -837,8 +770,8 @@
       "publishedAt": "Fri, 26 Jun 2026 00:17:24 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-insaurralde",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -854,8 +787,8 @@
       "publishedAt": "Thu, 25 Jun 2026 22:58:22 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sabe",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -871,25 +804,8 @@
       "publishedAt": "Thu, 25 Jun 2026 20:45:26 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-jorge-rodriguez",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d987b99ed68e9822",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "“Nos vendió”: activistas petristas critican campaña de Cepeda",
-      "summary": "Algunas de las voces más fuertes del petrismo le reclaman al excandidato tener una campaña cerrada y ser “incapaz de la autocrítica”. The post “Nos vendió”: activistas petristas critican campaña de Cepeda appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/nos-vendio-activistas-petristas-critican-campana-de-cepeda/",
-      "publishedAt": "Thu, 25 Jun 2026 20:21:24 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-elecciones-colombia-elecciones-vendio-activistas",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -905,8 +821,8 @@
       "publishedAt": "Thu, 25 Jun 2026 18:28:05 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-terremotos-region",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -922,25 +838,8 @@
       "publishedAt": "Thu, 25 Jun 2026 15:28:25 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-venezuela-vivio",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "181feebaa025a6d2",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La Audiencia de Madrid estudiará el 13 de julio los recursos contra el auto de Peinado de juzgar a Begoña Gómez y que sea con un jurado popular",
-      "summary": "La sección 23 de la Audiencia madrileña ha señalado ese día para deliberar a puerta cerrada sobre los recursos de la Fiscalía y las defensas y ha decidido que sea la sección en pleno quien lo haga&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/25/6a3d17cde4d4d890398b45ad.html",
-      "publishedAt": "Thu, 25 Jun 2026 14:18:13 +0200",
-      "politicalScore": 4,
-      "eventKey": "espana-economia-politica-espana-economia-politica-audiencia",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -956,8 +855,8 @@
       "publishedAt": "Thu, 25 Jun 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-otro-tanto",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -973,8 +872,25 @@
       "publishedAt": "Wed, 24 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-instituciones-espana-instituciones-debate-estan",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7671a4bc7b0d7772",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Alertan del riesgo “muy alto” de sufrir torturas en Nicaragua",
+      "summary": "En Nicaragua el peligro de sufrir tortura es “muy alto”. Las cárceles de la Dirección de Auxilio Judicial, conocida como El Chipote, y el Sistema Penitenciario Nacional, La Modelo, se han convertido en “centros de tortura” y la impunidad por esos actos crueles",
+      "url": "https://confidencial.digital/nacion/alertan-del-riesgo-muy-alto-de-sufrir-torturas-en-nicaragua/",
+      "publishedAt": "Fri, 26 Jun 2026 07:10:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-alertan-riesgo",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -990,8 +906,8 @@
       "publishedAt": "Fri, 26 Jun 2026 00:08:09 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-montevideo-mirando",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1007,8 +923,8 @@
       "publishedAt": "Thu, 25 Jun 2026 23:02:26 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-hospital-periferico",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1024,8 +940,8 @@
       "publishedAt": "Thu, 25 Jun 2026 22:50:01 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-califica-aterradora",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1041,8 +957,8 @@
       "publishedAt": "Thu, 25 Jun 2026 20:09:07 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-regimen-cubano",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1058,8 +974,8 @@
       "publishedAt": "Thu, 25 Jun 2026 19:43:55 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cidh-otorga",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1075,8 +991,8 @@
       "publishedAt": "Thu, 25 Jun 2026 16:17:15 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sistema-admision",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1092,8 +1008,8 @@
       "publishedAt": "Thu, 25 Jun 2026 16:02:54 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-caos-desolacion",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1109,8 +1025,8 @@
       "publishedAt": "Thu, 25 Jun 2026 15:49:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-volvamos-hablar",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1126,8 +1042,8 @@
       "publishedAt": "Thu, 25 Jun 2026 14:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-evoluciona-periodismo",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1143,8 +1059,8 @@
       "publishedAt": "Thu, 25 Jun 2026 10:56:23 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-trump-manda",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1160,8 +1076,8 @@
       "publishedAt": "Thu, 25 Jun 2026 00:38:20 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-terremotos-sacuden",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1177,8 +1093,8 @@
       "publishedAt": "Wed, 24 Jun 2026 20:49:35 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-excarcelan-adolescente",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1194,25 +1110,8 @@
       "publishedAt": "Wed, 24 Jun 2026 20:13:36 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-pudieras-vacunarte",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
-      "seenCount": 1
-    },
-    {
-      "id": "885747cac2ecae6e",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Antenas 6G podrán “vernos”: qué hacer para que no nos espíen",
-      "summary": "¿Qué le sigue al hito de la tecnología 5G y las preocupaciones con que se le asociaba? Al menos en la denominación, no hay gran misterio: el mundo ya debate y se preocupa por el nuevo estándar de telecomunicaciones de sexta generación: 6G. Las antenas de 6G no",
-      "url": "https://confidencial.digital/revista-niu/antenas-6g-podran-vernos-que-hacer-para-que-no-nos-espien/",
-      "publishedAt": "Wed, 24 Jun 2026 14:30:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-antenas-podran",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1228,8 +1127,8 @@
       "publishedAt": "Wed, 24 Jun 2026 11:00:51 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-canciller-cubano",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1245,8 +1144,8 @@
       "publishedAt": "Wed, 24 Jun 2026 08:00:18 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-claveunica-redes",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1262,8 +1161,8 @@
       "publishedAt": "Tue, 23 Jun 2026 22:21:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-subsecretaria-prevencion",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1279,8 +1178,8 @@
       "publishedAt": "Tue, 23 Jun 2026 08:00:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-colombia-frente",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1296,8 +1195,8 @@
       "publishedAt": "Tue, 23 Jun 2026 08:00:42 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-promesa-rota",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1313,8 +1212,8 @@
       "publishedAt": "Tue, 23 Jun 2026 08:00:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-colapso-moral",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     },
     {
@@ -1330,8 +1229,8 @@
       "publishedAt": "Tue, 23 Jun 2026 08:00:37 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-banksy-gratuidad",
-      "firstSeenAt": "2026-06-26T04:09:29.568Z",
-      "lastSeenAt": "2026-06-26T04:09:29.568Z",
+      "firstSeenAt": "2026-06-26T09:36:45.732Z",
+      "lastSeenAt": "2026-06-26T09:36:45.732Z",
       "seenCount": 1
     }
   ]
