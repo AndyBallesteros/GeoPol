@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-29T04:24:34.711Z",
-  "count": 68,
+  "generatedAt": "2026-06-29T11:10:00.367Z",
+  "count": 69,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-06-29T04:24:34.711Z",
-    "activeSignals": 68,
-    "archiveSignals": 125,
+    "generatedAt": "2026-06-29T11:10:00.367Z",
+    "activeSignals": 69,
+    "archiveSignals": 126,
     "countriesCovered": 9,
-    "highPrioritySignals": 23,
-    "averagePoliticalScore": 5.59
+    "highPrioritySignals": 25,
+    "averagePoliticalScore": 5.75
   },
   "briefings": [
     {
@@ -72,6 +72,23 @@
       "summary": "Foco en Sociedad, Seguridad, Economia politica. Vigilar 14ymedio y 14ymedio."
     },
     {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "Feijóo siembra dudas sobre el incremento del censo por la ‘ley de nietos’: “Es ingeniería electoral, fabricar nuevos votantes”",
+      "leadUrl": "https://elpais.com/espana/2026-06-29/feijoo-siembra-dudas-sobre-el-incremento-del-censo-y-propone-que-el-partido-que-gane-las-elecciones-tenga-un-plus-de-diputados.html",
+      "focusTopics": [
+        "Elecciones",
+        "Economia politica",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Pais",
+        "El Mundo"
+      ],
+      "signalCount": 6,
+      "summary": "Foco en Elecciones, Economia politica, Gobernabilidad. Vigilar El Pais y El Pais."
+    },
+    {
       "country": "Uruguay",
       "priority": "Alta",
       "leadTitle": "Rendición de Cuentas: el PN hará una “evaluación política” de la gestión del gobierno para definir si vota el proyecto en general",
@@ -101,37 +118,6 @@
       "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "Las autonómicas y municipales de 2027 justifican la cohesión mayoritaria en el PSOE",
-      "leadUrl": "https://elpais.com/espana/2026-06-29/las-autonomicas-y-municipales-de-2027-justifican-la-cohesion-mayoritaria-en-el-psoe.html",
-      "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Pais",
-        "El Mundo"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Mundo."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
-      "leadUrl": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
-      "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
-    },
-    {
       "country": "Venezuela",
       "priority": "Alta",
       "leadTitle": "Gobierno extiende suspensión de clases y crea comisiones de habitabilidad y reconstrucción",
@@ -144,9 +130,40 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
+      "leadUrl": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Elecciones. Vigilar El Comercio."
     }
   ],
   "signals": [
+    {
+      "id": "d386f0d4fcbbd2a6",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Feijóo siembra dudas sobre el incremento del censo por la ‘ley de nietos’: “Es ingeniería electoral, fabricar nuevos votantes”",
+      "summary": "El líder del PP propone cambiar la norma para dar un “plus de diputados” a la lista más votada en unas elecciones",
+      "url": "https://elpais.com/espana/2026-06-29/feijoo-siembra-dudas-sobre-el-incremento-del-censo-y-propone-que-el-partido-que-gane-las-elecciones-tenga-un-plus-de-diputados.html",
+      "publishedAt": "Mon, 29 Jun 2026 10:32:21 GMT",
+      "politicalScore": 15,
+      "eventKey": "espana-elecciones-espana-elecciones-feijoo-siembra",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
+      "seenCount": 1
+    },
     {
       "id": "67e18c270de4ccb9",
       "country": "Uruguay",
@@ -160,8 +177,8 @@
       "publishedAt": "Sun, 28 Jun 2026 20:49:22 -0300",
       "politicalScore": 13,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-rendicion-cuentas",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -177,8 +194,8 @@
       "publishedAt": "Sun, 28 Jun 2026 20:02:06 -0300",
       "politicalScore": 12,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-gobierno-coordina",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -194,8 +211,8 @@
       "publishedAt": "Sun, 28 Jun 2026 21:57:01 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-designacion",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -208,11 +225,11 @@
       "title": "Cuál es la cantidad de votos que separa a Keiko Fujimori y Roberto Sánchez, según resultados oficiales de la ONPE",
       "summary": "Ultima actualizacion de El Comercio.",
       "url": "https://elcomercio.pe/politica/elecciones/cual-es-la-cantidad-de-votos-que-separa-a-keiko-fujimori-y-roberto-sanchez-segun-ultimos-resultados-onpe-de-la-segunda-vuelta-elecciones-peru-2026-noticia/",
-      "publishedAt": "Mon, 29 Jun 2026 04:10:59 +0000",
+      "publishedAt": "Mon, 29 Jun 2026 11:01:00 +0000",
       "politicalScore": 10,
       "eventKey": "peru-elecciones-peru-elecciones-cual-cantidad",
       "firstSeenAt": "2026-06-18T08:35:01.479Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 3
     },
     {
@@ -228,8 +245,8 @@
       "publishedAt": "Sun, 28 Jun 2026 20:31:33 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-planteo",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -245,8 +262,8 @@
       "publishedAt": "Sat, 27 Jun 2026 06:15:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-marea-naranja",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -262,8 +279,8 @@
       "publishedAt": "Fri, 26 Jun 2026 23:59:53 +0000",
       "politicalScore": 10,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -279,8 +296,8 @@
       "publishedAt": "Mon, 29 Jun 2026 03:01:00 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-exsecretario",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -296,8 +313,8 @@
       "publishedAt": "Mon, 29 Jun 2026 02:01:25 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -313,8 +330,8 @@
       "publishedAt": "Mon, 29 Jun 2026 01:17:00 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diego",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -330,8 +347,8 @@
       "publishedAt": "Mon, 29 Jun 2026 00:33:23 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -347,25 +364,42 @@
       "publishedAt": "Mon, 29 Jun 2026 00:11:21 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-mauricio",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
-      "id": "5860c837630b1f36",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "055eb693b96d81be",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "La secretaria de Zapatero, María Gertrudis Alcázar, en el Senado: “Voy a mantenerme en silencio. No es un desaire”",
+      "summary": "El juez Calama calificó en su auto que el despacho del expresidente era un lugar “de coordinación, elaboración y archivo de la documentación que sustenta la actividad económica y financiera del entramado”",
+      "url": "https://elpais.com/espana/2026-06-29/la-secretaria-de-zapatero-maria-gertrudis-alcazar-en-el-senado-voy-a-mantenerme-en-silencio-no-es-un-desaire.html",
+      "publishedAt": "Mon, 29 Jun 2026 11:01:53 GMT",
+      "politicalScore": 8,
+      "eventKey": "espana-economia-politica-espana-economia-politica-secretaria",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
+      "seenCount": 1
+    },
+    {
+      "id": "94f0a3d423fd3960",
+      "country": "Espana",
+      "source": "El Mundo",
       "sourceType": "Generalista",
       "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Luis Galarreta sobre el primer Gabinete de Keiko Fujimori: “La visión es tener a los mejores profesionales, tecnócratas y políticos”",
-      "summary": "A la espera de que se confirmen los resultados al 100%, el candidato a la primera vicepresidencia de Fuerza Popular, Luis Galarreta, afirmó que la visión del primer Gabinete Ministerial de Keiko Fujimori es tener a los “mejores profesionales, tecnócratas y pol",
-      "url": "https://elcomercio.pe/politica/elecciones/luis-galarreta-sobre-el-primer-gabinete-de-keiko-fujimori-la-vision-es-tener-a-los-mejores-profesionales-tecnocratas-y-politicos-fuerza-popular-ultimas-noticia/",
-      "publishedAt": "Mon, 29 Jun 2026 03:36:25 +0000",
+      "title": "Ayuso explota contra la Ley de Nietos: \"La intención de Sánchez es cambiar el censo electoral\"",
+      "summary": "La presidenta madrileña denuncia la maniobra \"ilegal\" del Gobierno: \"Argentina va a ser la tercera provincia en votantes\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/madrid/2026/06/29/6a4230cefc6c834e628b456d.html",
+      "publishedAt": "Mon, 29 Jun 2026 10:51:14 +0200",
       "politicalScore": 8,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-luis-galarreta",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ayuso-explota",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -381,8 +415,25 @@
       "publishedAt": "Mon, 29 Jun 2026 00:03:54 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-instituciones-uruguay-instituciones-general-condenado",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
+      "seenCount": 1
+    },
+    {
+      "id": "17ac95e164563916",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La influencia de Zapatero en el Gobierno: citas con 11 ministros y 10 encuentros con Sánchez",
+      "summary": "Sus agendas reflejan varias citas con el presidente y su Gobierno mientras cobraba de asesor&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/06/29/6a414b0fe85ece084d8b457b.html",
+      "publishedAt": "Mon, 29 Jun 2026 02:48:22 +0200",
+      "politicalScore": 8,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-influencia-zapatero",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -398,8 +449,8 @@
       "publishedAt": "Sun, 28 Jun 2026 23:20:43 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-extiende",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -415,8 +466,8 @@
       "publishedAt": "Sun, 28 Jun 2026 19:59:37 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-ejercito-acondiciono",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -432,8 +483,8 @@
       "publishedAt": "Sun, 28 Jun 2026 17:25:47 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-consejo-estado",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -449,8 +500,8 @@
       "publishedAt": "Sun, 28 Jun 2026 15:17:03 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-tiene-casa",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -466,8 +517,8 @@
       "publishedAt": "Sat, 27 Jun 2026 13:30:56 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-sociedad-cuba-sociedad-reformas-retorno",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -483,8 +534,8 @@
       "publishedAt": "Fri, 26 Jun 2026 01:14:07 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-gobierno-envia",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -500,25 +551,8 @@
       "publishedAt": "Sun, 28 Jun 2026 23:39:16 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-segun",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6f4c304542ec9cda",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Las autonómicas y municipales de 2027 justifican la cohesión mayoritaria en el PSOE",
-      "summary": "El primer trimestre del nuevo año se cita en la mayoría de los grupos parlamentarios para celebrar las elecciones generales",
-      "url": "https://elpais.com/espana/2026-06-29/las-autonomicas-y-municipales-de-2027-justifican-la-cohesion-mayoritaria-en-el-psoe.html",
-      "publishedAt": "Mon, 29 Jun 2026 03:30:01 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-elecciones-espana-elecciones-autonomicas-municipales",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -534,8 +568,8 @@
       "publishedAt": "Sun, 28 Jun 2026 13:16:12 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-gaesa-traspasa",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -551,8 +585,8 @@
       "publishedAt": "Mon, 29 Jun 2026 02:13:41 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-cambio",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -568,8 +602,8 @@
       "publishedAt": "Sun, 28 Jun 2026 23:08:30 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diego",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -585,8 +619,8 @@
       "publishedAt": "Sat, 27 Jun 2026 19:09:58 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-elevan-1450",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -602,25 +636,8 @@
       "publishedAt": "Sat, 27 Jun 2026 01:54:41 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-tragedia-apura",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2d800a7f1b1805a4",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Más de 100 edificios colapsados tras terremotos en Venezuela",
-      "summary": "Más de 100 edificios colapsaron en el estado costero La Guaira (norte, cercano a Caracas) debido a los terremotos de este miércoles de magnitud 7.2 y 7.5 en Venezuela, respectivamente, informó el ministro de Interior, Diosdado Cabello. “Se estiman que son más ",
-      "url": "https://confidencial.digital/mundo/mas-de-100-edificios-colapsados-tras-terremotos-en-venezuela/",
-      "publishedAt": "Fri, 26 Jun 2026 07:00:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-edificios-colapsados",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -636,8 +653,8 @@
       "publishedAt": "Sun, 28 Jun 2026 22:27:24 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-restrepo-pide",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -653,8 +670,8 @@
       "publishedAt": "Sun, 28 Jun 2026 22:09:23 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-maria-corina",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -670,8 +687,8 @@
       "publishedAt": "Sun, 28 Jun 2026 21:30:18 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-orgullo-lgbtiq",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -687,25 +704,25 @@
       "publishedAt": "Sun, 28 Jun 2026 16:26:15 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-pide",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
-      "id": "52e8e97afc1e0245",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "0f81853f7bdb7a51",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "Ex jefes de la UCO contradicen a Mercedes González: ratifican al juez que les pidieron \"ponerse de perfil\" en el caso del hermano de Sánchez y niegan que les informara de sus contactos con la 'fontanera'",
-      "summary": "Han testificado ante el juez de la Audiencia Nacional Santiago Pedraz en la causa en la que se investigan las maniobras para desactivar las causas que perjudicaban al Gobierno y al PSOE&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/26/6a3e6853fdddff7f6b8b45d6.html",
-      "publishedAt": "Fri, 26 Jun 2026 15:54:08 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-jefes-contradicen",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "title": "Nicaragua recibe a más de 100 extranjeros deportados de Estados Unidos",
+      "summary": "La Administración de Donald Trump ha deportado a Nicaragua a 116 extranjeros, entre enero de 2025 y junio de 2026, según datos recuperados del Proyecto de Datos sobre Deportaciones, analizados por CONFIDENCIAL. Públicamente, Nicaragua no tiene un convenio como",
+      "url": "https://confidencial.digital/nacion/nicaragua-recibe-a-mas-de-100-extranjeros-deportados-de-estados-unidos/",
+      "publishedAt": "Mon, 29 Jun 2026 06:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-recibe-extranjeros",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -721,8 +738,8 @@
       "publishedAt": "Mon, 29 Jun 2026 03:01:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-solo",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -738,8 +755,8 @@
       "publishedAt": "Mon, 29 Jun 2026 00:43:42 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-busqueda-vida",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -755,8 +772,8 @@
       "publishedAt": "Mon, 29 Jun 2026 00:28:58 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -772,8 +789,8 @@
       "publishedAt": "Sun, 28 Jun 2026 21:23:37 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tension",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -789,8 +806,8 @@
       "publishedAt": "Sun, 28 Jun 2026 18:51:23 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-fallece",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -806,8 +823,8 @@
       "publishedAt": "Sun, 28 Jun 2026 14:53:03 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-venezuela-preparativos",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -823,8 +840,8 @@
       "publishedAt": "Sun, 28 Jun 2026 14:40:10 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-regreso-jordi",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -840,8 +857,8 @@
       "publishedAt": "Sun, 28 Jun 2026 08:00:06 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-territorio-digital",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -857,8 +874,8 @@
       "publishedAt": "Sun, 28 Jun 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-crisis-cafetales",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -874,8 +891,8 @@
       "publishedAt": "Sun, 28 Jun 2026 05:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-elecciones-colombia-elecciones-abelardo-llega",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -891,8 +908,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-exigir-pedro",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -908,8 +925,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-agendas-rodriguez",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -925,8 +942,8 @@
       "publishedAt": "Sat, 27 Jun 2026 08:00:55 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-deuda",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -942,8 +959,8 @@
       "publishedAt": "Sat, 27 Jun 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-paises-emplean",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -959,8 +976,8 @@
       "publishedAt": "Sat, 27 Jun 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reto-democratico",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -976,8 +993,8 @@
       "publishedAt": "Fri, 26 Jun 2026 17:34:51 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-habitantes-guaira",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -993,25 +1010,25 @@
       "publishedAt": "Fri, 26 Jun 2026 16:52:31 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-washington",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
-      "id": "9a4bebb793cd6110",
+      "id": "16daa734826c14b2",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
       "topic": "Instituciones",
       "priority": "Media",
-      "title": "La gran familia transnacional nicaragüense",
-      "summary": "La vida transnacional en Nicaragua se respira día a día en el país, en medio de complejidades y realidades, para los que están aquí y allá, y por supuesto, pone en entredicho a la dictadura misma. Esta complejidad se refleja en la dispersión de la vida transna",
-      "url": "https://confidencial.digital/opinion/la-gran-familia-transnacional-nicaraguense/",
-      "publishedAt": "Fri, 26 Jun 2026 06:15:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-gran-familia",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "title": "El fin de la izquierda. ¿Y después?",
+      "summary": "Es muy importante elegir bien el título de un libro. Por una parte, un título debe explicitar muy bien su contenido. Por otra, ha de atender a razones, si no comerciales, que ayuden a la divulgación. Por lo general, a diferencias de un trabajo académico, el tí",
+      "url": "https://confidencial.digital/sin-categoria/el-fin-de-la-izquierda-y-despues/",
+      "publishedAt": "Mon, 29 Jun 2026 06:10:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-izquierda-despues",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1027,8 +1044,8 @@
       "publishedAt": "Mon, 29 Jun 2026 00:03:53 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-otra-nuevo",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1044,8 +1061,8 @@
       "publishedAt": "Sun, 28 Jun 2026 13:04:18 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-fria-solidaridad",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1061,8 +1078,8 @@
       "publishedAt": "Sun, 28 Jun 2026 04:19:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-impunidad-cronica",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1078,8 +1095,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:21:39 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-crisis-natalidad",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1095,8 +1112,8 @@
       "publishedAt": "Sat, 27 Jun 2026 18:08:44 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-guantanamo-vive",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1112,8 +1129,8 @@
       "publishedAt": "Sat, 27 Jun 2026 11:48:28 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-agua-tambien",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1129,8 +1146,8 @@
       "publishedAt": "Sat, 27 Jun 2026 07:15:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sismos-venezuela",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1146,8 +1163,8 @@
       "publishedAt": "Sat, 27 Jun 2026 01:01:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-modificaciones-hablamos",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1163,8 +1180,8 @@
       "publishedAt": "Fri, 26 Jun 2026 17:54:33 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-subsecretaria-prevencion",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1180,8 +1197,8 @@
       "publishedAt": "Fri, 26 Jun 2026 17:50:35 +0000",
       "politicalScore": 3,
       "eventKey": "chile-diplomacia-chile-diplomacia-estacion-central",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1197,8 +1214,8 @@
       "publishedAt": "Fri, 26 Jun 2026 17:12:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carta-carlos",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1214,8 +1231,8 @@
       "publishedAt": "Fri, 26 Jun 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-apple-sube",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1231,8 +1248,8 @@
       "publishedAt": "Fri, 26 Jun 2026 13:31:57 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-siete-detenidos",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1248,8 +1265,8 @@
       "publishedAt": "Fri, 26 Jun 2026 07:10:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-alertan-riesgo",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1265,8 +1282,8 @@
       "publishedAt": "Thu, 25 Jun 2026 17:48:25 +0000",
       "politicalScore": 3,
       "eventKey": "chile-diplomacia-chile-diplomacia-podcast-estacion",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1282,8 +1299,8 @@
       "publishedAt": "Thu, 25 Jun 2026 16:17:15 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sistema-admision",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     },
     {
@@ -1299,8 +1316,8 @@
       "publishedAt": "Thu, 25 Jun 2026 15:49:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-volvamos-hablar",
-      "firstSeenAt": "2026-06-29T04:24:34.711Z",
-      "lastSeenAt": "2026-06-29T04:24:34.711Z",
+      "firstSeenAt": "2026-06-29T11:10:00.367Z",
+      "lastSeenAt": "2026-06-29T11:10:00.367Z",
       "seenCount": 1
     }
   ]
