@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-07-01T09:58:44.364Z",
-  "count": 56,
-  "failures": [
-    {
-      "source": "14ymedio-cuba",
-      "error": "fetch failed"
-    }
-  ],
+  "generatedAt": "2026-07-01T14:47:28.632Z",
+  "count": 59,
+  "failures": [],
   "stats": {
-    "generatedAt": "2026-07-01T09:58:44.364Z",
-    "activeSignals": 56,
-    "archiveSignals": 114,
-    "countriesCovered": 7,
+    "generatedAt": "2026-07-01T14:47:28.632Z",
+    "activeSignals": 59,
+    "archiveSignals": 117,
+    "countriesCovered": 8,
     "highPrioritySignals": 23,
-    "averagePoliticalScore": 6.55
+    "averagePoliticalScore": 6.42
   },
   "briefings": [
     {
@@ -32,21 +27,6 @@
       "summary": "Foco en Probidad, Economia politica. Vigilar CIPER y CIPER."
     },
     {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "Milei convocó a los legisladores oficialistas para intentar reactivar la agenda en el Congreso",
-      "leadUrl": "https://www.lanacion.com.ar/politica/milei-convoco-a-los-legisladores-oficialistas-para-intentar-reactivar-la-agenda-en-el-congreso-nid01072026/",
-      "focusTopics": [
-        "Economia politica",
-        "Instituciones"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
-    },
-    {
       "country": "Nicaragua",
       "priority": "Alta",
       "leadTitle": "Bukele, “el rey desnudo” se reelegirá (otra vez) en 2027, bendecido por Trump",
@@ -61,50 +41,81 @@
       "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Milei convocó a los legisladores oficialistas para intentar reactivar la agenda en el Congreso",
+      "leadUrl": "https://www.lanacion.com.ar/politica/milei-convoco-a-los-legisladores-oficialistas-para-intentar-reactivar-la-agenda-en-el-congreso-nid01072026/",
+      "focusTopics": [
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 11,
+      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "La gobernabilidad de De la Espriella se decidirá en el Congreso",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-social/la-gobernabilidad-de-de-la-espriella-se-decidira-en-el-congreso/",
+      "focusTopics": [
+        "Gobernabilidad",
+        "Economia politica",
+        "Seguridad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 7,
+      "summary": "Foco en Gobernabilidad, Economia politica, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "El juez Pedraz llama a declarar al que fuera mano derecha de García Ortíz en la Fiscalía por sus reuniones con Leire Díez",
+      "leadUrl": "https://elpais.com/espana/2026-07-01/el-juez-pedraz-llama-a-declarar-al-que-fuera-mano-derecha-de-garcia-ortiz-en-la-fiscalia-por-sus-reuniones-con-leire-diez.html",
+      "focusTopics": [
+        "Economia politica",
+        "Diplomacia",
+        "Instituciones"
+      ],
+      "topSources": [
+        "El Pais",
+        "El Mundo"
+      ],
+      "signalCount": 6,
+      "summary": "Foco en Economia politica, Diplomacia, Instituciones. Vigilar El Pais y El Mundo."
+    },
+    {
       "country": "Uruguay",
       "priority": "Alta",
       "leadTitle": "El Poder Ejecutivo modificó por decreto las exoneraciones impositivas de los autos eléctricos",
       "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/7/el-poder-ejecutivo-modifico-por-decreto-las-exoneraciones-impositivas-de-los-autos-electricos/",
       "focusTopics": [
         "Elecciones",
-        "Diplomacia"
+        "Instituciones"
       ],
       "topSources": [
         "La Diaria"
       ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar La Diaria y La Diaria."
+      "summary": "Foco en Elecciones, Instituciones. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Espana",
+      "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Begoña Gómez pide autorización al juez Peinado para viajar a la cumbre de la OTAN en Ankara y a la graduación de su hija en Londres",
-      "leadUrl": "https://www.elmundo.es/espana/2026/06/30/6a438b2821efa0cf0a8b4575.html",
+      "leadTitle": "Nuevo Congreso bicameral: ¿Cómo avanzan las conversaciones para las presidencias del Senado y Cámara de Diputados?",
+      "leadUrl": "https://elcomercio.pe/politica/nuevo-congreso-bicameral-como-avanzan-las-conversaciones-para-las-presidencias-del-senado-y-camara-de-diputados-noticia/",
       "focusTopics": [
         "Gobernabilidad",
-        "Elecciones"
+        "Economia politica"
       ],
       "topSources": [
-        "El Mundo",
-        "El Pais"
+        "El Comercio"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Mundo y El Pais."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Con De la Espriella aterriza la doctrina Donroe de Trump en Colombia",
-      "leadUrl": "https://www.lasillavacia.com/silla-nacional/con-de-la-espriella-aterriza-la-doctrina-donroe-de-trump-en-colombia/",
-      "focusTopics": [
-        "Seguridad",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 2,
+      "summary": "Foco en Gobernabilidad, Economia politica. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Venezuela",
@@ -135,8 +146,8 @@
       "publishedAt": "Wed, 01 Jul 2026 04:00:00 +0000",
       "politicalScore": 23,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -152,8 +163,8 @@
       "publishedAt": "Wed, 01 Jul 2026 06:03:00 +0000",
       "politicalScore": 18,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-bukele-desnudo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -169,8 +180,25 @@
       "publishedAt": "Tue, 30 Jun 2026 06:03:00 +0000",
       "politicalScore": 15,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-daniel-zovatto",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c8de75974bf3db6",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Nuevo Congreso bicameral: ¿Cómo avanzan las conversaciones para las presidencias del Senado y Cámara de Diputados?",
+      "summary": "Nuevo Congreso bicameral | Grupos políticos se preparan para presentar listas a la Mesa Directiva de los dos órganos legislativos. Uno de ellos tiene previsto iniciar los diálogos esta semana.",
+      "url": "https://elcomercio.pe/politica/nuevo-congreso-bicameral-como-avanzan-las-conversaciones-para-las-presidencias-del-senado-y-camara-de-diputados-noticia/",
+      "publishedAt": "Wed, 01 Jul 2026 14:40:25 +0000",
+      "politicalScore": 14,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-nuevo-congreso",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -186,8 +214,8 @@
       "publishedAt": "Wed, 01 Jul 2026 06:15:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-show-tigre",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -203,25 +231,8 @@
       "publishedAt": "Tue, 30 Jun 2026 22:42:18 -0300",
       "politicalScore": 13,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-poder-ejecutivo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b14c0c681a3c6616",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "La Justicia anuló un DNU de Milei que dio facultades a Migraciones para otorgar la ciudadanía argentina",
-      "summary": "La Cámara Nacional Electoral dijo que es un “exceso en las atribuciones” del Poder Ejecutivo; se trata del decreto que cobra por salud y educación a los extranjeros y limita la permanencia en el país",
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-anulo-un-dnu-de-milei-que-dio-facultades-a-migraciones-para-otorgar-la-ciudadania-nid30062026/",
-      "publishedAt": "Wed, 01 Jul 2026 00:04:38 +0000",
-      "politicalScore": 13,
-      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-anulo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -237,8 +248,8 @@
       "publishedAt": "Wed, 01 Jul 2026 05:21:21 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fuerte",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -254,8 +265,8 @@
       "publishedAt": "Wed, 01 Jul 2026 00:14:38 +0000",
       "politicalScore": 10,
       "eventKey": "chile-probidad-chile-probidad-condenan-juez",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -271,8 +282,42 @@
       "publishedAt": "Fri, 26 Jun 2026 23:59:53 +0000",
       "politicalScore": 10,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e7253f815768031c",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La gobernabilidad de De la Espriella se decidirá en el Congreso",
+      "summary": "El nuevo cuatrienio estará marcado por la tensión entre un Ejecutivo de derecha, una oposición fortalecida y un Congreso que definirá el rumbo de las reformas. The post La gobernabilidad de De la Espriella se decidirá en el Congreso appeared first on La Silla ",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-gobernabilidad-de-de-la-espriella-se-decidira-en-el-congreso/",
+      "publishedAt": "Wed, 01 Jul 2026 14:27:18 +0000",
+      "politicalScore": 9,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-decidira",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d7f55d6ca340d74a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Guillermo Francos se refirió a la designación de Santilli como jefe de Gabinete y dijo: “No sé si Adorni era idóneo”",
+      "summary": "El exministro coordinador, que fue reemplazado en octubre por el exvocero, aseguró que el Gobierno lo sostuvo demasiado tiempo a pesar de la investigación por enriquecimiento ilícito",
+      "url": "https://www.lanacion.com.ar/politica/guillermo-francos-se-refirio-a-la-designacion-de-santilli-como-jefe-de-gabinete-y-dijo-no-se-si-nid30062026/",
+      "publishedAt": "Wed, 01 Jul 2026 11:33:24 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-guillermo",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -288,25 +333,8 @@
       "publishedAt": "Wed, 01 Jul 2026 02:49:27 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tolosa",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8f8fa4c492898d0b",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Asignación única para niños y adolescentes: gobierno mantiene las condicionalidades, pero disminuye la sanción por incumplimiento",
-      "summary": "En el proyecto de Rendición de Cuentas se establece que, “agotadas las instancias” de revinculación, se suspenderá únicamente “el pago del 20% de la prestación”. “Asignación Única para la Infancia y la Adolescencia” será el nombre de la nueva y única prestació",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/asignacion-unica-para-ninos-y-adolescentes-gobierno-mantiene-las-condicionalidades-pero-disminuye-la-sancion-por-incumplimiento/",
-      "publishedAt": "Tue, 30 Jun 2026 21:52:44 -0300",
-      "politicalScore": 9,
-      "eventKey": "uruguay-diplomacia-uruguay-diplomacia-asignacion-unica",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -322,8 +350,59 @@
       "publishedAt": "Tue, 30 Jun 2026 15:00:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-keiko-fujimori",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "73aa1bd33dfa217e",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Jorge Díaz: “Lamentablemente vemos, por la razón que sea, a una justicia que opera con mucha lentitud”",
+      "summary": "El prosecretario de Presidencia anunció que el Poder Ejecutivo presentará en los próximos días una tercera ampliación de la denuncia penal por el caso Cardama. El prosecretario de Presidencia, Jorge Díaz, anunció este martes en una entrevista con el programa L",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/jorge-diaz-lamentablemente-vemos-por-la-razon-que-sea-a-una-justicia-que-opera-con-mucha-lentitud/",
+      "publishedAt": "Wed, 01 Jul 2026 11:10:56 -0300",
+      "politicalScore": 8,
+      "eventKey": "uruguay-instituciones-uruguay-instituciones-jorge-diaz",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "40f64c0b6769159b",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "“Se acabó la fiesta”: minHacienda entrante prepara recorte de gasto",
+      "summary": "La hoja de ruta fiscal de Miguel Gómez arranca con dos prioridades: recortar el Estado y revisar los presupuestos. The post “Se acabó la fiesta”: minHacienda entrante prepara recorte de gasto appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/se-acabo-la-fiesta-minhacienda-entrante-prepara-recorte-fiscal/",
+      "publishedAt": "Wed, 01 Jul 2026 13:30:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-acabo",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2d7c154465d1e309",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El juez Pedraz llama a declarar al que fuera mano derecha de García Ortíz en la Fiscalía por sus reuniones con Leire Díez",
+      "summary": "El ministerio público reconoció, a petición del magistrado, que se produjeron dos encuentros",
+      "url": "https://elpais.com/espana/2026-07-01/el-juez-pedraz-llama-a-declarar-al-que-fuera-mano-derecha-de-garcia-ortiz-en-la-fiscalia-por-sus-reuniones-con-leire-diez.html",
+      "publishedAt": "Wed, 01 Jul 2026 11:09:12 GMT",
+      "politicalScore": 8,
+      "eventKey": "espana-economia-politica-espana-economia-politica-juez",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -339,8 +418,8 @@
       "publishedAt": "Wed, 01 Jul 2026 06:07:48 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-funcionaria",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -356,42 +435,42 @@
       "publishedAt": "Wed, 01 Jul 2026 00:01:41 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-comunicacion-puede",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
-      "id": "d6245659d7cbb037",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
+      "id": "47b52570304f1beb",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Oddone y la Rendición de Cuentas: “Estamos convencidos de que la economía lentamente está iniciando una senda de recuperación”",
-      "summary": "El ministro de Economía y Finanzas dijo que el proyecto presupuestal remitido al Parlamento supone “un esfuerzo del Poder Ejecutivo para poner el énfasis en los sectores más postergados”. “Es una Rendición de Cuentas que tiene asignaciones presupuestales incre",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/oddone-y-la-rendicion-de-cuentas-estamos-convencidos-de-que-la-economia-lentamente-esta-iniciando-una-senda-de-recuperacion/",
-      "publishedAt": "Tue, 30 Jun 2026 22:23:40 -0300",
-      "politicalScore": 8,
-      "eventKey": "uruguay-economia-politica-uruguay-economia-politica-oddone",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "title": "Patrimonio sin declarar: el juez Martínez de Giorgi pidió información a EE.UU. sobre el titular de la ARCA",
+      "summary": "Libró exhortos para determinar si Andrés Vázquez es el dueño en las sombras de tres inmuebles en el estado de Florida",
+      "url": "https://www.lanacion.com.ar/politica/patrimonio-sin-declarar-el-juez-martinez-de-giorgi-pidio-informacion-a-eeuu-sobre-el-titular-de-la-nid01072026/",
+      "publishedAt": "Wed, 01 Jul 2026 13:45:05 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-patrimonio",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
-      "id": "13785982abd4c814",
-      "country": "Espana",
-      "source": "El Mundo",
+      "id": "a806aa6ecb9f74d3",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Begoña Gómez pide autorización al juez Peinado para viajar a la cumbre de la OTAN en Ankara y a la graduación de su hija en Londres",
-      "summary": "La esposa del presidente del Gobierno solicita la devolución provisional del pasaporte que el magistrado le retiró por riesgo de fuga&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/30/6a438b2821efa0cf0a8b4575.html",
-      "publishedAt": "Tue, 30 Jun 2026 19:34:22 +0200",
-      "politicalScore": 8,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-begona-gomez",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "title": "El nuevo vocero Adrián Ravier habló de su pelea con Milei y aseguró que está “totalmente superada”",
+      "summary": "El flamante funcionario del Gobierno se refirió a los insultos que intercambiaron en redes hace seis años; apuntó contra el periodismo por reflotarlo y contó cómo comenzó su relación",
+      "url": "https://www.lanacion.com.ar/politica/el-nuevo-vocero-adrian-ravier-hablo-de-su-pelea-con-milei-y-aseguro-que-esta-totalmente-superada-nid01072026/",
+      "publishedAt": "Wed, 01 Jul 2026 12:45:58 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-nuevo",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -407,8 +486,8 @@
       "publishedAt": "Wed, 01 Jul 2026 06:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-espriella-aterriza",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -424,76 +503,8 @@
       "publishedAt": "Wed, 01 Jul 2026 00:56:47 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-dijo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "294879c43185e731",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Lo que no se vio en la jura de Santilli: qué dijo cuando terminó, abrazos para Adorni, presencia familiar y los primeros pasos",
-      "summary": "El nuevo jefe de Gabinete entró formalmente en funciones frente a Javier Milei; hubo un triple abrazo con el Presidente y con su antecesor",
-      "url": "https://www.lanacion.com.ar/politica/juro-santilli-que-dijo-cuando-termino-aplausos-y-abrazos-para-un-adorni-emocionado-y-la-felicidad-de-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 23:12:35 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-jura",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "685434c0d124f4c3",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Milei y Adorni se dieron un efusivo abrazo durante la asunción de Santilli",
-      "summary": "Hubo palmadas y gestos de afecto del Presidente pocas horas después de haber defendido la “inocencia” del exjefe de Gabinete",
-      "url": "https://www.lanacion.com.ar/politica/el-momento-del-abrazo-entre-milei-y-adorni-durante-la-asuncion-de-santilli-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 22:58:59 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dab8917c1b84707c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Con Kicillof en San Vicente, el aniversario de la muerte de Perón vuelve a exponer las fracturas en el PJ bonaerense",
-      "summary": "El gobernador asistirá mañana a la quinta histórica donde se encuentran los restos del expresidente; será un acto cerrado, del que no participará Máximo Kirchner",
-      "url": "https://www.lanacion.com.ar/politica/con-kicillof-en-san-vicente-el-aniversario-de-la-muerte-de-peron-vuelve-a-exponer-las-fracturas-en-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 22:41:52 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d326db065b463745",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Quién es Ignacio Devitt, el funcionario que llegó con Adorni pero que se reinventa en el Gobierno",
-      "summary": "Exgerente de Philip Morris y surgido de la Juventud de Pro, el nuevo vicejefe de Gabinete integra las reuniones de la mesa política y suma injerencia en el karinismo",
-      "url": "https://www.lanacion.com.ar/politica/quien-es-ignacio-devitt-el-funcionario-que-llego-con-adorni-pero-que-se-reinventa-en-el-gobierno-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 21:48:57 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-quien",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -509,42 +520,25 @@
       "publishedAt": "Tue, 30 Jun 2026 06:15:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-terremotos-incertidumbre",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
-      "id": "d62ffbc67eb4c9ae",
-      "country": "Espana",
-      "source": "El Pais",
+      "id": "5cf7dca2e1c0b019",
+      "country": "Peru",
+      "source": "El Comercio",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "PP y Vox rivalizan en la campaña contra la ‘ley de nietos’ para alentar la sombra de fraude",
-      "summary": "Los ultras pretenden privar a los residentes en el exterior del voto por correo",
-      "url": "https://elpais.com/espana/2026-07-01/pp-y-vox-rivalizan-en-la-campana-contra-la-ley-de-nietos-para-alentar-la-sombra-de-fraude.html",
-      "publishedAt": "Wed, 01 Jul 2026 03:30:01 GMT",
+      "title": "Congreso: Comisión de Presupuesto aprueba dictamen de créditos suplementarios",
+      "summary": "La Comisión de Presupuesto del Congreso aprobó por mayoría el dictamen que aprueba créditos suplementarios para el financiamiento de inversiones públicas orientadas al cierre de brechas, la continuidad de los servicios del Estado y garantizar la transición dem",
+      "url": "https://elcomercio.pe/economia/peru/congreso-comision-de-presupuesto-aprueba-dictamen-de-creditos-suplementarios-fenomeno-el-nino-ultimas-noticia/",
+      "publishedAt": "Wed, 01 Jul 2026 01:34:57 +0000",
       "politicalScore": 6,
-      "eventKey": "espana-elecciones-espana-elecciones-rivalizan-campana",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d742b041b119503c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Ravier afirmó que Adorni “va a tener que responder en la Justicia”",
-      "summary": "“De todo lo que circula en los medios uno no sabe qué es cierto y qué no”, manifestó el vocero presidencial; lo que viene en su gestión y la aclaración por las tarifas",
-      "url": "https://www.lanacion.com.ar/politica/ravier-afirmo-que-adorni-va-a-tener-que-responder-en-la-justicia-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 23:48:47 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-ravier-afirmo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "eventKey": "peru-economia-politica-peru-economia-politica-congreso",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -560,8 +554,8 @@
       "publishedAt": "Tue, 30 Jun 2026 21:07:09 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-supremo-considera",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -577,8 +571,8 @@
       "publishedAt": "Mon, 29 Jun 2026 20:23:55 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sube-cifra",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -594,8 +588,25 @@
       "publishedAt": "Sat, 27 Jun 2026 01:54:41 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-tragedia-apura",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d5d25b5b6facb92a",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Así pinta el gobierno de Abelardo como amigo de Trump",
+      "summary": "Hoy en pódcast Huevos Revueltos con Política conversamos sobre el posible alcance de Trump en el gobierno de Abelardo de la Espriella. The post Así pinta el gobierno de Abelardo como amigo de Trump appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/asi-pinta-el-gobierno-de-abelardo-como-amigo-de-trump/",
+      "publishedAt": "Wed, 01 Jul 2026 12:12:45 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pinta-gobierno",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -611,8 +622,8 @@
       "publishedAt": "Wed, 01 Jul 2026 01:23:50 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-operacion-topografo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -628,59 +639,25 @@
       "publishedAt": "Wed, 01 Jul 2026 01:06:11 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-afirmo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
-      "id": "5da9d155a9757365",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Pareciera ser que no hay horizonte sin extractivismo",
-      "summary": "América Latina lleva más de cinco siglos explotando sus recursos naturales. Sin importar la tendencia del gobierno de turno, el extractivismo parece ser nuestra única opción. The post Pareciera ser que no hay horizonte sin extractivismo appeared first on La Si",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/hay-horizonte-sin-extractivismo/",
-      "publishedAt": "Wed, 01 Jul 2026 00:00:20 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pareciera-horizonte",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b5c163549b378421",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Gobierno Petro solicitó a Coljuegos información confidencial de apostadores en línea",
-      "summary": "La Silla Vacía revela el requerimiento atípico que genera alarmas internas dentro de la entidad del gobierno. The post Gobierno Petro solicitó a Coljuegos información confidencial de apostadores en línea appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/silla-nacional/gobierno-petro-solicito-a-coljuegos-informacion-confidencial-de-apostadores-en-linea/",
-      "publishedAt": "Tue, 30 Jun 2026 23:16:54 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-petro",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d9deedb29d88b78c",
+      "id": "5607b0b0a54b712b",
       "country": "Espana",
       "source": "El Mundo",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Diplomacia",
       "priority": "Media",
-      "title": "El Congreso desbloquea la ley que concede y acelera la nacionalidad española a los saharauis con el rechazo de PP y Vox",
-      "summary": "Se equipara a los saharauis con los latinoamericanos para su acceso en dos años de residencia continuada&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/06/30/6a43f4dffc6c83255d8b4593.html",
-      "publishedAt": "Tue, 30 Jun 2026 19:18:34 +0200",
+      "title": "El comisario de Migración de la UE avala \"rechazar procesos unilaterales de regularización\" como el de Sánchez: \"Generan efectos de atracción\"",
+      "summary": "Brunner suscribe un documento del PPE en el que la principal formación de Europa censura medidas como la que ha adoptado el Gobierno de España. El texto también lo firma la comisaria de Mediterráneo&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/06/30/6a43e1b0e9cf4ad3128b4599.html",
+      "publishedAt": "Tue, 30 Jun 2026 22:33:25 +0200",
       "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-congreso-desbloquea",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "eventKey": "espana-diplomacia-espana-diplomacia-comisario-migracion",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -696,8 +673,110 @@
       "publishedAt": "Tue, 30 Jun 2026 06:05:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-antes-edificios",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6a8cf33ba11de1c6",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "La democracia en riesgo: ¿cómo defenderla?",
+      "summary": "La llegada de De la Espriella no es un giro ordinario: es el regreso de formas históricas de exclusión y violencia. Tocqueville ofrece la respuesta. The post La democracia en riesgo: ¿cómo defenderla? appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-democracia-en-riesgo-como-defenderla/",
+      "publishedAt": "Wed, 01 Jul 2026 14:41:13 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-seguridad-colombia-seguridad-democracia-riesgo",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "31d6518f5a97b2e6",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Declaran en Comodoro Py dos funcionarios que le pagaron gastos personales a Adorni",
+      "summary": "Gisela Kocsis compró en efectivo con dinero de su exjefe sommiers y ropa de cama que fueron facturados a nombre de ella; Luis Enrique Aluju es el dueño de dos tarjetas de crédito que el exjefe de Gabinete usó para adquirir dos proyectores",
+      "url": "https://www.lanacion.com.ar/politica/declaran-en-comodoro-py-dos-funcionarios-que-le-pagaron-gastos-personales-a-adorni-nid01072026/",
+      "publishedAt": "Wed, 01 Jul 2026 14:27:52 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-declaran",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "291bc4bfc144784a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Detuvieron a un empresario acusado de usurpar una casa en Cariló",
+      "summary": "Se trata de Mauricio Ríos, un empresario gastronómico de Mar del Plata que tenía nexos con el kirchnerista Rudy Ulloa",
+      "url": "https://www.lanacion.com.ar/politica/detuvieron-a-un-empresario-acusado-de-usurpar-una-casa-en-carilo-nid01072026/",
+      "publishedAt": "Wed, 01 Jul 2026 13:47:55 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-detuvieron",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6229f7b83e0f9f09",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "El Supremo abre la sexta causa penal a Alvise Pérez por incitar a desórdenes públicos durante unas protestas agrícolas en 2024",
+      "summary": "Para el tribunal, el líder de Se Acabó La Fiesta hizo unas publicaciones en redes sociales con \"llamamientos reiterados a la ocupación, bloqueo y colapso de vías de comunicación\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/01/6a4511dae85ecef52d8b45cc.html",
+      "publishedAt": "Wed, 01 Jul 2026 15:23:13 +0200",
+      "politicalScore": 4,
+      "eventKey": "espana-instituciones-espana-instituciones-supremo-abre",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6fa42f4dfd508c82",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La Iglesia recibió a la conducción de la CGT y las dos CTA para abordar temas de la agenda social",
+      "summary": "El encuentro fue en la sede del Episcopado y se habló sobre la necesidad de buscar caminos de diálogo para frenar el impacto de la crisis",
+      "url": "https://www.lanacion.com.ar/politica/la-iglesia-recibio-a-la-conduccion-de-la-cgt-y-las-dos-cta-para-abordar-temas-de-la-agenda-social-nid01072026/",
+      "publishedAt": "Wed, 01 Jul 2026 12:27:03 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-iglesia",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "866b1db9b1a5fe29",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Bibiana Aído impulsa una campaña contra la relatora de violencia de género de la ONU \"por no ser 'pro trans'\"",
+      "summary": "La jurista Reem Alsalem afirma a EL MUNDO que la ex ministra de Igualdad de Zapatero, directora de ONU Mujeres para Latinoamérica y partidaria de la 'doctrina queer' y de la autodeterminación de género, la combate \"ideológicamente\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/06/30/6a43ebabe4d4d89a1d8b458c.html",
+      "publishedAt": "Wed, 01 Jul 2026 09:16:17 +0200",
+      "politicalScore": 4,
+      "eventKey": "espana-seguridad-espana-seguridad-bibiana-aido",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -713,8 +792,8 @@
       "publishedAt": "Wed, 01 Jul 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-china-prisa",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -730,42 +809,8 @@
       "publishedAt": "Wed, 01 Jul 2026 05:46:28 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-acrobata",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "87710d564894271c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Cuadernos: contadores de la ex-AFIP declararon sobre retiros en efectivo, facturas truchas y giros a medios de comunicación",
-      "summary": "Exfuncionarios del organismo recaudador detallaron análisis contables sobre las empresas Electroingeniería, Panedile y Decavial, entre otras",
-      "url": "https://www.lanacion.com.ar/politica/cuadernos-contadores-de-la-exafip-declararon-sobre-retiros-en-efectivo-facturas-truchas-y-giros-a-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 23:45:15 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-cuadernos",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7573b398f123b8ea",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Las palabras de Analía Maiorana tras la asunción de Santilli como jefe de Gabinete",
-      "summary": "La empresaria y modelo estuvo en primera fila para la jura de su esposo; lo respaldó en la nueva tarea en el Ejecutivo",
-      "url": "https://www.lanacion.com.ar/politica/las-palabras-de-analia-maiorana-tras-la-asuncion-de-santilli-como-jefe-de-gabinete-nid30062026/",
-      "publishedAt": "Tue, 30 Jun 2026 23:23:39 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-palabras",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -781,8 +826,8 @@
       "publishedAt": "Sun, 28 Jun 2026 08:00:06 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-territorio-digital",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -798,8 +843,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-exigir-pedro",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -815,8 +860,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-agendas-rodriguez",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -832,8 +877,59 @@
       "publishedAt": "Sat, 27 Jun 2026 08:00:55 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-deuda",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c07370978819f24f",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Antel, los datos y lo que no estamos discutiendo",
+      "summary": "Hace unos días escuché una discusión sobre inteligencia artificial (IA), datos públicos y el futuro digital del país en un simposio organizado por el semanario Búsqueda . Entre quienes participaron estaban Bruno Gili, responsable del programa Uruguay Innova de",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/antel-los-datos-y-lo-que-no-estamos-discutiendo/",
+      "publishedAt": "Wed, 01 Jul 2026 11:12:09 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-antel-datos",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6dd19d1730c3d0e6",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Podcast &#124; De verdades y mentiras en la TV",
+      "summary": "La entrada Podcast | De verdades y mentiras en la TV se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/01/podcast-de-verdades-y-mentiras-en-la-tv/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=podcast-de-verdades-y-mentiras-en-la-tv",
+      "publishedAt": "Wed, 01 Jul 2026 12:35:13 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-podcast-verdades",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7b0a21ff02061ee3",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "De verdades y mentiras en la TV",
+      "summary": "La entrada De verdades y mentiras en la TV se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/01/de-verdades-y-mentiras-en-la-tv/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=de-verdades-y-mentiras-en-la-tv",
+      "publishedAt": "Wed, 01 Jul 2026 12:33:25 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-verdades-mentiras",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -849,8 +945,8 @@
       "publishedAt": "Wed, 01 Jul 2026 00:01:41 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-gladiadores-arenas",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -866,8 +962,8 @@
       "publishedAt": "Wed, 01 Jul 2026 00:27:33 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-replicas-doble",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -883,8 +979,8 @@
       "publishedAt": "Tue, 30 Jun 2026 21:26:23 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-policia-retuvo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -900,8 +996,8 @@
       "publishedAt": "Tue, 30 Jun 2026 14:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dataland-museo",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -917,8 +1013,8 @@
       "publishedAt": "Tue, 30 Jun 2026 08:00:06 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-elegir-volver",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -934,8 +1030,8 @@
       "publishedAt": "Mon, 29 Jun 2026 22:14:32 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-maestros-vigilancia",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -951,8 +1047,8 @@
       "publishedAt": "Mon, 29 Jun 2026 20:06:09 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-unos-edificios",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -968,8 +1064,8 @@
       "publishedAt": "Mon, 29 Jun 2026 14:00:22 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-inteligencia-artificial",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -985,8 +1081,8 @@
       "publishedAt": "Sun, 28 Jun 2026 04:19:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-impunidad-cronica",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -1002,8 +1098,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:21:39 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-crisis-natalidad",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -1019,8 +1115,8 @@
       "publishedAt": "Sat, 27 Jun 2026 01:01:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-modificaciones-hablamos",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     },
     {
@@ -1036,42 +1132,8 @@
       "publishedAt": "Fri, 26 Jun 2026 17:54:33 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-subsecretaria-prevencion",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b9001c0395fb7524",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Estación Central: la otra frontera",
-      "summary": "La entrada Estación Central: la otra frontera se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/06/26/estacion-central-la-otra-frontera/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=estacion-central-la-otra-frontera",
-      "publishedAt": "Fri, 26 Jun 2026 17:50:35 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-diplomacia-chile-diplomacia-estacion-central",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7ef16959f09cd622",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Carta de Carlos Swett y respuesta de CIPER",
-      "summary": "La entrada Carta de Carlos Swett y respuesta de CIPER se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/06/26/carta-de-carlos-swett-y-respuesta-de-ciper/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=carta-de-carlos-swett-y-respuesta-de-ciper",
-      "publishedAt": "Fri, 26 Jun 2026 17:12:44 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-carta-carlos",
-      "firstSeenAt": "2026-07-01T09:58:44.364Z",
-      "lastSeenAt": "2026-07-01T09:58:44.364Z",
+      "firstSeenAt": "2026-07-01T14:47:28.632Z",
+      "lastSeenAt": "2026-07-01T14:47:28.632Z",
       "seenCount": 1
     }
   ]
