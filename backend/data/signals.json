@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-10T09:44:36.067Z",
-  "count": 57,
+  "generatedAt": "2026-07-10T14:38:44.608Z",
+  "count": 59,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-07-10T09:44:36.067Z",
-    "activeSignals": 57,
-    "archiveSignals": 115,
-    "countriesCovered": 7,
-    "highPrioritySignals": 16,
-    "averagePoliticalScore": 5.37
+    "generatedAt": "2026-07-10T14:38:44.608Z",
+    "activeSignals": 59,
+    "archiveSignals": 117,
+    "countriesCovered": 8,
+    "highPrioritySignals": 18,
+    "averagePoliticalScore": 5.42
   },
   "briefings": [
     {
@@ -46,29 +46,30 @@
       "leadTitle": "Tras el Tedeum, Milei reunió a sus ministros y les anticipó los primeros trazos de la reforma del Banco Central",
       "leadUrl": "https://www.lanacion.com.ar/politica/tras-el-tedeum-milei-reunio-a-sus-ministros-para-anticiparles-los-primeros-trazos-de-la-reforma-del-nid09072026/",
       "focusTopics": [
-        "Economia politica"
+        "Economia politica",
+        "Elecciones"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 10,
-      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Espana",
       "priority": "Alta",
-      "leadTitle": "El recurso de Lastra deja de nuevo al Supremo como árbitro de los nombramientos discrecionales en la Fiscalía",
-      "leadUrl": "https://elpais.com/espana/2026-07-10/el-recurso-de-lastra-vuelve-a-dejar-al-supremo-como-arbitro-de-los-nombramientos-discrecionales-en-la-fiscalia.html",
+      "leadTitle": "Pedraz imputa al ex jefe de gabinete de Sánchez y ex presidente de Correos en el 'caso Leire' pero rechaza examinar el teléfono de la gerente del PSOE",
+      "leadUrl": "https://www.elmundo.es/espana/2026/07/10/6a50c21b21efa05f7a8b45a8.html",
       "focusTopics": [
         "Economia politica",
-        "Gobernabilidad"
+        "Gobernabilidad",
+        "Seguridad"
       ],
       "topSources": [
-        "El Pais",
         "El Mundo"
       ],
-      "signalCount": 8,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar El Pais y El Pais."
+      "signalCount": 7,
+      "summary": "Foco en Economia politica, Gobernabilidad, Seguridad. Vigilar El Mundo y El Mundo."
     },
     {
       "country": "Colombia",
@@ -77,42 +78,57 @@
       "leadUrl": "https://www.lasillavacia.com/red-de-expertos/por-fin-hay-ministro-de-ambiente-los-retos-que-hereda-del-gobierno-petro/",
       "focusTopics": [
         "Gobernabilidad",
-        "Instituciones"
+        "Seguridad",
+        "Economia politica"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Gobernabilidad, Instituciones. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 7,
+      "summary": "Foco en Gobernabilidad, Seguridad, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
       "priority": "Alta",
-      "leadTitle": "Regla se planta ante el Gobierno municipal tras varios días sin luz ni agua",
-      "leadUrl": "https://www.14ymedio.com/cuba/regla-planta-gobierno-municipal-dias_1_1128586.html",
+      "leadTitle": "El PCC respalda públicamente a El Cangrejo como negociador con EE UU en medio de dudas y críticas",
+      "leadUrl": "https://www.14ymedio.com/cuba/pcc-respalda-publicamente-cangrejo-negociador_1_1128645.html",
       "focusTopics": [
-        "Instituciones",
-        "Sociedad"
+        "Sociedad",
+        "Instituciones"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Instituciones, Sociedad. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 5,
+      "summary": "Foco en Sociedad, Instituciones. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Peru",
+      "priority": "Media",
+      "leadTitle": "Flavio Cruz sobre el Fenate: “Si se cumple con los requisitos, tiene que reconocerse”",
+      "leadUrl": "https://elcomercio.pe/politica/actualidad/flavio-cruz-sobre-el-fenate-si-se-cumple-con-los-requisitos-tiene-que-reconocerse-ultimas-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
     },
     {
       "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "No se puede hablar de reconstrucción sin instituciones sólidas ni democracia: analistas",
-      "leadUrl": "https://efectococuyo.com/politica/reconstruccion-terremotos-instituciones-democracia-analistas/",
+      "priority": "Media",
+      "leadTitle": "Se acerca a 4.000 la cifra oficial de fallecidos por los terremotos en Venezuela",
+      "leadUrl": "https://efectococuyo.com/la-humanidad/se-acerca-a-4-000-la-cifra-oficial-de-fallecidos-por-los-terremotos-en-venezuela/",
       "focusTopics": [
         "Diplomacia"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 1,
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo."
     }
   ],
   "signals": [
@@ -129,8 +145,25 @@
       "publishedAt": "Fri, 10 Jul 2026 06:47:18 +0000",
       "politicalScore": 14,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tedeum",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e1d9fb55f99fcbcc",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Pedraz imputa al ex jefe de gabinete de Sánchez y ex presidente de Correos en el 'caso Leire' pero rechaza examinar el teléfono de la gerente del PSOE",
+      "summary": "El juez autoriza a la UCO el volcado y análisis del contenido del móvil de Juan Manuel Serrano, una medida que cuenta además con el respaldo de la Fiscalía Anticorrupción&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/10/6a50c21b21efa05f7a8b45a8.html",
+      "publishedAt": "Fri, 10 Jul 2026 16:09:45 +0200",
+      "politicalScore": 12,
+      "eventKey": "espana-economia-politica-espana-economia-politica-pedraz",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -146,8 +179,8 @@
       "publishedAt": "Fri, 10 Jul 2026 01:03:12 +0000",
       "politicalScore": 12,
       "eventKey": "chile-probidad-chile-probidad-suspenden-audiencia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -163,25 +196,59 @@
       "publishedAt": "Thu, 09 Jul 2026 00:58:44 +0000",
       "politicalScore": 12,
       "eventKey": "chile-probidad-chile-probidad-megarreforma-anuncia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "cc2a9b21f5c29995",
-      "country": "Espana",
-      "source": "El Pais",
+      "id": "21a32f187501956b",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "El recurso de Lastra deja de nuevo al Supremo como árbitro de los nombramientos discrecionales en la Fiscalía",
-      "summary": "El alto tribunal ya anuló designaciones del Consejo de Estado, del Ministerio del Interior y desde la etapa de Dolores Delgado ha revisado distintos ascensos, señalando incluso a García Ortiz por “desviación de poder”",
-      "url": "https://elpais.com/espana/2026-07-10/el-recurso-de-lastra-vuelve-a-dejar-al-supremo-como-arbitro-de-los-nombramientos-discrecionales-en-la-fiscalia.html",
-      "publishedAt": "Fri, 10 Jul 2026 03:30:01 GMT",
+      "title": "La diputada De la Sota denunció al ministro de Salud ante la justicia federal por incumplir un fallo",
+      "summary": "Acusó a Mario Lugones de haber ignorado la decisión que le impuso cubrir pagos adeudados a prestadores que atienden a personas con discapacidad; dijo que incurrió en los delitos de “desobediencia judicial” e “incumplimiento de los deberes de funcionario públic",
+      "url": "https://www.lanacion.com.ar/politica/la-diputada-de-la-sota-denuncio-al-ministro-de-salud-ante-la-justicia-federal-nid10072026/",
+      "publishedAt": "Fri, 10 Jul 2026 14:10:30 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-diputada",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a29f3720ea08b4ec",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Sistema de colectoras: siete claves para entender la alternativa a las PASO que estudia el oficialismo",
+      "summary": "La iniciativa apunta a la reelección de Milei; busca ofrecer una opción a Pro, la UCR y los gobernadores para competir bajo el paraguas presidencial de LLA; interrogantes sobre un mecanismo en construcción",
+      "url": "https://www.lanacion.com.ar/politica/el-plan-para-reemplazar-las-paso-siete-claves-para-entender-el-sistema-de-colectoras-que-estudia-el-nid10072026/",
+      "publishedAt": "Fri, 10 Jul 2026 13:53:13 +0000",
       "politicalScore": 9,
-      "eventKey": "espana-economia-politica-espana-economia-politica-recurso",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "eventKey": "argentina-elecciones-argentina-elecciones-sistema-colectoras",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b888272ed5f0c9d0",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Moreno se blinda con Sanz de escudero y consejeros ya rodados evitando experimentos en su primera legislatura junto a Vox",
+      "summary": "El presidente andaluz pretende \"encapsular\" su gobierno de coalición para evitar que la tensión electoral contamine las relaciones entre los socios&nbsp; Leer",
+      "url": "https://www.elmundo.es/andalucia/2026/07/10/6a4fad4ee9cf4ace1e8b4570.html",
+      "publishedAt": "Fri, 10 Jul 2026 07:30:45 +0200",
+      "politicalScore": 9,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-moreno-blinda",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -197,8 +264,8 @@
       "publishedAt": "Fri, 10 Jul 2026 02:37:23 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ministro-ambiente",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -214,8 +281,8 @@
       "publishedAt": "Fri, 10 Jul 2026 01:09:53 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-acto",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -231,76 +298,59 @@
       "publishedAt": "Thu, 09 Jul 2026 23:47:34 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-patricia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "5adf4bdd0aaa17bc",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "9980aed9b53bbbb0",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
       "priority": "Alta",
-      "title": "El presidente de los obispos achaca a la falta de ética que el Estado se convierta en “una banda de ladrones”: “A los hechos me remito”",
-      "summary": "El ministro Félix Bolaños replica por carta a Luis Argüello: “¿Qué le parecería si un miembro del Gobierno calificase a la Iglesia como ‘banda de agresores sexuales’?”",
-      "url": "https://elpais.com/espana/2026-07-09/el-presidente-de-los-obispos-achaca-a-la-falta-de-etica-que-el-estado-se-convierta-en-una-banda-de-ladrones-a-los-hechos-me-remito.html",
-      "publishedAt": "Thu, 09 Jul 2026 19:30:30 GMT",
-      "politicalScore": 9,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-presidente-obispos",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "title": "El PCC respalda públicamente a El Cangrejo como negociador con EE UU en medio de dudas y críticas",
+      "summary": "El oficialismo se divide en sus críticas al nieto de Raúl Castro y el primer ministro llama al orden: \"Los asesinatos de reputación, las manipulaciones y los llamados a la desunión y la fractura responden a un plan bien diseñado\"",
+      "url": "https://www.14ymedio.com/cuba/pcc-respalda-publicamente-cangrejo-negociador_1_1128645.html",
+      "publishedAt": "Fri, 10 Jul 2026 13:45:37 +0000",
+      "politicalScore": 8,
+      "eventKey": "cuba-sociedad-cuba-sociedad-respalda-publicamente",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "75fa81c03143260e",
+      "id": "e13767a5acbe7f79",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Gobierno de Abelardo promete respetar autonomía del BanRep",
-      "summary": "El presidente electo se reunió con la junta directiva. Horas antes estuvo en Chiquinquirá junto al encargado de negocios de EE.UU. The post Gobierno de Abelardo promete respetar autonomía del BanRep appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/gobierno-de-abelardo-promete-respetar-autonomia-del-banrep/",
-      "publishedAt": "Thu, 09 Jul 2026 23:46:37 +0000",
+      "title": "Posesión en base militar debe autorizarla Congreso: Presidencia",
+      "summary": "Así Petro diga que Cepeda ganó la elección, la Casa de Nariño sigue con los protocolos para el traspaso del poder. The post Posesión en base militar debe autorizarla Congreso: Presidencia appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/posesion-en-base-militar-debe-autorizarla-congreso-presidencia/",
+      "publishedAt": "Fri, 10 Jul 2026 12:27:10 +0000",
       "politicalScore": 8,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-abelardo",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "eventKey": "colombia-seguridad-colombia-seguridad-posesion-base",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "28f057a399c5bbad",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "id": "7fc74fc23ae408b6",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "No se puede hablar de reconstrucción sin instituciones sólidas ni democracia: analistas",
-      "summary": "Wanda Cedeño y Eugenio Martinez apuntan al reinicio de las negociaciones políticas para que se produzca un acuerdo electoral",
-      "url": "https://efectococuyo.com/politica/reconstruccion-terremotos-instituciones-democracia-analistas/",
-      "publishedAt": "Thu, 09 Jul 2026 20:56:03 +0000",
-      "politicalScore": 8,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-puede-hablar",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "290b4ac9becc1305",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Alta",
-      "title": "Cobro de garantías estatales del CAE a morosos alcanzó récord de 84%; exasesora de senador Calisto declara haber sido “palo blanco” para defraudar al fisco, y FMI rebaja nuevamente proyección de crecimiento",
-      "summary": "La entrada Cobro de garantías estatales del CAE a morosos alcanzó récord de 84%; exasesora de senador Calisto declara haber sido “palo blanco” para defraudar al fisco, y FMI rebaja nuevamente proyección de crecimiento se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/07/06/radar-06-07-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-06-07-26",
-      "publishedAt": "Tue, 07 Jul 2026 00:35:18 +0000",
-      "politicalScore": 8,
-      "eventKey": "chile-probidad-chile-probidad-cobro-garantias",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "title": "El desarrollo regional será el gran reto de Abelardo de la Espriella",
+      "summary": "La agenda regional del nuevo gobierno sólo tendrá éxito si combina inversión pública con responsabilidad fiscal, instituciones fuertes y buena ejecución. The post El desarrollo regional será el gran reto de Abelardo de la Espriella appeared first on La Silla V",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/el-desarrollo-regional-sera-el-gran-reto-de-abelardo-de-la-espriella/",
+      "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-desarrollo",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -316,8 +366,8 @@
       "publishedAt": "Thu, 09 Jul 2026 20:55:58 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-seguridad-argentina-seguridad-villarruel-participo",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -333,25 +383,25 @@
       "publishedAt": "Thu, 09 Jul 2026 14:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-rompe-acuerdo",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "cf0db0a76c1a5a8f",
+      "id": "14f48c0ea2ff5f15",
       "country": "Espana",
       "source": "El Mundo",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Seguridad",
       "priority": "Alta",
-      "title": "La UCO implica al ex jefe de Gabinete de Sánchez Juanma Serrano en las operaciones de la 'fontanera' para desactivar las causas contra el presidente: \"Estando tú ahí estoy tranquila\"",
-      "summary": "\"Los indicios recabados le otorgan participación en los [...] relacionados tanto con la obtención de beneficios en el ámbito empresarial de la Sepi, como con la defensa de los intereses de determinados miembros del PSOE o el Gobierno\"&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/09/6a4f7062e85ece3a608b4584.html",
-      "publishedAt": "Thu, 09 Jul 2026 18:15:16 +0200",
+      "title": "La Audiencia Nacional investigará a dos mandos militares israelíes por el abordaje de la Flotilla rumbo a Gaza en contra del criterio de la Fiscalía",
+      "summary": "El juez De Jorge admite a trámite dos querellas interpuestas por el PCE, IU y varios particulares contra Ramatcal Eyal Zamires y Ram Rotberg&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/10/6a50f273e4d4d883478b4587.html",
+      "publishedAt": "Fri, 10 Jul 2026 15:33:14 +0200",
       "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-implica-jefe",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "eventKey": "espana-seguridad-espana-seguridad-audiencia-nacional",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -367,8 +417,8 @@
       "publishedAt": "Wed, 08 Jul 2026 22:20:58 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-instituciones-cuba-instituciones-regla-planta",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -384,42 +434,59 @@
       "publishedAt": "Wed, 08 Jul 2026 16:43:47 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-instituciones-cuba-instituciones-cenizas-calles",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "72ebaa945a26bf02",
+      "id": "d0ec7307eebbff4c",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Flavio Cruz sobre el Fenate: “Si se cumple con los requisitos, tiene que reconocerse”",
+      "summary": "Flavio Cruz, nuevo ministro de Trabajo y Promoción del Empleo y congresista de Perú Libre, manifestó que la posibilidad de otorgar el reconocimiento oficial a la Federación Nacional de Trabajadores en la Educación del Perú (Fenate) dependerá estrictamente del ",
+      "url": "https://elcomercio.pe/politica/actualidad/flavio-cruz-sobre-el-fenate-si-se-cumple-con-los-requisitos-tiene-que-reconocerse-ultimas-noticia/",
+      "publishedAt": "Fri, 10 Jul 2026 14:30:28 +0000",
+      "politicalScore": 6,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-flavio-cruz",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "65a49418c2924867",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Instituciones",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Corte Suprema deja en firme llamado a juicio de Arturo Char",
-      "summary": "El alto tribunal negó el recurso de reposición que presentó su defensa contra la decisión de diciembre del año pasado. The post Corte Suprema deja en firme llamado a juicio de Arturo Char appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/corte-suprema-deja-en-firme-llamado-a-juicio-de-arturo-char/",
-      "publishedAt": "Thu, 09 Jul 2026 22:53:10 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-instituciones-colombia-instituciones-corte-suprema",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "title": "El desafío estratégico de De la Espriella ante el nuevo orden global",
+      "summary": "El próximo gobierno recibirá un miltilaterismo fragmentado, y aunque no puede cambiar la competencia global, sí puede decidir cómo participa en ella. The post El desafío estratégico de De la Espriella ante el nuevo orden global appeared first on La Silla Vacía",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-desafio-estrategico-de-de-la-espriella-ante-el-nuevo-orden-global/",
+      "publishedAt": "Fri, 10 Jul 2026 12:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-desafio-estrategico",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "83e2f1c7b5fe5c4d",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
+      "id": "93bf0c2cf2ca2acd",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "La niñera de Cirio dijo a la Justicia que nunca subió a su dormitorio ni vio su vestidor",
-      "summary": "Declaró como testigo, aún es su empleada; buscan a otra mujer que trabajaba en la casa",
-      "url": "https://www.lanacion.com.ar/politica/la-ninera-de-cirio-dijo-a-la-justicia-que-nunca-subio-a-su-dormitorio-ni-vio-su-vestidor-nid09072026/",
-      "publishedAt": "Thu, 09 Jul 2026 19:19:14 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-ninera-cirio",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "title": "Patrimonio arqueológico bajo amenaza por la megarreforma: la falsa eficiencia de destruir antes de conocer",
+      "summary": "La entrada Patrimonio arqueológico bajo amenaza por la megarreforma: la falsa eficiencia de destruir antes de conocer se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/10/patrimonio-arqueologico-bajo-amenaza-por-la-megarreforma-la-falsa-eficiencia-de-destruir-antes-de-conocer/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=patrimonio-arqueologico-bajo-amenaza-por-la-megarreforma-la-falsa-eficiencia-de-destruir-antes-de-conocer",
+      "publishedAt": "Fri, 10 Jul 2026 08:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "chile-probidad-chile-probidad-patrimonio-arqueologico",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -429,31 +496,14 @@
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "La batalla de las Eti se libra en la Alta Guajira",
-      "summary": "El presidente electo revertiría la creación de territorios indígenas. La puja política es entre crear una Eti o un municipio en La Alta Guajira. En el medio están las Eti amazónicas. The post La batalla de las Eti se libra en la Alta Guajira appeared first on ",
+      "title": "Tras arremetida de Abelardo contra Eti amazónicas hay grandes intereses en La Guajira",
+      "summary": "El presidente electo revertiría la creación de territorios indígenas. La puja política es entre crear una Eti o un municipio en La Alta Guajira. En el medio están las Eti amazónicas. The post Tras arremetida de Abelardo contra Eti amazónicas hay grandes intere",
       "url": "https://www.lasillavacia.com/silla-amazonia/la-batalla-de-las-eti-se-libra-en-la-alta-guajira/",
       "publishedAt": "Fri, 10 Jul 2026 05:03:21 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-batalla-libra",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0371f50078022ed0",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "MinAmbiente de Abelardo se reunió con las CAR",
-      "summary": "Fabio Arjona se reunió con los directores de las Corporaciones Autónomas Regionales (CAR) y ya muestra una línea diferente a la que mantuvo el gobierno Petro. The post MinAmbiente de Abelardo se reunió con las CAR appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/silla-amazonia/minambiente-de-abelardo-se-reunio-con-las-car/",
-      "publishedAt": "Thu, 09 Jul 2026 23:34:46 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-minambiente-abelardo",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-arremetida-abelardo",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -469,8 +519,8 @@
       "publishedAt": "Thu, 09 Jul 2026 23:05:19 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-paga",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -486,42 +536,8 @@
       "publishedAt": "Thu, 09 Jul 2026 22:37:06 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cigarrillos-hasta",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "bbdcd65222da0b7a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La Argentina participará de una cumbre convocada por EE.UU. sobre el “resurgimiento del terrorismo político”",
-      "summary": "El secretario de Estado, Marco Rubio, será el anfitrión del encuentro en Washington, el 15 de julio, en el que se abordarán estrategias para combatir lo que la Casa Blanca considera una amenaza",
-      "url": "https://www.lanacion.com.ar/politica/la-argentina-participara-de-una-cumbre-convocada-por-eeuu-sobre-el-resurgimiento-del-terrorismo-nid09072026/",
-      "publishedAt": "Thu, 09 Jul 2026 19:01:20 +0000",
-      "politicalScore": 5,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-participara",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5b45c1b28cdefae9",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "El Senado con los votos de PP y Vox bloquea el tratado de amistad Hispano-Francés",
-      "summary": "La Cámara remitirá al TC un requerimiento para que dilucide sobre la constitucionalidad del texto. El PP acusa a los socialistas de perpetrar una \"chapuza\" y el PSOE replica vaticinando \"graves consecuencias\" por el veto&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/09/6a4fbd92e9cf4aa2338b45b0.html",
-      "publishedAt": "Thu, 09 Jul 2026 17:26:29 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-elecciones-espana-elecciones-senado-votos",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -537,25 +553,8 @@
       "publishedAt": "Thu, 09 Jul 2026 13:23:19 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-nueva-ciencia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d0904fa35c34a783",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El Gobierno cambia la ley para reconocer a los profesores de asturiano y eonaviego una especialidad propia que les permita tener plaza fija",
-      "summary": "El acuerdo abre la puerta a que otras comunidades autónomas también pidan este cambio de rango&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/09/6a4f73bbe4d4d8f47a8b45a9.html",
-      "publishedAt": "Thu, 09 Jul 2026 13:06:13 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-cambia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -571,8 +570,8 @@
       "publishedAt": "Tue, 07 Jul 2026 23:32:20 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-oposicion-anuncia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -588,25 +587,42 @@
       "publishedAt": "Tue, 07 Jul 2026 23:25:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-mismo-imputado",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "98b29f8500491ff0",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
+      "id": "8986f0775c14f815",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Ley Lafkenche: lo que muestran los datos sobre la industria salmonera y los ECMPO",
-      "summary": "La entrada Ley Lafkenche: lo que muestran los datos sobre la industria salmonera y los ECMPO se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/07/07/ley-lafkenche-lo-que-muestran-los-datos-sobre-la-industria-salmonera-y-los-ecmpo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ley-lafkenche-lo-que-muestran-los-datos-sobre-la-industria-salmonera-y-los-ecmpo",
-      "publishedAt": "Tue, 07 Jul 2026 07:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "chile-probidad-chile-probidad-lafkenche-muestran",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "title": "Abelardo designa voceros oficiales para que sus ministros no hablen",
+      "summary": "Serán Miller Soto, influenciador uribista; y Carolina Gómez Sánchez, periodista y presentadora. Los ministros no hablarán a la prensa. The post Abelardo designa voceros oficiales para que sus ministros no hablen appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/abelardo-designa-voceros-oficiales-para-que-sus-ministros-no-hablen/",
+      "publishedAt": "Fri, 10 Jul 2026 14:12:43 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-designa",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "23aaa24706289bee",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Viviane Morales en MinEducación: “sacar a Marx y meter a Dios”",
+      "summary": "Hoy en el pódcast Huevos Revueltos con Política hablamos sobre Viviane Morales y lo que representa para el Ministerio de Educación. The post Viviane Morales en MinEducación: “sacar a Marx y meter a Dios” appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/viviane-morales-en-mineducacion-sacar-a-marx-y-meter-a-dios/",
+      "publishedAt": "Fri, 10 Jul 2026 11:51:44 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-viviane-morales",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -617,13 +633,13 @@
       "topic": "Economia politica",
       "priority": "Media",
       "title": "Un tanque de oxígeno para Milei",
-      "summary": "La victoria argentina sobre Egipto renovó ilusiones y consolidó el proceso de recuperación al que venían haciendo aportes cruciales Santilli y Caputo.",
+      "summary": "La victoria argentina sobre Egipto renovó ilusiones y consolidó el proceso de recuperación al que venían haciendo aportes cruciales Santilli y Caputo",
       "url": "https://www.lanacion.com.ar/politica/un-tanque-de-oxigeno-para-milei-nid09072026/",
       "publishedAt": "Fri, 10 Jul 2026 06:41:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tanque",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -639,8 +655,8 @@
       "publishedAt": "Fri, 10 Jul 2026 06:40:19 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-maximo",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -656,8 +672,8 @@
       "publishedAt": "Fri, 10 Jul 2026 06:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-perseverar-hazana",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -673,8 +689,8 @@
       "publishedAt": "Fri, 10 Jul 2026 06:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-rigor-investigacion",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -690,8 +706,25 @@
       "publishedAt": "Fri, 10 Jul 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-prodigiosa-huella",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1019da4707803e9a",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Tres magistrados compiten por la presidencia de la Sala Tercera del Supremo mientras el juez De Prada aspira a ocupar sillón en la Sala Penal",
+      "summary": "Se postula a ocupar uno de los sillones vacantes en la Sala Penal del Alto Tribunal mientras que tres magistrados compiten por la presidencia de la Sala Tercera&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/10/6a4fd2aae4d4d8b1328b45b3.html",
+      "publishedAt": "Fri, 10 Jul 2026 02:59:39 +0200",
+      "politicalScore": 4,
+      "eventKey": "espana-instituciones-espana-instituciones-tres-magistrados",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -707,8 +740,8 @@
       "publishedAt": "Thu, 09 Jul 2026 22:18:28 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-lilia",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -724,8 +757,8 @@
       "publishedAt": "Thu, 09 Jul 2026 21:47:15 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-acerca-cifra",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -741,25 +774,25 @@
       "publishedAt": "Thu, 09 Jul 2026 21:06:02 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-metamorfosis",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
-      "id": "1e5f3a0675107f20",
+      "id": "b82ed01ada19c430",
       "country": "Espana",
       "source": "El Mundo",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "Paso adelante en la reforma de la ley de dependencia con una inversión récord de 6.200 millones de euros y con el reto de acabar con las listas de espera",
-      "summary": "El Ejecutivo confía en que el refuerzo económico y la reforma legal reduzcan los retrasos de un sistema que aún acumula cientos de miles de solicitudes pendientes&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/09/6a4fb65721efa040048b457f.html",
-      "publishedAt": "Thu, 09 Jul 2026 18:04:05 +0200",
+      "title": "Alerta por la oleada de suspensos en las oposiciones a profesor, del 83% en Castilla y León al 63% en Murcia: \"Es increíble la cantidad de faltas de ortografía en los aspirantes jóvenes\"",
+      "summary": "\"Los tribunales han detectado una preparación insuficiente y errores de sintaxis y de comprensión lectora\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/09/6a4fef65e85ece30158b45c3.html",
+      "publishedAt": "Thu, 09 Jul 2026 22:55:26 +0200",
       "politicalScore": 4,
-      "eventKey": "espana-economia-politica-espana-economia-politica-paso",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "eventKey": "espana-instituciones-espana-instituciones-alerta-oleada",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -775,8 +808,8 @@
       "publishedAt": "Thu, 09 Jul 2026 13:40:54 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-medicos-cubanos",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -792,8 +825,8 @@
       "publishedAt": "Thu, 09 Jul 2026 08:40:07 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-otero-alcantara",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -809,8 +842,8 @@
       "publishedAt": "Thu, 09 Jul 2026 06:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-confidencial-treinta",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -826,8 +859,8 @@
       "publishedAt": "Thu, 09 Jul 2026 06:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-periodismo-necesitara",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -843,25 +876,8 @@
       "publishedAt": "Thu, 09 Jul 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-anos-despues",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ff3ca77997de63d7",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "¿Vientos de cambio?: el estado de la guerra entre Ucrania y Rusia",
-      "summary": "La entrada ¿Vientos de cambio?: el estado de la guerra entre Ucrania y Rusia se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/07/04/vientos-de-cambio-el-estado-de-la-guerra-entre-ucrania-y-rusia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=vientos-de-cambio-el-estado-de-la-guerra-entre-ucrania-y-rusia",
-      "publishedAt": "Sat, 04 Jul 2026 08:00:03 +0000",
-      "politicalScore": 4,
-      "eventKey": "chile-probidad-chile-probidad-vientos-cambio",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -877,8 +893,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-exigir-pedro",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -894,8 +910,76 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-agendas-rodriguez",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a5e1cdce996c21d7",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "OPS: Venezuela afronta grave crisis de salud tras terremotos",
+      "summary": "Los mayores riesgos para la salud tras los dos terremotos que azotaron principalmente la costa de Venezuela el mes pasado incluyen la falta de atención médica adecuada, las condiciones de sobrepoblación en refugios y la falta de acceso a agua potable, advirtió",
+      "url": "https://confidencial.digital/mundo/ops-venezuela-afronta-grave-crisis-de-salud-tras-terremotos/",
+      "publishedAt": "Fri, 10 Jul 2026 14:30:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-venezuela-afronta",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9164569d2a7706d3",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "El próximo paso del 5G",
+      "summary": "La entrada El próximo paso del 5G se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/10/el-proximo-paso-del-5g/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-proximo-paso-del-5g",
+      "publishedAt": "Fri, 10 Jul 2026 08:00:49 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-proximo-paso",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "308451fe07142b34",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "De los sellos a los comedores escolares saludables",
+      "summary": "La entrada De los sellos a los comedores escolares saludables se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/10/de-los-sellos-a-los-comedores-escolares-saludables/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=de-los-sellos-a-los-comedores-escolares-saludables",
+      "publishedAt": "Fri, 10 Jul 2026 08:00:49 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-sellos-comedores",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
+      "seenCount": 1
+    },
+    {
+      "id": "37874fc5d096e97b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Cuando espiar a un periodista amenaza a toda la democracia",
+      "summary": "La entrada Cuando espiar a un periodista amenaza a toda la democracia se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/10/cuando-espiar-a-un-periodista-amenaza-a-toda-la-democracia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cuando-espiar-a-un-periodista-amenaza-a-toda-la-democracia",
+      "publishedAt": "Fri, 10 Jul 2026 08:00:30 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-cuando-espiar",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -911,8 +995,8 @@
       "publishedAt": "Fri, 10 Jul 2026 07:20:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -928,8 +1012,8 @@
       "publishedAt": "Thu, 09 Jul 2026 22:45:19 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuando-influencers",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -945,8 +1029,8 @@
       "publishedAt": "Thu, 09 Jul 2026 15:54:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-empleo-alla",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -962,8 +1046,8 @@
       "publishedAt": "Thu, 09 Jul 2026 13:39:14 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-condena-espionaje",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -979,8 +1063,8 @@
       "publishedAt": "Wed, 08 Jul 2026 23:09:39 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tienen-hospital",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -996,8 +1080,8 @@
       "publishedAt": "Wed, 08 Jul 2026 22:53:41 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ninos-terremoto",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -1013,25 +1097,8 @@
       "publishedAt": "Wed, 08 Jul 2026 18:01:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-junji-nombro",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9c154f2a04b3093b",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "América Latina concentra las ciudades más peligrosas del mundo",
-      "summary": "En 2025, la capital de Haití, Puerto Príncipe, fue la urbe con más homicidios del mundo, con cerca de 198 homicidios por 100 000 habitantes, de acuerdo con la clasificación más reciente de la organización no gubernamental mexicana Consejo Ciudadano para la Seg",
-      "url": "https://confidencial.digital/mundo/america-latina-concentra-las-ciudades-mas-peligrosas-del-mundo/",
-      "publishedAt": "Wed, 08 Jul 2026 17:37:34 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-america-latina",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -1047,8 +1114,8 @@
       "publishedAt": "Wed, 08 Jul 2026 08:00:04 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-exencion-pago",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     },
     {
@@ -1064,25 +1131,8 @@
       "publishedAt": "Tue, 07 Jul 2026 08:00:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cambios-sistema",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
-      "seenCount": 1
-    },
-    {
-      "id": "985de9684d40e840",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Play Station: el problema no es el fin del formato físico",
-      "summary": "La entrada Play Station: el problema no es el fin del formato físico se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/07/05/play-station-el-problema-no-es-el-fin-del-formato-fisico/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=play-station-el-problema-no-es-el-fin-del-formato-fisico",
-      "publishedAt": "Sun, 05 Jul 2026 08:00:13 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-play-station",
-      "firstSeenAt": "2026-07-10T09:44:36.067Z",
-      "lastSeenAt": "2026-07-10T09:44:36.067Z",
+      "firstSeenAt": "2026-07-10T14:38:44.608Z",
+      "lastSeenAt": "2026-07-10T14:38:44.608Z",
       "seenCount": 1
     }
   ]
