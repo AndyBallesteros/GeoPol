@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-07-13T09:36:40.613Z",
-  "count": 60,
-  "failures": [],
+  "generatedAt": "2026-07-13T14:45:11.803Z",
+  "count": 53,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "429 Too Many Requests"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-07-13T09:36:40.613Z",
-    "activeSignals": 60,
-    "archiveSignals": 118,
-    "countriesCovered": 8,
-    "highPrioritySignals": 20,
-    "averagePoliticalScore": 5.92
+    "generatedAt": "2026-07-13T14:45:11.803Z",
+    "activeSignals": 53,
+    "archiveSignals": 111,
+    "countriesCovered": 7,
+    "highPrioritySignals": 21,
+    "averagePoliticalScore": 6.06
   },
   "briefings": [
     {
@@ -22,7 +27,7 @@
       "topSources": [
         "CIPER"
       ],
-      "signalCount": 14,
+      "signalCount": 13,
       "summary": "Foco en Probidad. Vigilar CIPER y CIPER."
     },
     {
@@ -43,48 +48,49 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Obra pública: el oficialismo quiere destrabar por ley contratos paralizados por años",
-      "leadUrl": "https://www.lanacion.com.ar/politica/obra-publica-el-oficialismo-quiere-destrabar-por-ley-contratos-paralizados-por-anos-nid12072026/",
+      "leadTitle": "Milei vuelve a convocar a legisladores nacionales para avanzar en el Congreso con la reforma del Banco Central",
+      "leadUrl": "https://www.lanacion.com.ar/politica/milei-vuelve-a-convocar-a-legisladores-nacionales-para-avanzar-en-el-congreso-con-la-reforma-del-nid13072026/",
       "focusTopics": [
-        "Economia politica"
+        "Economia politica",
+        "Elecciones"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 9,
-      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Se profundiza la fuerte fractura nacional",
-      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/se-profundiza-la-fuerte-fractura-nacional/",
-      "focusTopics": [
-        "Elecciones",
-        "Seguridad",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 8,
-      "summary": "Foco en Elecciones, Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Espana",
       "priority": "Alta",
-      "leadTitle": "Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”",
-      "leadUrl": "https://elpais.com/espana/2026-07-13/angel-victor-torres-en-2027-puede-haber-500000-nuevos-nacionalizados-con-derecho-a-voto.html",
+      "leadTitle": "La Fiscalía y la Abogacía del Estado respaldan la presencia de la acusación liderada por el PP en la pieza sobre las joyas de Zapatero",
+      "leadUrl": "https://elpais.com/espana/2026-07-13/la-fiscalia-y-la-abogacia-del-estado-respaldan-la-presencia-de-la-acusacion-liderada-por-el-pp-en-la-pieza-sobre-las-joyas-de-zapatero.html",
       "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
+        "Economia politica",
+        "Elecciones"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
       "signalCount": 7,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Mundo."
+      "summary": "Foco en Economia politica, Elecciones. Vigilar El Pais y El Mundo."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "En el cambio de gobierno, no debería primar el miedo sino la imaginación",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-etnica/en-el-cambio-de-gobierno-no-deberia-primar-el-miedo-sino-la-imaginacion/",
+      "focusTopics": [
+        "Seguridad",
+        "Gobernabilidad",
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 7,
+      "summary": "Foco en Seguridad, Gobernabilidad, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -98,7 +104,7 @@
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 6,
+      "signalCount": 4,
       "summary": "Foco en Seguridad, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
@@ -114,20 +120,6 @@
       ],
       "signalCount": 3,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Media",
-      "leadTitle": "Gobierno regional activa Estado Mayor por lluvias en Amazonas",
-      "leadUrl": "https://efectococuyo.com/la-humanidad/gobierno-regional-activa-estado-mayor-por-lluvias-en-amazonas/",
-      "focusTopics": [
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 3,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     }
   ],
   "signals": [
@@ -144,76 +136,25 @@
       "publishedAt": "Sun, 12 Jul 2026 21:03:59 -0300",
       "politicalScore": 23,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-congreso-intendentes",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
-      "id": "2ef250dee2f8da8b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Se profundiza la fuerte fractura nacional",
-      "summary": "Nada parece frenar la profundización de la fractura nacional que vive el país. Pasamos de la polarización de la campaña a una deslegitimación constante tras las elecciones. Ni los perdedores reconocen al nuevo gobierno, ni el presidente electo parece dispuesto",
-      "url": "https://www.lasillavacia.com/red-de-expertos/se-profundiza-la-fuerte-fractura-nacional/",
-      "publishedAt": "Sun, 12 Jul 2026 12:14:43 +0000",
-      "politicalScore": 16,
-      "eventKey": "colombia-elecciones-colombia-elecciones-profundiza-fuerte",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8593a07ecafd0343",
+      "id": "af23faeacba4c523",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Obra pública: el oficialismo quiere destrabar por ley contratos paralizados por años",
-      "summary": "El proyecto libertario que circula en el Senado propone un régimen excepcional que busca evitarle juicios al Estado; también eliminar pasivos contingentes del presupuesto nacional",
-      "url": "https://www.lanacion.com.ar/politica/obra-publica-el-oficialismo-quiere-destrabar-por-ley-contratos-paralizados-por-anos-nid12072026/",
-      "publishedAt": "Sun, 12 Jul 2026 19:36:21 +0000",
+      "title": "Milei vuelve a convocar a legisladores nacionales para avanzar en el Congreso con la reforma del Banco Central",
+      "summary": "El Presidente busca modificar la carta orgánica del organismo para reforzar su independencia y prohibir el financiamiento monetario del Tesoro; el encuentro será a las 15",
+      "url": "https://www.lanacion.com.ar/politica/milei-vuelve-a-convocar-a-legisladores-nacionales-para-avanzar-en-el-congreso-con-la-reforma-del-nid13072026/",
+      "publishedAt": "Mon, 13 Jul 2026 13:30:52 +0000",
       "politicalScore": 13,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-obra",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b2c117394476d77d",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con derecho a voto”",
-      "summary": "El ministro explica que no dará tiempo a resolver los 2,4 millones de solicitudes de la ‘ley de nietos’ antes de las próximas elecciones generales",
-      "url": "https://elpais.com/espana/2026-07-13/angel-victor-torres-en-2027-puede-haber-500000-nuevos-nacionalizados-con-derecho-a-voto.html",
-      "publishedAt": "Mon, 13 Jul 2026 03:30:01 GMT",
-      "politicalScore": 12,
-      "eventKey": "espana-elecciones-espana-elecciones-angel-victor",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "336b5445f79b0d4a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El shutdown de Milei se activará frente al déficit y será una adaptación local del mecanismo de los Estados Unidos",
-      "summary": "El Presidente quiere que el superávit fiscal quede blindado por ley; trabaja junto a Sturzenegger, Caputo y Bausili",
-      "url": "https://www.lanacion.com.ar/politica/el-shutdown-de-milei-se-activara-frente-al-deficit-y-sera-una-adaptacion-local-del-mecanismo-de-los-nid12072026/",
-      "publishedAt": "Sun, 12 Jul 2026 10:30:54 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-shutdown",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -229,8 +170,59 @@
       "publishedAt": "Fri, 10 Jul 2026 01:03:12 +0000",
       "politicalScore": 12,
       "eventKey": "chile-probidad-chile-probidad-suspenden-audiencia",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c2ec9729125ccea",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Milei, en modo Scaloneta",
+      "summary": "El Presidente en particular, y su equipo político en general, ahora no tienen ningún prurito en admitir que van hacer uso de todo lo que se tenga a mano para lograr la reelección",
+      "url": "https://www.lanacion.com.ar/politica/milei-en-modo-scaloneta-nid13072026/",
+      "publishedAt": "Mon, 13 Jul 2026 14:00:29 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-elecciones-argentina-elecciones-milei-modo",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6de3db02688a6786",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "La Fiscalía y la Abogacía del Estado respaldan la presencia de la acusación liderada por el PP en la pieza sobre las joyas de Zapatero",
+      "summary": "El ministerio público reprocha a la defensa del expresidente que quiera “cerrar el paso al ejercicio de la acción popular”",
+      "url": "https://elpais.com/espana/2026-07-13/la-fiscalia-y-la-abogacia-del-estado-respaldan-la-presencia-de-la-acusacion-liderada-por-el-pp-en-la-pieza-sobre-las-joyas-de-zapatero.html",
+      "publishedAt": "Mon, 13 Jul 2026 12:40:30 GMT",
+      "politicalScore": 10,
+      "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "efc16f97562929b6",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Las notas secretas que Zapatero entregó a Sánchez: Junts rompió con el Gobierno por usar a Pumpido para engañarles",
+      "summary": "Culpó por escrito al PSOE de dilatar el aval del Constitucional a la amnistía y manipular a la Fiscalía para que no retirara su apoyo a Sánchez Esta información fue reportada al presidente por Zapatero&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/12/6a53a8e721efa091308b458c.html",
+      "publishedAt": "Mon, 13 Jul 2026 13:06:54 +0200",
+      "politicalScore": 10,
+      "eventKey": "espana-economia-politica-espana-economia-politica-notas",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -246,25 +238,8 @@
       "publishedAt": "Sun, 12 Jul 2026 22:24:12 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "03c4c0cc037fa0f0",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "La mediación de Zapatero en la guerra contra las universidades privadas: el Gobierno suavizó la 'ley antichiringuitos' tras atender el ex presidente las quejas de campus de Planeta",
-      "summary": "Mauricio Casals le remitió las \"prioridades\" de la UNIE y de la VIU para mejorar el borrador del decreto&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/11/6a5271b9e85ececa7c8b45b3.html",
-      "publishedAt": "Sat, 11 Jul 2026 22:49:57 +0200",
-      "politicalScore": 10,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-mediacion-zapatero",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -280,8 +255,59 @@
       "publishedAt": "Sat, 11 Jul 2026 16:17:04 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reed-brody",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "edec93073a44e803",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "La Justicia citó a Facundo Leal, el extitular de Arsat y el Orsna que cayó con drogas y millones de dólares",
+      "summary": "El exfuncionario durante los gobiernos de Alberto Fernández y Javier Milei está detenido hace dos meses por la tenencia de estupefacientes y por presuntos sobornos",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-cito-a-facundo-leal-el-extitular-de-arsat-y-el-orsna-que-cayo-con-drogas-y-millones-de-nid13072026/",
+      "publishedAt": "Mon, 13 Jul 2026 13:34:40 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-cito",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b7c90392c7579772",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Juicio por Skanska: a las 13 se conoce el veredicto del primer gran caso de corrupción del kirchnerismo",
+      "summary": "Esta mañana, el tribunal les dio a los acusados la posibilidad de decir sus “últimas palabras”, pero no hubo discursos y el trámite duró menos de 10 minutos; los máximos responsables de la obra pública durante el kirchnerismo, Julio De Vido y José López, podrí",
+      "url": "https://www.lanacion.com.ar/politica/juicio-por-skanska-a-las-13-se-conoce-el-veredicto-del-primer-gran-caso-de-corrupcion-del-nid13072026/",
+      "publishedAt": "Mon, 13 Jul 2026 13:31:59 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-juicio-skanska",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b1aa22f5d1d81e3b",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "La coalición Sumar cierra el curso defendiendo su \"hoja de servicios\" en el Gobierno: \"Abandonemos toda la resignación\"",
+      "summary": "Bustinduy habla de un momento \"crítico\", pero pide a la izquierda alternativa a \"dar batalla\" de cara a las elecciones generales de 2027&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/13/6a54d0f1e85ecef0158b4593.html",
+      "publishedAt": "Mon, 13 Jul 2026 14:30:03 +0200",
+      "politicalScore": 9,
+      "eventKey": "espana-elecciones-espana-elecciones-coalicion-sumar",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -297,8 +323,8 @@
       "publishedAt": "Mon, 13 Jul 2026 07:05:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-superprocuradora",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -314,42 +340,8 @@
       "publishedAt": "Sun, 12 Jul 2026 13:58:00 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-seguridad-colombia-seguridad-cambio-gobierno",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6d832f6c0d345a93",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Sumar da por zanjada su guerra interna y se centra en las elecciones redefiniendo su identidad sin Yolanda Díaz",
-      "summary": "La vicepresidenta segunda del Gobierno brinda su apoyo a Verónica Martínez Barbero y Rosa Martínez , las nuevas coordinadoras de la formación&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/12/6a52932ffc6c8359188b4596.html",
-      "publishedAt": "Sun, 12 Jul 2026 03:18:39 +0200",
-      "politicalScore": 9,
-      "eventKey": "espana-elecciones-espana-elecciones-sumar-zanjada",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b2bdd6b321e66b7c",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Abelardo vs. uribismo: el pulso por las presidencias del Congreso",
-      "summary": "La puja por la presidencia del Senado y la Cámara se da alrededor de los nombres de Alfredo Deluque y Daniel Briceño. De la Espriella sigue distante del Congreso. The post Abelardo vs. uribismo: el pulso por las presidencias del Congreso appeared first on La S",
-      "url": "https://www.lasillavacia.com/silla-nacional/abelardo-vs-uribismo-el-pulso-por-las-presidencias-del-congreso/",
-      "publishedAt": "Sun, 12 Jul 2026 06:00:00 +0000",
-      "politicalScore": 8,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-uribismo",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -365,8 +357,8 @@
       "publishedAt": "Mon, 13 Jul 2026 06:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-bloque-defensa",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -382,8 +374,8 @@
       "publishedAt": "Mon, 13 Jul 2026 03:01:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-solo",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -399,8 +391,25 @@
       "publishedAt": "Mon, 13 Jul 2026 00:18:23 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-otras",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "482fa3637399f255",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "El fallo del TJUE sobre la amnistía no resolverá de forma inmediata el exilio de Puigdemont",
+      "summary": "El ex presidente catalán aguarda esta semana la sentencia del Tribunal de Justicia de la Unión Europea. Aunque la decisión le favoreciera, su regreso a España se retrasará&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/13/6a53a82e21efa091308b4585.html",
+      "publishedAt": "Mon, 13 Jul 2026 01:27:03 +0200",
+      "politicalScore": 7,
+      "eventKey": "espana-instituciones-espana-instituciones-fallo-tjue",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -416,8 +425,8 @@
       "publishedAt": "Sun, 12 Jul 2026 21:20:09 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-instituciones-argentina-instituciones-juicio-skanska",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -433,8 +442,8 @@
       "publishedAt": "Sun, 12 Jul 2026 15:36:38 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-pilar-rueda",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -450,8 +459,8 @@
       "publishedAt": "Sat, 11 Jul 2026 14:30:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuba-sufre",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -467,8 +476,25 @@
       "publishedAt": "Mon, 13 Jul 2026 08:46:03 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-embajador-reitera",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "40a61890367c0ef4",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La Fiscalía mantiene que el palacete de Getxo sí estaba protegido frente al caso utilizado por imputados para exculparse",
+      "summary": "El Ministerio Público descarta que el derribo del edificio 'La Aldea' sea aplicable al del palacete en el que están implicados tres ex ediles del PNV.&nbsp; Leer",
+      "url": "https://www.elmundo.es/pais-vasco/2026/07/13/6a54ad59e85ece2c6e8b458a.html",
+      "publishedAt": "Mon, 13 Jul 2026 11:42:46 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -484,8 +510,8 @@
       "publishedAt": "Mon, 13 Jul 2026 00:01:25 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-embajador-palestina",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -501,8 +527,8 @@
       "publishedAt": "Mon, 13 Jul 2026 00:03:05 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscal",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -518,42 +544,8 @@
       "publishedAt": "Sun, 12 Jul 2026 18:41:17 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-espriella",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "141de3d3efe1daba",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La ‘ley de nietos’ que cuestiona el PP pasó 32 trámites parlamentarios en cinco años",
-      "summary": "El Gobierno señala que las nacionalizaciones por la vía de la Memoria Democrática van “lentísimas” en comparación con las solicitadas por residencia",
-      "url": "https://elpais.com/espana/2026-07-13/la-ley-de-nietos-que-cuestiona-el-pp-paso-32-tramites-parlamentarios-en-cinco-anos.html",
-      "publishedAt": "Mon, 13 Jul 2026 03:30:01 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-nietos-cuestiona",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5a150cf5888c2fd6",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Gobierno regional activa Estado Mayor por lluvias en Amazonas",
-      "summary": "La cota del río Orinoco en Puerto Ayacucho fue superada por las intensas lluvias. 30 familias quedaron damnificadas",
-      "url": "https://efectococuyo.com/la-humanidad/gobierno-regional-activa-estado-mayor-por-lluvias-en-amazonas/",
-      "publishedAt": "Sun, 12 Jul 2026 17:31:51 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-regional",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -569,42 +561,8 @@
       "publishedAt": "Sun, 12 Jul 2026 15:21:59 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-lenta-recuperacion",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c6a194c92fc7f4c4",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Ingeniero De Viana: La reconstrucción pasa por recuperar la productividad y consultar a los que saben",
-      "summary": "El ingeniero José María De Viana advierte que no se está haciendo ingeniería forense antes de remover escombros ni se consulta a expertos",
-      "url": "https://efectococuyo.com/politica/de-viana-reconstruccion-recuperar-productividad-pais-consultar/",
-      "publishedAt": "Sun, 12 Jul 2026 06:55:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-ingeniero-viana",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dab540dacc389aed",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Tutelaje, ayuda humanitaria y control de daños de Trump: mirada de politólogos",
-      "summary": "Rendueles y Cassoni observan que hay una responsabilidad compartida entre Washington y Miraflores en bloqueo a Machado",
-      "url": "https://efectococuyo.com/politica/tutelaje-ayuda-humanitaria-y-control-de-danos-de-trump-mirada-de-politologos/",
-      "publishedAt": "Sun, 12 Jul 2026 06:30:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-tutelaje-ayuda",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -620,8 +578,8 @@
       "publishedAt": "Sun, 12 Jul 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-periodismo-resistencia",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -637,8 +595,8 @@
       "publishedAt": "Sat, 11 Jul 2026 02:36:53 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-podcast-megarreforma",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -654,8 +612,8 @@
       "publishedAt": "Sat, 11 Jul 2026 02:35:24 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-megarreforma-avanza",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -671,8 +629,25 @@
       "publishedAt": "Fri, 10 Jul 2026 08:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-patrimonio-arqueologico",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
+      "seenCount": 1
+    },
+    {
+      "id": "08c206bdc3e2538b",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Reyes e investigador de Corfi reviven discusión sobre las metas infladas de la Dian",
+      "summary": "El exdirector de la Dian y el director de investigaciones económicas de Corfi, César Pabón, debaten sobre las metas infladas de recaudo, que llevaron a la crísis fiscal. The post Reyes e investigador de Corfi reviven discusión sobre las metas infladas de la Di",
+      "url": "https://www.lasillavacia.com/en-vivo/reyes-y-investigador-de-corfi-reviven-discusion-sobre-las-metas-infladas-de-la-dian/",
+      "publishedAt": "Mon, 13 Jul 2026 13:49:27 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-reyes",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -688,8 +663,8 @@
       "publishedAt": "Mon, 13 Jul 2026 06:07:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espejo-rompe",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -705,59 +680,8 @@
       "publishedAt": "Mon, 13 Jul 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-escuela-periodismo",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9c98e8aff7acdd43",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Begoña Gómez, en manos de la Audiencia de Madrid",
-      "summary": "El tribunal provincial comienza a debatir varios recursos clave presentados contra la polémica instrucción del juez Peinado",
-      "url": "https://elpais.com/espana/2026-07-13/begona-gomez-en-manos-de-la-audiencia-de-madrid.html",
-      "publishedAt": "Mon, 13 Jul 2026 03:30:01 GMT",
-      "politicalScore": 4,
-      "eventKey": "espana-instituciones-espana-instituciones-begona-gomez",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "810437ab32624bac",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Con la interna en alza, en distritos clave de Buenos Aires ya se perfilan candidatos de Cristina y Kicillof",
-      "summary": "Morón, Lanús, La Matanza, Avellaneda y General Pueyrredón son algunos de los municipios de peso en los que ya se vislumbran postulantes a la intendencia vinculados con la expresidenta y con el gobernador, dispuestos a medir fuerzas",
-      "url": "https://www.lanacion.com.ar/politica/con-la-interna-en-alza-en-distritos-clave-de-buenos-aires-ya-se-perfilan-candidatos-de-cristina-y-nid12072026/",
-      "publishedAt": "Sun, 12 Jul 2026 20:47:32 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-interna",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d3d9a05fa648f083",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Murió Néstor Santos, histórico director del diario La Calle, de Avellaneda",
-      "summary": "Dirigió el periódico durante más de 60 años y fue un firme defensor de la libertad de prensa",
-      "url": "https://www.lanacion.com.ar/politica/murio-nestor-santos-historico-director-del-diario-la-calle-de-avellaneda-nid12072026/",
-      "publishedAt": "Sun, 12 Jul 2026 20:00:59 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-murio",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -773,8 +697,8 @@
       "publishedAt": "Sun, 12 Jul 2026 17:36:23 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-columnas-opinion",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -790,8 +714,8 @@
       "publishedAt": "Sun, 12 Jul 2026 06:07:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-treinta-anos",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -807,8 +731,8 @@
       "publishedAt": "Sun, 12 Jul 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-confidencial-viento",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -824,8 +748,8 @@
       "publishedAt": "Sat, 11 Jul 2026 08:00:55 +0000",
       "politicalScore": 4,
       "eventKey": "chile-elecciones-chile-elecciones-encuesta-icsoh",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -841,8 +765,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-exigir-pedro",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -858,8 +782,8 @@
       "publishedAt": "Sun, 28 Jun 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-agendas-rodriguez",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -875,8 +799,8 @@
       "publishedAt": "Mon, 13 Jul 2026 00:01:30 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-futuros-educacion",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -892,8 +816,8 @@
       "publishedAt": "Sun, 12 Jul 2026 21:27:05 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-filas-conseguir",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -909,8 +833,8 @@
       "publishedAt": "Sun, 12 Jul 2026 18:33:33 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-muere-mujer",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -926,8 +850,8 @@
       "publishedAt": "Sun, 12 Jul 2026 16:40:50 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-elimina-limite",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -943,25 +867,8 @@
       "publishedAt": "Sun, 12 Jul 2026 14:11:05 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-marco-rubio",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "aba61aee97f62fde",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "La recuperación del sistema eléctrico avanza lentamente entre protestas y fuerte vigilancia policial",
-      "summary": "La UNE asegura que ya sincronizó el SEN en todo el país, aunque miles de cubanos continúan sin servicio",
-      "url": "https://www.14ymedio.com/cuba/recuperacion-sistema-electrico-avanza-lentamente_1_1128710.html",
-      "publishedAt": "Sun, 12 Jul 2026 13:37:15 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-sociedad-cuba-sociedad-recuperacion-sistema",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -977,8 +884,8 @@
       "publishedAt": "Sun, 12 Jul 2026 08:00:10 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-jueces-rostro",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -994,25 +901,8 @@
       "publishedAt": "Sat, 11 Jul 2026 19:21:49 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-disparos-apagones",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fbce134a9ee77dad",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "Cinco años después del 11J, el régimen refuerza la represión ante el temor de un nuevo estallido social",
-      "summary": "Cubalex reporta un récord de 319 eventos represivos y 253 protestas en junio, la cifra más alta desde que comenzó su monitoreo en 2022",
-      "url": "https://www.14ymedio.com/cuba/cinco-anos-despues-11j-regimen_1_1128687.html",
-      "publishedAt": "Sat, 11 Jul 2026 17:50:34 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-sociedad-cuba-sociedad-cinco-anos",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1028,8 +918,8 @@
       "publishedAt": "Sat, 11 Jul 2026 08:00:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-clausura-patio",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1045,8 +935,8 @@
       "publishedAt": "Fri, 10 Jul 2026 20:07:57 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-peor-caso",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1062,8 +952,8 @@
       "publishedAt": "Fri, 10 Jul 2026 08:00:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-proximo-paso",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1079,8 +969,8 @@
       "publishedAt": "Fri, 10 Jul 2026 08:00:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sellos-comedores",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1096,8 +986,8 @@
       "publishedAt": "Fri, 10 Jul 2026 08:00:30 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-espiar",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1113,8 +1003,8 @@
       "publishedAt": "Thu, 09 Jul 2026 15:54:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-empleo-alla",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     },
     {
@@ -1130,25 +1020,8 @@
       "publishedAt": "Thu, 09 Jul 2026 15:21:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-junji-nombro",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
-      "seenCount": 1
-    },
-    {
-      "id": "402aac9b6b9e3688",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Condena por espionaje ilegal",
-      "summary": "La entrada Condena por espionaje ilegal se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/07/09/condena-por-espionaje-ilegal/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=condena-por-espionaje-ilegal",
-      "publishedAt": "Thu, 09 Jul 2026 13:39:14 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-condena-espionaje",
-      "firstSeenAt": "2026-07-13T09:36:40.613Z",
-      "lastSeenAt": "2026-07-13T09:36:40.613Z",
+      "firstSeenAt": "2026-07-13T14:45:11.803Z",
+      "lastSeenAt": "2026-07-13T14:45:11.803Z",
       "seenCount": 1
     }
   ]
