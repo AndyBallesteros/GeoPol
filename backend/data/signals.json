@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-19T08:25:56.247Z",
+  "generatedAt": "2026-07-19T13:27:26.330Z",
   "count": 53,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-07-19T08:25:56.247Z",
+    "generatedAt": "2026-07-19T13:27:26.330Z",
     "activeSignals": 53,
     "archiveSignals": 111,
-    "countriesCovered": 8,
+    "countriesCovered": 9,
     "highPrioritySignals": 20,
-    "averagePoliticalScore": 5.77
+    "averagePoliticalScore": 5.85
   },
   "briefings": [
     {
@@ -27,19 +27,34 @@
       "summary": "Foco en Economia politica, Probidad. Vigilar CIPER y CIPER."
     },
     {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "El mapa del peronismo en el Congreso: así se distribuyen las lealtades del PJ",
+      "leadUrl": "https://www.lanacion.com.ar/politica/el-mapa-del-peronismo-en-el-congreso-asi-se-distribuyen-las-lealtades-del-pj-nid19072026/",
+      "focusTopics": [
+        "Economia politica",
+        "Instituciones"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 8,
+      "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
+    },
+    {
       "country": "Colombia",
       "priority": "Alta",
       "leadTitle": "Sigue pelea entre uribismo y el gobierno de De la Espriella por las presidencias del Congreso",
       "leadUrl": "https://www.lasillavacia.com/en-vivo/sigue-pelea-entre-uribismo-y-el-gobierno-de-de-la-espriella-por-las-presidencias-del-congreso/",
       "focusTopics": [
         "Elecciones",
-        "Seguridad"
+        "Instituciones"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 9,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 8,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -56,21 +71,6 @@
       ],
       "signalCount": 8,
       "summary": "Foco en Elecciones, Gobernabilidad, Instituciones. Vigilar El Mundo y El Mundo."
-    },
-    {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "Un juez de la Corte brasileña endureció el arresto domiciliario de Jair Bolsonaro y frustró la visita de Milei",
-      "leadUrl": "https://www.lanacion.com.ar/politica/un-juez-de-la-corte-brasilena-endurece-el-arresto-domiciliario-de-jair-bolsonaro-y-se-frustra-la-nid17072026/",
-      "focusTopics": [
-        "Instituciones",
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Instituciones, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -97,7 +97,7 @@
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 5,
+      "signalCount": 4,
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
@@ -129,9 +129,40 @@
       ],
       "signalCount": 1,
       "summary": "Foco en Elecciones. Vigilar La Diaria."
+    },
+    {
+      "country": "Peru",
+      "priority": "Media",
+      "leadTitle": "Denisse Miralles: “Tenemos que saber con qué contamos y poner las acciones en un plan por región”",
+      "leadUrl": "https://elcomercio.pe/politica/actualidad/denisse-miralles-tenemos-que-saber-con-que-contamos-y-poner-las-acciones-en-un-plan-por-region-entrevista-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
     }
   ],
   "signals": [
+    {
+      "id": "5ba07a8343287e34",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El mapa del peronismo en el Congreso: así se distribuyen las lealtades del PJ",
+      "summary": "La pelea por el liderazgo del peronismo atraviesa a diputados y senadores: Cristina Kirchner conserva su principal bastión en el Senado; Kicillof reúne un puñado de aliados en Diputados; emerge un nuevo esquema federal y los gobernadores mantienen su autonomía",
+      "url": "https://www.lanacion.com.ar/politica/el-mapa-del-peronismo-en-el-congreso-asi-se-distribuyen-las-lealtades-del-pj-nid19072026/",
+      "publishedAt": "Sun, 19 Jul 2026 10:23:06 +0000",
+      "politicalScore": 18,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-mapa",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
+      "seenCount": 1
+    },
     {
       "id": "dc08153456b88b4a",
       "country": "Colombia",
@@ -145,25 +176,8 @@
       "publishedAt": "Sat, 18 Jul 2026 21:49:08 +0000",
       "politicalScore": 16,
       "eventKey": "colombia-elecciones-colombia-elecciones-sigue-pelea",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
-      "seenCount": 1
-    },
-    {
-      "id": "aba76eaba6eaf655",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Un juez de la Corte brasileña endureció el arresto domiciliario de Jair Bolsonaro y frustró la visita de Milei",
-      "summary": "Rechazó el pedido que el Presidente había hecho para visitarlo el sábado próximo, cuando viaje a Brasil para apoyar el lanzamiento electoral de Flávio Bolsonaro, principal opositor de Lula da Silva",
-      "url": "https://www.lanacion.com.ar/politica/un-juez-de-la-corte-brasilena-endurece-el-arresto-domiciliario-de-jair-bolsonaro-y-se-frustra-la-nid17072026/",
-      "publishedAt": "Sat, 18 Jul 2026 00:24:07 +0000",
-      "politicalScore": 14,
-      "eventKey": "argentina-instituciones-argentina-instituciones-juez-corte",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -179,8 +193,25 @@
       "publishedAt": "Sun, 19 Jul 2026 01:03:33 +0000",
       "politicalScore": 12,
       "eventKey": "colombia-elecciones-colombia-elecciones-apoyo-liberal",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d35aa289ef6fe4a0",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Los ilusionistas de los privilegios",
+      "summary": "Tal vez el Consejo de Estado termine anulando el Decreto 030. Tal vez concluya que el Gobierno excedió su competencia o desconoció garantías salariales. Eso pertenece al debate jurídico de fondo. Pero desde la justicia distributiva queda una conclusión menos e",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/los-ilusionistas-de-los-privilegios/",
+      "publishedAt": "Sun, 19 Jul 2026 13:02:15 +0000",
+      "politicalScore": 10,
+      "eventKey": "colombia-instituciones-colombia-instituciones-ilusionistas-privilegios",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -196,42 +227,8 @@
       "publishedAt": "Sat, 18 Jul 2026 23:26:54 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-instituciones-argentina-instituciones-kicillof-apunto",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b09db96b9dc2444b",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Santilli se reunió con Sergio Ziliotto para analizar la ejecución de la obra pública en La Pampa",
-      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-debate-por-la-ley-de-tierras-y-el-operativo-para-recibir-a-la-nid17072026/",
-      "publishedAt": "Sat, 18 Jul 2026 02:54:32 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0f6b9deadec31154",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Martín Irurzun cumple 75 años y pide a la Corte que resuelva en la feria judicial su continuidad como camarista",
-      "summary": "Exigió que se le habilite a seguir en el cargo y planteó una demanda de fondo contra el Estado por el límite de edad; el domingo a medianoche dejará de ser juez",
-      "url": "https://www.lanacion.com.ar/politica/martin-irurzun-cumple-75-anos-y-pide-a-la-corte-que-resuelva-en-la-feria-judicial-su-continuidad-nid17072026/",
-      "publishedAt": "Fri, 17 Jul 2026 23:59:30 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-instituciones-argentina-instituciones-martin-irurzun",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -247,8 +244,8 @@
       "publishedAt": "Fri, 17 Jul 2026 22:47:41 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-francisco-torre",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -264,8 +261,25 @@
       "publishedAt": "Thu, 16 Jul 2026 01:49:04 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5663b12d83c8095d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El silencio de la gobernación y la Legislatura de Buenos Aires ampara a Martín Insaurralde",
+      "summary": "Un proyecto de ley de La Libertad Avanza para investigar al exministro fue cajoneado en la Cámara baja",
+      "url": "https://www.lanacion.com.ar/politica/el-silencio-de-la-gobernacion-y-la-legislatura-de-buenos-aires-ampara-a-martin-insaurralde-nid19072026/",
+      "publishedAt": "Sun, 19 Jul 2026 10:41:06 +0000",
+      "politicalScore": 8,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-silencio",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -281,8 +295,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:55:00 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-trump-ejemplo",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -298,8 +312,8 @@
       "publishedAt": "Fri, 17 Jul 2026 12:01:34 +0200",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-guardia-civil",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -315,8 +329,8 @@
       "publishedAt": "Wed, 15 Jul 2026 14:23:16 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-reforma-seia",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -332,8 +346,25 @@
       "publishedAt": "Wed, 15 Jul 2026 00:43:36 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-gobierno-defiende",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
+      "seenCount": 1
+    },
+    {
+      "id": "33502ee3252ffdde",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Milei vuelve a desafiar a Lula y visita a tres presidentes sudamericanos para consolidar su “liderazgo” en la región",
+      "summary": "En las próximas dos semanas, el Presidente verá a Flávio Bolsonaro, que competirá en octubre contra el mandatario brasileño; estará en las juras de Fujimori y De la Espriella y verá a Noboa",
+      "url": "https://www.lanacion.com.ar/politica/milei-vuelve-a-desafiar-a-lula-y-visita-a-tres-presidentes-sudamericanos-para-consolidar-su-nid19072026/",
+      "publishedAt": "Sun, 19 Jul 2026 10:42:07 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -349,8 +380,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:45:00 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-oposicion-mecanismo",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -366,8 +397,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-gobiernos-deben",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -383,8 +414,8 @@
       "publishedAt": "Sat, 18 Jul 2026 22:54:01 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-institucionalidad-logica",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -400,25 +431,8 @@
       "publishedAt": "Sat, 18 Jul 2026 22:11:51 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
-      "seenCount": 1
-    },
-    {
-      "id": "28a7f15ea49a0998",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Segundo “consejo de ministros” de De la Espriella: directivas del Congreso serán tema clave",
-      "summary": "De la Espriella convoca su segundo consejo de ministros en Barranquilla con cuatro nuevos designados y la agenda del Congreso como telón de fondo. The post Segundo “consejo de ministros” de De la Espriella: directivas del Congreso serán tema clave appeared fir",
-      "url": "https://www.lasillavacia.com/en-vivo/segundo-consejo-de-ministros-de-de-la-espriella-directivas-del-congreso-seran-tema-clave/",
-      "publishedAt": "Sat, 18 Jul 2026 18:50:13 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-segundo-consejo",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -434,8 +448,8 @@
       "publishedAt": "Wed, 15 Jul 2026 23:53:25 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-megaoperativo",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -451,8 +465,8 @@
       "publishedAt": "Sat, 18 Jul 2026 12:53:48 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-instituciones-cuba-instituciones-reconoce-caso",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -468,8 +482,8 @@
       "publishedAt": "Fri, 17 Jul 2026 18:34:49 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-sociedad-cuba-sociedad-vecinos-luyano",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -485,8 +499,8 @@
       "publishedAt": "Sat, 18 Jul 2026 22:30:00 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-senales-tigre",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -502,8 +516,8 @@
       "publishedAt": "Sat, 18 Jul 2026 17:22:20 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-envio-otras",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -519,8 +533,8 @@
       "publishedAt": "Fri, 17 Jul 2026 06:15:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-ortega",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -536,8 +550,8 @@
       "publishedAt": "Thu, 16 Jul 2026 08:00:27 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-represion-dialogo",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -553,8 +567,8 @@
       "publishedAt": "Wed, 15 Jul 2026 13:05:06 +0200",
       "politicalScore": 6,
       "eventKey": "espana-instituciones-espana-instituciones-impulsara-reforma",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -570,25 +584,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:15:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-rodrigato-acepta",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4d3455e633755b2c",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "ICE persigue y mata a migrantes; Abelardo calla",
-      "summary": "ICE persigue y mata migrantes latinos en EE. UU, mientras Abelardo calla ante el crimen de un joven que votó por él, opina la columnista. The post ICE persigue y mata a migrantes; Abelardo calla appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/ice-persigue-y-mata-a-migrantes-abelardo-calla/",
-      "publishedAt": "Sat, 18 Jul 2026 19:06:48 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-seguridad-colombia-seguridad-persigue-mata",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -604,8 +601,8 @@
       "publishedAt": "Sat, 18 Jul 2026 01:17:21 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-instruccion-amplia",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -621,8 +618,42 @@
       "publishedAt": "Fri, 17 Jul 2026 17:48:41 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-cuatro-vocales",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0944d6dd9dbb1e9b",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Denisse Miralles: “Tenemos que saber con qué contamos y poner las acciones en un plan por región”",
+      "summary": "Denisse Miralles, directora (e) de la Dirección de Inversiones Descentralizadas de ProInversión, explica cómo agilizar la ejecución de obras, proteger la infraestructura crítica y fortalecer la prevención frente a un eventual fenómeno El Niño.",
+      "url": "https://elcomercio.pe/politica/actualidad/denisse-miralles-tenemos-que-saber-con-que-contamos-y-poner-las-acciones-en-un-plan-por-region-entrevista-noticia/",
+      "publishedAt": "Sun, 19 Jul 2026 12:50:10 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-denisse-miralles",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c093c93d04f98451",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Sin tregua: Karina Milei presiona a Jorge Macri en la Capital y le pide otra prueba de amor",
+      "summary": "Lejos de evaluar un acuerdo con Pro, ordenó reforzar el despliegue territorial en la Capital con la idea de competir con un candidato propio en 2027; reclaman suprimir las primarias porteñas",
+      "url": "https://www.lanacion.com.ar/politica/sin-tregua-karina-milei-presiona-a-jorge-macri-en-la-capital-y-le-pide-otra-prueba-de-amor-nid19072026/",
+      "publishedAt": "Sun, 19 Jul 2026 10:22:22 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-tregua",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -638,8 +669,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-aquel-julio",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -655,8 +686,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nicaraguas-falsa",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -672,8 +703,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gabinete-ministros",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -689,8 +720,8 @@
       "publishedAt": "Sun, 19 Jul 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-economia-politica-espana-economia-politica-salchichas",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -706,8 +737,8 @@
       "publishedAt": "Sat, 18 Jul 2026 22:14:01 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-aysa",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -723,8 +754,8 @@
       "publishedAt": "Sat, 18 Jul 2026 21:24:08 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-numeros",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -740,8 +771,8 @@
       "publishedAt": "Sat, 18 Jul 2026 20:50:42 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-mintrabajo-sanguino",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -757,8 +788,8 @@
       "publishedAt": "Sat, 18 Jul 2026 14:00:00 GMT",
       "politicalScore": 4,
       "eventKey": "espana-instituciones-espana-instituciones-politica-justicia",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -774,8 +805,8 @@
       "publishedAt": "Sat, 18 Jul 2026 00:05:15 +0200",
       "politicalScore": 4,
       "eventKey": "espana-elecciones-espana-elecciones-tjue-absuelve",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -791,8 +822,8 @@
       "publishedAt": "Fri, 17 Jul 2026 19:39:50 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-aprobado-parole",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -808,8 +839,8 @@
       "publishedAt": "Fri, 17 Jul 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nuevos-rituales",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -819,14 +850,14 @@
       "sourceType": "Digital",
       "topic": "Diplomacia",
       "priority": "Media",
-      "title": "El paso a paso de las juntas de condominio tras el doble terremoto: lo que recomiendan expertos",
+      "title": "El paso a paso de las juntas de condominio: qué recomiendan expertos",
       "summary": "Asesores inmobiliarios recomiendan seguir al pie de la letra lo que establece la Ley de Propiedad Horizontal y los documentos de condominio para evitar conflictos",
       "url": "https://efectococuyo.com/la-humanidad/juntas-condominio-danos-terremotos-recomiendan-expertos/",
       "publishedAt": "Sun, 19 Jul 2026 06:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-paso-juntas",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -842,25 +873,8 @@
       "publishedAt": "Sat, 18 Jul 2026 23:55:46 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-negocio-marcha",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4e745029f5d20ac5",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Entre carpas: Así es la red de hospitales de campaña que brinda atención en Vargas (Guía)",
-      "summary": "Al menos nueve hospitales de campaña están desplegados en Vargas. Tras un recorrido hecho, Efecto Cocuyo presenta esta guía de los servicios que prestan, dónde están y cómo acceder",
-      "url": "https://efectococuyo.com/la-humanidad/entre-carpas-asi-es-la-red-de-hospitales-de-campana-que-brinda-atencion-en-vargas-guia/",
-      "publishedAt": "Sat, 18 Jul 2026 21:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-carpas-hospitales",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -876,8 +890,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-humo-vemos",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -893,8 +907,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-espectaculo",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -910,8 +924,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-desafio-plataformas",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -927,8 +941,8 @@
       "publishedAt": "Sat, 18 Jul 2026 00:22:20 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-celebracion-apuesta",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -944,8 +958,8 @@
       "publishedAt": "Fri, 17 Jul 2026 18:54:26 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-mala-senal",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -961,8 +975,8 @@
       "publishedAt": "Fri, 17 Jul 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-puede-escuchar",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -978,8 +992,8 @@
       "publishedAt": "Fri, 17 Jul 2026 06:06:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-llevan-acarreados",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -995,8 +1009,8 @@
       "publishedAt": "Thu, 16 Jul 2026 08:00:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-peru-cuando",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -1012,8 +1026,8 @@
       "publishedAt": "Wed, 15 Jul 2026 22:02:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-gratuidad-discriminacion",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     },
     {
@@ -1029,8 +1043,8 @@
       "publishedAt": "Wed, 15 Jul 2026 14:00:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-modificaciones-dicen",
-      "firstSeenAt": "2026-07-19T08:25:56.247Z",
-      "lastSeenAt": "2026-07-19T08:25:56.247Z",
+      "firstSeenAt": "2026-07-19T13:27:26.330Z",
+      "lastSeenAt": "2026-07-19T13:27:26.330Z",
       "seenCount": 1
     }
   ]
