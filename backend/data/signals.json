@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-20T09:23:39.945Z",
-  "count": 45,
+  "generatedAt": "2026-07-20T14:17:43.081Z",
+  "count": 48,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-07-20T09:23:39.945Z",
-    "activeSignals": 45,
-    "archiveSignals": 103,
+    "generatedAt": "2026-07-20T14:17:43.081Z",
+    "activeSignals": 48,
+    "archiveSignals": 106,
     "countriesCovered": 8,
-    "highPrioritySignals": 18,
-    "averagePoliticalScore": 6.13
+    "highPrioritySignals": 17,
+    "averagePoliticalScore": 5.9
   },
   "briefings": [
     {
@@ -29,32 +29,47 @@
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "Se acelera la ruta: Venezuela va a elecciones",
-      "leadUrl": "https://confidencial.digital/opinion/se-acelera-la-ruta-venezuela-va-a-elecciones/",
+      "leadTitle": "Ortega le teme a las elecciones porque le teme al pueblo",
+      "leadUrl": "https://confidencial.digital/opinion/ortega-le-teme-a-las-elecciones-porque-le-teme-al-pueblo/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Elecciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 9,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
+      "signalCount": 10,
+      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Los ilusionistas de los privilegios",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/los-ilusionistas-de-los-privilegios/",
+      "focusTopics": [
+        "Instituciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 6,
+      "summary": "Foco en Instituciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
       "priority": "Alta",
-      "leadTitle": "Cargos del PSOE se conjuran en secreto contra la financiación autonómica: \"No queremos que se vote\"",
-      "leadUrl": "https://www.elmundo.es/espana/2026/07/20/6a5d0849e9cf4a2b758b4577.html",
+      "leadTitle": "Francisco de la Torre, alcalde de Málaga y candidato a la reelección: \"A mis 83 años creo que sigo siendo útil\"",
+      "leadUrl": "https://www.elmundo.es/andalucia/2026/07/17/6a59f4dee9cf4ac6538b457c.html",
       "focusTopics": [
-        "Gobernabilidad",
-        "Elecciones"
+        "Elecciones",
+        "Gobernabilidad"
       ],
       "topSources": [
-        "El Mundo"
+        "El Mundo",
+        "El Pais"
       ],
       "signalCount": 6,
-      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Mundo y El Mundo."
+      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Mundo y El Mundo."
     },
     {
       "country": "Argentina",
@@ -69,21 +84,6 @@
       ],
       "signalCount": 5,
       "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Los ilusionistas de los privilegios",
-      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-de-derecho-constitucional/los-ilusionistas-de-los-privilegios/",
-      "focusTopics": [
-        "Instituciones",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Instituciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Uruguay",
@@ -102,16 +102,17 @@
     {
       "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "¿Por qué Trump usó a Venezuela como un mal ejemplo electoral?",
-      "leadUrl": "https://efectococuyo.com/politica/por-que-trump-uso-a-venezuela-como-un-mal-ejemplo-electoral/",
+      "leadTitle": "Ortega sentencia el fin de la alternancia en Nicaragua: Aquí no volverá a haber elecciones",
+      "leadUrl": "https://efectococuyo.com/internacionales/ortega-sentencia-el-fin-de-la-alternancia-en-nicaragua-aqui-no-volvera-a-haber-elecciones/",
       "focusTopics": [
+        "Elecciones",
         "Diplomacia"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Cuba",
@@ -143,25 +144,8 @@
       "publishedAt": "Sun, 19 Jul 2026 10:23:06 +0000",
       "politicalScore": 18,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-mapa",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
-      "seenCount": 1
-    },
-    {
-      "id": "758843d13387b568",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Cargos del PSOE se conjuran en secreto contra la financiación autonómica: \"No queremos que se vote\"",
-      "summary": "Diputados, senadores y dirigentes territoriales se coordinan para impedir que el nuevo modelo territorial llegue al Congreso&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/20/6a5d0849e9cf4a2b758b4577.html",
-      "publishedAt": "Mon, 20 Jul 2026 00:05:48 +0200",
-      "politicalScore": 14,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-cargos-psoe",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -177,8 +161,25 @@
       "publishedAt": "Sun, 19 Jul 2026 20:17:18 -0300",
       "politicalScore": 13,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-cardama-comision",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2c51bcf398562f74",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Ortega le teme a las elecciones porque le teme al pueblo",
+      "summary": "Las declaraciones del dictador&#160;Daniel Ortega durante el acto del 19 de julio no constituyen una demostración de fuerza, sino una confesión de miedo. Al afirmar que en Nicaragua “no volverá a haber elecciones”, Ortega reconoció públicamente lo que siempre ",
+      "url": "https://confidencial.digital/opinion/ortega-le-teme-a-las-elecciones-porque-le-teme-al-pueblo/",
+      "publishedAt": "Mon, 20 Jul 2026 13:31:19 +0000",
+      "politicalScore": 10,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-ortega-teme",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -194,8 +195,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:10:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-acelera-ruta",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -211,8 +212,25 @@
       "publishedAt": "Sun, 19 Jul 2026 13:02:15 +0000",
       "politicalScore": 10,
       "eventKey": "colombia-instituciones-colombia-instituciones-ilusionistas-privilegios",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
+      "seenCount": 1
+    },
+    {
+      "id": "11983ff38304896d",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Ortega sentencia el fin de la alternancia en Nicaragua: Aquí no volverá a haber elecciones",
+      "summary": "Dice que no va a permitir que la oposición llegue al poder en su país",
+      "url": "https://efectococuyo.com/internacionales/ortega-sentencia-el-fin-de-la-alternancia-en-nicaragua-aqui-no-volvera-a-haber-elecciones/",
+      "publishedAt": "Mon, 20 Jul 2026 14:00:18 +0000",
+      "politicalScore": 9,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-ortega-sentencia",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -228,8 +246,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:49:57 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-daniel-ortega",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -245,8 +263,8 @@
       "publishedAt": "Mon, 20 Jul 2026 03:56:32 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-sentencia",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -262,8 +280,8 @@
       "publishedAt": "Fri, 17 Jul 2026 22:47:41 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-francisco-torre",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -279,8 +297,8 @@
       "publishedAt": "Thu, 16 Jul 2026 01:49:04 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -296,8 +314,8 @@
       "publishedAt": "Sun, 19 Jul 2026 21:29:41 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-uribismo-mantiene",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -313,25 +331,8 @@
       "publishedAt": "Sun, 19 Jul 2026 10:41:06 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-silencio",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6e9a0ee516d38f3a",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "¿Por qué Trump usó a Venezuela como un mal ejemplo electoral?",
-      "summary": "Castellanos Vásquez se pregunta si Trump busca razones para cambiar las reglas del juego electoral en EEUU. La profesora Puerta Riera identifica que el mandatario pretende que desmotivar a independientes y los demócratas",
-      "url": "https://efectococuyo.com/politica/por-que-trump-uso-a-venezuela-como-un-mal-ejemplo-electoral/",
-      "publishedAt": "Sun, 19 Jul 2026 06:55:00 +0000",
-      "politicalScore": 8,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-trump-ejemplo",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -347,8 +348,8 @@
       "publishedAt": "Sun, 19 Jul 2026 10:42:07 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -364,25 +365,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-gobiernos-deben",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4de5b6f9e91e4c2f",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Megaoperativo de la Fiscalía Supraterritorial logra 40 detenidos por tráfico de armas; Karen Rojo queda recluida en cárcel de San Miguel, y dos carabineros son baleados durante captura de presunto asesino del cabo Nain",
-      "summary": "La entrada Megaoperativo de la Fiscalía Supraterritorial logra 40 detenidos por tráfico de armas; Karen Rojo queda recluida en cárcel de San Miguel, y dos carabineros son baleados durante captura de presunto asesino del cabo Nain se publicó primero en CIPER Ch",
-      "url": "https://www.ciperchile.cl/2026/07/15/radar-15-07-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-15-07-26",
-      "publishedAt": "Wed, 15 Jul 2026 23:53:25 +0000",
-      "politicalScore": 7,
-      "eventKey": "chile-economia-politica-chile-economia-politica-megaoperativo",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -398,8 +382,8 @@
       "publishedAt": "Mon, 20 Jul 2026 00:05:45 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-psoe-ignora",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -415,8 +399,8 @@
       "publishedAt": "Sat, 18 Jul 2026 12:53:48 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-instituciones-cuba-instituciones-reconoce-caso",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -432,8 +416,25 @@
       "publishedAt": "Mon, 20 Jul 2026 03:30:00 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-culmina",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4776b67d6a4df17f",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Andy Burnham asume el gobierno británico tras petición del rey Carlos III",
+      "summary": "El líder laborista se convierte en el nuevo primer ministro del Reino Unido en sustitución de Keir Starmer",
+      "url": "https://efectococuyo.com/internacionales/andy-burnham-asume-el-gobierno-britanico-tras-peticion-del-rey-carlos-iii/",
+      "publishedAt": "Mon, 20 Jul 2026 13:23:19 +0000",
+      "politicalScore": 6,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-andy-burnham",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -449,8 +450,8 @@
       "publishedAt": "Mon, 20 Jul 2026 09:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-informe",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -466,8 +467,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:15:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cinco-anos",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -483,8 +484,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:05:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-amigo-americano",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -500,8 +501,8 @@
       "publishedAt": "Mon, 20 Jul 2026 00:02:17 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-desacuerdos-profundos",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -517,8 +518,8 @@
       "publishedAt": "Sun, 19 Jul 2026 16:14:50 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-transicion-empalme",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -534,8 +535,8 @@
       "publishedAt": "Thu, 16 Jul 2026 08:00:27 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-represion-dialogo",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -551,8 +552,8 @@
       "publishedAt": "Wed, 15 Jul 2026 13:05:06 +0200",
       "politicalScore": 6,
       "eventKey": "espana-instituciones-espana-instituciones-impulsara-reforma",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -568,8 +569,8 @@
       "publishedAt": "Sun, 19 Jul 2026 18:48:56 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-foto-retrato",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -585,8 +586,42 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:27 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-escucha-corazon",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f43d493888122ef0",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Los CDR acusados por terrorismo piden a la Audiencia Nacional que les aplique de forma \"inmedita\" la amnistía tras la sentencia del Tribunal de Justicia la UE",
+      "summary": "Sus defensas estiman que ya no caben dudas de que debe archivarse el procedimiento que quedó en suspenso a la espera de la decisión de Luxemburgo&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/20/6a5e235821efa014328b456d.html",
+      "publishedAt": "Mon, 20 Jul 2026 16:05:52 +0200",
+      "politicalScore": 4,
+      "eventKey": "espana-instituciones-espana-instituciones-acusados-terrorismo",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
+      "seenCount": 1
+    },
+    {
+      "id": "23da98cf979a35fc",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Del voto a la agencia: el verdadero reto de la participación juvenil",
+      "summary": "Contrario a lo que se cree, a los jóvenes les interesa la democracia. Más allá de si votan o no, lo que quieren es sentir que lo que proponen es tomado en cuenta. The post Del voto a la agencia: el verdadero reto de la participación juvenil appeared first on L",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/del-voto-a-la-agencia-el-verdadero-reto-de-la-participacion-juvenil/",
+      "publishedAt": "Mon, 20 Jul 2026 13:00:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-voto-agencia",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -602,8 +637,8 @@
       "publishedAt": "Sun, 19 Jul 2026 23:29:52 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-asciende-cifra",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -619,8 +654,8 @@
       "publishedAt": "Sun, 19 Jul 2026 17:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-deberia-delegar",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -636,8 +671,8 @@
       "publishedAt": "Sun, 19 Jul 2026 14:06:09 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mistica-chantaje",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -653,8 +688,8 @@
       "publishedAt": "Sun, 19 Jul 2026 10:22:22 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tregua",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -670,8 +705,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-aquel-julio",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -687,8 +722,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nicaraguas-falsa",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -704,8 +739,25 @@
       "publishedAt": "Sun, 19 Jul 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-economia-politica-espana-economia-politica-salchichas",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
+      "seenCount": 1
+    },
+    {
+      "id": "dd584134c471342d",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "El camino a la reunificación: la (otra) historia de los vuelos chárter desde Haití",
+      "summary": "La entrada El camino a la reunificación: la (otra) historia de los vuelos chárter desde Haití se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/07/20/el-camino-a-la-reunificacion-la-otra-historia-de-los-vuelos-charter-desde-haiti/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-camino-a-la-reunificacion-la-otra-historia-de-los-vuelos-charter-desde-haiti",
+      "publishedAt": "Mon, 20 Jul 2026 08:00:44 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-camino-reunificacion",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -721,8 +773,8 @@
       "publishedAt": "Mon, 20 Jul 2026 00:02:18 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-repensar-movilidad",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -738,8 +790,8 @@
       "publishedAt": "Sun, 19 Jul 2026 16:13:06 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-alina-barbara",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -755,8 +807,8 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-corazon-delator",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -772,8 +824,8 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-story-pantallas",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -789,8 +841,8 @@
       "publishedAt": "Sun, 19 Jul 2026 07:59:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-gran-descampado",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -806,8 +858,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-humo-vemos",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -823,8 +875,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-espectaculo",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -840,8 +892,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-desafio-plataformas",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -857,8 +909,8 @@
       "publishedAt": "Sat, 18 Jul 2026 00:22:20 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-celebracion-apuesta",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -874,8 +926,8 @@
       "publishedAt": "Fri, 17 Jul 2026 18:54:26 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-mala-senal",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     },
     {
@@ -891,8 +943,8 @@
       "publishedAt": "Thu, 16 Jul 2026 08:00:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-peru-cuando",
-      "firstSeenAt": "2026-07-20T09:23:39.945Z",
-      "lastSeenAt": "2026-07-20T09:23:39.945Z",
+      "firstSeenAt": "2026-07-20T14:17:43.081Z",
+      "lastSeenAt": "2026-07-20T14:17:43.081Z",
       "seenCount": 1
     }
   ]
