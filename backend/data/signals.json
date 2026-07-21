@@ -1,16 +1,30 @@
 {
-  "generatedAt": "2026-07-21T03:16:34.949Z",
-  "count": 57,
+  "generatedAt": "2026-07-21T08:36:18.301Z",
+  "count": 58,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-07-21T03:16:34.949Z",
-    "activeSignals": 57,
-    "archiveSignals": 115,
-    "countriesCovered": 9,
+    "generatedAt": "2026-07-21T08:36:18.301Z",
+    "activeSignals": 58,
+    "archiveSignals": 116,
+    "countriesCovered": 8,
     "highPrioritySignals": 24,
-    "averagePoliticalScore": 6.23
+    "averagePoliticalScore": 6.45
   },
   "briefings": [
+    {
+      "country": "Nicaragua",
+      "priority": "Alta",
+      "leadTitle": "Ortega le teme a las elecciones porque le teme al pueblo",
+      "leadUrl": "https://confidencial.digital/opinion/ortega-le-teme-a-las-elecciones-porque-le-teme-al-pueblo/",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
+    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -26,20 +40,6 @@
       "summary": "Foco en Probidad. Vigilar CIPER y CIPER."
     },
     {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Ortega le teme a las elecciones porque le teme al pueblo",
-      "leadUrl": "https://confidencial.digital/opinion/ortega-le-teme-a-las-elecciones-porque-le-teme-al-pueblo/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 11,
-      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
-    },
-    {
       "country": "Argentina",
       "priority": "Alta",
       "leadTitle": "El Gobierno llamó a concursar la vacante del camarista Irurzun y busca completar un tribunal clave",
@@ -52,8 +52,23 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 9,
+      "signalCount": 8,
       "summary": "Foco en Instituciones, Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Este es Honorio Henríquez, el nuevo presidente del Senado",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/este-es-honorio-henriquez-el-nuevo-presidente-del-senado/",
+      "focusTopics": [
+        "Elecciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 8,
+      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -69,51 +84,22 @@
         "El Pais"
       ],
       "signalCount": 7,
-      "summary": "Foco en Gobernabilidad, Instituciones. Vigilar El Mundo y El Pais."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "La foto: ministro Palma fue al último discurso de Petro al Congreso",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/la-foto-ministro-palma-fue-al-ultimo-discurso-de-petro-al-congreso/",
-      "focusTopics": [
-        "Gobernabilidad",
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 6,
-      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Gobernabilidad, Instituciones. Vigilar El Mundo y El Mundo."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Csukasi sobre dichos de Marco Rubio: “No puede haber nada más disparatado y más alejado de la realidad uruguaya”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/7/csukasi-sobre-dichos-de-marco-rubio-no-puede-haber-nada-mas-disparatado-y-mas-alejado-de-la-realidad-uruguaya/",
+      "leadTitle": "Diálogo Social: gobierno confirmó que promoverá “un conjunto de transformaciones” en el régimen de las AFAP",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/7/dialogo-social-gobierno-confirmo-que-promovera-un-conjunto-de-transformaciones-en-el-regimen-de-las-afap/",
       "focusTopics": [
+        "Economia politica",
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Alertan que el régimen de Ortega y Murillo en Nicaragua ha renunciado abiertamente a la democracia",
-      "leadUrl": "https://elcomercio.pe/mundo/centroamerica/nicaragua-alertan-que-el-regimen-de-daniel-ortega-y-rosario-murillo-ha-renunciado-abiertamente-a-la-democracia-renacer-ultimas-noticia/",
-      "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "signalCount": 6,
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Venezuela",
@@ -160,8 +146,8 @@
       "publishedAt": "Mon, 20 Jul 2026 20:50:43 +0000",
       "politicalScore": 17,
       "eventKey": "argentina-instituciones-argentina-instituciones-gobierno-llamo",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -177,25 +163,42 @@
       "publishedAt": "Mon, 20 Jul 2026 18:49:31 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-busca",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
-      "id": "1df607ba8f7c610d",
+      "id": "cefdc3b623f99a93",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "La foto: ministro Palma fue al último discurso de Petro al Congreso",
-      "summary": "Dentro del Ministerio de Minas, que preside, la versión hasta el viernes es que el presidente Gustavo Petro le pidió la renuncia. The post La foto: ministro Palma fue al último discurso de Petro al Congreso appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/la-foto-ministro-palma-fue-al-ultimo-discurso-de-petro-al-congreso/",
-      "publishedAt": "Tue, 21 Jul 2026 01:02:11 +0000",
-      "politicalScore": 12,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-foto-ministro",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "title": "Este es Honorio Henríquez, el nuevo presidente del Senado",
+      "summary": "El senador uribista se enfrentó a la postulación impulsada por el presidente electo De la Espriella. Fue elegido con 56 votos y este es su cuarto periodo en el Congreso. The post Este es Honorio Henríquez, el nuevo presidente del Senado appeared first on La Si",
+      "url": "https://www.lasillavacia.com/silla-nacional/este-es-honorio-henriquez-el-nuevo-presidente-del-senado/",
+      "publishedAt": "Tue, 21 Jul 2026 04:08:32 +0000",
+      "politicalScore": 15,
+      "eventKey": "colombia-elecciones-colombia-elecciones-honorio-henriquez",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "df19067b722e6a24",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Derrota para Abelardo: Honorio Henríquez, presidente del Senado",
+      "summary": "El uribista logró conseguir 56 votos. El petrismo celebró la elección como si fuera su candidato propio. The post Derrota para Abelardo: Honorio Henríquez, presidente del Senado appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/honorio-henriquez-es-el-nuevo-presidente-del-senado/",
+      "publishedAt": "Tue, 21 Jul 2026 04:07:42 +0000",
+      "politicalScore": 13,
+      "eventKey": "colombia-elecciones-colombia-elecciones-derrota-abelardo",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -211,8 +214,8 @@
       "publishedAt": "Mon, 20 Jul 2026 19:49:44 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-ganan",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -228,8 +231,42 @@
       "publishedAt": "Mon, 20 Jul 2026 18:30:21 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-elecciones-argentina-elecciones-libertad-avanza",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d96d3b94a20d944d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Detector: la pobreza monetaria sí ha tenido una tasa de disminución histórica",
+      "summary": "En su último discurso de instalación del Congreso, el presidente Petro dedicó cerca de 10 minutos de su intervención a destacar las cifras de pobreza durante su gobierno.&#160; Luego de aclarar que no se produjo ningún cambio metodológico en el Dane desde 2012",
+      "url": "https://www.lasillavacia.com/detector-de-mentiras/cierto-pero/detector-la-pobreza-monetaria-si-ha-tenido-una-tasa-de-disminucion-historica/",
+      "publishedAt": "Tue, 21 Jul 2026 07:06:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-detector-pobreza",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "95e71155041cff6d",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Diálogo Social: gobierno confirmó que promoverá “un conjunto de transformaciones” en el régimen de las AFAP",
+      "summary": "Finalizada la mesa de trabajo con las administradoras, el Ministerio de Economía y Finanzas y la OPP detallaron en un comunicado las ”líneas de acción” que implementarán. A través de los equipos del Ministerio de Economía y Finanzas (MEF) y la Oficina de Plane",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/dialogo-social-gobierno-confirmo-que-promovera-un-conjunto-de-transformaciones-en-el-regimen-de-las-afap/",
+      "publishedAt": "Tue, 21 Jul 2026 00:22:48 -0300",
+      "politicalScore": 11,
+      "eventKey": "uruguay-economia-politica-uruguay-economia-politica-dialogo",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -245,8 +282,8 @@
       "publishedAt": "Tue, 21 Jul 2026 02:21:29 +0000",
       "politicalScore": 10,
       "eventKey": "colombia-elecciones-colombia-elecciones-deluque-henriquez",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -262,8 +299,8 @@
       "publishedAt": "Mon, 20 Jul 2026 22:03:18 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-csukasi-dichos",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -279,8 +316,8 @@
       "publishedAt": "Mon, 20 Jul 2026 21:48:32 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-cardama-hubo",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -296,8 +333,8 @@
       "publishedAt": "Mon, 20 Jul 2026 21:05:58 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-criterio",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -313,8 +350,8 @@
       "publishedAt": "Mon, 20 Jul 2026 13:31:19 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-ortega-teme",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -330,25 +367,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:10:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-acelera-ruta",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6ed92b7abe94f9d9",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Alertan que el régimen de Ortega y Murillo en Nicaragua ha renunciado abiertamente a la democracia",
-      "summary": "El movimiento opositor nicaragüense Renacer alertó este lunes de que el Gobierno que copresiden los esposos Daniel Ortega y Rosario Murillo ha renunciado abiertamente a la democracia tras proclamar que en ese país no se volverán a celebrar elecciones generales",
-      "url": "https://elcomercio.pe/mundo/centroamerica/nicaragua-alertan-que-el-regimen-de-daniel-ortega-y-rosario-murillo-ha-renunciado-abiertamente-a-la-democracia-renacer-ultimas-noticia/",
-      "publishedAt": "Tue, 21 Jul 2026 02:34:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "peru-elecciones-peru-elecciones-alertan-regimen",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -364,8 +384,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:49:57 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-daniel-ortega",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -381,8 +401,8 @@
       "publishedAt": "Mon, 20 Jul 2026 03:56:32 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-sentencia",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -398,8 +418,59 @@
       "publishedAt": "Tue, 21 Jul 2026 01:48:03 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-figuera-convocara",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8c305d5bd0679bc3",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Petro muestra cifras de mortalidad infantil en el Congreso de forma engañosa",
+      "summary": "Los indicadores que citó sí bajaron, pero la caída venía de antes y ni expertos ni el Ministerio la atribuyen solo a su modelo preventivo. The post Petro muestra cifras de mortalidad infantil en el Congreso de forma engañosa appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/detector-de-mentiras/enganoso/petro-muestra-cifras-de-mortalidad-infantil-en-el-congreso-de-forma-enganosa/",
+      "publishedAt": "Tue, 21 Jul 2026 08:04:52 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-petro-muestra",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9b8bb9d0692598ba",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno designó a Javier Lanari como director del Banco Nación",
+      "summary": "El exsecretario de Comunicación y Prensa ocupará el lugar que dejó Gonzalo Pascual y completará un período que vence el 4 de febrero de 2028",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-designo-a-javier-lanari-como-director-del-banco-nacion-nid21072026/",
+      "publishedAt": "Tue, 21 Jul 2026 06:56:01 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "34b0e6ef45cbccd3",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Petro convierte el fraude en el mito de su nueva oposición",
+      "summary": "No aprovechó la instalación del Congreso para despedirse del poder, sino para instalar la narrativa con la que pretende conservarlo desde el 8 de agosto The post Petro convierte el fraude en el mito de su nueva oposición appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/silla-nacional/petro-convierte-el-fraude-en-el-mito-de-su-nueva-oposicion/",
+      "publishedAt": "Tue, 21 Jul 2026 03:47:11 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-petro-convierte",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -409,31 +480,14 @@
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "El Pacto, por fin, revela su voto al Senado. Será por Honorio Henríquez",
-      "summary": "Lo anunció Kevín Gómez, pupilo de Alexánder López. Con el respaldo al uribista, los números se acercan cada vez más. The post El Pacto, por fin, revela su voto al Senado. Será por Honorio Henríquez appeared first on La Silla Vacía .",
+      "title": "El Pacto por fin revela su voto al Senado. Será por Honorio Henríquez",
+      "summary": "Lo anunció Kevín Gómez, pupilo de Alexánder López. Con el respaldo al uribista, los números se acercan cada vez más. The post El Pacto por fin revela su voto al Senado. Será por Honorio Henríquez appeared first on La Silla Vacía .",
       "url": "https://www.lasillavacia.com/en-vivo/el-pacto-por-fin-revela-su-voto-al-senado-honorio-henriquez/",
       "publishedAt": "Tue, 21 Jul 2026 02:52:34 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-pacto-revela",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "94a185c87fac6d61",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "“Recuperemos la curul”: Óscar Benavides por definición afro",
-      "summary": "Hace referencia a la disputa por la curul afro que el CNE entregó a Wisner Sandoval, ficha del exsenador Eduardo Pulgar. The post “Recuperemos la curul”: Óscar Benavides por definición afro appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/recuperemos-la-curul-oscar-benavides-por-definicion-afro/",
-      "publishedAt": "Tue, 21 Jul 2026 01:18:45 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-recuperemos-curul",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -449,25 +503,8 @@
       "publishedAt": "Tue, 21 Jul 2026 00:08:51 +0000",
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-gobierno-decreta",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "02e9b400e712b74e",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Lista proposición para que Abelardo se posesione en base militar",
-      "summary": "Salvación Nacional la radicó. Mientras, el Pacto Histórico pide exactamente lo contrario. Será el primer pulso entre gobierno electo y oposición. The post Lista proposición para que Abelardo se posesione en base militar appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/lista-la-proposicion-para-que-abelardo-se-posesione-en-guarnicion-militar/",
-      "publishedAt": "Tue, 21 Jul 2026 00:00:30 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-seguridad-colombia-seguridad-lista-proposicion",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -483,42 +520,8 @@
       "publishedAt": "Mon, 20 Jul 2026 17:46:28 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-instituciones-argentina-instituciones-exdirectiva-empresa",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "77758bf260680e38",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Las propuestas de cambios electorales en la provincia de Buenos Aires se mantienen estancadas",
-      "summary": "Las iniciativas más ambiciosas, como la de la boleta única de papel, y las más austeras, como la extensión de plazos para presentar listas, carecen de avances; la actividad legislativa se retomará en agosto",
-      "url": "https://www.lanacion.com.ar/politica/las-propuestas-de-cambios-electorales-en-la-provincia-de-buenos-aires-se-mantienen-estancadas-nid20072026/",
-      "publishedAt": "Mon, 20 Jul 2026 15:47:43 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-propuestas",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fcc4e16b13566cda",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Los gobiernos deben regular la IA, no ser sus dueños",
-      "summary": "Ahora está más que claro que los gobiernos deben asumir la responsabilidad de dar forma a la industria de la IA. Solo las instituciones independientes y proactivas, incluidos los organismos reguladores, pueden reducir los riesgos que plantean estas tecnologías",
-      "url": "https://confidencial.digital/opinion/los-gobiernos-deben-regular-la-ia-no-ser-sus-duenos/",
-      "publishedAt": "Sun, 19 Jul 2026 06:10:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-gobiernos-deben",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -534,42 +537,8 @@
       "publishedAt": "Mon, 20 Jul 2026 15:26:30 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-peinado-reactiva",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4c1ca5238575d280",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Sánchez culmina en Argel la superación de la crisis que provocó el giro sobre el Sáhara",
-      "summary": "El presidente viaja al país magrebí con la vicepresidenta Aagesen, Albares y los directivos de grandes compañías energéticas para aumentar el suministro de gas",
-      "url": "https://elpais.com/espana/2026-07-20/sanchez-culmina-en-argel-la-superacion-de-la-crisis-que-provoco-el-giro-sobre-el-sahara.html",
-      "publishedAt": "Mon, 20 Jul 2026 03:30:00 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-culmina",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d9239ce5ae35faef",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Un fuerte temporal en Chile deja al menos 10 muertos y 100.000 personas aisladas",
-      "summary": "Un temporal que recorre Chile dejó al menos diez muertos y más de 100.000 personas aisladas por interrupciones de rutas, según un nuevo balance dado este lunes por el gobierno, que decretó estado de catástrofe y movilizó al Ejército para labores de rescate.",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/fuerte-temporal-en-chile-deja-cinco-muertos-y-casi-100000-personas-aisladas-coquimbo-atacama-jose-antonio-kast-estado-de-catastrofe-ultimas-noticia/",
-      "publishedAt": "Tue, 21 Jul 2026 02:41:42 +0000",
-      "politicalScore": 6,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-fuerte-temporal",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -585,8 +554,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:15:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cinco-anos",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -602,8 +571,8 @@
       "publishedAt": "Mon, 20 Jul 2026 06:05:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-amigo-americano",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -619,25 +588,42 @@
       "publishedAt": "Wed, 15 Jul 2026 13:05:06 +0200",
       "politicalScore": 6,
       "eventKey": "espana-instituciones-espana-instituciones-impulsara-reforma",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
-      "id": "6891b01f60e89364",
+      "id": "bccb7064a08174fe",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "En modo balance, Petro defiende los resultados de su gestión",
-      "summary": "Tras insistir en que tiene pruebas de un presunto fraude, dedicó más de una hora a defender los logros del gobierno. Acá lo que dejó el discurso. The post En modo balance, Petro defiende los resultados de su gestión appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/en-modo-balance-petro-defiende-los-resultados-de-su-gestion/",
-      "publishedAt": "Tue, 21 Jul 2026 00:30:00 +0000",
+      "title": "Abelardo pierde su primer pulso con un Congreso que le muestra los dientes",
+      "summary": "El candidato del uribismo, Honorio Henríquez, le ganó al de Abelardo de la Espriella, Alfredo Deluque. Lo hizo en alianza con el Pacto Histórico. The post Abelardo pierde su primer pulso con un Congreso que le muestra los dientes appeared first on La Silla Vac",
+      "url": "https://www.lasillavacia.com/silla-nacional/abelardo-pierde-su-primer-pulso-con-un-congreso-que-le-muestra-los-dientes/",
+      "publishedAt": "Tue, 21 Jul 2026 07:19:54 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-modo-balance",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-pierde",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2269829ee8a9f029",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El horizonte judicial de Zapatero pende de la declaración ante el juez de Julio Martínez tras su decisión de “colaborar”",
+      "summary": "El comisionista declara este martes tras implicar al expresidente en las gestiones del rescate de Plus Ultra",
+      "url": "https://elpais.com/espana/2026-07-21/el-horizonte-judicial-de-zapatero-pende-de-la-declaracion-ante-el-juez-de-julio-martinez-tras-su-decision-de-colaborar.html",
+      "publishedAt": "Tue, 21 Jul 2026 03:30:01 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-horizonte-judicial",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -653,25 +639,8 @@
       "publishedAt": "Mon, 20 Jul 2026 18:52:32 +0200",
       "politicalScore": 5,
       "eventKey": "espana-economia-politica-espana-economia-politica-tribunal",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "be4a88b28af5ca3a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Misiones: Passalacqua le quitó a Rovira el control de las dos principales cajas del Estado",
-      "summary": "El mandatario desplazó a dirigentes que respondían al exgobernador de la Agencia Tributaria y la empresa pública de energía; la ruptura de la Renovación reconfigura el mapa político provincial rumbo a 2027",
-      "url": "https://www.lanacion.com.ar/politica/misiones-passalacqua-le-quito-a-rovira-el-control-de-las-dos-principales-cajas-del-estado-nid20072026/",
-      "publishedAt": "Mon, 20 Jul 2026 15:42:05 +0000",
-      "politicalScore": 5,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-misiones",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -687,8 +656,8 @@
       "publishedAt": "Mon, 20 Jul 2026 17:03:52 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-otra-victoria",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -704,8 +673,8 @@
       "publishedAt": "Mon, 20 Jul 2026 14:39:45 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-pagador-zapatero",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -721,8 +690,59 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:27 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-escucha-corazon",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5630fb038289b418",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La mujer que denunció al intendente Espinoza pidió que no lo dejen salir del país sin permiso",
+      "summary": "Melody Rakauskas, que logró la semana pasada reabrir el caso por presunto abuso sexual, reclamó nuevas medidas contra el jefe de La Matanza",
+      "url": "https://www.lanacion.com.ar/politica/la-mujer-que-denuncio-al-intendente-espinoza-pidio-que-no-lo-dejen-salir-del-pais-sin-permiso-nid20072026/",
+      "publishedAt": "Tue, 21 Jul 2026 06:50:41 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-mujer",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a3c91baeabfdc5bc",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Bad Bunny tiene una agenda política para Puerto Rico",
+      "summary": "Bad Bunny (Benito Martínez Ocasio) acaba de superar los mil millones de dólares en ingresos acumulados por giras. Su éxito es, principalmente, el resultado de una muy bien estructurada estrategia que, más allá del legítimo debate sobre su verdadera calidad art",
+      "url": "https://confidencial.digital/opinion/bad-bunny-tiene-una-agenda-politica-para-puerto-rico/",
+      "publishedAt": "Tue, 21 Jul 2026 06:15:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bunny-tiene",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
+      "seenCount": 1
+    },
+    {
+      "id": "eb424487571fe6da",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Perestroika sin glásnost en Venezuela y Cuba",
+      "summary": "En la década de los 80, Mijaíl Gorbachov vio el agotamiento del modelo soviético y la incapacidad para suministrar los bienes que la población rusa necesitaba. Implementó, entonces, una apertura que buscaba modernizar una economía estancada mediante cierta des",
+      "url": "https://confidencial.digital/opinion/perestroika-sin-glasnost-en-venezuela-y-cuba/",
+      "publishedAt": "Tue, 21 Jul 2026 06:05:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-perestroika",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -738,8 +758,8 @@
       "publishedAt": "Tue, 21 Jul 2026 00:04:37 -0300",
       "politicalScore": 4,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-reunion-terrorismo",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -755,25 +775,8 @@
       "publishedAt": "Mon, 20 Jul 2026 21:35:26 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-economia-politica-venezuela-economia-politica-claves",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5630fb038289b418",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La mujer que denunció al intendente Espinoza pidió que no lo dejen salir del país sin permiso",
-      "summary": "Melody Rakauskas, que logró la semana pasada reabrir el caso por presunto abuso sexual, reclamó nuevas medidas contra el jefe de La Matanza",
-      "url": "https://www.lanacion.com.ar/politica/la-mujer-que-denuncio-al-intendente-espinoza-pidio-que-no-lo-dejen-salir-del-pais-sin-permiso-nid20072026/",
-      "publishedAt": "Mon, 20 Jul 2026 19:02:55 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-mujer",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -789,8 +792,8 @@
       "publishedAt": "Mon, 20 Jul 2026 15:20:05 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-economistas",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -806,8 +809,8 @@
       "publishedAt": "Sun, 19 Jul 2026 14:06:09 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mistica-chantaje",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -823,8 +826,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-aquel-julio",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -840,8 +843,8 @@
       "publishedAt": "Sun, 19 Jul 2026 06:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nicaraguas-falsa",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -857,8 +860,8 @@
       "publishedAt": "Sun, 19 Jul 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-economia-politica-espana-economia-politica-salchichas",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -874,8 +877,8 @@
       "publishedAt": "Tue, 21 Jul 2026 00:04:37 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-otro-cielo",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -891,8 +894,8 @@
       "publishedAt": "Tue, 21 Jul 2026 00:04:35 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-sociedad-atendida",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -908,8 +911,8 @@
       "publishedAt": "Mon, 20 Jul 2026 21:59:54 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-muere-adolescente",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -925,8 +928,8 @@
       "publishedAt": "Mon, 20 Jul 2026 20:37:38 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-medicos-rescatistas",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -942,8 +945,8 @@
       "publishedAt": "Mon, 20 Jul 2026 08:00:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-camino-reunificacion",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -959,8 +962,8 @@
       "publishedAt": "Sun, 19 Jul 2026 16:13:06 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-alina-barbara",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -976,8 +979,8 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-corazon-delator",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -993,8 +996,8 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-story-pantallas",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1010,8 +1013,8 @@
       "publishedAt": "Sun, 19 Jul 2026 07:59:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-gran-descampado",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1027,8 +1030,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-humo-vemos",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1044,8 +1047,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-espectaculo",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1061,8 +1064,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-desafio-plataformas",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1078,8 +1081,8 @@
       "publishedAt": "Sat, 18 Jul 2026 00:22:20 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-celebracion-apuesta",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1095,8 +1098,8 @@
       "publishedAt": "Fri, 17 Jul 2026 19:14:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-celebracion",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     },
     {
@@ -1112,8 +1115,8 @@
       "publishedAt": "Fri, 17 Jul 2026 18:54:26 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-mala-senal",
-      "firstSeenAt": "2026-07-21T03:16:34.949Z",
-      "lastSeenAt": "2026-07-21T03:16:34.949Z",
+      "firstSeenAt": "2026-07-21T08:36:18.301Z",
+      "lastSeenAt": "2026-07-21T08:36:18.301Z",
       "seenCount": 1
     }
   ]
