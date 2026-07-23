@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-23T08:37:19.902Z",
-  "count": 50,
+  "generatedAt": "2026-07-23T14:11:54.601Z",
+  "count": 57,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-07-23T08:37:19.902Z",
-    "activeSignals": 50,
-    "archiveSignals": 108,
-    "countriesCovered": 8,
-    "highPrioritySignals": 19,
-    "averagePoliticalScore": 6.28
+    "generatedAt": "2026-07-23T14:11:54.601Z",
+    "activeSignals": 57,
+    "archiveSignals": 115,
+    "countriesCovered": 9,
+    "highPrioritySignals": 23,
+    "averagePoliticalScore": 6.02
   },
   "briefings": [
     {
@@ -52,23 +52,38 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 9,
+      "signalCount": 10,
       "summary": "Foco en Seguridad, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Senado aprueba trasladar Congreso al Cauca para posesión de Abelardo",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/senado-aprueba-trasladar-congreso-al-cauca-para-posesion-de-abelardo/",
+      "leadTitle": "Enrique Serrano será asesor de Abelardo en su &#8220;guerra cultural&#8221;",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/enrique-serrano-sera-asesor-de-abelardo-en-su-guerra-cultural/",
       "focusTopics": [
-        "Elecciones",
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 6,
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz",
+      "leadUrl": "https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html",
+      "focusTopics": [
+        "Economia politica",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Mundo",
+        "El Pais"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Uruguay",
@@ -86,32 +101,19 @@
       "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Espana",
+      "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
-      "leadUrl": "https://elpais.com/espana/2026-07-22/la-causa-contra-zapatero-situa-ahora-el-foco-en-la-cupula-de-plus-ultra-tras-contradecir-la-version-del-expresidente.html",
+      "leadTitle": "La Casa Blanca pide inmunidad para Delcy Rodríguez en cortes de EE.UU.: ¿blindaje de Donald Trump o precedente legal?",
+      "leadUrl": "https://elcomercio.pe/mundo/eeuu/la-casa-blanca-pide-inmunidad-para-delcy-rodriguez-en-cortes-de-eeuu-blindaje-de-trump-o-precedente-legal-noticia/",
       "focusTopics": [
-        "Economia politica"
+        "Instituciones",
+        "Gobernabilidad"
       ],
       "topSources": [
-        "El Pais"
+        "El Comercio"
       ],
-      "signalCount": 1,
-      "summary": "Foco en Economia politica. Vigilar El Pais."
-    },
-    {
-      "country": "Cuba",
-      "priority": "Media",
-      "leadTitle": "El juez del caso de Maduro propone el inicio del juicio para el 1 de junio de 2027",
-      "leadUrl": "https://www.14ymedio.com/internacional/maduro-comparece-nueva-york-defensa_1_1129083.html",
-      "focusTopics": [
-        "Diplomacia"
-      ],
-      "topSources": [
-        "14ymedio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Diplomacia. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 4,
+      "summary": "Foco en Instituciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Venezuela",
@@ -126,6 +128,20 @@
       ],
       "signalCount": 1,
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo."
+    },
+    {
+      "country": "Cuba",
+      "priority": "Media",
+      "leadTitle": "Por temor a las sanciones, varios contenedores de medicamentos no llegan a Cuba",
+      "leadUrl": "https://www.14ymedio.com/cuba/temor-sanciones-contenedores-medicamentos-no_1_1129079.html",
+      "focusTopics": [
+        "Diplomacia"
+      ],
+      "topSources": [
+        "14ymedio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Diplomacia. Vigilar 14ymedio."
     }
   ],
   "signals": [
@@ -142,25 +158,8 @@
       "publishedAt": "Wed, 22 Jul 2026 07:30:00 +0000",
       "politicalScore": 17,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-circo-electoral",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e44e2210c06a2b2d",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Panamá llama a consultas a su embajador en Nicaragua por declaraciones de Ortega",
-      "summary": "El Gobierno de Panamá llamó el martes 21 de julio de 2026 a consultas a su embajador en Nicaragua tras rechazar las declaraciones del “copresidente” nicaragüense, Daniel Ortega, sobre que no volverán a celebrarse elecciones en el país centroamericano. “Suprimi",
-      "url": "https://confidencial.digital/noticias/panama-llama-a-consultas-a-su-embajador-en-nicaragua-por-declaraciones-de-ortega/",
-      "publishedAt": "Tue, 21 Jul 2026 20:12:35 +0000",
-      "politicalScore": 15,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-panama-llama",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -176,8 +175,25 @@
       "publishedAt": "Thu, 23 Jul 2026 01:35:07 +0000",
       "politicalScore": 13,
       "eventKey": "chile-probidad-chile-probidad-megarreforma-senado",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8a3ca97b84faf6da",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Denuncia contra David Sánchez Pérez-Castejón ante el Tribunal de Cuentas para que devuelva las nóminas que cobró en la Diputación de Badajoz",
+      "summary": "Una de las acusaciones particulares, Iustitia Europa, quiere que tanto el hermano del presidente del Gobierno como su amigo de Moncloa devuelvan los ingresos públicos que recibieron tras no requerirlos ni la Diputación de Badajoz ni la Fiscalía&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/23/6a612007e4d4d892728b4571.html",
+      "publishedAt": "Thu, 23 Jul 2026 07:01:46 +0200",
+      "politicalScore": 12,
+      "eventKey": "espana-economia-politica-espana-economia-politica-denuncia",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -193,8 +209,8 @@
       "publishedAt": "Thu, 23 Jul 2026 04:00:00 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-seguridad-argentina-seguridad-intendente-castelli",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -210,8 +226,8 @@
       "publishedAt": "Thu, 23 Jul 2026 02:03:34 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-myriam",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -227,25 +243,8 @@
       "publishedAt": "Wed, 22 Jul 2026 22:01:26 -0300",
       "politicalScore": 12,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-allanamientos",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
-      "seenCount": 1
-    },
-    {
-      "id": "48fa3ac02af9a240",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Senado aprueba trasladar Congreso al Cauca para posesión de Abelardo",
-      "summary": "La votación fue de 55 votos a favor y 32 en contra. Todavía falta que la Cámara le dé el visto bueno a la proposición. The post Senado aprueba trasladar Congreso al Cauca para posesión de Abelardo appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/senado-aprueba-trasladar-congreso-al-cauca-para-posesion-de-abelardo/",
-      "publishedAt": "Wed, 22 Jul 2026 21:10:05 +0000",
-      "politicalScore": 12,
-      "eventKey": "colombia-elecciones-colombia-elecciones-senado-aprueba",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -261,25 +260,42 @@
       "publishedAt": "Wed, 22 Jul 2026 14:51:48 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-subraya-todos",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
-      "id": "9aa744b804969aeb",
+      "id": "02369376bd3ae488",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Costa Rica expresa su “profunda preocupación” por situación política en Nicaragua",
-      "summary": "El Gobierno de Costa Rica reiteró el lunes 20 de julio de 2026 su “profunda preocupación” por el cierre de espacios cívicos en su vecina Nicaragua, luego de que el presidente de ese país, Daniel Ortega, anunció un día antes que no permitirá procesos electorale",
-      "url": "https://confidencial.digital/noticias/costa-rica-expresa-su-profunda-preocupacion-por-situacion-politica-en-nicaragua/",
-      "publishedAt": "Tue, 21 Jul 2026 19:10:34 +0000",
-      "politicalScore": 12,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "title": "Elecciones, para qué",
+      "summary": "Hace unos días, durante la última conmemoración oficial del aniversario del triunfo de la Revolución sandinista, en Managua, Daniel Ortega declaró que ya no habrá más elecciones en Nicaragua. La frase, como tantas parecidas de Fidel Castro o Hugo Chávez, fuero",
+      "url": "https://confidencial.digital/opinion/elecciones-para-que/",
+      "publishedAt": "Thu, 23 Jul 2026 10:51:43 +0000",
+      "politicalScore": 10,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8140cabf3a38f0e3",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno abre el juego a los gobernadores para suspender las PASO y aprobar el Presupuesto",
+      "summary": "La Casa Rosada empezó a discutir reclamos de las provincias; Santilli y Caputo lideran una negociación que incluye obras, fondos y deudas pendientes",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-abre-el-juego-a-los-gobernadores-para-suspender-las-paso-y-aprobar-el-presupuesto-nid23072026/",
+      "publishedAt": "Thu, 23 Jul 2026 13:37:38 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -295,8 +311,25 @@
       "publishedAt": "Wed, 22 Jul 2026 23:01:18 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-registro-superavit",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e6d161d6f01348b2",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Enrique Serrano será asesor de Abelardo en su &#8220;guerra cultural&#8221;",
+      "summary": "El escritor y opinador será asesor presidencial. La oficina del presidente electo dijo que su reto será “reducir la confusión” frente a los valores que promueve el nuevo gobierno. The post Enrique Serrano será asesor de Abelardo en su &#8220;guerra cultural&#8",
+      "url": "https://www.lasillavacia.com/en-vivo/enrique-serrano-sera-asesor-de-abelardo-en-su-guerra-cultural/",
+      "publishedAt": "Thu, 23 Jul 2026 14:04:26 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-enrique-serrano",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -312,8 +345,25 @@
       "publishedAt": "Thu, 23 Jul 2026 00:05:06 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0fb96f5ec873f897",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "La Casa Blanca pide inmunidad para Delcy Rodríguez en cortes de EE.UU.: ¿blindaje de Donald Trump o precedente legal?",
+      "summary": "La presidenta interina de Venezuela y otros altos funcionarios del chavismo enfrentan una demanda civil ante un tribunal del Distrito Sur de Florida, en Miami, por presuntos secuestros, torturas y actos terroristas durante el gobierno de Nicolás Maduro",
+      "url": "https://elcomercio.pe/mundo/eeuu/la-casa-blanca-pide-inmunidad-para-delcy-rodriguez-en-cortes-de-eeuu-blindaje-de-trump-o-precedente-legal-noticia/",
+      "publishedAt": "Thu, 23 Jul 2026 11:58:57 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-instituciones-peru-instituciones-casa-blanca",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -329,8 +379,8 @@
       "publishedAt": "Thu, 23 Jul 2026 06:14:47 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cepeda-desdibuja",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -346,8 +396,8 @@
       "publishedAt": "Wed, 22 Jul 2026 22:19:08 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-abelardo-tambien",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -363,8 +413,8 @@
       "publishedAt": "Wed, 22 Jul 2026 21:57:10 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-inusual",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -380,8 +430,8 @@
       "publishedAt": "Wed, 22 Jul 2026 03:30:01 GMT",
       "politicalScore": 7,
       "eventKey": "espana-economia-politica-espana-economia-politica-causa",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -397,8 +447,8 @@
       "publishedAt": "Wed, 22 Jul 2026 00:14:03 +0000",
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-oposicion-recurre",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -414,8 +464,8 @@
       "publishedAt": "Tue, 21 Jul 2026 22:26:28 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -431,8 +481,25 @@
       "publishedAt": "Tue, 21 Jul 2026 00:08:51 +0000",
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-gobierno-decreta",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8886b1f71f41c65a",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "El Gobierno rescató Plus Ultra con una estructura de control accionarial falseada",
+      "summary": "El presidente de la aerolínea confiesa ahora que el \"control efectivo\" lo tenía el venezolano Rodolfo Reyes, mientras que la Sepi validó el rescate con la premisa de que el mando estaba en manos españolas&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/22/6a611098fc6c8380618b45a4.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:41:44 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-rescato",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -448,8 +515,59 @@
       "publishedAt": "Wed, 22 Jul 2026 17:11:43 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-crisis",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fed096f1c7091b50",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Cambiar el horario no es una solución eficaz a la crisis eléctrica",
+      "summary": "La evidencia muestra que los beneficios energéticos son pocos, pero los efectos sobre la salud, la seguridad, la logística y la vida cotidiana son altos. The post Cambiar el horario no es una solución eficaz a la crisis eléctrica appeared first on La Silla Vac",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/cambiar-el-horario-no-es-una-solucion-eficaz-a-la-crisis-electrica/",
+      "publishedAt": "Thu, 23 Jul 2026 12:30:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-seguridad-colombia-seguridad-cambiar-horario",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "37adf74a488dea96",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Las causas de la AFA siguen frenadas en la Argentina, envueltas en maniobras procesales",
+      "summary": "La mayoría de las investigaciones que afectan a Tapia y Toviggino entraron en una meseta, excepto la que tramita el juez Amarante por evasión",
+      "url": "https://www.lanacion.com.ar/politica/las-causas-de-la-afa-siguen-frenadas-en-la-argentina-envueltas-en-maniobras-procesales-nid23072026/",
+      "publishedAt": "Thu, 23 Jul 2026 12:58:57 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-causas",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1e31677664ef01f8",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Tribunal Constitucional: Vladimir Cerrón no tenía “derecho” a fugarse",
+      "summary": "Tribunal Constitucional | Vladimir Cerrón | En el fallo en minoría, tres magistrados coincidieron en que las resoluciones que disponían y ratificaban la prisión preventiva del aún prófugo líder de Perú Libre estaban motivadas.",
+      "url": "https://elcomercio.pe/politica/tribunal-constitucional-vladimir-cerron-no-tenia-derecho-a-fugarse-noticia/",
+      "publishedAt": "Thu, 23 Jul 2026 11:10:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "peru-instituciones-peru-instituciones-tribunal-constitucional",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -465,25 +583,8 @@
       "publishedAt": "Thu, 23 Jul 2026 00:04:04 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-amplia-investigacion",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
-      "seenCount": 1
-    },
-    {
-      "id": "77c5c5786ed2c7e5",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Fiscalía llama a juicio a Juliana Guerrero por presuntos títulos falsos",
-      "summary": "Su audiencia de acusación por los delitos de fraude procesal y falsedad ideológica en documento público está prevista para el 5 de agosto. The post Fiscalía llama a juicio a Juliana Guerrero por presuntos títulos falsos appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/fiscalia-llama-a-juicio-a-juliana-guerrero-por-presuntos-titulos-falsos/",
-      "publishedAt": "Wed, 22 Jul 2026 22:06:43 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-fiscalia",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -499,25 +600,8 @@
       "publishedAt": "Wed, 22 Jul 2026 20:31:58 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-retoman",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ccb74435fd1ccec6",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "El juez del caso de Maduro propone el inicio del juicio para el 1 de junio de 2027",
-      "summary": "El ex presidente comparece en Nueva York; su defensa apela a la inmunidad diplomática, en una audiencia que dura solo 18 minutos",
-      "url": "https://www.14ymedio.com/internacional/maduro-comparece-nueva-york-defensa_1_1129083.html",
-      "publishedAt": "Wed, 22 Jul 2026 18:11:23 +0000",
-      "politicalScore": 6,
-      "eventKey": "cuba-diplomacia-cuba-diplomacia-juez-caso",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -533,8 +617,8 @@
       "publishedAt": "Wed, 22 Jul 2026 11:02:17 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-peru-restauracion",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -550,8 +634,8 @@
       "publishedAt": "Thu, 23 Jul 2026 00:02:06 -0300",
       "politicalScore": 5,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-falta-empatia",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -567,8 +651,8 @@
       "publishedAt": "Wed, 22 Jul 2026 23:51:52 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-quiere",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -584,8 +668,59 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:27 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-escucha-corazon",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "43d2c4af0dfd141c",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "ProInversión contradice a Petro-Perú: Estatal aún no formaliza los acuerdos para obtener el financiamiento de US$2.000 millones",
+      "summary": "La petrolera estaría dilatando la formalización de la Sociedad de Propósito Especial (SPE) que manejará el financiamiento. Por ello, ProInversión ha convocado una reunión de urgencia con el presidente de Petro-Perú este 22 de julio.",
+      "url": "https://elcomercio.pe/economia/peru/petroperu-proinversion-contradice-a-petro-peru-estatal-aun-no-formaliza-los-acuerdos-para-obtener-el-financiamiento-de-us2000-millones-noticia/",
+      "publishedAt": "Thu, 23 Jul 2026 12:05:54 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-proinversion-contradice",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3a4d37404ffedd36",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Keiko Fujimori: el protagonismo de la Oficina de la Presidenta Electa y la estrategia de silencio ante la prensa",
+      "summary": "¿Cómo fue la agenda de Keiko Fujimori durante la transición? Un análisis de las actividades difundidas por la Oficina de la Presidenta Electa y su relación con la prensa.",
+      "url": "https://elcomercio.pe/politica/keiko-fujimori-la-intensa-agenda-de-la-oficina-de-la-presidenta-electa-y-el-progresivo-silencio-ante-la-prensa-noticia/",
+      "publishedAt": "Thu, 23 Jul 2026 12:05:12 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-keiko-fujimori",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c7aefdc3947020ce",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "El imperativo de derrocar ahora a los Ortega Murillo",
+      "summary": "En un artículo publicado en 2025 en CONFIDENCIAL, argumentamos que si se puede lograr la caída de la dictadura y esbozamos algunas ideas sobre el camino para lograrlo. Hoy queremos insistir en un punto adicional: la urgencia. Si antes el desafío era indicar qu",
+      "url": "https://confidencial.digital/opinion/el-imperativo-de-derrocar-ahora-a-los-ortega-murillo/",
+      "publishedAt": "Thu, 23 Jul 2026 11:14:21 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-imperativo-derrocar",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -601,8 +736,8 @@
       "publishedAt": "Thu, 23 Jul 2026 07:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-fsln-robara",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -618,8 +753,8 @@
       "publishedAt": "Thu, 23 Jul 2026 00:02:05 -0300",
       "politicalScore": 4,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-nicaragua-ayer",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -635,8 +770,8 @@
       "publishedAt": "Wed, 22 Jul 2026 23:57:18 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-anunciaron",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -652,8 +787,8 @@
       "publishedAt": "Wed, 22 Jul 2026 22:16:01 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sentida",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -669,25 +804,8 @@
       "publishedAt": "Wed, 22 Jul 2026 21:29:18 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tirania-mascaras",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a71227b4972b73d0",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Estos son los proyectos de ley que podrían impactar al medioambiente",
-      "summary": "El 20 de julio se presentaron los primeros proyectos de ley para la nueva legislatura. Cuatro de ellos podrían ser claves para la Amazonía y el sector ambiental. The post Estos son los proyectos de ley que podrían impactar al medioambiente appeared first on La",
-      "url": "https://www.lasillavacia.com/silla-amazonia/estos-son-los-proyectos-de-ley-que-podrian-impactar-al-medioambiente/",
-      "publishedAt": "Wed, 22 Jul 2026 21:29:04 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-estos-proyectos",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -703,25 +821,42 @@
       "publishedAt": "Wed, 22 Jul 2026 20:59:52 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fraternidad",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
-      "id": "c1adfa73f8d18a3a",
-      "country": "Argentina",
-      "source": "La Nacion",
+      "id": "ff8c1808ba5bdba4",
+      "country": "Espana",
+      "source": "El Mundo",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Media",
-      "title": "Marcela Pagano envió una carta a la congresista demócrata que había acusado al país de racista: “Habla de lo que no conoce”",
-      "summary": "La diputada nacional de Coherencia le pidió a Jasmine Crockett que se rectifique y la invitó a Buenos Aires a escuchar “los tambores del candombe”",
-      "url": "https://www.lanacion.com.ar/politica/marcela-pagano-envio-una-carta-a-la-congresista-democrata-que-acuso-al-pais-de-racista-habla-de-lo-nid22072026/",
-      "publishedAt": "Wed, 22 Jul 2026 20:22:12 +0000",
+      "title": "La Audiencia ve como un \"gran avance\" para el tráfico de influencias la confesión del pagador de Zapatero y los directivos de Plus Ultra",
+      "summary": "Juez y fiscal valoran de forma positiva la confesión del empresario Julio Martínez Martínez y los detallados escritos de colaboración de los responsables de Plus Ultra&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/22/6a60e3bf21efa078558b4583.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:40:16 +0200",
       "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-marcela",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "eventKey": "espana-economia-politica-espana-economia-politica-audiencia",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "394bfd6e82f8e047",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Feijóo promete una \"reconstrucción nacional\" y reformas estructurales: \"Hacienda dejará de ser el gran beneficiario\"",
+      "summary": "Activa la \"cuenta atrás\" hacia La Moncloa y plantea un plan de regeneración institucional, más \"gestión\" y rebajas fiscales a familia y autónomos&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/07/22/6a611444e4d4d8850e8b4588.html",
+      "publishedAt": "Wed, 22 Jul 2026 22:38:09 +0200",
+      "politicalScore": 4,
+      "eventKey": "espana-economia-politica-espana-economia-politica-feijoo",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -737,8 +872,8 @@
       "publishedAt": "Wed, 22 Jul 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sigue-llegar",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -754,8 +889,8 @@
       "publishedAt": "Wed, 22 Jul 2026 02:16:38 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-guerra-iran",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -771,8 +906,8 @@
       "publishedAt": "Tue, 21 Jul 2026 15:45:54 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-tiempo-coercion",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -788,8 +923,8 @@
       "publishedAt": "Thu, 23 Jul 2026 00:02:06 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-oportunidad-foco",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -805,8 +940,8 @@
       "publishedAt": "Wed, 22 Jul 2026 20:41:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-evaluacion-docente",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -822,8 +957,8 @@
       "publishedAt": "Wed, 22 Jul 2026 20:40:00 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-juez-fija",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -839,8 +974,8 @@
       "publishedAt": "Wed, 22 Jul 2026 16:23:52 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-temor-sanciones",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -856,8 +991,8 @@
       "publishedAt": "Wed, 22 Jul 2026 15:27:30 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-debilitamiento-autonomia",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -873,8 +1008,8 @@
       "publishedAt": "Wed, 22 Jul 2026 14:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cien-anos",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -890,8 +1025,8 @@
       "publishedAt": "Tue, 21 Jul 2026 22:59:08 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-represion-orteguista",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -907,8 +1042,8 @@
       "publishedAt": "Mon, 20 Jul 2026 08:00:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-camino-reunificacion",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -924,8 +1059,8 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-corazon-delator",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -941,8 +1076,8 @@
       "publishedAt": "Sun, 19 Jul 2026 08:00:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-story-pantallas",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -958,8 +1093,8 @@
       "publishedAt": "Sun, 19 Jul 2026 07:59:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-gran-descampado",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     },
     {
@@ -975,8 +1110,8 @@
       "publishedAt": "Sat, 18 Jul 2026 08:00:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-humo-vemos",
-      "firstSeenAt": "2026-07-23T08:37:19.902Z",
-      "lastSeenAt": "2026-07-23T08:37:19.902Z",
+      "firstSeenAt": "2026-07-23T14:11:54.601Z",
+      "lastSeenAt": "2026-07-23T14:11:54.601Z",
       "seenCount": 1
     }
   ]
