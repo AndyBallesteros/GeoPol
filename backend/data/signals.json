@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-07-25T19:15:03.211Z",
+  "generatedAt": "2026-07-26T03:27:12.884Z",
   "count": 58,
-  "failures": [
-    {
-      "source": "ladiaria-uruguay",
-      "error": "The operation was aborted due to timeout"
-    }
-  ],
+  "failures": [],
   "stats": {
-    "generatedAt": "2026-07-25T19:15:03.211Z",
+    "generatedAt": "2026-07-26T03:27:12.884Z",
     "activeSignals": 58,
     "archiveSignals": 116,
-    "countriesCovered": 7,
-    "highPrioritySignals": 18,
-    "averagePoliticalScore": 5.48
+    "countriesCovered": 8,
+    "highPrioritySignals": 19,
+    "averagePoliticalScore": 6.03
   },
   "briefings": [
     {
@@ -49,17 +44,17 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Diego Valenzuela apuntó contra Axel Kicillof: “Dejemos de ocultar impuestos provinciales”",
-      "leadUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-proyecto-de-inocencia-fiscal-2-y-las-propuestas-en-al-congreso-nid24072026/",
+      "leadTitle": "Karina Milei condiciona los acuerdos electorales con los gobernadores a un apoyo claro en el Congreso",
+      "leadUrl": "https://www.lanacion.com.ar/politica/karina-milei-condiciona-los-acuerdos-electorales-con-los-gobernadores-a-un-apoyo-claro-en-el-nid25072026/",
       "focusTopics": [
         "Economia politica",
-        "Elecciones"
+        "Instituciones"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 11,
-      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Colombia",
@@ -77,34 +72,50 @@
       "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Espana",
+      "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "La UME no es un juguete del Gobierno",
-      "leadUrl": "https://www.elmundo.es/espana/2026/07/24/6a63aef7e85eceec5a8b457e.html",
+      "leadTitle": "Javier García llamó a dejarse de “embromar” y “votar unidos” con la Coalición Republicana en 2029",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/7/javier-garcia-llamo-a-dejarse-de-embromar-y-votar-unidos-con-la-coalicion-republicana-en-2029/",
       "focusTopics": [
-        "Gobernabilidad",
-        "Instituciones"
+        "Elecciones",
+        "Seguridad"
       ],
       "topSources": [
-        "El Mundo",
-        "El Pais"
+        "La Diaria"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Gobernabilidad, Instituciones. Vigilar El Mundo y El Pais."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Seguridad. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Delcy Rodríguez recibe delegación del Congreso de EEUU en Caracas",
-      "leadUrl": "https://efectococuyo.com/politica/delcy-rodriguez-recibe-delegacion-del-congreso-de-eeuu-en-caracas/",
+      "priority": "Media",
+      "leadTitle": "Figuera dice que convocará a sectores democráticos: ¿De quiénes habla?",
+      "leadUrl": "https://efectococuyo.com/politica/figuera-sectores-democraticos-convocados-dialogochavismo-quienes/",
       "focusTopics": [
-        "Diplomacia"
+        "Diplomacia",
+        "Instituciones"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 4,
+      "summary": "Foco en Diplomacia, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+    },
+    {
+      "country": "Espana",
+      "priority": "Media",
+      "leadTitle": "El caso del profesor austríaco que esgrime Carles Puigdemont para pedir una indemnización a España",
+      "leadUrl": "https://elpais.com/espana/catalunya/2026-07-25/el-caso-del-profesor-austriaco-que-esgrime-carles-puigdemont-para-pedir-una-indemnizacion-a-espana.html",
+      "focusTopics": [
+        "Instituciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Pais",
+        "El Mundo"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Instituciones, Gobernabilidad. Vigilar El Pais y El Mundo."
     },
     {
       "country": "Cuba",
@@ -123,6 +134,74 @@
   ],
   "signals": [
     {
+      "id": "6a0685bf5eebc2b7",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Javier García llamó a dejarse de “embromar” y “votar unidos” con la Coalición Republicana en 2029",
+      "summary": "En el congreso nacional del sector Alianza País, el senador nacionalista insistió con los allanamientos nocturnos: “Un pronunciamiento popular se levanta con otro pronunciamiento popular”. “Esperanza”, “futuro”, “2029”, “empezamos a volver”, “gobierno sin lide",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/javier-garcia-llamo-a-dejarse-de-embromar-y-votar-unidos-con-la-coalicion-republicana-en-2029/",
+      "publishedAt": "Sat, 25 Jul 2026 18:10:07 -0300",
+      "politicalScore": 17,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-javier-garcia",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0f1db2912cacd74c",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Robert Silva le propuso a Orsi crear un Comando de Seguridad Integral tras el aumento de homicidios",
+      "summary": "El senador colorado dijo no se trata de “crear una nueva estructura burocrática”, sino de “establecer un ámbito permanente de conducción” en materia de seguridad pública. El senador colorado Robert Silva le envió una carta al presidente Yamandú Orsi en la que ",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/robert-silva-le-propuso-a-orsi-crear-un-comando-de-seguridad-integral-tras-el-aumento-de-homicidios/",
+      "publishedAt": "Sat, 25 Jul 2026 19:11:57 -0300",
+      "politicalScore": 16,
+      "eventKey": "uruguay-seguridad-uruguay-seguridad-robert-silva",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a104cfc82d2d6dc9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Karina Milei condiciona los acuerdos electorales con los gobernadores a un apoyo claro en el Congreso",
+      "summary": "En el entorno de la funcionaria aseguran que la Casa Rosada no va a pactar si no hay un aval legislativo a las reformas impulsadas por el Presidente en las próximas semanas",
+      "url": "https://www.lanacion.com.ar/politica/karina-milei-condiciona-los-acuerdos-electorales-con-los-gobernadores-a-un-apoyo-claro-en-el-nid25072026/",
+      "publishedAt": "Sat, 25 Jul 2026 22:22:06 +0000",
+      "politicalScore": 15,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-karina",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c9c8b4ad5bf64570",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "“Inadmisible”: la respuesta del entorno de Lula a la diatriba de Milei contra el presidente de Brasil",
+      "summary": "El titular del PT, Edinho Silva, y el ministro de Relaciones Institucionales, José Guimarães, cuestionaron al mandatario argentino; el titular del máximo tribunal de Justicia rechazó las “manifestaciones incompatibles con la civilidad”",
+      "url": "https://www.lanacion.com.ar/politica/inadmisible-la-respuesta-del-entorno-de-lula-a-la-diatriba-de-milei-contra-el-presidente-de-brasil-nid25072026/",
+      "publishedAt": "Sat, 25 Jul 2026 22:52:21 +0000",
+      "politicalScore": 13,
+      "eventKey": "argentina-instituciones-argentina-instituciones-inadmisible-respuesta",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
       "id": "344d428027ad8185",
       "country": "Chile",
       "source": "CIPER",
@@ -135,8 +214,8 @@
       "publishedAt": "Thu, 23 Jul 2026 01:35:07 +0000",
       "politicalScore": 13,
       "eventKey": "chile-probidad-chile-probidad-megarreforma-senado",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -152,8 +231,8 @@
       "publishedAt": "Sat, 25 Jul 2026 14:10:19 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-insta-celebrar",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -169,8 +248,25 @@
       "publishedAt": "Fri, 24 Jul 2026 07:15:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ilegal-norma",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "43bcc568aea7294a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Milei necesita ganar antes de ganar",
+      "summary": "El Gobierno apuesta a que la sensación de triunfo electoral sostenga su programa mientras los “brotes verdes” no llegan al bolsillo; la ansiedad se filtra en los mercados y condiciona las alianzas",
+      "url": "https://www.lanacion.com.ar/politica/milei-necesita-ganar-antes-de-ganar-nid25072026/",
+      "publishedAt": "Sat, 25 Jul 2026 23:33:00 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -186,25 +282,42 @@
       "publishedAt": "Sat, 25 Jul 2026 02:02:15 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diego",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
-      "id": "f596373bd495bb27",
+      "id": "83fa254a680e1f93",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "La izquierda convoca a una protesta por la visita de la jefa del FMI",
-      "summary": "Kristalina Georgieva llegará el lunes y tiene prevista una visita al Ministerio de Economía; la oposición llamó a una protesta contra el ajuste",
-      "url": "https://www.lanacion.com.ar/politica/la-izquierda-convoca-a-una-protesta-por-la-visita-de-la-jefa-del-fmi-nid24072026/",
-      "publishedAt": "Fri, 24 Jul 2026 22:57:58 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-izquierda",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "title": "Los mensajes que traerá León XIV sobre la agenda social podrían generar incomodidades en el Gobierno",
+      "summary": "La pobreza, la justicia social, el problema del empleo y la polarización son preocupaciones centrales en los discursos del Papa; qué temas podría plantear en su viaje a la Argentina",
+      "url": "https://www.lanacion.com.ar/politica/los-mensajes-que-traera-leon-xiv-sobre-la-agenda-social-podrian-generar-incomodidades-en-el-gobierno-nid25072026/",
+      "publishedAt": "Sat, 25 Jul 2026 22:15:06 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-instituciones-argentina-instituciones-mensajes-traera",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "69b8ef232ba23d66",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "La Policía incorporó el primer vehículo blindado del Ejército para reforzar el patrullaje en Montevideo",
+      "summary": "El gobierno informó que uno de los cuatro RPZ Cóndor “ya quedó operativo y comenzó a ser utilizado en tareas de patrullaje” en la capital. El gobierno informó este viernes que “ya quedó operativo y comenzó a ser utilizado en tareas de patrullaje” el primero de",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/la-policia-incorporo-el-primer-vehiculo-blindado-del-ejercito-para-reforzar-el-patrullaje-en-montevideo/",
+      "publishedAt": "Sat, 25 Jul 2026 17:05:18 -0300",
+      "politicalScore": 9,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-policia-incorporo",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -220,8 +333,8 @@
       "publishedAt": "Sat, 25 Jul 2026 04:21:50 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-presencia-milei",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -237,25 +350,25 @@
       "publishedAt": "Sat, 25 Jul 2026 04:00:00 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-apreton",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
-      "id": "bdab80b270151b08",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "id": "ee1080050809ce11",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Delcy Rodríguez recibe delegación del Congreso de EEUU en Caracas",
-      "summary": "Este viernes, la mandataria interina Delcy Rodríguez recibió en Caracas a una delegación del Congreso de Estados Unidos, que llegó en vuelo directo provenientes desde Washington. Encabezada por el republicano Brian Mast e integrada por los representantes Randy",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-recibe-delegacion-del-congreso-de-eeuu-en-caracas/",
-      "publishedAt": "Fri, 24 Jul 2026 21:36:15 +0000",
-      "politicalScore": 9,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "title": "El Vaticano ya envió una misión de avanzada a la Argentina para preparar el viaje de León XIV y define el itinerario",
+      "summary": "Cuatro funcionarios de la Secretaría de Estado y el área de Comunicación de la Santa Sede estuvieron en la Casa Rosada y en el Episcopado; la visita sería en noviembre y se extendería por tres días; expectativas en alza en el Gobierno",
+      "url": "https://www.lanacion.com.ar/politica/el-vaticano-ya-hizo-una-visita-de-avanzada-a-la-argentina-para-preparar-el-viaje-de-leon-xiv-y-nid25072026/",
+      "publishedAt": "Sat, 25 Jul 2026 20:38:11 +0000",
+      "politicalScore": 8,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-vaticano",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -271,8 +384,8 @@
       "publishedAt": "Sat, 25 Jul 2026 15:30:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-panama-investiga",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -288,42 +401,8 @@
       "publishedAt": "Sat, 25 Jul 2026 14:30:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-venezuela-inicia",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "326b78ab5733c896",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "La UME no es un juguete del Gobierno",
-      "summary": "Cuando un ministro ridiculiza a una región por solicitar la intervención de la UME no está afrentando a su presidente, sino a sus ciudadanos&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/24/6a63aef7e85eceec5a8b457e.html",
-      "publishedAt": "Fri, 24 Jul 2026 22:45:04 +0200",
-      "politicalScore": 8,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juguete-gobierno",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dc622eb7582fb582",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Tras el caso Adorni, la oposición pide excluir a los funcionarios del proyecto de “Inocencia Fiscal 2”",
-      "summary": "La iniciativa permite que adhieran; la esposa del exjefe de Gabinete se sumó al régimen antes de que él presentara su declaración jurada, en medio del escándalo",
-      "url": "https://www.lanacion.com.ar/politica/la-oposicion-pide-excluir-a-los-funcionarios-del-proyecto-de-inocencia-fiscal-2-tras-el-caso-adorni-nid24072026/",
-      "publishedAt": "Fri, 24 Jul 2026 20:41:41 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-caso",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -339,8 +418,8 @@
       "publishedAt": "Fri, 24 Jul 2026 18:21:38 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-regreso-juan",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -356,59 +435,8 @@
       "publishedAt": "Fri, 24 Jul 2026 00:02:41 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-empresario-ofrecio",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f361f7f9806ccfa8",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Chavistas radicales protestan y rechazan diálogo convocado para el 1 de agosto",
-      "summary": "Liderados por Mario Silva e Iris Varela, quemaron banderas de EEUU e Israel en la plaza Bolívar de Caracas",
-      "url": "https://efectococuyo.com/politica/chavistas-radicales-protestan-y-rechazan-dialogo-convocado-para-el-1-de-agosto/",
-      "publishedAt": "Fri, 24 Jul 2026 21:15:22 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-chavistas-radicales",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2a9942c17e2fe475",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Axel Kicillof apoyó la reelección indefinida de los intendentes y reclamó que la Legislatura debata el proyecto",
-      "summary": "El gobernador pidió eliminar el límite de dos mandatos consecutivos para jefes comunales; busca garantizarse el aval de sus aliados a su proyecto presidencial",
-      "url": "https://www.lanacion.com.ar/politica/axel-kicillof-apoyo-la-reeleccion-indefinida-de-los-intendentes-y-reclamo-que-la-legislatura-debata-nid24072026/",
-      "publishedAt": "Fri, 24 Jul 2026 19:30:41 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-elecciones-argentina-elecciones-axel-kicillof",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "21de1635f1ecb3c1",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El Gobierno asegura que la política monetaria no se toca tras los dichos del vocero sobre el dólar a $1800",
-      "summary": "Adrián Ravier deslizó que era “una posibilidad” que la divisa tuviera un salto en los próximos meses; en la Casa Rosada desmintieron cualquier intento de devaluación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-asegura-que-la-politica-monetaria-no-se-toca-tras-los-dichos-del-vocero-sobre-el-dolar-a-nid24072026/",
-      "publishedAt": "Fri, 24 Jul 2026 19:10:14 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -424,25 +452,8 @@
       "publishedAt": "Sat, 25 Jul 2026 05:08:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-plan-patriota",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ea964d5a24dde2e8",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La guerra contra la diversidad cultural",
-      "summary": "El nuevo Gobierno Nacional ha anunciado que la ministra de Cultura, la ministra de Educación, el canciller y un asesor presidencial se dedicarán a librar una “batalla cultural”. Los debates sobre la cultura son naturales en la democracia. De hecho, las ciencia",
-      "url": "https://www.lasillavacia.com/opinion/la-guerra-contra-la-diversidad-cultural/",
-      "publishedAt": "Sat, 25 Jul 2026 12:19:45 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-guerra-diversidad",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -458,25 +469,8 @@
       "publishedAt": "Sat, 25 Jul 2026 01:36:52 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-quita-embajador",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "11b28e1cd8cfd4b0",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Los personajes secundarios del caso AFA que podrían volverse detonantes",
-      "summary": "La Justicia norteamericana emitió citaciones para apuntalar la investigación que tramita en suelo norteamericano; no trascendieron los nombres, pero asoman al menos cuatro perfiles claves",
-      "url": "https://www.lanacion.com.ar/politica/los-personajes-secundarios-del-caso-afa-que-podrian-volverse-detonantes-nid24072026/",
-      "publishedAt": "Fri, 24 Jul 2026 21:47:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-personajes-secundarios",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -492,8 +486,8 @@
       "publishedAt": "Fri, 24 Jul 2026 14:30:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-talento",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -509,8 +503,59 @@
       "publishedAt": "Thu, 23 Jul 2026 20:34:32 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-terminal-mariel",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ea964d5a24dde2e8",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "La guerra contra la diversidad cultural",
+      "summary": "Un grito de “batalla cultural” con el propósito de eliminar de la sociedad a quienes hemos sufrido discriminación y violencia sería una actuación antidemocrática. The post La guerra contra la diversidad cultural appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/la-guerra-contra-la-diversidad-cultural/",
+      "publishedAt": "Sun, 26 Jul 2026 00:24:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-seguridad-colombia-seguridad-guerra-diversidad",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "73106afcec858db2",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Figuera dice que convocará a sectores democráticos: ¿De quiénes habla?",
+      "summary": "Juan Manuel Trak destaca que ampliar la mesa ha sido una “exigencia” de EEUU. María Alexandra Semprún teme que los llamados no tengan incidencia",
+      "url": "https://efectococuyo.com/politica/figuera-sectores-democraticos-convocados-dialogochavismo-quienes/",
+      "publishedAt": "Sat, 25 Jul 2026 21:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-figuera-dice",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9e36be40af371c0f",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Una película de terror",
+      "summary": "Terror no es terrorismo. Del beso en Andino a Trump y De la Espriella, la palabra se usa para criminalizar la protesta y la disidencia. The post Una película de terror appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/una-pelicula-de-terror/",
+      "publishedAt": "Sat, 25 Jul 2026 19:17:45 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pelicula-terror",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -526,42 +571,8 @@
       "publishedAt": "Sat, 25 Jul 2026 15:25:26 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "be5a8180dc4353fd",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "El largo camino hacia el juicio contra Maduro y Flores en cuatro claves",
-      "summary": "Salvo Nicolás Maduro Guerra, altos voceros del chavismo ignoraron celebración de tercera audiencia del caso Maduro Flores",
-      "url": "https://efectococuyo.com/politica/largo-camino-juicio-contra-maduro-flores-cuatro-claves/",
-      "publishedAt": "Sat, 25 Jul 2026 15:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-largo-camino",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9e36be40af371c0f",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Una película de terror",
-      "summary": "Terror no es terrorismo. Del beso en Andino a Trump y De la Espriella, la palabra se usa para criminalizar la protesta y la disidencia. The post Una película de terror appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/una-pelicula-de-terror/",
-      "publishedAt": "Sat, 25 Jul 2026 12:20:55 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pelicula-terror",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -577,8 +588,8 @@
       "publishedAt": "Sat, 25 Jul 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-instituciones-espana-instituciones-caso-profesor",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -594,25 +605,8 @@
       "publishedAt": "Sat, 25 Jul 2026 02:36:54 +0000",
       "politicalScore": 5,
       "eventKey": "chile-economia-politica-chile-economia-politica-alerta",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1d0aa6417d578a95",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La defensa de Zapatero atribuye un \"error\" al juez Calama y le pide que vuelva a admitir su petición de nulidad del caso",
-      "summary": "El letrado del ex presidente, Víctor Moreno Catena, alega que fue el 29 de mayo cuando se incorporó a la plataforma Cloud la pieza separada&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/07/24/6a63638a21efa0bd068b459c.html",
-      "publishedAt": "Fri, 24 Jul 2026 15:08:24 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-defensa-zapatero",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -628,8 +622,8 @@
       "publishedAt": "Thu, 23 Jul 2026 23:40:00 +0000",
       "politicalScore": 5,
       "eventKey": "chile-economia-politica-chile-economia-politica-fijan",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -645,8 +639,42 @@
       "publishedAt": "Thu, 23 Jul 2026 17:50:58 +0200",
       "politicalScore": 5,
       "eventKey": "espana-instituciones-espana-instituciones-suma-denuncia",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0d0ba56ac1ab763a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Cuentapropismo emocional en lo profundo del conurbano",
+      "summary": "Un estudio realizado en villas detectó un fuerte deterioro de la situación de los jóvenes; sin embargo, Milei no sufre un retroceso grave, y el peronismo no logra capitalizar el descontento",
+      "url": "https://www.lanacion.com.ar/politica/cuentapropismo-emocional-en-lo-profundo-del-conurbano-nid25072026/",
+      "publishedAt": "Sun, 26 Jul 2026 01:50:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-cuentapropismo",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9dfde7af5725e9fd",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El Gobierno y Ayuso aparcan sus diferencias ante la magnitud del fuego",
+      "summary": "Sánchez insiste en pedir un pacto de Estado, mientras Abascal atribuye los incendios al “fanatismo climático”",
+      "url": "https://elpais.com/espana/2026-07-26/el-gobierno-y-ayuso-aparcan-sus-diferencias-ante-la-magnitud-del-fuego.html",
+      "publishedAt": "Sat, 25 Jul 2026 22:59:23 GMT",
+      "politicalScore": 4,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-ayuso",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -662,8 +690,8 @@
       "publishedAt": "Sat, 25 Jul 2026 19:00:04 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-principales",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -679,8 +707,8 @@
       "publishedAt": "Sat, 25 Jul 2026 18:16:10 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-guardian",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -696,8 +724,8 @@
       "publishedAt": "Sat, 25 Jul 2026 15:02:01 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuba-cansados",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -708,13 +736,13 @@
       "topic": "Instituciones",
       "priority": "Media",
       "title": "Libertad de expresión y periodismo bajo autoritarismo en Centroamérica",
-      "summary": "El pasado martes 21 de julio, participé como comentarista, en mi condición de coordinador de la Cátedra Centroamérica de la Universidad de Costa Rica, en la presentación del cuarto informe sobre Libertad de Expresión y Periodismo en Centroamérica, elaborado po",
+      "summary": "El pasado martes 21&#160;de julio,&#160;participé como comentarista, en mi condición de coordinador de la Cátedra Centroamérica de la Universidad de Costa Rica, en la presentación del cuarto informe sobre Libertad de Expresión y Periodismo en Centroamérica, el",
       "url": "https://confidencial.digital/opinion/libertad-de-expresion-y-periodismo-bajo-autoritarismo-en-centroamerica/",
       "publishedAt": "Sat, 25 Jul 2026 14:46:02 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-libertad-expresion",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -730,8 +758,8 @@
       "publishedAt": "Sat, 25 Jul 2026 14:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-proyectos-afectaran",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -747,25 +775,8 @@
       "publishedAt": "Sat, 25 Jul 2026 12:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-escudo-americas",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dd35c38b7b067e7e",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "En un gesto de acercamiento, el nuevo nuncio apostólico fue recibido por el canciller Quirno",
-      "summary": "Mientras se espera un anuncio oficial del Vaticano sobre la visita del papa León XIV a la Argentina, monseñor Michael Wallace Banach concurrió a la Cancillería",
-      "url": "https://www.lanacion.com.ar/politica/en-un-gesto-de-acercamiento-el-nuevo-nuncio-apostolico-fue-recibido-por-el-canciller-quirno-nid24072026/",
-      "publishedAt": "Fri, 24 Jul 2026 20:01:58 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gesto",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -781,25 +792,8 @@
       "publishedAt": "Fri, 24 Jul 2026 17:14:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
-      "seenCount": 1
-    },
-    {
-      "id": "34ff889fbf30abef",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "El Constitucional rechaza el recurso de la Junta de Extremadura contra la ley de amnistía",
-      "summary": "Con esta resolución, el tribunal de garantías culmina la resolución de los 16 recursos y las seis cuestiones en relación con el texto",
-      "url": "https://elpais.com/espana/2026-07-24/el-constitucional-rechaza-el-recurso-de-la-junta-de-extremadura-contra-la-ley-de-amnistia.html",
-      "publishedAt": "Fri, 24 Jul 2026 13:01:10 GMT",
-      "politicalScore": 4,
-      "eventKey": "espana-instituciones-espana-instituciones-constitucional-rechaza",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -815,8 +809,25 @@
       "publishedAt": "Thu, 23 Jul 2026 22:10:05 +0200",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-popular-mestre",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ae96aee97895c12d",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "EEUU celebra decisión de Venezuela de retirarse de la Corte Penal Internacional",
+      "summary": "Washington criticó la falta de eficiencia de la Corte Penal Internacional en el caso de Nicolás Maduro",
+      "url": "https://efectococuyo.com/internacionales/eeuu-celebra-decision-de-venezuela-de-retirarse-de-la-corte-penal-internacional/",
+      "publishedAt": "Sun, 26 Jul 2026 00:57:05 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-instituciones-venezuela-instituciones-eeuu-celebra",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -832,8 +843,8 @@
       "publishedAt": "Sat, 25 Jul 2026 19:10:54 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-megaincendio-valparaiso",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -849,8 +860,8 @@
       "publishedAt": "Sat, 25 Jul 2026 16:18:36 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-provea-rechaza",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -866,8 +877,8 @@
       "publishedAt": "Sat, 25 Jul 2026 16:05:22 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-seguridad-colombia-seguridad-posesion-abelardo",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -883,8 +894,8 @@
       "publishedAt": "Sat, 25 Jul 2026 12:09:43 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pais-dejo",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -900,8 +911,8 @@
       "publishedAt": "Sat, 25 Jul 2026 08:00:19 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-basta-ensenar",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -917,8 +928,8 @@
       "publishedAt": "Sat, 25 Jul 2026 07:15:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nino-quita",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -934,8 +945,8 @@
       "publishedAt": "Sat, 25 Jul 2026 07:10:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-norma-ramirez",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -951,8 +962,8 @@
       "publishedAt": "Fri, 24 Jul 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-multa-google",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -968,8 +979,8 @@
       "publishedAt": "Fri, 24 Jul 2026 15:20:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-precio-petroleo",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -985,8 +996,8 @@
       "publishedAt": "Fri, 24 Jul 2026 14:25:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-antes-inteligencia",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1002,8 +1013,8 @@
       "publishedAt": "Fri, 24 Jul 2026 12:56:11 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-regimen-cubano",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1019,8 +1030,8 @@
       "publishedAt": "Fri, 24 Jul 2026 00:37:06 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-confirma-nuevo",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1036,8 +1047,8 @@
       "publishedAt": "Thu, 23 Jul 2026 20:37:05 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-mejor-salud",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1053,8 +1064,8 @@
       "publishedAt": "Thu, 23 Jul 2026 15:17:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-jovenes",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1070,8 +1081,8 @@
       "publishedAt": "Thu, 23 Jul 2026 14:44:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-prepararemos",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1087,8 +1098,8 @@
       "publishedAt": "Wed, 22 Jul 2026 20:41:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-evaluacion-docente",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     },
     {
@@ -1104,8 +1115,8 @@
       "publishedAt": "Wed, 22 Jul 2026 15:27:30 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-debilitamiento-autonomia",
-      "firstSeenAt": "2026-07-25T19:15:03.211Z",
-      "lastSeenAt": "2026-07-25T19:15:03.211Z",
+      "firstSeenAt": "2026-07-26T03:27:12.884Z",
+      "lastSeenAt": "2026-07-26T03:27:12.884Z",
       "seenCount": 1
     }
   ]
