@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-01T08:27:11.402Z",
-  "count": 50,
+  "generatedAt": "2026-08-01T13:37:42.296Z",
+  "count": 53,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-01T08:27:11.402Z",
-    "activeSignals": 50,
-    "archiveSignals": 108,
-    "countriesCovered": 8,
-    "highPrioritySignals": 21,
-    "averagePoliticalScore": 5.7
+    "generatedAt": "2026-08-01T13:37:42.296Z",
+    "activeSignals": 53,
+    "archiveSignals": 111,
+    "countriesCovered": 9,
+    "highPrioritySignals": 23,
+    "averagePoliticalScore": 5.77
   },
   "briefings": [
     {
@@ -56,34 +56,34 @@
       "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
-      "country": "Colombia",
+      "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Coronell no ha concluido que las pruebas de Petro comprueban el fraude electoral",
-      "leadUrl": "https://www.lasillavacia.com/detector-de-mentiras/falso/coronell-no-ha-concluido-que-las-pruebas-de-petro-comprueban-el-fraude-electoral/",
+      "leadTitle": "Fiscalía abre investigación contra el diputado Julián Pérez por agresión a su expareja",
+      "leadUrl": "https://elcomercio.pe/politica/fiscalia-abre-investigacion-contra-el-diputado-julian-perez-por-presunta-agresion-a-su-expareja-noticia/",
       "focusTopics": [
-        "Gobernabilidad",
-        "Economia politica"
+        "Economia politica",
+        "Seguridad",
+        "Gobernabilidad"
       ],
       "topSources": [
-        "La Silla Vacia"
+        "El Comercio"
       ],
       "signalCount": 4,
-      "summary": "Foco en Gobernabilidad, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Economia politica, Seguridad, Gobernabilidad. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "AN sanciona Ley de Arrendamiento y asegura que propietarios e inquilinos cuentan con garantías",
-      "leadUrl": "https://efectococuyo.com/politica/an-ley-arrendamiento-propietarios-inquilinos-garantias/",
+      "leadTitle": "¿Cómo llega la oposición a las negociaciones del 1 de agosto?",
+      "leadUrl": "https://efectococuyo.com/politica/reconocimiento-eeuu-escepticismo-llega-oposicion-negociaciones/",
       "focusTopics": [
-        "Diplomacia",
-        "Economia politica"
+        "Diplomacia"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
       "signalCount": 4,
-      "summary": "Foco en Diplomacia, Economia politica. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Espana",
@@ -117,6 +117,21 @@
       "summary": "Foco en Instituciones, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
+      "country": "Colombia",
+      "priority": "Media",
+      "leadTitle": "Abelardo no propuso bajar el mínimo a un millón ni quitar el bono pensional",
+      "leadUrl": "https://www.lasillavacia.com/detector-de-mentiras/falso/abelardo-no-propuso-bajar-el-minimo-a-un-millon-ni-quitar-el-bono-pensional/",
+      "focusTopics": [
+        "Gobernabilidad",
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 3,
+      "summary": "Foco en Gobernabilidad, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
       "country": "Uruguay",
       "priority": "Media",
       "leadTitle": "Ensayo de Briozzo analiza las crisis del capitalismo y propone ideas para la izquierda en tiempos de desencanto",
@@ -133,6 +148,23 @@
   ],
   "signals": [
     {
+      "id": "d41823d5d4e211c5",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Fiscalía abre investigación contra el diputado Julián Pérez por agresión a su expareja",
+      "summary": "Ultima actualizacion de El Comercio.",
+      "url": "https://elcomercio.pe/politica/fiscalia-abre-investigacion-contra-el-diputado-julian-perez-por-presunta-agresion-a-su-expareja-noticia/",
+      "publishedAt": "Sat, 01 Aug 2026 13:21:43 +0000",
+      "politicalScore": 10,
+      "eventKey": "peru-economia-politica-peru-economia-politica-fiscalia",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
       "id": "1e2cf0b31c83ccee",
       "country": "Espana",
       "source": "El Mundo",
@@ -145,8 +177,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:32:55 +0200",
       "politicalScore": 10,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ofensiva-congreso",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -162,8 +194,8 @@
       "publishedAt": "Fri, 31 Jul 2026 14:50:18 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-kevin-reilly",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -179,8 +211,25 @@
       "publishedAt": "Fri, 31 Jul 2026 06:21:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-hunde-totalitarismo",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
+      "id": "32417e5eefc9e77c",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Perú buscará incorporarse al Escudo de las Américas para combatir crimen organizado: los anuncios del canciller Carlos Espá",
+      "summary": "El flamante canciller señaló que los dos principales objetivos inmediatos de su gestión serán fortalecer la política exterior para enfrentar la inseguridad ciudadana y la corrupción, así como impulsar la preparación del país ante la llegada del fenómeno El Niñ",
+      "url": "https://elcomercio.pe/politica/carlos-espa-ratifica-que-el-peru-buscara-incorporarse-al-escudo-de-las-americas-para-combatir-el-crimen-organizado-los-detalles-de-su-primer-discurso-como-canciller-noticia/",
+      "publishedAt": "Sat, 01 Aug 2026 13:23:04 +0000",
+      "politicalScore": 9,
+      "eventKey": "peru-seguridad-peru-seguridad-buscara-incorporarse",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -196,8 +245,8 @@
       "publishedAt": "Sat, 01 Aug 2026 06:20:37 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-razones-detras",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -213,8 +262,8 @@
       "publishedAt": "Fri, 31 Jul 2026 21:37:19 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -230,8 +279,8 @@
       "publishedAt": "Fri, 31 Jul 2026 11:01:54 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-maria-jesus",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -247,8 +296,8 @@
       "publishedAt": "Fri, 31 Jul 2026 06:10:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-desafio-inteligencia",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -264,25 +313,8 @@
       "publishedAt": "Thu, 30 Jul 2026 21:00:52 +0000",
       "politicalScore": 9,
       "eventKey": "chile-elecciones-chile-elecciones",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e9ebb7695aa8121c",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Coronell no ha concluido que las pruebas de Petro comprueban el fraude electoral",
-      "summary": "No hay registros de que Coronell lo haya dicho. Al contrario, ha sostenido que las evidencias presentadas por el presidente no lo demuestran. The post Coronell no ha concluido que las pruebas de Petro comprueban el fraude electoral appeared first on La Silla V",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/coronell-no-ha-concluido-que-las-pruebas-de-petro-comprueban-el-fraude-electoral/",
-      "publishedAt": "Sat, 01 Aug 2026 00:54:29 +0000",
-      "politicalScore": 8,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-coronell-concluido",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -298,8 +330,25 @@
       "publishedAt": "Fri, 31 Jul 2026 18:02:31 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-elecciones-argentina-elecciones-camara-federal",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
+      "id": "86a76b6f1fe28a6b",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "¿Cómo llega la oposición a las negociaciones del 1 de agosto?",
+      "summary": "Politólogos ven el tutelaje de EEUU como una ventaja y el distanciamiento con María Corina Machado como una debilidad",
+      "url": "https://efectococuyo.com/politica/reconocimiento-eeuu-escepticismo-llega-oposicion-negociaciones/",
+      "publishedAt": "Sat, 01 Aug 2026 12:30:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-llega-oposicion",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -315,8 +364,8 @@
       "publishedAt": "Sat, 01 Aug 2026 06:26:26 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -332,8 +381,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:21:34 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -349,8 +398,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:06:52 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-eleva-hasta",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -366,8 +415,8 @@
       "publishedAt": "Fri, 31 Jul 2026 23:55:18 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -383,8 +432,8 @@
       "publishedAt": "Fri, 31 Jul 2026 23:09:07 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -400,8 +449,8 @@
       "publishedAt": "Fri, 31 Jul 2026 22:32:58 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sanciona-arrendamiento",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -417,8 +466,8 @@
       "publishedAt": "Thu, 30 Jul 2026 00:00:52 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-condenan",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -434,8 +483,8 @@
       "publishedAt": "Wed, 29 Jul 2026 22:51:49 +0200",
       "politicalScore": 7,
       "eventKey": "espana-instituciones-espana-instituciones-sanchez-cruza",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -451,8 +500,8 @@
       "publishedAt": "Tue, 28 Jul 2026 22:58:50 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -468,8 +517,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:25:16 +0000",
       "politicalScore": 6,
       "eventKey": "chile-seguridad-chile-seguridad-indultos-militares",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -485,8 +534,8 @@
       "publishedAt": "Fri, 31 Jul 2026 15:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-haiti-registra",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -502,8 +551,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:18:07 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-ensayo-briozzo",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -519,8 +568,8 @@
       "publishedAt": "Fri, 31 Jul 2026 20:14:10 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-nueva",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -536,8 +585,8 @@
       "publishedAt": "Fri, 31 Jul 2026 17:38:31 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-campora",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -553,8 +602,25 @@
       "publishedAt": "Fri, 31 Jul 2026 03:47:55 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-decide-transparentar",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
+      "id": "17fb31017a99b26a",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Venezuela: expectativas y realidades de la negociación",
+      "summary": "\"El reto principal consiste en transformar la rivalidad destructiva en un ejercicio real de política práctica\"",
+      "url": "https://efectococuyo.com/politica/venezuela-expectativas-y-realidades-de-la-negociacion/",
+      "publishedAt": "Sat, 01 Aug 2026 11:30:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-expectativas-realidades",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -570,8 +636,8 @@
       "publishedAt": "Sat, 01 Aug 2026 01:29:56 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-propuso",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -587,8 +653,8 @@
       "publishedAt": "Sat, 01 Aug 2026 01:20:03 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-restrepo",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -604,42 +670,8 @@
       "publishedAt": "Sat, 01 Aug 2026 01:07:43 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-yerry-mina",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
-      "seenCount": 1
-    },
-    {
-      "id": "05a1dd0b2204e18c",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "“Carlos el Chacal” pide a Francia que lo expulse a Venezuela",
-      "summary": "El abogado del terrorista venezolano Ilich Ramírez Sánchez, &#8216;Carlos&#8217;, que cumple cadena perpetua en Francia, presentó una demanda de liberación condicional para poder ser expulsado a su país, confirmaron este viernes a EFE fuentes de la Fiscalía Na",
-      "url": "https://efectococuyo.com/internacionales/carlos-el-chacal-pide-a-francia-que-lo-expulse-a-venezuela/",
-      "publishedAt": "Fri, 31 Jul 2026 19:22:03 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-carlos",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
-      "seenCount": 1
-    },
-    {
-      "id": "40a7e9c8a938184c",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Ocariz pide que nuevo diálogo no responda a agendas particulares",
-      "summary": "“Mi desinteresada recomendación a los participantes: serenidad y firmeza\", expresó",
-      "url": "https://efectococuyo.com/politica/ocariz-negociaciones-proceso-agendas-particulares-permitan/",
-      "publishedAt": "Fri, 31 Jul 2026 18:48:04 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-ocariz-pide",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -655,8 +687,59 @@
       "publishedAt": "Fri, 31 Jul 2026 13:16:17 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-instituciones-cuba-instituciones-tribunal-supremo",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5cb91a1f2c15d41f",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Carro bomba deja al menos 11 heridos en Cúcuta",
+      "summary": "El suceso ocurre a una semana de la toma de posesión del presidente electo de Colombia, Abelardo de la Espriella",
+      "url": "https://efectococuyo.com/internacionales/carro-bomba-deja-al-menos-11-heridos-en-cucuta/",
+      "publishedAt": "Sat, 01 Aug 2026 13:37:29 +0000",
+      "politicalScore": 4,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-carro-bomba",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
+      "id": "35f4a0daccc08e2e",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Vladimir Cerrón mantiene otra orden de captura por un juicio oral que se le sigue en Junín: ¿Cuál es su situación tras el fallo del TC?",
+      "summary": "Ultima actualizacion de El Comercio.",
+      "url": "https://elcomercio.pe/politica/vladimir-cerron-mantiene-otra-orden-de-captura-por-un-juicio-oral-que-se-le-sigue-en-junin-pj-le-impone-impedimento-de-salida-del-pais-en-caso-de-presunto-lavado-de-activos-y-crimen-organizado-noticia/",
+      "publishedAt": "Sat, 01 Aug 2026 13:22:37 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-vladimir-cerron",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c529e86443b7cf33",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Keiko, la asunción de la naranja, una crónica de Fernando Vivas sobre la presidenta Fujimori",
+      "summary": "Keiko, la asunción de la naranja, una crónica de Fernando Vivas sobre la presidenta Fujimori. Ganó la primera vuelta con su núcleo duro y la segunda, con los espantados de la versión castillista del comunismo. Esta semana abrió los brazos a otros sectores.",
+      "url": "https://elcomercio.pe/politica/keiko-fujimori-la-asuncion-de-la-naranja-una-cronica-de-fernando-vivas-sobre-la-presidenta-fujimori-noticia/",
+      "publishedAt": "Sat, 01 Aug 2026 13:22:06 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-keiko-asuncion",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -672,8 +755,8 @@
       "publishedAt": "Sat, 01 Aug 2026 06:24:59 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -689,8 +772,8 @@
       "publishedAt": "Sat, 01 Aug 2026 02:25:19 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-participo",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -706,8 +789,8 @@
       "publishedAt": "Fri, 31 Jul 2026 21:02:14 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-quintela",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -723,25 +806,8 @@
       "publishedAt": "Fri, 31 Jul 2026 19:46:30 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sube-presion",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
-      "seenCount": 1
-    },
-    {
-      "id": "10fabd73ab68a344",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Chevron espera recuperar toda su deuda en Venezuela a principios de 2027",
-      "summary": "La petrolera Chevron, la única energética estadounidense que opera en Venezuela, espera recuperar a principios de 2027 la totalidad de la deuda contraída por el Estado venezolano con la compañía, indicó Eimear Bonner, la directora de finanzas de la empresa, du",
-      "url": "https://efectococuyo.com/economia/chevron-espera-recuperar-toda-su-deuda/",
-      "publishedAt": "Fri, 31 Jul 2026 18:55:34 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-chevron",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -757,8 +823,8 @@
       "publishedAt": "Fri, 31 Jul 2026 12:24:41 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-regimen-dara",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -774,8 +840,8 @@
       "publishedAt": "Thu, 30 Jul 2026 14:41:42 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-abogados-arquitectos",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -791,8 +857,8 @@
       "publishedAt": "Wed, 29 Jul 2026 18:49:54 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-llega-obsoleta",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -808,8 +874,8 @@
       "publishedAt": "Wed, 29 Jul 2026 16:03:06 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-casi-todo",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -825,8 +891,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:21:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-transparencia-negocios",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -842,8 +908,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:18:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-transparencia",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -859,8 +925,8 @@
       "publishedAt": "Fri, 31 Jul 2026 19:56:05 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-salud-mental",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -876,8 +942,8 @@
       "publishedAt": "Fri, 31 Jul 2026 14:33:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-rusia-incluye",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -893,8 +959,8 @@
       "publishedAt": "Fri, 31 Jul 2026 00:40:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-reactiva-relaciones",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -910,8 +976,8 @@
       "publishedAt": "Thu, 30 Jul 2026 16:55:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estafa-empleos",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -927,8 +993,8 @@
       "publishedAt": "Thu, 30 Jul 2026 11:38:48 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-denuncia-retencion",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -944,8 +1010,8 @@
       "publishedAt": "Thu, 30 Jul 2026 08:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-interes-controversia",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -961,8 +1027,8 @@
       "publishedAt": "Wed, 29 Jul 2026 14:56:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tecnologia-reemplazara",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     },
     {
@@ -978,8 +1044,8 @@
       "publishedAt": "Wed, 29 Jul 2026 00:02:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sergio-jadue",
-      "firstSeenAt": "2026-08-01T08:27:11.402Z",
-      "lastSeenAt": "2026-08-01T08:27:11.402Z",
+      "firstSeenAt": "2026-08-01T13:37:42.296Z",
+      "lastSeenAt": "2026-08-01T13:37:42.296Z",
       "seenCount": 1
     }
   ]
