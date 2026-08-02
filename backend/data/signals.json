@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-01T19:15:46.813Z",
+  "generatedAt": "2026-08-02T03:25:13.179Z",
   "count": 59,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-01T19:15:46.813Z",
+    "generatedAt": "2026-08-02T03:25:13.179Z",
     "activeSignals": 59,
     "archiveSignals": 117,
     "countriesCovered": 8,
-    "highPrioritySignals": 25,
-    "averagePoliticalScore": 5.83
+    "highPrioritySignals": 27,
+    "averagePoliticalScore": 6.1
   },
   "briefings": [
     {
@@ -33,13 +33,14 @@
       "leadUrl": "https://www.lanacion.com.ar/politica/con-guinos-de-los-aliados-el-oficialismo-acelera-el-debate-en-diputados-y-confia-en-tener-los-votos-nid01082026/",
       "focusTopics": [
         "Elecciones",
-        "Diplomacia"
+        "Diplomacia",
+        "Economia politica"
       ],
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 12,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar La Nacion y La Nacion."
+      "signalCount": 13,
+      "summary": "Foco en Elecciones, Diplomacia, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -59,31 +60,30 @@
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "¿Una democracia más resiliente de lo que creemos?",
-      "leadUrl": "https://www.lasillavacia.com/opinion/una-democracia-mas-resiliente-de-lo-que-creemos/",
+      "leadTitle": "El árbol y la máscara: antología de columnas sobre el gobierno Petro",
+      "leadUrl": "https://www.lasillavacia.com/opinion/el-arbol-y-la-mascara-antologia-de-columnas-sobre-el-gobierno-petro/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones",
-        "Gobernabilidad"
+        "Gobernabilidad",
+        "Elecciones"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 9,
-      "summary": "Foco en Elecciones, Instituciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 8,
+      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "¿Cómo llega la oposición a las negociaciones del 1 de agosto?",
-      "leadUrl": "https://efectococuyo.com/politica/reconocimiento-eeuu-escepticismo-llega-oposicion-negociaciones/",
+      "leadTitle": "Diálogo entre el chavismo y la oposición inicia con una llamada y presentación de las delegaciones",
+      "leadUrl": "https://efectococuyo.com/politica/dialogo-entre-el-chavismo-y-la-oposicion-inicia-con-una-llamada-y-anuncia-primera-agenda/",
       "focusTopics": [
         "Diplomacia"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 5,
+      "signalCount": 6,
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
@@ -94,20 +94,20 @@
       "focusTopics": [
         "Elecciones",
         "Diplomacia",
-        "Instituciones"
+        "Gobernabilidad"
       ],
       "topSources": [
         "El Mundo",
         "El Pais"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Diplomacia, Instituciones. Vigilar El Mundo y El Pais."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Diplomacia, Gobernabilidad. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "El Frente Amplio volvió a reunir a su agrupación nacional de gobierno: “Hemos notado problemas de gestión política”, dijo Pereira",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/el-frente-amplio-volvio-a-reunir-a-su-agrupacion-nacional-de-gobierno-hemos-notado-problemas-de-gestion-politica-dijo-pereira/",
+      "leadTitle": "Congreso de Intendentes solicitó reunión con Orsi para preparar la respuesta del Estado al fenómeno climático de El Niño",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/congreso-de-intendentes-solicito-reunion-con-orsi-para-preparar-la-respuesta-del-estado-al-fenomeno-climatico-de-el-nino/",
       "focusTopics": [
         "Elecciones"
       ],
@@ -135,6 +135,23 @@
   ],
   "signals": [
     {
+      "id": "e4f238f7c734399a",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Congreso de Intendentes solicitó reunión con Orsi para preparar la respuesta del Estado al fenómeno climático de El Niño",
+      "summary": "El jefe departamental de Canelones, Francisco Legnani, sostuvo que es necesario tener “una coordinación de los tres niveles de gobierno”, dado que es un tema que “nos va a afectar a todos”. Fue en el ámbito de la comisión de la Cámara de Diputados que tiene a ",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/congreso-de-intendentes-solicito-reunion-con-orsi-para-preparar-la-respuesta-del-estado-al-fenomeno-climatico-de-el-nino/",
+      "publishedAt": "Sat, 01 Aug 2026 18:06:38 -0300",
+      "politicalScore": 17,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-congreso-intendentes",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
       "id": "c31f8e795af5c4b9",
       "country": "Argentina",
       "source": "La Nacion",
@@ -147,8 +164,8 @@
       "publishedAt": "Sat, 01 Aug 2026 17:09:46 +0000",
       "politicalScore": 14,
       "eventKey": "argentina-elecciones-argentina-elecciones-guinos-aliados",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -164,8 +181,25 @@
       "publishedAt": "Sat, 01 Aug 2026 15:44:25 -0300",
       "politicalScore": 12,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-frente-amplio",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e9656fcf557bd7f4",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Diálogo entre el chavismo y la oposición inicia con una llamada y presentación de las delegaciones",
+      "summary": "Una ministra y cuatro diputados del Psuv acompañarán a Jorge Rodríguez. La agenda de la primera reunión será: atención a las víctimas del doble terremoto, fortalecimiento de la democracia y derechos y garantías políticas.",
+      "url": "https://efectococuyo.com/politica/dialogo-entre-el-chavismo-y-la-oposicion-inicia-con-una-llamada-y-anuncia-primera-agenda/",
+      "publishedAt": "Sat, 01 Aug 2026 23:15:21 +0000",
+      "politicalScore": 11,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-dialogo-chavismo",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -181,8 +215,25 @@
       "publishedAt": "Sat, 01 Aug 2026 18:56:21 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-paro-docente",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8c9f05cae35a6a54",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno sobrecarga de proyectos el Congreso y complica la conversación con los aliados",
+      "summary": "La Casa Rosada mandó una veintena de iniciativas pero fijó cuatro de jerarquía; tendrán que pedir apoyo a los socios para varios temas a la vez; el acumulado de transferencias automáticas 2026 da negativo",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-sobrecarga-de-proyectos-el-congreso-y-complica-la-conversacion-con-los-aliados-nid01082026/",
+      "publishedAt": "Sat, 01 Aug 2026 23:43:08 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -198,8 +249,8 @@
       "publishedAt": "Fri, 31 Jul 2026 14:50:18 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-kevin-reilly",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -215,8 +266,25 @@
       "publishedAt": "Fri, 31 Jul 2026 06:21:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-hunde-totalitarismo",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "36336cd29e12ee6d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "El árbol y la máscara: antología de columnas sobre el gobierno Petro",
+      "summary": "Gustavo Petro, como presidente, podría ser un árbol. Así lo sugiere el retrato oficial que dejó en la galería presidencial: sembrado en el lienzo. The post El árbol y la máscara: antología de columnas sobre el gobierno Petro appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/el-arbol-y-la-mascara-antologia-de-columnas-sobre-el-gobierno-petro/",
+      "publishedAt": "Sun, 02 Aug 2026 01:07:10 +0000",
+      "politicalScore": 9,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-arbol-mascara",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -229,11 +297,11 @@
       "title": "¿Una democracia más resiliente de lo que creemos?",
       "summary": "Las elecciones presidenciales mostraron una preocupante polarización, pero también un fortalecimiento del pluralismo político. The post ¿Una democracia más resiliente de lo que creemos? appeared first on La Silla Vacía .",
       "url": "https://www.lasillavacia.com/opinion/una-democracia-mas-resiliente-de-lo-que-creemos/",
-      "publishedAt": "Sat, 01 Aug 2026 14:00:00 +0000",
+      "publishedAt": "Sat, 01 Aug 2026 18:00:00 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-elecciones-colombia-elecciones-democracia-resiliente",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -249,25 +317,8 @@
       "publishedAt": "Sat, 01 Aug 2026 06:20:37 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-razones-detras",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cd8f1072535c909b",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "En el Gobierno admiten que el decreto contra los extranjeros que “odien” a la Argentina podría enfrentar planteos judiciales",
-      "summary": "En las filas libertarias reconocen que la medida será difícil de implementar, pero apuntan a dar la discusión",
-      "url": "https://www.lanacion.com.ar/politica/en-el-gobierno-admiten-que-el-decreto-contra-los-extranjeros-que-odien-a-la-argentina-podria-nid31072026/",
-      "publishedAt": "Fri, 31 Jul 2026 21:37:19 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -283,8 +334,8 @@
       "publishedAt": "Fri, 31 Jul 2026 11:01:54 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-maria-jesus",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -300,25 +351,42 @@
       "publishedAt": "Thu, 30 Jul 2026 21:00:52 +0000",
       "politicalScore": 9,
       "eventKey": "chile-elecciones-chile-elecciones",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
-      "id": "0a041b68fa313b7b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Instituciones",
+      "id": "6665575d845bb6c8",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Los últimos días del ‘cambio’",
-      "summary": "La transformación petrista terminó con mejor popularidad de lo esperado, pero sin reelegirse, sin muchas reformas y en medio del derroche del gasto y la corrupción. The post Los últimos días del ‘cambio’ appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/los-ultimos-dias-del-cambio/",
-      "publishedAt": "Sat, 01 Aug 2026 14:23:40 +0000",
-      "politicalScore": 8,
-      "eventKey": "colombia-instituciones-colombia-instituciones-ultimos-dias",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "title": "Los huérfanos de la polarización: un desencanto que crece en silencio",
+      "summary": "Un sector de los que apoyaron a Milei se está desplazando hacia un centro sin representación, sin que el peronismo logre capitalizarlo; qué piensan y que posibilidades tiene el Gobierno de recuperarlos",
+      "url": "https://www.lanacion.com.ar/politica/los-huerfanos-de-la-polarizacion-un-desencanto-que-crece-en-silencio-nid01082026/",
+      "publishedAt": "Sun, 02 Aug 2026 01:50:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-huerfanos",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d194fe247741e72c",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Protesta de la Coalición Sindical en La Carlota rechaza “secretismo” del diálogo entre las dos AN",
+      "summary": "Hasta el momento de la publicación de este reporte se desconocía si se había instalado la mesa de negociaciones impulsada por EEUU",
+      "url": "https://efectococuyo.com/politica/protesta-coalicion-sindical-carlota-rechaza-secretismo-dialogo-an/",
+      "publishedAt": "Sat, 01 Aug 2026 19:35:40 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-protesta-coalicion",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -334,8 +402,8 @@
       "publishedAt": "Sat, 01 Aug 2026 19:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cifras-contradicen",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -351,8 +419,8 @@
       "publishedAt": "Sat, 01 Aug 2026 15:04:51 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-critica",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -368,8 +436,8 @@
       "publishedAt": "Sat, 01 Aug 2026 12:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-llega-oposicion",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -385,8 +453,8 @@
       "publishedAt": "Sat, 01 Aug 2026 10:08:11 GMT",
       "politicalScore": 7,
       "eventKey": "espana-diplomacia-espana-diplomacia-sanchez-afea",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -402,8 +470,8 @@
       "publishedAt": "Sat, 01 Aug 2026 06:26:26 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -419,8 +487,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:21:34 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -436,8 +504,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:06:52 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-eleva-hasta",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -453,8 +521,8 @@
       "publishedAt": "Fri, 31 Jul 2026 23:55:18 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -470,25 +538,8 @@
       "publishedAt": "Fri, 31 Jul 2026 23:09:07 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "bc0840bf89217294",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "AN sanciona Ley de Arrendamiento y asegura que propietarios e inquilinos cuentan con garantías",
-      "summary": "A 17 días de su aprobación en primera discusión, este 31 de julio quedó sancionada la Ley del Régimen Especial de Arrendamiento de Inmuebles Destinados a Vivienda en la Asamblea Nacional (AN) de mayoría chavista. El instrumento legal de 27 artículos busca dina",
-      "url": "https://efectococuyo.com/politica/an-ley-arrendamiento-propietarios-inquilinos-garantias/",
-      "publishedAt": "Fri, 31 Jul 2026 22:32:58 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sanciona-arrendamiento",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -504,25 +555,8 @@
       "publishedAt": "Thu, 30 Jul 2026 00:00:52 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-condenan",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4fa76632801c2736",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Fiscalía cifra en $1.000 millones pagos de Belaz-Movitec a sus abogados Lagos, Vargas y Silber para tramitar disputa con Codelco",
-      "summary": "La entrada Fiscalía cifra en $1.000 millones pagos de Belaz-Movitec a sus abogados Lagos, Vargas y Silber para tramitar disputa con Codelco se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/07/28/fiscalia-cifra-en-1-000-millones-pagos-de-belaz-movitec-a-sus-abogados-lagos-vargas-y-silber-para-tramitar-disputa-con-codelco/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fiscalia-cifra-en-1-000-millones-pagos-de-belaz-movitec-a-sus-abogados-lagos-vargas-y-silber-para-tramitar-disputa-con-codelco",
-      "publishedAt": "Tue, 28 Jul 2026 22:58:50 +0000",
-      "politicalScore": 7,
-      "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -538,8 +572,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:25:16 +0000",
       "politicalScore": 6,
       "eventKey": "chile-seguridad-chile-seguridad-indultos-militares",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -555,76 +589,42 @@
       "publishedAt": "Fri, 31 Jul 2026 15:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-haiti-registra",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
-      "id": "61e1db605d0e89be",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Sin libertad no hay progreso",
-      "summary": "El desarrollo económico no depende de que el Estado concentre el poder, sino de la libertad. Como explicó Friedrich Hayek, ningún gobierno posee el conocimiento necesario para dirigir una economía compleja; esa información está dispersa entre millones de perso",
-      "url": "https://www.lasillavacia.com/red-de-expertos/sin-libertad-no-hay-progreso/",
-      "publishedAt": "Sat, 01 Aug 2026 15:17:32 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-libertad",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "11c3e24b3352e563",
+      "id": "8aff82ae65ba5b3e",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Trek versus Ferrari",
-      "summary": "Los Ferrari no fueron diseñados para circular tranquilamente por la carretera junto a carros promedio como Volkswagen, Chevrolet y Renault. The post Trek versus Ferrari appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/trek-versus-ferrari/",
-      "publishedAt": "Sat, 01 Aug 2026 15:07:12 +0000",
+      "title": "El balance del legado del presidente Petro",
+      "summary": "Juanita León y Hector Riveros analizan las cifras que respaldan el legado de Petro y cuáles quedan en entredicho. The post El balance del legado del presidente Petro appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/el-balance-del-legado-del-presidente-petro/",
+      "publishedAt": "Sat, 01 Aug 2026 22:00:00 +0000",
       "politicalScore": 6,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-trek-versus",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-balance-legado",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
-      "id": "110da53cee76b605",
-      "country": "Uruguay",
-      "source": "La Diaria",
+      "id": "49dbb03d443ea92d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Ensayo de Briozzo analiza las crisis del capitalismo y propone ideas para la izquierda en tiempos de desencanto",
-      "summary": "El actual subsecretario de Salud e integrante del MPP sostiene que es necesario volver a hablar de socialismo y revolución, y cuestiona al imperialismo que busca convertir a América Latina en “zona de vasallaje” “Escribo para quienes sienten que algo no cierra",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/ensayo-de-briozzo-analiza-las-crisis-del-capitalismo-y-propone-ideas-para-la-izquierda-en-tiempos-de-desencanto/",
-      "publishedAt": "Sat, 01 Aug 2026 00:18:07 -0300",
+      "title": "Desde La Habana, Petro pide solidaridad con Cuba",
+      "summary": "Se reunió con el presidente Miguel Díaz Canel y le pidió a Estados Unidos cesar el bloqueo contra la isla. The post Desde La Habana, Petro pide solidaridad con Cuba appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/desde-la-habana-petro-pide-solidaridad-con-cuba/",
+      "publishedAt": "Sat, 01 Aug 2026 20:33:54 +0000",
       "politicalScore": 6,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-ensayo-briozzo",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "56022471feae6f46",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Una nueva imputación por sobornos empuja al juez Salmain hacia la destitución",
-      "summary": "El magistrado fue imputado, pero aún conserva los fueros; el Consejo de la Magistratura está a punto de destituirlo",
-      "url": "https://www.lanacion.com.ar/politica/una-nueva-imputacion-por-sobornos-empuja-al-juez-salmain-hacia-la-destitucion-nid31072026/",
-      "publishedAt": "Fri, 31 Jul 2026 20:14:10 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-nueva",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-habana-petro",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -640,8 +640,8 @@
       "publishedAt": "Fri, 31 Jul 2026 03:47:55 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-decide-transparentar",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -657,42 +657,8 @@
       "publishedAt": "Sat, 01 Aug 2026 18:27:11 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-angie-rodriguez",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "488c84f108ae6d9e",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Audios hablan de supuesta corrupción de Verónica Alcocer y su círculo",
-      "summary": "Audios que corresponderían a Eva Ferrer hablan de una “banda de criminales”, testaferros y recursos públicos desaparecidos alrededor de Alcocer. The post Audios hablan de supuesta corrupción de Verónica Alcocer y su círculo appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/audios-hablan-de-supuesta-corrupcion-de-veronica-alcocer-y-su-circulo/",
-      "publishedAt": "Sat, 01 Aug 2026 16:25:06 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-instituciones-colombia-instituciones-audios-hablan",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "299adf912a12a6e1",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
-      "summary": "El tribunal determinó que las devoluciones en caliente de migrantes solo son aplicables a quienes entran “superando elementos de contención fronterizos, como las vallas”",
-      "url": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html",
-      "publishedAt": "Sat, 01 Aug 2026 14:42:34 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-instituciones-espana-instituciones-gobierno-despliega",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -708,8 +674,8 @@
       "publishedAt": "Sat, 01 Aug 2026 11:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-expectativas-realidades",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -725,8 +691,8 @@
       "publishedAt": "Fri, 31 Jul 2026 18:50:04 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-rectifica",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -742,8 +708,59 @@
       "publishedAt": "Fri, 31 Jul 2026 13:16:17 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-instituciones-cuba-instituciones-tribunal-supremo",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0c677c2c4bb34685",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Sin postal de unidad: el peronismo exhibió sus divisiones internas durante la cumbre en La Rioja",
+      "summary": "Pese al intento del gobernador Ricardo Quintela de conciliar posiciones, el acto en homenaje a Enrique Angelelli estuvo marcado por la ausencia de Axel Kicillof; Máximo Kirchner habló sobre el armado de 2027",
+      "url": "https://www.lanacion.com.ar/politica/sin-postal-de-unidad-el-peronismo-exhibio-sus-divisiones-internas-durante-la-cumbre-en-la-rioja-nid01082026/",
+      "publishedAt": "Sat, 01 Aug 2026 23:13:24 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-postal",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "48d28b26d416cee1",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Exrepresentante Ana Rincón será la nueva presidenta del Banco Agrario",
+      "summary": "La administradora de empresas fue representante a la Cámara por el Huila. Está con De la Espriella desde la campaña. The post Exrepresentante Ana Rincón será la nueva presidenta del Banco Agrario appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/exrepresentante-ana-rincon-sera-la-nueva-presidenta-del-banco-agrario/",
+      "publishedAt": "Sat, 01 Aug 2026 21:39:17 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-exrepresentante-rincon",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "03bee94d60d8ee4b",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Milei apunta a consolidar su “liderazgo” regional, pero sus socios no quieren complicar el vínculo con Brasil",
+      "summary": "Aliados ideológicos del libertario hacen equilibrio para sostener buenos vínculos con Lula da Silva; China apoya al brasileño pero busca desinflar el conflicto bilateral",
+      "url": "https://www.lanacion.com.ar/politica/milei-apunta-a-consolidar-su-liderazgo-regional-pero-sus-socios-no-quieren-complicar-el-vinculo-con-nid01082026/",
+      "publishedAt": "Sat, 01 Aug 2026 20:42:11 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -759,8 +776,8 @@
       "publishedAt": "Sat, 01 Aug 2026 15:59:37 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-lula-lanza",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -776,8 +793,8 @@
       "publishedAt": "Sat, 01 Aug 2026 13:59:58 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cada-pais",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -793,8 +810,8 @@
       "publishedAt": "Sat, 01 Aug 2026 13:37:29 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-camion-bomba",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -810,8 +827,8 @@
       "publishedAt": "Sat, 01 Aug 2026 06:24:59 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -827,25 +844,8 @@
       "publishedAt": "Sat, 01 Aug 2026 02:25:19 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-participo",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9277341208395711",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Quintela quiso reunir a Kicillof y Máximo en La Rioja pero no pudo lograr la imagen de acercamiento",
-      "summary": "Armó un encuentro para bajar la tensión en el homenaje al cura Angelelli, pero el mandatario bonaerense no viajó",
-      "url": "https://www.lanacion.com.ar/politica/kicillof-evito-la-foto-con-maximo-en-la-rioja-y-frustro-la-mediacion-del-gobernador-quintela-nid31072026/",
-      "publishedAt": "Fri, 31 Jul 2026 21:02:14 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-quintela",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -861,8 +861,8 @@
       "publishedAt": "Fri, 31 Jul 2026 19:46:30 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sube-presion",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -878,8 +878,8 @@
       "publishedAt": "Fri, 31 Jul 2026 12:24:41 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-regimen-dara",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -895,8 +895,8 @@
       "publishedAt": "Thu, 30 Jul 2026 14:41:42 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-abogados-arquitectos",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -912,8 +912,42 @@
       "publishedAt": "Wed, 29 Jul 2026 16:03:06 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-casi-todo",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7bcca78f80895346",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "El sobreseimiento de Jadue: la prescripción no es una absolución",
+      "summary": "La entrada El sobreseimiento de Jadue: la prescripción no es una absolución se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/01/el-sobreseimiento-de-jadue-la-prescripcion-no-es-una-absolucion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-sobreseimiento-de-jadue-la-prescripcion-no-es-una-absolucion",
+      "publishedAt": "Sun, 02 Aug 2026 00:29:23 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-sobreseimiento-jadue",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d6db3e29853b2e47",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Contra el chocorramo",
+      "summary": "Santiago Molano, heredero de la empresa de alimentos Ramo, violento y abusador, según denuncia su expareja, dirige una estrategia de acoso judicial contra ella. The post Contra el chocorramo appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/contra-el-chocorramo/",
+      "publishedAt": "Sun, 02 Aug 2026 00:02:17 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-chocorramo",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -929,8 +963,8 @@
       "publishedAt": "Sat, 01 Aug 2026 18:15:46 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-frontera-marruecos",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -946,25 +980,8 @@
       "publishedAt": "Sat, 01 Aug 2026 16:53:30 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-atentado-bomba",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8c769bef9445b736",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Anatomía de un montaje",
-      "summary": "RTVC coronó así cuatro años de propaganda y mentiras, con la actuación estelar del periodismo alternativo oficial de Revista Raya. The post Anatomía de un montaje appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/anatomia-de-un-montaje/",
-      "publishedAt": "Sat, 01 Aug 2026 14:34:16 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-anatomia-montaje",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -980,25 +997,8 @@
       "publishedAt": "Sat, 01 Aug 2026 14:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-hamas-habra",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
-      "seenCount": 1
-    },
-    {
-      "id": "477861f8fecf5fb2",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El ocaso de los dioses",
-      "summary": "Estamos descubriendo, además del expolio sistemático e ilimitado de la cosa pública, la degradación de la institución presidencial. The post El ocaso de los dioses appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/el-ocaso-de-los-dioses/",
-      "publishedAt": "Sat, 01 Aug 2026 14:07:16 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ocaso-dioses",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +1014,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:21:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-transparencia-negocios",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1031,8 +1031,8 @@
       "publishedAt": "Sat, 01 Aug 2026 00:18:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-transparencia",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1048,8 +1048,8 @@
       "publishedAt": "Fri, 31 Jul 2026 19:56:05 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-salud-mental",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1065,8 +1065,8 @@
       "publishedAt": "Fri, 31 Jul 2026 14:33:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-rusia-incluye",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1082,8 +1082,8 @@
       "publishedAt": "Fri, 31 Jul 2026 00:40:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-reactiva-relaciones",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1099,8 +1099,8 @@
       "publishedAt": "Thu, 30 Jul 2026 08:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-interes-controversia",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1116,8 +1116,8 @@
       "publishedAt": "Wed, 29 Jul 2026 14:56:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tecnologia-reemplazara",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     },
     {
@@ -1133,8 +1133,8 @@
       "publishedAt": "Wed, 29 Jul 2026 00:02:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sergio-jadue",
-      "firstSeenAt": "2026-08-01T19:15:46.813Z",
-      "lastSeenAt": "2026-08-01T19:15:46.813Z",
+      "firstSeenAt": "2026-08-02T03:25:13.179Z",
+      "lastSeenAt": "2026-08-02T03:25:13.179Z",
       "seenCount": 1
     }
   ]
