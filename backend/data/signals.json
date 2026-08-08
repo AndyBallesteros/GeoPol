@@ -1,32 +1,21 @@
 {
-  "generatedAt": "2026-08-08T07:00:36.121Z",
-  "count": 65,
-  "failures": [],
+  "generatedAt": "2026-08-08T12:57:22.628Z",
+  "count": 55,
+  "failures": [
+    {
+      "source": "confidencial-nicaragua",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-08-08T07:00:36.121Z",
-    "activeSignals": 65,
-    "archiveSignals": 123,
+    "generatedAt": "2026-08-08T12:57:22.628Z",
+    "activeSignals": 55,
+    "archiveSignals": 113,
     "countriesCovered": 8,
-    "highPrioritySignals": 30,
-    "averagePoliticalScore": 6.91
+    "highPrioritySignals": 26,
+    "averagePoliticalScore": 6.98
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Reed Brody: Cancelación de elecciones dejará “sin justicia” a víctimas de la represión",
-      "leadUrl": "https://confidencial.digital/analisis/reed-brody-cancelacion-de-elecciones-dejara-sin-justicia-a-victimas-de-la-represion/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones",
-        "Economia politica"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -134,6 +123,21 @@
       ],
       "signalCount": 4,
       "summary": "Foco en Instituciones, Diplomacia, Sociedad. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Gabinete israelí rechaza tregua de 14 días en Gaza pese a la presión de Estados Unidos",
+      "leadUrl": "https://elcomercio.pe/mundo/oriente-medio/gaza-gabinete-de-israel-rechaza-tregua-de-14-dias-en-franja-de-gaza-pese-a-la-presion-de-estados-unidos-hamas-benjamin-netanyahu-ultimas-noticia/",
+      "focusTopics": [
+        "Gobernabilidad",
+        "Elecciones"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 3,
+      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Comercio y El Comercio."
     }
   ],
   "signals": [
@@ -150,8 +154,8 @@
       "publishedAt": "Fri, 07 Aug 2026 01:05:03 +0000",
       "politicalScore": 18,
       "eventKey": "chile-economia-politica-chile-economia-politica-joaquin",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -167,8 +171,8 @@
       "publishedAt": "Fri, 07 Aug 2026 21:05:02 +0000",
       "politicalScore": 15,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-votaron",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -184,25 +188,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:55 -0300",
       "politicalScore": 14,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-extranjerizacion-tierra",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7b8192d53b434934",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Reed Brody: Cancelación de elecciones dejará “sin justicia” a víctimas de la represión",
-      "summary": "El abogado internacional Reed Brody, integrante del Grupo de Expertos en Derechos Humanos sobre Nicaragua (GHREN), advirtió que las víctimas de la represión orteguista se quedarán sin “justicia”, como resultado de la reforma constitucional ordenada por Daniel ",
-      "url": "https://confidencial.digital/analisis/reed-brody-cancelacion-de-elecciones-dejara-sin-justicia-a-victimas-de-la-represion/",
-      "publishedAt": "Thu, 06 Aug 2026 23:13:24 +0000",
-      "politicalScore": 13,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-reed-brody",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -218,8 +205,8 @@
       "publishedAt": "Wed, 05 Aug 2026 00:36:59 +0000",
       "politicalScore": 13,
       "eventKey": "chile-instituciones-chile-instituciones-megarreforma-senado",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -235,8 +222,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:51 -0300",
       "politicalScore": 12,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-plenario-tratara",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -252,8 +239,8 @@
       "publishedAt": "Sat, 08 Aug 2026 02:01:38 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-media-sancion",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -269,8 +256,8 @@
       "publishedAt": "Fri, 07 Aug 2026 13:43:19 +0200",
       "politicalScore": 11,
       "eventKey": "espana-diplomacia-espana-diplomacia-gobierno-anuncia",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -286,8 +273,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:53 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-llegada-tesla",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -303,8 +290,8 @@
       "publishedAt": "Fri, 07 Aug 2026 21:56:57 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -320,42 +307,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:03:01 +0000",
       "politicalScore": 10,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-oposicion",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4f68a20bb7ecbaaa",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Estados Unidos buscará a deportados para cobrarles multas pendientes",
-      "summary": "El Gobierno del presidente Donald Trump busca contratar a una empresa privada para que busque y localice en México, Guatemala y Honduras a personas que fueron deportadas o salieron voluntariamente de Estados Unidos y que aún tienen multas migratorias pendiente",
-      "url": "https://confidencial.digital/migrantes/estados-unidos-buscara-a-deportados-para-cobrarles-multas-pendientes/",
-      "publishedAt": "Fri, 07 Aug 2026 19:27:40 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2b3585dc27055bc9",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Nicaragua: la dolorosa lección de jugar con la palabra ‘dictadura’",
-      "summary": "Nicaragua es la prueba más dolorosa de por qué ningún gobernante democrático debe jugar con la palabra “dictadura”, prometer “tomar” el Poder Judicial, situarse por encima de magistrados, jueces, fiscales o diputados, ni vilipendiar a los periodistas que revel",
-      "url": "https://confidencial.digital/opinion/nicaragua-la-dolorosa-leccion-de-jugar-con-la-palabra-dictadura/",
-      "publishedAt": "Fri, 07 Aug 2026 06:10:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-dolorosa",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -371,8 +324,8 @@
       "publishedAt": "Thu, 06 Aug 2026 02:15:41 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-kast-anuncia",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -388,8 +341,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:58 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-miedo-contagio",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -405,8 +358,8 @@
       "publishedAt": "Sat, 08 Aug 2026 03:30:01 GMT",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-meloni-sanchez",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -422,8 +375,8 @@
       "publishedAt": "Sat, 08 Aug 2026 02:00:33 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-seguridad-colombia-seguridad-abelardo-comenzo",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -439,8 +392,42 @@
       "publishedAt": "Fri, 07 Aug 2026 18:17:48 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-instituciones-argentina-instituciones-caso-pablo",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
+      "seenCount": 1
+    },
+    {
+      "id": "781339c710133534",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Gabinete israelí rechaza tregua de 14 días en Gaza pese a la presión de Estados Unidos",
+      "summary": "La cadena pública televisión en Israel, Kan, informó la noche del viernes de la oposición de los ministros del Gobierno de Benjamín Netanyahu a implementar un alto el fuego de dos semanas en la Franja de Gaza pese a la presión de Estados Unidos de detener los ",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/gaza-gabinete-de-israel-rechaza-tregua-de-14-dias-en-franja-de-gaza-pese-a-la-presion-de-estados-unidos-hamas-benjamin-netanyahu-ultimas-noticia/",
+      "publishedAt": "Sat, 08 Aug 2026 12:38:22 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-gabinete-israeli",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bd06ec6b4c66ab87",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Diputados: Piden que Comisión de Ética evalúe el lunes denuncia contra Pérez Mallqui",
+      "summary": "Ultima actualizacion de El Comercio.",
+      "url": "https://elcomercio.pe/politica/caso-julian-perez-diputados-bancadas-piden-que-comision-de-etica-evalue-el-lunes-denuncia-contra-diputado-denunciad-por-agresion-noticia/",
+      "publishedAt": "Sat, 08 Aug 2026 12:00:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-diputados-piden",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -456,8 +443,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:56 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-pocos-dias",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -473,25 +460,8 @@
       "publishedAt": "Fri, 07 Aug 2026 23:41:35 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-abelardo",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "47fd1c442ea45033",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "“Que estemos a la altura de la responsabilidad”: presidente del Senado",
-      "summary": "Instó al presidente a buscar consensos. Llamó a consolidar una \"economía fraterna\" y a resolver los problemas del país. The post “Que estemos a la altura de la responsabilidad”: presidente del Senado appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/que-estemos-a-la-altura-de-la-responsabilidad-presidente-del-senado/",
-      "publishedAt": "Fri, 07 Aug 2026 22:38:02 +0000",
-      "politicalScore": 8,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-estemos",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -507,8 +477,8 @@
       "publishedAt": "Fri, 07 Aug 2026 19:26:19 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -524,8 +494,8 @@
       "publishedAt": "Fri, 07 Aug 2026 18:14:09 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-instituciones-cuba-instituciones-centenar-masones",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -541,8 +511,8 @@
       "publishedAt": "Sat, 08 Aug 2026 04:49:32 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-claves-primer",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -558,8 +528,8 @@
       "publishedAt": "Sat, 08 Aug 2026 00:04:10 -0300",
       "politicalScore": 7,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-ayuda-control",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -575,25 +545,8 @@
       "publishedAt": "Fri, 07 Aug 2026 23:44:36 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-subdirector",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b0a145ea732fb245",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Abelardo toma juramento como presidente de Colombia",
-      "summary": "Subió a la tarima a Luis Yagué, el panelero que fue insultado en Caqueta por votar por él. Al final, gritó su slogan de campaña. The post Abelardo toma juramento como presidente de Colombia appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/abelardo-toma-juramento-como-presidente-de-colombia/",
-      "publishedAt": "Fri, 07 Aug 2026 21:41:11 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-elecciones-colombia-elecciones-abelardo-toma",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -609,25 +562,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:46:16 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sindicatos",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "69459cf399b82f0c",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Corte de Copiapó rechaza recurso y confirma sumario que destituyó a un fiscal por conductas consideradas como acoso sexual",
-      "summary": "La entrada Corte de Copiapó rechaza recurso y confirma sumario que destituyó a un fiscal por conductas consideradas como acoso sexual se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/08/04/corte-de-copiapo-rechaza-recurso-y-confirma-sumario-que-destituyo-a-un-fiscal-por-conductas-consideradas-como-acoso-sexual/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=corte-de-copiapo-rechaza-recurso-y-confirma-sumario-que-destituyo-a-un-fiscal-por-conductas-consideradas-como-acoso-sexual",
-      "publishedAt": "Tue, 04 Aug 2026 22:19:06 +0000",
-      "politicalScore": 7,
-      "eventKey": "chile-economia-politica-chile-economia-politica-corte",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -643,8 +579,8 @@
       "publishedAt": "Fri, 07 Aug 2026 12:56:32 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-dice",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -660,8 +596,8 @@
       "publishedAt": "Fri, 07 Aug 2026 22:04:12 +0000",
       "politicalScore": 6,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-jueza-afiuni",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -677,8 +613,8 @@
       "publishedAt": "Fri, 07 Aug 2026 21:16:01 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-juez",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -694,8 +630,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:16:42 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-corte-revoco",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -711,8 +647,8 @@
       "publishedAt": "Fri, 07 Aug 2026 19:01:34 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-caso",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -728,25 +664,8 @@
       "publishedAt": "Fri, 07 Aug 2026 09:08:18 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-nuevas-sanciones",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1ebc1387f9bbda9e",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Costa Rica investiga a 116 policías por presunto nexo narco",
-      "summary": "El gobierno de&#160;Costa Rica&#160;anunció el miércoles 5 de agosto de 2026 una investigación contra más de un centenar de policías, tras la filtración de un informe de inteligencia que los vincula con narcotraficantes. Un documento interno de la Dirección de",
-      "url": "https://confidencial.digital/mundo/costa-rica-investiga-a-116-policias-por-presunto-nexo-narco/",
-      "publishedAt": "Thu, 06 Aug 2026 14:03:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -762,25 +681,25 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-diplomacia-espana-diplomacia-pedro-sanchez",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
-      "id": "70db3220a56c361c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "37d953bcf8feba97",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
       "priority": "Media",
-      "title": "“La democracia”: apuntes para la refundación de Nicaragua",
-      "summary": "El pensamiento es en su mayoría inconsciente. Los conceptos abstractos son, en gran medida, metafóricos (enraizados en nuestras experiencias).George Lakoff y Mark Johnson Nicaragua necesita retomar los principios básicos del proyecto de Estado que no hemos log",
-      "url": "https://confidencial.digital/opinion/la-democracia-apuntes-para-la-refundacion-de-nicaragua/",
-      "publishedAt": "Sat, 08 Aug 2026 06:20:00 +0000",
+      "title": "Colombia se suma al giro regional a la derecha: cuánto cambia la política exterior con la llegada de De la Espriella",
+      "summary": "El flamante presidente colombiano ha priorizado otros frentes discursivos durante la campaña que lo llevó al poder, pero no ha ocultado sus preferencias en política exterior. Analistas consultados por El Comercio coinciden en que el cambio en relación a su ant",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/colombia-se-suma-al-giro-regional-a-la-derecha-cuanto-cambia-la-politica-exterior-con-la-llegada-de-de-la-espriella-noticia/",
+      "publishedAt": "Sat, 08 Aug 2026 11:31:39 +0000",
       "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-apuntes",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "eventKey": "peru-elecciones-peru-elecciones-colombia-suma",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -796,8 +715,8 @@
       "publishedAt": "Sat, 08 Aug 2026 03:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-siga-movidas",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -813,8 +732,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:51:47 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-vuelve-prioridad",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -830,8 +749,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:44:28 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-podcast-vuelve",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -847,8 +766,8 @@
       "publishedAt": "Fri, 07 Aug 2026 22:56:26 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-dios-posesion",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -864,8 +783,8 @@
       "publishedAt": "Fri, 07 Aug 2026 22:41:31 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-poder-costeno",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -881,8 +800,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:18:13 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sntp-entrega",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -898,8 +817,8 @@
       "publishedAt": "Fri, 07 Aug 2026 16:59:33 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-ejercito-pide",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -915,8 +834,8 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-notas-ceuta",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -932,25 +851,25 @@
       "publishedAt": "Wed, 05 Aug 2026 17:16:50 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-tribunal-confisca",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
-      "id": "3096d21d17e12ca5",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "fd5c3cf6b562e1bd",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Del río al mar: algunos datos",
-      "summary": "La polémica en nexos sobre la situación en Medio Oriente, y Gaza en particular, ha desatado pasiones, denuncias, exigencias y argumentos (los menos) en las malditas redes sociales. Otros, más doctos que yo, seguro ofrecerán análisis y datos duros sobre el conf",
-      "url": "https://confidencial.digital/opinion/del-rio-al-mar-algunos-datos/",
-      "publishedAt": "Sat, 08 Aug 2026 06:10:00 +0000",
+      "title": "Abelardo posesionó a los 18 ministros de su gabinete",
+      "summary": "De la Espriella posesionó a los 18 integrantes de su gabinete ministerial en una ceremonia a puerta cerrada en el Batallón Pichincha en Cali. The post Abelardo posesionó a los 18 ministros de su gabinete appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/abelardo-posesiono-a-los-18-ministros-de-su-gabinete/",
+      "publishedAt": "Sat, 08 Aug 2026 12:55:30 +0000",
       "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-algunos-datos",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-posesiono",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -966,8 +885,8 @@
       "publishedAt": "Sat, 08 Aug 2026 04:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-misterioso",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -983,8 +902,8 @@
       "publishedAt": "Fri, 07 Aug 2026 22:23:21 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-abelardo-espriella",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1000,8 +919,8 @@
       "publishedAt": "Fri, 07 Aug 2026 21:24:53 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-monumental",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1017,42 +936,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:34:58 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-petro-despide",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a1e9bd5f0e671bcc",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Keny Navarrete, sospechoso de orquestar el asesinato de Samcam, anda libre en Nicaragua",
-      "summary": "El nicaragüense Keny Hosman Navarrete Vallecillo, señalado como el presunto orquestador del asesinato del mayor en retiro Roberto Samcam Ruiz en Costa Rica, anda libre en Nicaragua, confirmaron a CONFIDENCIAL diversas fuentes cercanas al caso. Navarrete Vallec",
-      "url": "https://confidencial.digital/noticias/keny-navarrete-asesinato-roberto-samcam-nicaragua/",
-      "publishedAt": "Fri, 07 Aug 2026 17:03:52 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-keny-navarrete",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "662df0350305cd25",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "¿Por qué el Banco Central de Rusia está vendiendo su oro?",
-      "summary": "Rusia ha vendido cantidades significativas de sus reservas de oro en lo que va de 2026, ya que el Kremlin busca obtener liquidez para compensar un importante déficit presupuestario. El Banco Central de Rusia anunció recientemente que sus reservas de oro ascend",
-      "url": "https://confidencial.digital/mundo/por-que-el-banco-central-de-rusia-esta-vendiendo-su-oro/",
-      "publishedAt": "Fri, 07 Aug 2026 15:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-banco",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1068,8 +953,8 @@
       "publishedAt": "Thu, 06 Aug 2026 21:14:04 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-masones-convocan",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1085,76 +970,42 @@
       "publishedAt": "Thu, 06 Aug 2026 17:21:28 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-cuevita",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
-      "id": "d7296b1c905a1c63",
-      "country": "Nicaragua",
-      "source": "Confidencial",
+      "id": "a7ed8fcc191413ac",
+      "country": "Chile",
+      "source": "CIPER",
       "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "OEA evita el fracaso al no votar resolución sobre Nicaragua",
-      "summary": "El Consejo Permanente de la Organización de los Estados Americanos (OEA) procuró “salvar el momento” durante una reunión extraordinaria celebrada el 5 de agosto de 2026, al no someter a votación un proyecto de resolución presentado por Estados Unidos. La inici",
-      "url": "https://confidencial.digital/analisis/oea-evita-el-fracaso-al-no-votar-resolucion-sobre-nicaragua/",
-      "publishedAt": "Thu, 06 Aug 2026 13:26:07 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-evita-fracaso",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "490e41a79f251700",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Los días de la fiebre en Cuba",
-      "summary": "Día uno. Me levanto y tengo una molestia en el hombro derecho. “Habré dormido en una posición incorrecta”, me digo. A las diez de la mañana ya el malestar se ha extendido al otro hombro y a la parte superior de la espalda. Sigo apostando a que solo son algunas",
-      "url": "https://confidencial.digital/opinion/los-dias-de-la-fiebre-en-cuba/",
-      "publishedAt": "Thu, 06 Aug 2026 06:21:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dias-fiebre",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "808df688fc20416a",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "El regreso del Fujimorismo y los desafíos de Keiko",
-      "summary": "La llegada de Keiko Fujimori al poder —el pasado martes 28 de julio— no constituye una simple alternancia democrática. Primera mujer elegida presidenta del Perú, su triunfo cierra el largo ciclo político abierto con la caída del régimen de Alberto Fujimori en ",
-      "url": "https://confidencial.digital/opinion/el-regreso-del-fujimorismo-y-los-desafios-de-keiko/",
-      "publishedAt": "Thu, 06 Aug 2026 06:12:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-regreso-fujimorismo",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "20c29be20ea06d38",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Achiote: una ancestral semillita roja vive un auge exportador",
-      "summary": "Presente en la gastronomía, la cosmética y las culturas ancestrales, el achiote gana, sin aspavimientos, mercado internacional. Conocido como axiotl, urucú, bija, anoto: se sabe de su existencia, no se conoce su fruto. “Es importante entender que el achiote co",
-      "url": "https://confidencial.digital/revista-niu/achiote-una-ancestral-semillita-roja-vive-un-auge-exportador/",
-      "publishedAt": "Fri, 07 Aug 2026 16:00:00 +0000",
+      "title": "Una pesca mejor registrada es una pesca mejor administrada",
+      "summary": "La entrada Una pesca mejor registrada es una pesca mejor administrada se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/08/una-pesca-mejor-registrada-es-una-pesca-mejor-administrada/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=una-pesca-mejor-registrada-es-una-pesca-mejor-administrada",
+      "publishedAt": "Sat, 08 Aug 2026 12:24:38 +0000",
       "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-achiote-ancestral",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "eventKey": "chile-probidad-chile-probidad-pesca-mejor",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
+      "seenCount": 1
+    },
+    {
+      "id": "269a95a3fc67b5d7",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
+      "summary": "El gabinete de Abelardo reubica el epicentro del poder político a Barranquilla, pero gobierna sin el Pacífico, el Valle, la Amazonía ni la Orinoquía. The post La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca? appeared first on La Sill",
+      "url": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
+      "publishedAt": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-hora-caribe",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1170,8 +1021,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-contribuciones-problema",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1187,8 +1038,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-garantia-existe",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1204,25 +1055,8 @@
       "publishedAt": "Fri, 07 Aug 2026 02:48:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-caso-fundamenta",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4b6ca150fbde05f1",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "China detalla con asombrosa precisión el mapa geológico de la Luna",
-      "summary": "China actualizó su mapa geológico global de la Luna con nuevos datos obtenidos por la misión Chang&#8217;e-6, las primeras muestras recogidas en la cara oculta del satélite, una revisión que incorpora una cronología geológica refinada y nuevos hallazgos sobre ",
-      "url": "https://confidencial.digital/revista-niu/china-detalla-con-asombrosa-precision-el-mapa-geologico-de-la-luna/",
-      "publishedAt": "Thu, 06 Aug 2026 16:15:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-china-detalla",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     },
     {
@@ -1238,8 +1072,8 @@
       "publishedAt": "Wed, 05 Aug 2026 14:00:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-08T07:00:36.121Z",
-      "lastSeenAt": "2026-08-08T07:00:36.121Z",
+      "firstSeenAt": "2026-08-08T12:57:22.628Z",
+      "lastSeenAt": "2026-08-08T12:57:22.628Z",
       "seenCount": 1
     }
   ]
