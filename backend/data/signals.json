@@ -1,32 +1,21 @@
 {
-  "generatedAt": "2026-08-08T18:43:57.195Z",
-  "count": 69,
-  "failures": [],
+  "generatedAt": "2026-08-09T02:04:02.341Z",
+  "count": 49,
+  "failures": [
+    {
+      "source": "confidencial-nicaragua",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-08-08T18:43:57.195Z",
-    "activeSignals": 69,
-    "archiveSignals": 127,
-    "countriesCovered": 9,
-    "highPrioritySignals": 30,
-    "averagePoliticalScore": 6.78
+    "generatedAt": "2026-08-09T02:04:02.341Z",
+    "activeSignals": 49,
+    "archiveSignals": 107,
+    "countriesCovered": 7,
+    "highPrioritySignals": 20,
+    "averagePoliticalScore": 6.65
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Reed Brody: Cancelación de elecciones dejará “sin justicia” a víctimas de la represión",
-      "leadUrl": "https://confidencial.digital/analisis/reed-brody-cancelacion-de-elecciones-dejara-sin-justicia-a-victimas-de-la-represion/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones",
-        "Economia politica"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -46,18 +35,17 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Uno por uno: cómo votaron los senadores la ley de Propiedad Privada",
-      "leadUrl": "https://www.lanacion.com.ar/politica/uno-por-uno-como-votaron-los-senadores-la-ley-de-propiedad-privada-nid07082026/",
+      "leadTitle": "El embajador argentino se va de Brasil y el pronóstico es que la relación seguirá en crisis, al menos hasta las elecciones de octubre",
+      "leadUrl": "https://www.lanacion.com.ar/politica/el-embajador-argentino-se-va-de-brasil-y-el-pronostico-es-que-la-relacion-seguira-en-crisis-al-menos-nid08082026/",
       "focusTopics": [
-        "Economia politica",
         "Elecciones",
         "Diplomacia"
       ],
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 12,
-      "summary": "Foco en Economia politica, Elecciones, Diplomacia. Vigilar La Nacion y La Nacion."
+      "signalCount": 10,
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Colombia",
@@ -65,33 +53,20 @@
       "leadTitle": "El primer Consejo de Seguridad definió la estrategia regional",
       "leadUrl": "https://www.lasillavacia.com/en-vivo/el-primer-consejo-de-seguridad-definio-la-estrategia-regional/",
       "focusTopics": [
-        "Seguridad"
+        "Seguridad",
+        "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 9,
-      "summary": "Foco en Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Uruguay",
-      "priority": "Alta",
-      "leadTitle": "Extranjerización de la tierra: ARU señala que proyecto impacta en “compraventa” y Da Silva suma la caída de “inversiones grandes”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/extranjerizacion-de-la-tierra-aru-senala-que-proyecto-impacta-en-compraventa-y-da-silva-suma-la-caida-de-inversiones-grandes/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Diaria"
-      ],
-      "signalCount": 6,
-      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+      "signalCount": 8,
+      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "Gobierno y oposición continúan diálogo a puerta cerrada en el Hotel Meliá",
-      "leadUrl": "https://efectococuyo.com/politica/gobierno-y-oposicion-continuan-dialogo-a-puerta-cerrada-en-el-hotel-melia/",
+      "leadTitle": "Delcy Rodríguez designa nuevas cabezas del área eléctrica para plan de ahorro",
+      "leadUrl": "https://efectococuyo.com/politica/delcy-rodriguez-designa-nuevas-cabezas-del-area-electrica-para-plan-de-ahorro/",
       "focusTopics": [
         "Diplomacia",
         "Instituciones"
@@ -101,23 +76,6 @@
       ],
       "signalCount": 6,
       "summary": "Foco en Diplomacia, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta",
-      "leadUrl": "https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html",
-      "focusTopics": [
-        "Diplomacia",
-        "Elecciones",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Mundo",
-        "El Pais"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Diplomacia, Elecciones, Gobernabilidad. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Cuba",
@@ -136,18 +94,35 @@
       "summary": "Foco en Instituciones, Diplomacia, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
-      "country": "Peru",
+      "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Rafael, amor al chancho, una crónica de Fernando Vivas sobre López Aliaga y las elecciones para la Alcaldía de Lima",
-      "leadUrl": "https://elcomercio.pe/politica/rafael-amor-al-chancho-una-cronica-de-fernando-vivas-sobre-lopez-aliaga-y-las-elecciones-para-la-alcaldia-de-lima-noticia/",
+      "leadTitle": "El Frente Amplio prevé un trabajo de “mínimo un año” para lograr una “mayor comunión entre los votantes y la acción de gobierno”",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/el-frente-amplio-preve-un-trabajo-de-minimo-un-ano-para-lograr-una-mayor-comunion-entre-los-votantes-y-la-accion-de-gobierno/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
-        "El Comercio"
+        "La Diaria"
       ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
+      "signalCount": 4,
+      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "Meloni contra Sánchez: la crisis de Ceuta ahonda la brecha entre Roma y Madrid",
+      "leadUrl": "https://elpais.com/espana/2026-08-08/meloni-contra-sanchez-la-crisis-de-ceuta-ahonda-la-brecha-entre-roma-y-madrid.html",
+      "focusTopics": [
+        "Elecciones",
+        "Gobernabilidad",
+        "Diplomacia"
+      ],
+      "topSources": [
+        "El Pais",
+        "El Mundo"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Elecciones, Gobernabilidad, Diplomacia. Vigilar El Pais y El Mundo."
     }
   ],
   "signals": [
@@ -164,25 +139,25 @@
       "publishedAt": "Fri, 07 Aug 2026 01:05:03 +0000",
       "politicalScore": 18,
       "eventKey": "chile-economia-politica-chile-economia-politica-joaquin",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
-      "id": "9081d173d26b0c75",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "id": "86b84073b424be69",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Uno por uno: cómo votaron los senadores la ley de Propiedad Privada",
-      "summary": "Los 37 legisladores que apoyaron la propuesta del oficialismo, los 33 que se pronunciaron en contra y los dos que se ausentaron",
-      "url": "https://www.lanacion.com.ar/politica/uno-por-uno-como-votaron-los-senadores-la-ley-de-propiedad-privada-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 21:05:02 +0000",
-      "politicalScore": 15,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-votaron",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "title": "El Frente Amplio prevé un trabajo de “mínimo un año” para lograr una “mayor comunión entre los votantes y la acción de gobierno”",
+      "summary": "“La gente no nos votó ni para tirar las estanterías ni para dejar las cosas como estaban: nos votó para cambiar”, afirmó el presidente de la fuerza política Fernando Pereira, luego del Plenario previo al Congreso de octubre. El Frente Amplio (FA) reunió este s",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/el-frente-amplio-preve-un-trabajo-de-minimo-un-ano-para-lograr-una-mayor-comunion-entre-los-votantes-y-la-accion-de-gobierno/",
+      "publishedAt": "Sat, 08 Aug 2026 21:35:30 -0300",
+      "politicalScore": 17,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-frente-amplio",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -198,25 +173,25 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:55 -0300",
       "politicalScore": 14,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-extranjerizacion-tierra",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
-      "id": "7b8192d53b434934",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
+      "id": "171aa2d39c3211ad",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Reed Brody: Cancelación de elecciones dejará “sin justicia” a víctimas de la represión",
-      "summary": "El abogado internacional Reed Brody, integrante del Grupo de Expertos en Derechos Humanos sobre Nicaragua (GHREN), advirtió que las víctimas de la represión orteguista se quedarán sin “justicia”, como resultado de la reforma constitucional ordenada por Daniel ",
-      "url": "https://confidencial.digital/analisis/reed-brody-cancelacion-de-elecciones-dejara-sin-justicia-a-victimas-de-la-represion/",
-      "publishedAt": "Thu, 06 Aug 2026 23:13:24 +0000",
+      "title": "El embajador argentino se va de Brasil y el pronóstico es que la relación seguirá en crisis, al menos hasta las elecciones de octubre",
+      "summary": "Los funcionarios y analistas consultados descartan una recomposición del vínculo antes de la definición del próximo presidente de ese país",
+      "url": "https://www.lanacion.com.ar/politica/el-embajador-argentino-se-va-de-brasil-y-el-pronostico-es-que-la-relacion-seguira-en-crisis-al-menos-nid08082026/",
+      "publishedAt": "Sat, 08 Aug 2026 22:30:55 +0000",
       "politicalScore": 13,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-reed-brody",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "eventKey": "argentina-elecciones-argentina-elecciones-embajador-argentino",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -232,8 +207,8 @@
       "publishedAt": "Wed, 05 Aug 2026 00:36:59 +0000",
       "politicalScore": 13,
       "eventKey": "chile-instituciones-chile-instituciones-megarreforma-senado",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -246,28 +221,11 @@
       "title": "“Macri me alentó a que lo hiciera”: Hernán Lacunza dijo que consensuó su candidatura presidencial con colegas del Pro",
       "summary": "El exministro de Economía ratificó sus intenciones de cara a las elecciones del año que viene y planteó críticas a la gestión de Javier Milei",
       "url": "https://www.lanacion.com.ar/politica/macri-me-alento-a-que-lo-hiciera-hernan-lacunza-dijo-que-consensuo-su-candidatura-presidencial-con-nid08082026/",
-      "publishedAt": "Sat, 08 Aug 2026 16:59:55 +0000",
+      "publishedAt": "Sat, 08 Aug 2026 18:43:12 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-elecciones-argentina-elecciones-macri-alento",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "bd995125fd15ed7a",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Plenario del FA tratará documento que reconoce “carencia anímica” de la militancia y “falta de coordinación” en el gobierno",
-      "summary": "El Frente Amplio (FA) desarrolla este sábado un nuevo Plenario Nacional, en el que se tratará y aprobará el “documento base” del Congreso Ordinario a desarrollarse en octubre, que se denominará “José Pepe Mujica”. Este insumo es el resultado del trabajo en [cu",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/plenario-del-fa-tratara-documento-que-reconoce-carencia-animica-de-la-militancia-y-falta-de-coordinacion-en-el-gobierno/",
-      "publishedAt": "Sat, 08 Aug 2026 01:04:51 -0300",
-      "politicalScore": 12,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-plenario-tratara",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -283,42 +241,8 @@
       "publishedAt": "Sat, 08 Aug 2026 02:01:38 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-media-sancion",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9701ad69f875dfdf",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "El Gobierno anuncia que cuatro ministros comparecerán en el Congreso casi un mes después del asalto a la frontera de Ceuta",
-      "summary": "El PP hace valer su mayoría para citar antes en el Senado a Marlaska, Robles y Albares, que no asistirán&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/08/07/6a7580ade85ece35688b457e.html",
-      "publishedAt": "Fri, 07 Aug 2026 13:43:19 +0200",
-      "politicalScore": 11,
-      "eventKey": "espana-diplomacia-espana-diplomacia-gobierno-anuncia",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c4995729dffc24c4",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Rafael, amor al chancho, una crónica de Fernando Vivas sobre López Aliaga y las elecciones para la Alcaldía de Lima",
-      "summary": "Rafael, amor al chancho, una crónica de Fernando Vivas sobre López Aliaga y las elecciones para la Alcaldía de Lima | Rafael López Aliaga cumplió el guion de las sospechas comunes. Su candidato a Lima, Luis Rubio, renunció, dándole la alternativa de sacar la v",
-      "url": "https://elcomercio.pe/politica/rafael-amor-al-chancho-una-cronica-de-fernando-vivas-sobre-lopez-aliaga-y-las-elecciones-para-la-alcaldia-de-lima-noticia/",
-      "publishedAt": "Sat, 08 Aug 2026 18:11:34 +0000",
-      "politicalScore": 10,
-      "eventKey": "peru-elecciones-peru-elecciones-rafael-amor",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -334,93 +258,8 @@
       "publishedAt": "Sat, 08 Aug 2026 17:06:55 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-visita",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0466115e85ad876b",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Tras la llegada de Tesla, avanza el debate por la regulación de la conducción autónoma con la normativa de la ONU como referencia",
-      "summary": "El Congreso de Intendentes considerará la normativa internacional durante el próximo plenario y el Banco de Seguros del Estado prevé una reunión con la empresa de Elon Musk. El 16 de julio, el multimillonario estadounidense Elon Musk anunció la llegada de Tesl",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/tras-la-llegada-de-tesla-avanza-el-debate-por-la-regulacion-de-la-conduccion-autonoma-con-la-normativa-de-la-onu-como-referencia/",
-      "publishedAt": "Sat, 08 Aug 2026 01:04:53 -0300",
-      "politicalScore": 10,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-llegada-tesla",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "717404d14db1c8f1",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El gobierno nacional presentó una denuncia por “atentado al orden constitucional y a la vida democrática”",
-      "summary": "Solicitó que se investigue y se identifique a los responsables de “los hechos de inusitada gravedad” en las inmediaciones del Congreso Nacional; liberaron a 10 de los 18 detenidos",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-nacional-presento-una-denuncia-por-atentado-al-orden-constitucional-y-a-la-vida-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 21:56:57 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "50b31bd8f92c3dea",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Gobierno y oposición continúan diálogo a puerta cerrada en el Hotel Meliá",
-      "summary": "Será la primera sesión de trabajo tras la instalación de este jueves",
-      "url": "https://efectococuyo.com/politica/gobierno-y-oposicion-continuan-dialogo-a-puerta-cerrada-en-el-hotel-melia/",
-      "publishedAt": "Fri, 07 Aug 2026 20:03:01 +0000",
-      "politicalScore": 10,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-oposicion",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4f68a20bb7ecbaaa",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Estados Unidos buscará a deportados para cobrarles multas pendientes",
-      "summary": "El Gobierno del presidente Donald Trump busca contratar a una empresa privada para que busque y localice en México, Guatemala y Honduras a personas que fueron deportadas o salieron voluntariamente de Estados Unidos y que aún tienen multas migratorias pendiente",
-      "url": "https://confidencial.digital/migrantes/estados-unidos-buscara-a-deportados-para-cobrarles-multas-pendientes/",
-      "publishedAt": "Fri, 07 Aug 2026 19:27:40 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2b3585dc27055bc9",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Nicaragua: la dolorosa lección de jugar con la palabra ‘dictadura’",
-      "summary": "Nicaragua es la prueba más dolorosa de por qué ningún gobernante democrático debe jugar con la palabra “dictadura”, prometer “tomar” el Poder Judicial, situarse por encima de magistrados, jueces, fiscales o diputados, ni vilipendiar a los periodistas que revel",
-      "url": "https://confidencial.digital/opinion/nicaragua-la-dolorosa-leccion-de-jugar-con-la-palabra-dictadura/",
-      "publishedAt": "Fri, 07 Aug 2026 06:10:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-dolorosa",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -436,25 +275,8 @@
       "publishedAt": "Thu, 06 Aug 2026 02:15:41 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-kast-anuncia",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cf655b0e9fc7c4c8",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Donald Trump nomina a Natasha Franceschi como embajadora en Nicaragua",
-      "summary": "La diplomacia de Estados Unidos hacia la dictadura Ortega-Murillo ha dado un giro. El presidente Donald Trump nominó a la diplomática de carrera Natasha Franceschi como nueva embajadora estadounidense en Nicaragua, según informó la Casa Blanca el viernes 7 de ",
-      "url": "https://confidencial.digital/noticias/donald-trump-nomina-a-natasha-franceschi-como-embajadora-en-nicaragua/",
-      "publishedAt": "Sat, 08 Aug 2026 15:24:37 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-donald-trump",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -470,8 +292,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:58 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-miedo-contagio",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -487,8 +309,8 @@
       "publishedAt": "Sat, 08 Aug 2026 03:30:01 GMT",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-meloni-sanchez",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -504,25 +326,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:56 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-pocos-dias",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5807663a96e7846a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Villarruel le respondió al canciller Quirno y volvió a hablar de su frase sobre el “estado” de Milei",
-      "summary": "La vicepresidenta estuvo el jueves en la Catedral Metropolitana; afirmó que seguirá en el cargo ante los pedidos de funcionarios del Gobierno para que dé “un paso al costado”",
-      "url": "https://www.lanacion.com.ar/politica/villarruel-le-respondio-al-canciller-quirno-y-volvio-a-hablar-de-su-frase-sobre-el-estado-de-milei-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 19:26:19 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -538,8 +343,59 @@
       "publishedAt": "Fri, 07 Aug 2026 18:14:09 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-instituciones-cuba-instituciones-centenar-masones",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d58db6edd7ba007a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Turbulencias en la sala de máquinas",
+      "summary": "El Gobierno volvió a exhibir desorden interno y un Milei más desconectado de la gestión; a más de un mes de la salida de Adorni no recupera sintonía social; los límites del reformismo permanente",
+      "url": "https://www.lanacion.com.ar/politica/turbulencias-en-la-sala-de-maquinas-nid08082026/",
+      "publishedAt": "Sun, 09 Aug 2026 01:50:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-turbulencias",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9d3fc685b34d2232",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Facundo Moyano hizo su primer posteo en redes sociales después del escándalo con su novia",
+      "summary": "El exdiputado peronista eligió un símbolo religioso para dar un mensaje; el presente del dirigente y el estado de la causa",
+      "url": "https://www.lanacion.com.ar/politica/facundo-moyano-hizo-su-primer-posteo-en-redes-sociales-despues-del-escandalo-con-su-novia-nid08082026/",
+      "publishedAt": "Sat, 08 Aug 2026 23:35:34 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-facundo",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8dd94e8477973f77",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Delcy Rodríguez designa nuevas cabezas del área eléctrica para plan de ahorro",
+      "summary": "Fernández tiene 27 años de trabajo en Corpoelec y sustituye a José Luis Betancourt, quien ahora pasa a ser viceministro de Servicios Eléctricos",
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-designa-nuevas-cabezas-del-area-electrica-para-plan-de-ahorro/",
+      "publishedAt": "Sat, 08 Aug 2026 18:44:20 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -555,8 +411,8 @@
       "publishedAt": "Sat, 08 Aug 2026 17:39:03 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-primer-consejo",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -572,42 +428,8 @@
       "publishedAt": "Sat, 08 Aug 2026 16:17:50 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-abelardo-ordeno",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cbfa1263e9936b86",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Claves del primer discurso de Abelardo: seguridad, salud y batalla cultural",
-      "summary": "En su primer discurso como presidente en funciones, también anunció que no acabará con la JEP y que respetará la independencia de poderes. The post Claves del primer discurso de Abelardo: seguridad, salud y batalla cultural appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/claves-del-primer-discurso-de-abelardo-seguridad-salud-y-batalla-cultural/",
-      "publishedAt": "Sat, 08 Aug 2026 04:49:32 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-seguridad-colombia-seguridad-claves-primer",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fa0a4684643563b0",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "No es ayuda, es control: por qué nos oponemos a las deportaciones desde Estados Unidos",
-      "summary": "En los últimos días, la prensa uruguaya difundió versiones sobre un posible acuerdo para la deportación de personas migrantes desde Estados Unidos a Uruguay. De forma no oficial, varios integrantes del gobierno confirmaron que esas negociaciones llevan meses, ",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/no-es-ayuda-es-control-por-que-nos-oponemos-a-las-deportaciones-desde-estados-unidos/",
-      "publishedAt": "Sat, 08 Aug 2026 00:04:10 -0300",
-      "politicalScore": 7,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-ayuda-control",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -623,25 +445,8 @@
       "publishedAt": "Fri, 07 Aug 2026 23:44:36 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-subdirector",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d9d56512c3fe6e76",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Sindicatos, movimientos e izquierda marcharon por San Cayetano y prometieron profundizar los reclamos callejeros",
-      "summary": "Lanzaron críticas contra el Gobierno y apuntaron a la política económica",
-      "url": "https://www.lanacion.com.ar/politica/sindicatos-movimientos-e-izquierda-marcharon-por-san-cayetano-y-prometieron-profundizar-los-reclamos-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 20:46:16 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-sindicatos",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -657,8 +462,8 @@
       "publishedAt": "Sat, 08 Aug 2026 12:14:57 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-vicepresidentes-iran",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -674,8 +479,8 @@
       "publishedAt": "Sat, 08 Aug 2026 18:35:40 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-reconoce-soberania",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -691,42 +496,8 @@
       "publishedAt": "Fri, 07 Aug 2026 22:04:12 +0000",
       "politicalScore": 6,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-jueza-afiuni",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "21afaa2beab8ef71",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "El juez Ariel Lijo concentrará todas las causas por los negocios millonarios con el dólar blue durante el cepo",
-      "summary": "La jueza Capuchetti se inhibió en uno de los expedientes; antes Servini le había enviado su caso; están bajo investigación Elías Picirillo y otros financistas",
-      "url": "https://www.lanacion.com.ar/politica/el-juez-federal-ariel-lijo-concentrara-todas-las-causas-por-los-negocios-millonarios-con-el-dolar-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 21:16:01 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-juez",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "77afa25cda7f4862",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "La Corte revocó un fallo de la Cámara Laboral que, por su cuenta, había multiplicado una indemnización",
-      "summary": "Es por el caso de un electricista que se cayó de una escalera y se rompió los meniscos de una rodilla",
-      "url": "https://www.lanacion.com.ar/politica/la-corte-revoco-un-fallo-de-la-camara-laboral-que-por-su-cuenta-habia-multiplicado-una-indemnizacion-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 20:16:42 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-corte-revoco",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -742,25 +513,8 @@
       "publishedAt": "Fri, 07 Aug 2026 09:08:18 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-nuevas-sanciones",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1ebc1387f9bbda9e",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Costa Rica investiga a 116 policías por presunto nexo narco",
-      "summary": "El gobierno de&#160;Costa Rica&#160;anunció el miércoles 5 de agosto de 2026 una investigación contra más de un centenar de policías, tras la filtración de un informe de inteligencia que los vincula con narcotraficantes. Un documento interno de la Dirección de",
-      "url": "https://confidencial.digital/mundo/costa-rica-investiga-a-116-policias-por-presunto-nexo-narco/",
-      "publishedAt": "Thu, 06 Aug 2026 14:03:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -776,8 +530,8 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-diplomacia-espana-diplomacia-pedro-sanchez",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -793,8 +547,8 @@
       "publishedAt": "Sat, 08 Aug 2026 17:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-metodologia-tiempos",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -810,8 +564,8 @@
       "publishedAt": "Sat, 08 Aug 2026 17:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-analice-decisiones",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -827,25 +581,8 @@
       "publishedAt": "Sat, 08 Aug 2026 13:44:26 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-anuncia",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "70db3220a56c361c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "“La democracia”: apuntes para la refundación de Nicaragua",
-      "summary": "El pensamiento es en su mayoría inconsciente. Los conceptos abstractos son, en gran medida, metafóricos (enraizados en nuestras experiencias).George Lakoff y Mark Johnson Nicaragua necesita retomar los principios básicos del proyecto de Estado que no hemos log",
-      "url": "https://confidencial.digital/opinion/la-democracia-apuntes-para-la-refundacion-de-nicaragua/",
-      "publishedAt": "Sat, 08 Aug 2026 06:20:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-apuntes",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -861,8 +598,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:51:47 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-vuelve-prioridad",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -878,8 +615,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:44:28 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-podcast-vuelve",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -895,8 +632,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:18:13 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sntp-entrega",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -912,8 +649,8 @@
       "publishedAt": "Fri, 07 Aug 2026 16:59:33 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-ejercito-pide",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -929,8 +666,8 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-notas-ceuta",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -946,8 +683,42 @@
       "publishedAt": "Wed, 05 Aug 2026 17:16:50 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-tribunal-confisca",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0d4dfbfbeeb24fab",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La UCR bonaerense renovó sus autoridades bajo un acuerdo de unidad",
+      "summary": "Emiliano Balbín será el titular del comité provincial y Pablo Nicoletti, de la convención; asistieron Leonel Chiarella y Maximiliano Abad, entre otros dirigentes",
+      "url": "https://www.lanacion.com.ar/politica/la-ucr-bonaerense-renovo-sus-autoridades-bajo-un-acuerdo-de-unidad-nid08082026/",
+      "publishedAt": "Sat, 08 Aug 2026 23:04:42 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-bonaerense",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
+      "seenCount": 1
+    },
+    {
+      "id": "46c3db574c2bcbbe",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El Gobierno busca renegociar la concesión de Aeropuertos Argentina, pero rechaza las condiciones de la empresa",
+      "summary": "El Ejecutivo niega que la discusión esté paralizada y asegura que está realizando un análisis técnico",
+      "url": "https://www.lanacion.com.ar/economia/el-gobierno-busca-renegociar-la-concesion-de-aeropuertos-argentina-pero-rechaza-las-condiciones-de-nid08082026/",
+      "publishedAt": "Sat, 08 Aug 2026 21:48:01 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -963,8 +734,8 @@
       "publishedAt": "Sat, 08 Aug 2026 14:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pragmatismo-minambiente",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -980,25 +751,8 @@
       "publishedAt": "Sat, 08 Aug 2026 12:55:30 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-posesiono",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3096d21d17e12ca5",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Del río al mar: algunos datos",
-      "summary": "La polémica en nexos sobre la situación en Medio Oriente, y Gaza en particular, ha desatado pasiones, denuncias, exigencias y argumentos (los menos) en las malditas redes sociales. Otros, más doctos que yo, seguro ofrecerán análisis y datos duros sobre el conf",
-      "url": "https://confidencial.digital/opinion/del-rio-al-mar-algunos-datos/",
-      "publishedAt": "Sat, 08 Aug 2026 06:10:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-algunos-datos",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +768,8 @@
       "publishedAt": "Sat, 08 Aug 2026 04:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-misterioso",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1031,25 +785,8 @@
       "publishedAt": "Fri, 07 Aug 2026 22:23:21 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-abelardo-espriella",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5781eb7e473b7318",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Desde el Monumental hasta el Obelisco: los aviones de caza F-16 sobrevolaron la ciudad de Buenos Aires",
-      "summary": "El evento fue motorizado por la Fuerza Aérea Argentina como parte de las celebraciones por el 114° aniversario; este sábado habrá una nueva exhibición",
-      "url": "https://www.lanacion.com.ar/politica/desde-el-monumental-hasta-el-obelisco-los-aviones-de-caza-f-16-sobrevolaran-la-ciudad-de-buenos-nid07082026/",
-      "publishedAt": "Fri, 07 Aug 2026 21:24:53 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-monumental",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1065,42 +802,8 @@
       "publishedAt": "Fri, 07 Aug 2026 20:34:58 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-petro-despide",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a1e9bd5f0e671bcc",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Keny Navarrete, sospechoso de orquestar el asesinato de Samcam, anda libre en Nicaragua",
-      "summary": "El nicaragüense Keny Hosman Navarrete Vallecillo, señalado como el presunto orquestador del asesinato del mayor en retiro Roberto Samcam Ruiz en Costa Rica, anda libre en Nicaragua, confirmaron a CONFIDENCIAL diversas fuentes cercanas al caso. Navarrete Vallec",
-      "url": "https://confidencial.digital/noticias/keny-navarrete-asesinato-roberto-samcam-nicaragua/",
-      "publishedAt": "Fri, 07 Aug 2026 17:03:52 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-keny-navarrete",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "662df0350305cd25",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "¿Por qué el Banco Central de Rusia está vendiendo su oro?",
-      "summary": "Rusia ha vendido cantidades significativas de sus reservas de oro en lo que va de 2026, ya que el Kremlin busca obtener liquidez para compensar un importante déficit presupuestario. El Banco Central de Rusia anunció recientemente que sus reservas de oro ascend",
-      "url": "https://confidencial.digital/mundo/por-que-el-banco-central-de-rusia-esta-vendiendo-su-oro/",
-      "publishedAt": "Fri, 07 Aug 2026 15:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-banco",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1116,8 +819,8 @@
       "publishedAt": "Thu, 06 Aug 2026 21:14:04 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-masones-convocan",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1133,25 +836,25 @@
       "publishedAt": "Thu, 06 Aug 2026 17:21:28 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-cuevita",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
-      "id": "d7296b1c905a1c63",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "9020f8115d7b01d0",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "OEA evita el fracaso al no votar resolución sobre Nicaragua",
-      "summary": "El Consejo Permanente de la Organización de los Estados Americanos (OEA) procuró “salvar el momento” durante una reunión extraordinaria celebrada el 5 de agosto de 2026, al no someter a votación un proyecto de resolución presentado por Estados Unidos. La inici",
-      "url": "https://confidencial.digital/analisis/oea-evita-el-fracaso-al-no-votar-resolucion-sobre-nicaragua/",
-      "publishedAt": "Thu, 06 Aug 2026 13:26:07 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-evita-fracaso",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "title": "Las claves de la posesión de De la Espriella",
+      "summary": "Juanita León y Héctor Riveros analizan la puesta en escena de la ceremonia de posesión y el primer discurso de De la Espriella. The post Las claves de la posesión de De la Espriella appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/las-claves-de-la-posesion-de-de-la-espriella/",
+      "publishedAt": "Sat, 08 Aug 2026 21:27:56 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-claves-posesion",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1167,8 +870,8 @@
       "publishedAt": "Sat, 08 Aug 2026 18:19:18 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-estamos-viviendo",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1184,59 +887,8 @@
       "publishedAt": "Sat, 08 Aug 2026 12:24:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-pesca-mejor",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "269a95a3fc67b5d7",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
-      "summary": "El gabinete de Abelardo reubica el epicentro del poder político a Barranquilla, pero gobierna sin el Pacífico, el Valle, la Amazonía ni la Orinoquía. The post La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca? appeared first on La Sill",
-      "url": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
-      "publishedAt": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-hora-caribe",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a84f8a23972394e2",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "La identidad que no entra en terapia: lo que el exilio me obligó a nombrar",
-      "summary": "Desde niña aprendí a escuchar el dolor de otra forma. En mi territorio no se hablaba de salud mental como ahora se nombra en las ciudades o en redes sociales. Se hablaba del dolor del alma, del cuerpo que arde, de la sofocación. Se hablaba de espíritus, de lo ",
-      "url": "https://confidencial.digital/revista-niu/testimonio-indigenas-salud-mental-exilio/",
-      "publishedAt": "Sat, 08 Aug 2026 07:20:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-identidad-entra",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "20c29be20ea06d38",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Achiote: una ancestral semillita roja vive un auge exportador",
-      "summary": "Presente en la gastronomía, la cosmética y las culturas ancestrales, el achiote gana, sin aspavimientos, mercado internacional. Conocido como axiotl, urucú, bija, anoto: se sabe de su existencia, no se conoce su fruto. “Es importante entender que el achiote co",
-      "url": "https://confidencial.digital/revista-niu/achiote-una-ancestral-semillita-roja-vive-un-auge-exportador/",
-      "publishedAt": "Fri, 07 Aug 2026 16:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-achiote-ancestral",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1252,8 +904,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-contribuciones-problema",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1269,8 +921,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-garantia-existe",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1286,25 +938,8 @@
       "publishedAt": "Fri, 07 Aug 2026 02:48:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-caso-fundamenta",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4b6ca150fbde05f1",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "China detalla con asombrosa precisión el mapa geológico de la Luna",
-      "summary": "China actualizó su mapa geológico global de la Luna con nuevos datos obtenidos por la misión Chang&#8217;e-6, las primeras muestras recogidas en la cara oculta del satélite, una revisión que incorpora una cronología geológica refinada y nuevos hallazgos sobre ",
-      "url": "https://confidencial.digital/revista-niu/china-detalla-con-asombrosa-precision-el-mapa-geologico-de-la-luna/",
-      "publishedAt": "Thu, 06 Aug 2026 16:15:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-china-detalla",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     },
     {
@@ -1320,8 +955,8 @@
       "publishedAt": "Wed, 05 Aug 2026 14:00:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-08T18:43:57.195Z",
-      "lastSeenAt": "2026-08-08T18:43:57.195Z",
+      "firstSeenAt": "2026-08-09T02:04:02.341Z",
+      "lastSeenAt": "2026-08-09T02:04:02.341Z",
       "seenCount": 1
     }
   ]
