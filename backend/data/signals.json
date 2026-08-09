@@ -1,32 +1,21 @@
 {
-  "generatedAt": "2026-08-09T13:00:13.196Z",
-  "count": 60,
-  "failures": [],
+  "generatedAt": "2026-08-09T18:48:26.498Z",
+  "count": 48,
+  "failures": [
+    {
+      "source": "confidencial-nicaragua",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-08-09T13:00:13.196Z",
-    "activeSignals": 60,
-    "archiveSignals": 118,
-    "countriesCovered": 8,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 6.68
+    "generatedAt": "2026-08-09T18:48:26.498Z",
+    "activeSignals": 48,
+    "archiveSignals": 106,
+    "countriesCovered": 7,
+    "highPrioritySignals": 19,
+    "averagePoliticalScore": 6.6
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Reed Brody: Cancelación de elecciones dejará “sin justicia” a víctimas de la represión",
-      "leadUrl": "https://confidencial.digital/analisis/reed-brody-cancelacion-de-elecciones-dejara-sin-justicia-a-victimas-de-la-represion/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones",
-        "Economia politica"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -34,74 +23,57 @@
       "leadUrl": "https://www.ciperchile.cl/2026/08/06/joaquin-lavin-sale-de-prision-preventiva-y-pasa-a-arresto-domiciliario-diputados-proponen-suspender-ley-karin-por-5-anos-y-fiscalia-investiga-presunto-episodio-de-vif-entre-senador-fidel-espinoza-y/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=joaquin-lavin-sale-de-prision-preventiva-y-pasa-a-arresto-domiciliario-diputados-proponen-suspender-ley-karin-por-5-anos-y-fiscalia-investiga-presunto-episodio-de-vif-entre-senador-fidel-espinoza-y",
       "focusTopics": [
         "Economia politica",
-        "Instituciones",
         "Seguridad"
       ],
       "topSources": [
         "CIPER"
       ],
       "signalCount": 12,
-      "summary": "Foco en Economia politica, Instituciones, Seguridad. Vigilar CIPER y CIPER."
+      "summary": "Foco en Economia politica, Seguridad. Vigilar CIPER y CIPER."
     },
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "El embajador argentino se va de Brasil y el pronóstico es que la relación seguirá en crisis, al menos hasta las elecciones de octubre",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-embajador-argentino-se-va-de-brasil-y-el-pronostico-es-que-la-relacion-seguira-en-crisis-al-menos-nid08082026/",
+      "leadTitle": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "leadUrl": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
       "focusTopics": [
-        "Elecciones",
-        "Economia politica"
+        "Elecciones"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 10,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "El primer Consejo de Seguridad definió la estrategia regional",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/el-primer-consejo-de-seguridad-definio-la-estrategia-regional/",
+      "leadTitle": "El Estado colombiano es laico, señor presidente",
+      "leadUrl": "https://www.lasillavacia.com/opinion/el-estado-colombiano-es-laico-senor-presidente/",
       "focusTopics": [
-        "Seguridad",
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 7,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 9,
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Espana",
+      "country": "Cuba",
       "priority": "Alta",
-      "leadTitle": "Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la \"invasión\" de Ceuta",
-      "leadUrl": "https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html",
+      "leadTitle": "El Senado confirma a Todd Blanche, ex abogado de Trump, como nuevo fiscal general de EE UU",
+      "leadUrl": "https://www.14ymedio.com/internacional/senado-confirma-todd-blanche-ex_1_1129607.html",
       "focusTopics": [
-        "Seguridad",
-        "Diplomacia"
+        "Elecciones",
+        "Instituciones",
+        "Economia politica"
       ],
       "topSources": [
-        "El Mundo",
-        "El Pais"
+        "14ymedio"
       ],
       "signalCount": 5,
-      "summary": "Foco en Seguridad, Diplomacia. Vigilar El Mundo y El Pais."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Tras captura de Maduro, la Fanb sigue cohesionada pero disminuida: dicen expertos",
-      "leadUrl": "https://efectococuyo.com/politica/siete-meses-captura-maduro-fanb-cohesionada-disminuida/",
-      "focusTopics": [
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Uruguay",
@@ -118,20 +90,34 @@
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Cuba",
+      "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "Un centenar de masones frustran el intento del Gobierno de apartar al líder del Supremo Consejo",
-      "leadUrl": "https://www.14ymedio.com/cuba/centenar-masones-frustran-gobierno-apartar_1_1129568.html",
+      "leadTitle": "Tras captura de Maduro, la Fanb sigue cohesionada pero disminuida: dicen expertos",
+      "leadUrl": "https://efectococuyo.com/politica/siete-meses-captura-maduro-fanb-cohesionada-disminuida/",
       "focusTopics": [
-        "Instituciones",
-        "Diplomacia",
-        "Economia politica"
+        "Diplomacia"
       ],
       "topSources": [
-        "14ymedio"
+        "Efecto Cocuyo"
       ],
       "signalCount": 4,
-      "summary": "Foco en Instituciones, Diplomacia, Economia politica. Vigilar 14ymedio y 14ymedio."
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+    },
+    {
+      "country": "Espana",
+      "priority": "Media",
+      "leadTitle": "Pedro Sánchez choca con una UE antinmigración",
+      "leadUrl": "https://elpais.com/opinion/2026-08-06/pedro-sanchez-choca-con-una-ue-antinmigracion.html",
+      "focusTopics": [
+        "Diplomacia",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Pais",
+        "El Mundo"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Diplomacia, Gobernabilidad. Vigilar El Pais y El Mundo."
     }
   ],
   "signals": [
@@ -148,8 +134,8 @@
       "publishedAt": "Fri, 07 Aug 2026 01:05:03 +0000",
       "politicalScore": 18,
       "eventKey": "chile-economia-politica-chile-economia-politica-joaquin",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -165,8 +151,25 @@
       "publishedAt": "Sat, 08 Aug 2026 21:35:30 -0300",
       "politicalScore": 17,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-frente-amplio",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "eb96e260001000e9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "summary": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "publishedAt": "Sun, 09 Aug 2026 13:55:06 +0000",
+      "politicalScore": 16,
+      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -182,8 +185,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:55 -0300",
       "politicalScore": 14,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-extranjerizacion-tierra",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -199,42 +202,8 @@
       "publishedAt": "Sat, 08 Aug 2026 22:30:55 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-embajador-argentino",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7b8192d53b434934",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Reed Brody: Cancelación de elecciones dejará “sin justicia” a víctimas de la represión",
-      "summary": "El abogado internacional Reed Brody, integrante del Grupo de Expertos en Derechos Humanos sobre Nicaragua (GHREN), advirtió que las víctimas de la represión orteguista se quedarán sin “justicia”, como resultado de la reforma constitucional ordenada por Daniel ",
-      "url": "https://confidencial.digital/analisis/reed-brody-cancelacion-de-elecciones-dejara-sin-justicia-a-victimas-de-la-represion/",
-      "publishedAt": "Thu, 06 Aug 2026 23:13:24 +0000",
-      "politicalScore": 13,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-reed-brody",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e267bb8d8c114efb",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Megarreforma: Senado aprueba compensación a municipios por exención de contribuciones; tribunal confirma comiso de casa de exalcalde Miguel Ángel Aguilera, y gobierno sube a 6 mil UF tope de subsidio a tasas hipotecarias",
-      "summary": "La entrada Megarreforma: Senado aprueba compensación a municipios por exención de contribuciones; tribunal confirma comiso de casa de exalcalde Miguel Ángel Aguilera, y gobierno sube a 6 mil UF tope de subsidio a tasas hipotecarias se publicó primero en CIPER ",
-      "url": "https://www.ciperchile.cl/2026/08/04/radar-04-08-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-04-08-26",
-      "publishedAt": "Wed, 05 Aug 2026 00:36:59 +0000",
-      "politicalScore": 13,
-      "eventKey": "chile-instituciones-chile-instituciones-megarreforma-senado",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -250,76 +219,25 @@
       "publishedAt": "Sat, 08 Aug 2026 18:43:12 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-elecciones-argentina-elecciones-macri-alento",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
-      "id": "93a01898ac84e135",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
+      "id": "cf853538b0390626",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Vox propone investigar a Sánchez por posibles delitos de traición y contra la seguridad del Estado por la \"invasión\" de Ceuta",
-      "summary": "Dicha acusación debe ser promovida por un cuarto de los diputados del Congreso y aprobada por la mayoría absoluta para tramitarse&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/08/08/6a777641fdddff512f8b4578.html",
-      "publishedAt": "Sat, 08 Aug 2026 22:43:21 +0200",
+      "title": "El Senado confirma a Todd Blanche, ex abogado de Trump, como nuevo fiscal general de EE UU",
+      "summary": "Dos senadoras republicanas se unieron a los demócratas para votar contra un nombramiento que salió adelante por un solo voto",
+      "url": "https://www.14ymedio.com/internacional/senado-confirma-todd-blanche-ex_1_1129607.html",
+      "publishedAt": "Sun, 09 Aug 2026 13:43:03 +0000",
       "politicalScore": 10,
-      "eventKey": "espana-seguridad-espana-seguridad-propone-investigar",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3528abff8c968c5c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "La visita del Papa forzó al Gobierno y a la Iglesia a retomar gestos y dejar las diferencias en un segundo plano",
-      "summary": "Desde hace tres meses se trabajó detrás del objetivo de la llegada de León XIV; hubo reuniones reservadas y los principales impulsores fueron el canciller Pablo Quirno y el arzobispo Marcelo Colombo, presidente del Episcopado",
-      "url": "https://www.lanacion.com.ar/politica/la-visita-del-papa-forzo-al-gobierno-y-a-la-iglesia-a-retomar-gestos-y-dejar-las-diferencias-en-un-nid08082026/",
-      "publishedAt": "Sat, 08 Aug 2026 17:06:55 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-visita",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4f68a20bb7ecbaaa",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Estados Unidos buscará a deportados para cobrarles multas pendientes",
-      "summary": "El Gobierno del presidente Donald Trump busca contratar a una empresa privada para que busque y localice en México, Guatemala y Honduras a personas que fueron deportadas o salieron voluntariamente de Estados Unidos y que aún tienen multas migratorias pendiente",
-      "url": "https://confidencial.digital/migrantes/estados-unidos-buscara-a-deportados-para-cobrarles-multas-pendientes/",
-      "publishedAt": "Fri, 07 Aug 2026 19:27:40 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2b3585dc27055bc9",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Nicaragua: la dolorosa lección de jugar con la palabra ‘dictadura’",
-      "summary": "Nicaragua es la prueba más dolorosa de por qué ningún gobernante democrático debe jugar con la palabra “dictadura”, prometer “tomar” el Poder Judicial, situarse por encima de magistrados, jueces, fiscales o diputados, ni vilipendiar a los periodistas que revel",
-      "url": "https://confidencial.digital/opinion/nicaragua-la-dolorosa-leccion-de-jugar-con-la-palabra-dictadura/",
-      "publishedAt": "Fri, 07 Aug 2026 06:10:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-dolorosa",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "eventKey": "cuba-elecciones-cuba-elecciones-senado-confirma",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -335,25 +253,8 @@
       "publishedAt": "Thu, 06 Aug 2026 02:15:41 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-kast-anuncia",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cf655b0e9fc7c4c8",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Donald Trump nomina a Natasha Franceschi como embajadora en Nicaragua",
-      "summary": "La diplomacia de Estados Unidos hacia la dictadura Ortega-Murillo ha dado un giro. El presidente Donald Trump nominó a la diplomática de carrera Natasha Franceschi como nueva embajadora estadounidense en Nicaragua, según informó la Casa Blanca el viernes 7 de ",
-      "url": "https://confidencial.digital/noticias/donald-trump-nomina-a-natasha-franceschi-como-embajadora-en-nicaragua/",
-      "publishedAt": "Sat, 08 Aug 2026 15:24:37 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-donald-trump",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -369,25 +270,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:58 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-miedo-contagio",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "98e30319627fa3c9",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "La amenaza a la seguridad hemisférica de Ortega y Murillo",
-      "summary": "Después de una intensa jornada de cabildeo de una delegación de la oposición unida en acción en Washington, quisiera compartir algunas reflexiones. En primer lugar y de forma categórica, el consejo permanente de la OEA fue un éxito para la lucha de la democrac",
-      "url": "https://confidencial.digital/opinion/la-amenaza-a-la-seguridad-hemisferica-de-ortega-y-murillo/",
-      "publishedAt": "Sun, 09 Aug 2026 07:10:00 +0000",
-      "politicalScore": 8,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-amenaza-hemisferica",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -403,8 +287,8 @@
       "publishedAt": "Sun, 09 Aug 2026 06:45:00 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-captura-maduro",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -420,8 +304,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:04:56 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-pocos-dias",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -437,8 +321,42 @@
       "publishedAt": "Fri, 07 Aug 2026 18:14:09 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-instituciones-cuba-instituciones-centenar-masones",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fd1b7ac16ba16648",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno recaudó $1,5 billones para rutas y obras viales, ejecutó apenas una cuarta parte y colocó más de $1 billón en plazos fijos y títulos públicos",
+      "summary": "Retiene en inversiones financieras los fondos suficientes para mejorar casi dos tercios de las rutas nacionales",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-recaudo-15-billon-para-rutas-y-obras-viales-ejecuto-apenas-una-cuarta-parte-y-coloco-mas-nid09082026/",
+      "publishedAt": "Sun, 09 Aug 2026 17:13:40 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1d73ca222264bf3c",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "El Estado colombiano es laico, señor presidente",
+      "summary": "El Estado laico es garantizar la neutralidad del Estado, de forma tal que las creencias religiosas, cualesquiera que sean, pertenezcan a la esfera privada. The post El Estado colombiano es laico, señor presidente appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/el-estado-colombiano-es-laico-senor-presidente/",
+      "publishedAt": "Sun, 09 Aug 2026 15:59:19 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-estado-colombiano",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -454,25 +372,8 @@
       "publishedAt": "Sun, 09 Aug 2026 12:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-triunvirato-chavismo",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fd1b7ac16ba16648",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El Gobierno recaudó $1,5 billón para rutas y obras viales, ejecutó apenas una cuarta parte y colocó más de $1 billón en plazos fijos y títulos públicos",
-      "summary": "Retiene en inversiones financieras los fondos suficientes para mejorar casi dos tercios de las rutas nacionales",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-recaudo-15-billon-para-rutas-y-obras-viales-ejecuto-apenas-una-cuarta-parte-y-coloco-mas-nid09082026/",
-      "publishedAt": "Sun, 09 Aug 2026 10:22:26 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -488,8 +389,8 @@
       "publishedAt": "Sun, 09 Aug 2026 05:59:29 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-instituciones-argentina-instituciones-apunta-plan",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -505,8 +406,8 @@
       "publishedAt": "Sun, 09 Aug 2026 01:50:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-turbulencias",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -522,8 +423,8 @@
       "publishedAt": "Sat, 08 Aug 2026 23:35:34 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-facundo",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -539,76 +440,42 @@
       "publishedAt": "Sat, 08 Aug 2026 22:44:00 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
-      "id": "23c6e92df6c22ffd",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "El primer Consejo de Seguridad definió la estrategia regional",
-      "summary": "El foco estuvo en la estrategia para el suroccidente, en medio de ataques contra la Fuerza Pública en las primeras horas del nuevo gobierno. The post El primer Consejo de Seguridad definió la estrategia regional appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/el-primer-consejo-de-seguridad-definio-la-estrategia-regional/",
-      "publishedAt": "Sat, 08 Aug 2026 17:39:03 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-seguridad-colombia-seguridad-primer-consejo",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "44c1258aa18eab87",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Abelardo ordenó trasladar a 117 presos vinculados a diálogos de paz",
-      "summary": "En su primera decisión oficial, el nuevo gobierno reubicó a los reclusos en distintas cárceles de alta seguridad del país. The post Abelardo ordenó trasladar a 117 presos vinculados a diálogos de paz appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/abelardo-ordeno-trasladar-a-117-presos-vinculados-a-dialogos-de-paz/",
-      "publishedAt": "Sat, 08 Aug 2026 16:17:50 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-seguridad-colombia-seguridad-abelardo-ordeno",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "600836a5e4907115",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Nicaragua y el derecho interamericano: seguridad, sucesión y legitimidad",
-      "summary": "El régimen de Daniel Ortega plantea al sistema interamericano un problema que trasciende la retórica de la denuncia. Exige, sobre todo, una respuesta técnica: fundamentada en el derecho internacional de los derechos humanos, en la teoría de la legitimidad polí",
-      "url": "https://confidencial.digital/opinion/nicaragua-y-el-derecho-interamericano-seguridad-sucesion-y-legitimidad/",
-      "publishedAt": "Sun, 09 Aug 2026 07:05:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-derecho-interamericano",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a62a5a007915b0f1",
+      "id": "a0beccaf40c26a10",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Colombia reconoce la soberanía de Marruecos sobre el Sáhara Occidental",
-      "summary": "El nuevo gobierno reconoció la soberanía del Estado marroquí, en un giro frente a la posición que tenía Colombia desde 2022. The post Colombia reconoce la soberanía de Marruecos sobre el Sáhara Occidental appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/colombia-reconoce-la-soberania-de-marruecos-sobre-el-sahara-occidental/",
-      "publishedAt": "Sat, 08 Aug 2026 18:35:40 +0000",
+      "title": "Milagros y milagreros",
+      "summary": "Sabemos que nos condenamos al insoportable tono milenarista del presidente y de algunos de sus principales seguidores, con su “Arca de Noé” (¿habrá una imagen más infantil e imprecisa que esa?) y con sus “milagros”. The post Milagros y milagreros appeared firs",
+      "url": "https://www.lasillavacia.com/opinion/milagros-y-milagreros/",
+      "publishedAt": "Sun, 09 Aug 2026 16:14:40 +0000",
       "politicalScore": 6,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-reconoce-soberania",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-milagros-milagreros",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a11de5c9ab5f368b",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El Gobierno pide ayuda al sector privado para producir electricidad a cambio de exenciones fiscales",
+      "summary": "La medida abarata la importación de paneles solares, pero los altos costos y la falta de divisas la dejan fuera del alcance de la mayoría de la población",
+      "url": "https://www.14ymedio.com/cuba/gobierno-pide-ayuda-sector-privado_1_1129605.html",
+      "publishedAt": "Sun, 09 Aug 2026 13:02:01 +0000",
+      "politicalScore": 6,
+      "eventKey": "cuba-economia-politica-cuba-economia-politica-gobierno",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -624,8 +491,8 @@
       "publishedAt": "Fri, 07 Aug 2026 09:08:18 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-nuevas-sanciones",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -641,8 +508,42 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-diplomacia-espana-diplomacia-pedro-sanchez",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "505a87d74d986423",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Gobierno Petro: La oportunidad perdida",
+      "summary": "El país decidió volver al pasado porque el cambio fue en reversa y una lamentable oportunidad perdida, ese es el legado del Gobierno Petro. The post Gobierno Petro: La oportunidad perdida appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/gobierno-petro-la-oportunidad-perdida/",
+      "publishedAt": "Sun, 09 Aug 2026 14:35:31 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-petro",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5e34697f7669de7a",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Abelardo a Bukele: “Llega una nueva etapa de cooperación”",
+      "summary": "Colombia y El Salvador intercambiaron mensajes tras la posesión. La relación comercial será priorizada por el nuevo gobierno. The post Abelardo a Bukele: “Llega una nueva etapa de cooperación” appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/abelardo-a-bukele-llega-una-nueva-etapa-de-cooperacion/",
+      "publishedAt": "Sun, 09 Aug 2026 13:37:54 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-bukele",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -658,8 +559,8 @@
       "publishedAt": "Sun, 09 Aug 2026 06:15:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-alguien-carcel",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -675,25 +576,8 @@
       "publishedAt": "Sun, 09 Aug 2026 05:05:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-frentes-8220",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c1486968556ff55e",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Vox avanza en su ofensiva judicial contra el reparto de los menores que están en Ceuta: impugnará todos los expedientes que no se resuelvan con el \"retorno\"",
-      "summary": "Sus tres vicepresidentes con competencias en inmigración -Aragón, Extremadura y Castilla y León- no irán a la reunión con Rego previa al reparto&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/08/09/6a7753f3fdddff41158b4590.html",
-      "publishedAt": "Sun, 09 Aug 2026 02:51:57 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-diplomacia-espana-diplomacia-avanza-ofensiva",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -709,59 +593,8 @@
       "publishedAt": "Sat, 08 Aug 2026 22:44:35 +0200",
       "politicalScore": 5,
       "eventKey": "espana-diplomacia-espana-diplomacia-sanchez-meloni",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "80877e84a19de6fd",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Metodología, tiempos y principios de la mesa de diálogo: Lo que ven analistas",
-      "summary": "Carmen Beatriz Fernández señala que la mesa comenzó con tropiezos. Raniero Cassoni dice que el foco son las acciones concretas más allá de comunicados",
-      "url": "https://efectococuyo.com/politica/metodologia-tiempos-principios-mesa-dialogo-analistas/",
-      "publishedAt": "Sat, 08 Aug 2026 17:30:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-metodologia-tiempos",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ca660a30897d2bb3",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Analice las decisiones que definen el rumbo del país con La Silla Vacía",
-      "summary": "El 7 de agosto comienzó un nuevo gobierno. Analícelo de la mano de Juanita León y Daniel Pacheco en 12 encuentros virtuales. The post Analice las decisiones que definen el rumbo del país con La Silla Vacía appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/analice-las-decisiones-que-definen-el-rumbo-del-pais-con-la-silla-vacia/",
-      "publishedAt": "Sat, 08 Aug 2026 17:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-analice-decisiones",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "70db3220a56c361c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "“La democracia”: apuntes para la refundación de Nicaragua",
-      "summary": "El pensamiento es en su mayoría inconsciente. Los conceptos abstractos son, en gran medida, metafóricos (enraizados en nuestras experiencias).George Lakoff y Mark Johnson Nicaragua necesita retomar los principios básicos del proyecto de Estado que no hemos log",
-      "url": "https://confidencial.digital/opinion/la-democracia-apuntes-para-la-refundacion-de-nicaragua/",
-      "publishedAt": "Sat, 08 Aug 2026 06:20:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-apuntes",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -777,8 +610,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:51:47 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-vuelve-prioridad",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -794,8 +627,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:44:28 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-podcast-vuelve",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -811,8 +644,8 @@
       "publishedAt": "Fri, 07 Aug 2026 16:59:33 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-ejercito-pide",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -828,8 +661,8 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-notas-ceuta",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -845,8 +678,59 @@
       "publishedAt": "Wed, 05 Aug 2026 17:16:50 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-tribunal-confisca",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "47c4ddb1af4531f2",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "MinAgricultura acusa a Agencia Rural de maratón de contratos el sábado",
+      "summary": "Indalecio Dangond, nuevo ministro, dijo que se comprometieron 250 mil millones. César Pachón dijo que son chismes. The post MinAgricultura acusa a Agencia Rural de maratón de contratos el sábado appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/minagricultura-acusa-a-agencia-rural-de-maraton-de-contratos-el-sabado/",
+      "publishedAt": "Sun, 09 Aug 2026 17:39:21 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-minagricultura-acusa",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b3e7bb6a9fcffcbc",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "MinInterior suspendió sus contrataciones hasta el 20 de agosto",
+      "summary": "Por orden del nuevo ministro, Rodrigo Lara. Todos los trámites públicos seguirán sin afectaciones, dijo la cartera. The post MinInterior suspendió sus contrataciones hasta el 20 de agosto appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/mininterior-suspendio-sus-contrataciones-hasta-el-20-de-agosto/",
+      "publishedAt": "Sun, 09 Aug 2026 15:39:46 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-mininterior-suspendio",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3944eadbc9a244aa",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Italia acusa a España de aplicar controles \"inaceptables\" a sus viajeros y el Gobierno de Sánchez exige al de Meloni que \"reaccione\"",
+      "summary": "El comisario europeo de Interior advierte a ambos países que \"la confianza entre los estados miembros\" es la \"moneda más valiosa\" de la UE&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/08/09/6a783fc9fc6c8345208b458c.html",
+      "publishedAt": "Sun, 09 Aug 2026 15:02:37 +0200",
+      "politicalScore": 4,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-italia-acusa",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -862,8 +746,8 @@
       "publishedAt": "Sun, 09 Aug 2026 10:23:30 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-libertad",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -879,8 +763,8 @@
       "publishedAt": "Sat, 08 Aug 2026 23:04:42 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-bonaerense",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -896,127 +780,59 @@
       "publishedAt": "Sat, 08 Aug 2026 21:48:01 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
-      "id": "3096d21d17e12ca5",
-      "country": "Nicaragua",
-      "source": "Confidencial",
+      "id": "9c72ba1e6532c829",
+      "country": "Chile",
+      "source": "CIPER",
       "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Del río al mar: algunos datos",
-      "summary": "La polémica en nexos sobre la situación en Medio Oriente, y Gaza en particular, ha desatado pasiones, denuncias, exigencias y argumentos (los menos) en las malditas redes sociales. Otros, más doctos que yo, seguro ofrecerán análisis y datos duros sobre el conf",
-      "url": "https://confidencial.digital/opinion/del-rio-al-mar-algunos-datos/",
-      "publishedAt": "Sat, 08 Aug 2026 06:10:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-algunos-datos",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a1e9bd5f0e671bcc",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Keny Navarrete, sospechoso de orquestar el asesinato de Samcam, anda libre en Nicaragua",
-      "summary": "El nicaragüense Keny Hosman Navarrete Vallecillo, señalado como el presunto orquestador del asesinato del mayor en retiro Roberto Samcam Ruiz en Costa Rica, anda libre en Nicaragua, confirmaron a CONFIDENCIAL diversas fuentes cercanas al caso. Navarrete Vallec",
-      "url": "https://confidencial.digital/noticias/keny-navarrete-asesinato-roberto-samcam-nicaragua/",
-      "publishedAt": "Fri, 07 Aug 2026 17:03:52 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-keny-navarrete",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "662df0350305cd25",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "¿Por qué el Banco Central de Rusia está vendiendo su oro?",
-      "summary": "Rusia ha vendido cantidades significativas de sus reservas de oro en lo que va de 2026, ya que el Kremlin busca obtener liquidez para compensar un importante déficit presupuestario. El Banco Central de Rusia anunció recientemente que sus reservas de oro ascend",
-      "url": "https://confidencial.digital/mundo/por-que-el-banco-central-de-rusia-esta-vendiendo-su-oro/",
-      "publishedAt": "Fri, 07 Aug 2026 15:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-banco",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b27841a82657998e",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La Cuevita, el verdadero mercado mayorista de Cuba, abastece la economía nacional",
-      "summary": "Aquí se viene a comprar el litro de aceite por unos 3.500 pesos para revenderlo por 5.000 en los barrios de La Habana El gobierno de la capital actúa contra el \"aumento desmedido de los precios\" del pollo y otros productos de primera necesidad",
-      "url": "https://www.14ymedio.com/cuba/cuevita-verdadero-mercado-mayorista-cuba_1_1129532.html",
-      "publishedAt": "Thu, 06 Aug 2026 17:21:28 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-economia-politica-cuba-economia-politica-cuevita",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9e1903f5e1e21150",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Guardianes del bosque en prisión: el precio por defender el territorio",
-      "summary": "Un cartel en redes sociales con fotografías de ocho guardabosques de la etnia mayagna es una de las manifestaciones más recientes de una tragedia expresada en diversos y graves abusos —en total impunidad— contra las poblaciones de la Costa Caribe de Nicaragua.",
-      "url": "https://confidencial.digital/reportajes/la-condena-contra-los-guardabosques-indigenas-en-nicaragua/",
-      "publishedAt": "Sun, 09 Aug 2026 07:20:00 +0000",
+      "title": "¿Quién y por qué priorizar en la ciencia?",
+      "summary": "La entrada ¿Quién y por qué priorizar en la ciencia? se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/09/quien-y-por-que-priorizar-en-la-ciencia/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=quien-y-por-que-priorizar-en-la-ciencia",
+      "publishedAt": "Sun, 09 Aug 2026 13:33:26 +0000",
       "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-guardianes-bosque",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "eventKey": "chile-probidad-chile-probidad-quien-priorizar",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
-      "id": "269a95a3fc67b5d7",
+      "id": "40f4adb9ee5e1822",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca?",
-      "summary": "El gabinete de Abelardo reubica el epicentro del poder político a Barranquilla, pero gobierna sin el Pacífico, el Valle, la Amazonía ni la Orinoquía. The post La hora del Caribe con Abelardo de la Espriella: ¿un gabinete de los nunca? appeared first on La Sill",
-      "url": "https://www.lasillavacia.com/opinion/la-hora-del-caribe-con-abelardo-de-la-espriella-un-gabinete-de-los-nunca/",
-      "publishedAt": "Sun, 09 Aug 2026 02:51:57 +0000",
+      "title": "La segunda batalla cultural",
+      "summary": "Ya es sabido que hay más de una cultura colombiana, y hoy lo que se disputa es cuál domina la visión de país por un cuatrienio. The post La segunda batalla cultural appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/la-segunda-batalla-cultural/",
+      "publishedAt": "Sun, 09 Aug 2026 13:09:55 +0000",
       "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-hora-caribe",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-segunda-batalla",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
-      "id": "9020f8115d7b01d0",
+      "id": "e6ee39799e506ac9",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Las claves de la posesión de De la Espriella",
-      "summary": "Juanita León y Héctor Riveros analizan la puesta en escena de la ceremonia de posesión y el primer discurso de De la Espriella. The post Las claves de la posesión de De la Espriella appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/las-claves-de-la-posesion-de-de-la-espriella/",
-      "publishedAt": "Sat, 08 Aug 2026 21:27:56 +0000",
+      "title": "El otro Abelardo",
+      "summary": "Hasta hace unos años, cuando alguien se refería a ‘Abelardo’, hablando de política colombiana, muy seguramente se refería a Abelardo Forero Benavides, el intelectual y político liberal de Facatativá que falleció en el 2003. The post El otro Abelardo appeared f",
+      "url": "https://www.lasillavacia.com/opinion/el-otro-abelardo/",
+      "publishedAt": "Sun, 09 Aug 2026 12:00:00 +0000",
       "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-claves-posesion",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-otro-abelardo",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -1032,8 +848,25 @@
       "publishedAt": "Sat, 08 Aug 2026 18:19:18 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-estamos-viviendo",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6cb6a6fb70e08f94",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "La dignidad de lo ordinario",
+      "summary": "La entrada La dignidad de lo ordinario se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/08/la-dignidad-de-lo-ordinario/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-dignidad-de-lo-ordinario",
+      "publishedAt": "Sat, 08 Aug 2026 13:25:23 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-dignidad-ordinario",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -1049,42 +882,8 @@
       "publishedAt": "Sat, 08 Aug 2026 12:24:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-pesca-mejor",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a84f8a23972394e2",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "La identidad que no entra en terapia: lo que el exilio me obligó a nombrar",
-      "summary": "Desde niña aprendí a escuchar el dolor de otra forma. En mi territorio no se hablaba de salud mental como ahora se nombra en las ciudades o en redes sociales. Se hablaba del dolor del alma, del cuerpo que arde, de la sofocación. Se hablaba de espíritus, de lo ",
-      "url": "https://confidencial.digital/revista-niu/testimonio-indigenas-salud-mental-exilio/",
-      "publishedAt": "Sat, 08 Aug 2026 07:20:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-identidad-entra",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "20c29be20ea06d38",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Achiote: una ancestral semillita roja vive un auge exportador",
-      "summary": "Presente en la gastronomía, la cosmética y las culturas ancestrales, el achiote gana, sin aspavimientos, mercado internacional. Conocido como axiotl, urucú, bija, anoto: se sabe de su existencia, no se conoce su fruto. “Es importante entender que el achiote co",
-      "url": "https://confidencial.digital/revista-niu/achiote-una-ancestral-semillita-roja-vive-un-auge-exportador/",
-      "publishedAt": "Fri, 07 Aug 2026 16:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-achiote-ancestral",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -1100,8 +899,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-contribuciones-problema",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -1117,8 +916,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-garantia-existe",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     },
     {
@@ -1134,25 +933,8 @@
       "publishedAt": "Fri, 07 Aug 2026 02:48:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-caso-fundamenta",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
-      "seenCount": 1
-    },
-    {
-      "id": "898f32e9fac62892",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Becas FONDECYT postdoctorado y el arraigo a Chile",
-      "summary": "La entrada Becas FONDECYT postdoctorado y el arraigo a Chile se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/08/05/becas-fondecyt-postdoctorado-y-el-arraigo-a-chile/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=becas-fondecyt-postdoctorado-y-el-arraigo-a-chile",
-      "publishedAt": "Wed, 05 Aug 2026 14:00:38 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-09T13:00:13.196Z",
-      "lastSeenAt": "2026-08-09T13:00:13.196Z",
+      "firstSeenAt": "2026-08-09T18:48:26.498Z",
+      "lastSeenAt": "2026-08-09T18:48:26.498Z",
       "seenCount": 1
     }
   ]
