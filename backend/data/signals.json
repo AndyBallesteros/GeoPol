@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-10T07:49:43.993Z",
-  "count": 60,
+  "generatedAt": "2026-08-10T13:18:45.662Z",
+  "count": 62,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-10T07:49:43.993Z",
-    "activeSignals": 60,
-    "archiveSignals": 118,
-    "countriesCovered": 8,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 6.58
+    "generatedAt": "2026-08-10T13:18:45.662Z",
+    "activeSignals": 62,
+    "archiveSignals": 120,
+    "countriesCovered": 9,
+    "highPrioritySignals": 30,
+    "averagePoliticalScore": 6.92
   },
   "briefings": [
     {
@@ -58,34 +58,34 @@
       "summary": "Foco en Economia politica, Seguridad. Vigilar CIPER y CIPER."
     },
     {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Miguel Torres: “El Perú entero le está pidiendo al Congreso en su integridad que dé la talla”",
+      "leadUrl": "https://elcomercio.pe/politica/miguel-torres-el-peru-entero-le-esta-pidiendo-al-congreso-en-su-integridad-que-de-la-talla-entrevista-presidente-del-senado-y-segundo-vicepresidente-de-la-republica-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 6,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
+    },
+    {
       "country": "Cuba",
       "priority": "Alta",
-      "leadTitle": "El Senado confirma a Todd Blanche, ex abogado de Trump, como nuevo fiscal general de EE UU",
-      "leadUrl": "https://www.14ymedio.com/internacional/senado-confirma-todd-blanche-ex_1_1129607.html",
+      "leadTitle": "Un centenar de masones frustran el intento del Gobierno de apartar al líder del Supremo Consejo",
+      "leadUrl": "https://www.14ymedio.com/cuba/centenar-masones-frustran-gobierno-apartar_1_1129568.html",
       "focusTopics": [
-        "Elecciones",
         "Instituciones",
-        "Economia politica"
+        "Economia politica",
+        "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Quién es Zandra María Bernal Rincón",
-      "leadUrl": "https://www.lasillavacia.com/quien-es-quien/quien-es-zandra-maria-bernal-rincon/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Instituciones, Economia politica, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Venezuela",
@@ -117,6 +117,20 @@
       "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Quién es Zandra María Bernal Rincón",
+      "leadUrl": "https://www.lasillavacia.com/quien-es-quien/quien-es-zandra-maria-bernal-rincon/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
       "country": "Espana",
       "priority": "Media",
       "leadTitle": "Pedro Sánchez choca con una UE antinmigración",
@@ -129,7 +143,7 @@
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 5,
+      "signalCount": 4,
       "summary": "Foco en Diplomacia, Gobernabilidad. Vigilar El Pais y El Mundo."
     }
   ],
@@ -147,8 +161,8 @@
       "publishedAt": "Mon, 10 Aug 2026 00:26:44 +0000",
       "politicalScore": 19,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-rosca",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -164,8 +178,25 @@
       "publishedAt": "Fri, 07 Aug 2026 01:05:03 +0000",
       "politicalScore": 18,
       "eventKey": "chile-economia-politica-chile-economia-politica-joaquin",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "eb96e260001000e9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "summary": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "publishedAt": "Mon, 10 Aug 2026 10:29:03 +0000",
+      "politicalScore": 16,
+      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -181,8 +212,25 @@
       "publishedAt": "Mon, 10 Aug 2026 00:22:31 +0000",
       "politicalScore": 15,
       "eventKey": "argentina-elecciones-argentina-elecciones-zonas-frias",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "71acb4aa3202d8c9",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Miguel Torres: “El Perú entero le está pidiendo al Congreso en su integridad que dé la talla”",
+      "summary": "El flamante presidente del Senado nos recibe en la misma oficina que ocupó su padre Carlos Torres y Torres Lara. Asegura que su cámara priorizará devolver la estabilidad y el orden al país. Señala que el próximo debate de delegación de facultades legislativas ",
+      "url": "https://elcomercio.pe/politica/miguel-torres-el-peru-entero-le-esta-pidiendo-al-congreso-en-su-integridad-que-de-la-talla-entrevista-presidente-del-senado-y-segundo-vicepresidente-de-la-republica-noticia/",
+      "publishedAt": "Mon, 10 Aug 2026 12:57:29 +0000",
+      "politicalScore": 13,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-miguel-torres",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -198,25 +246,25 @@
       "publishedAt": "Mon, 10 Aug 2026 07:10:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-anulacion-malestar",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
-      "id": "32aa532d5abae937",
+      "id": "020d982a1c7cff6d",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Aliados volátiles: un escenario incierto lleva a los gobernadores a hacer sentir su peso en el Congreso",
-      "summary": "Los mandatarios provinciales esperan definiciones de Milei y su hermana Karina de cara al año electoral; no terminan de apoyar la eliminación de las PASO que impulsa el Gobierno",
-      "url": "https://www.lanacion.com.ar/politica/aliados-volatiles-un-escenario-incierto-lleva-a-los-gobernadores-a-hacer-sentir-su-peso-en-el-nid09082026/",
-      "publishedAt": "Sun, 09 Aug 2026 20:14:23 +0000",
-      "politicalScore": 13,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-aliados",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "title": "Qué dijo Jorge Macri sobre el operativo en el Senado durante el debate de la Ley de Tierras del jueves pasado",
+      "summary": "El jefe comunal habló sobre el operativo realizado en las inmediaciones del Congreso; sus frases más fuertes",
+      "url": "https://www.lanacion.com.ar/politica/que-dijo-jorge-macri-sobre-el-operativo-en-el-senado-durante-el-debate-de-la-ley-de-tierras-del-nid10082026/",
+      "publishedAt": "Mon, 10 Aug 2026 12:58:37 +0000",
+      "politicalScore": 12,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-dijo",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -232,8 +280,25 @@
       "publishedAt": "Sun, 09 Aug 2026 23:38:34 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-piden",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b2b331e02796f871",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Diputados 2026-2031: Esta es la experiencia, nivel académico y perfil de la nueva Cámara Baja del Congreso",
+      "summary": "Diputados 2026-2031: Esta es la experiencia, nivel académico y perfil de la nueva Cámara Baja del Congreso | El 15% de representantes cuenta con experiencia en la era unicameral, y otro 10% por haber sido asesores legislativos. Los abogados y docentes predomin",
+      "url": "https://elcomercio.pe/politica/congreso/diputados-2026-2031-esta-es-la-experiencia-nivel-academico-y-perfil-de-la-nueva-camara-baja-del-congreso-bicameralidad-tlcnota-noticia/",
+      "publishedAt": "Mon, 10 Aug 2026 13:01:24 +0000",
+      "politicalScore": 11,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-diputados-2026",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -249,8 +314,8 @@
       "publishedAt": "Mon, 10 Aug 2026 00:04:06 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-cuenta",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -266,25 +331,8 @@
       "publishedAt": "Mon, 10 Aug 2026 02:04:00 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-jorge",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cf853538b0390626",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El Senado confirma a Todd Blanche, ex abogado de Trump, como nuevo fiscal general de EE UU",
-      "summary": "Dos senadoras republicanas se unieron a los demócratas para votar contra un nombramiento que salió adelante por un solo voto",
-      "url": "https://www.14ymedio.com/internacional/senado-confirma-todd-blanche-ex_1_1129607.html",
-      "publishedAt": "Sun, 09 Aug 2026 13:43:03 +0000",
-      "politicalScore": 10,
-      "eventKey": "cuba-elecciones-cuba-elecciones-senado-confirma",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -300,8 +348,8 @@
       "publishedAt": "Thu, 06 Aug 2026 02:15:41 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-kast-anuncia",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -317,8 +365,42 @@
       "publishedAt": "Sat, 08 Aug 2026 15:24:37 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-donald-trump",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bd06ec6b4c66ab87",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Diputados: Piden que Comisión de Ética evalúe en la sesión de este lunes denuncia contra Pérez Mallqui por agresión",
+      "summary": "Ultima actualizacion de El Comercio.",
+      "url": "https://elcomercio.pe/politica/caso-julian-perez-diputados-bancadas-piden-que-comision-de-etica-evalue-el-lunes-denuncia-contra-diputado-denunciad-por-agresion-noticia/",
+      "publishedAt": "Mon, 10 Aug 2026 13:11:24 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-diputados-piden",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c2bc61653979f42",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "La fiscalía intimó a Manuel Adorni a que explique su crecimiento patrimonial",
+      "summary": "Si el exjefe de Gabinete de Milei no logra justificar sus bienes, el paso siguiente será citarlo a indagatoria; Pollicita le dio un plazo de 15 días para que explique la procedencia de sus fondos y los de su esposa",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-intimo-a-manuel-adorni-para-que-explique-su-patrimonio-nid10082026/",
+      "publishedAt": "Mon, 10 Aug 2026 12:24:47 +0000",
+      "politicalScore": 8,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscalia",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -334,8 +416,8 @@
       "publishedAt": "Sun, 09 Aug 2026 22:51:46 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-claves-primera",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -351,8 +433,8 @@
       "publishedAt": "Sun, 09 Aug 2026 22:15:03 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-vacunatorio",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -368,8 +450,8 @@
       "publishedAt": "Sun, 09 Aug 2026 07:10:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-amenaza-hemisferica",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -385,8 +467,8 @@
       "publishedAt": "Sun, 09 Aug 2026 06:45:00 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-captura-maduro",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -402,8 +484,59 @@
       "publishedAt": "Fri, 07 Aug 2026 18:14:09 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-instituciones-cuba-instituciones-centenar-masones",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c44bf1b4159e2e0d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Envalentonados",
+      "summary": "Si Javier Milei no quiere que vuelva el kirchnerismo, en modo envalentonado, no debería minimizar la sucesión de errores que el Gobierno viene cometiendo desde su intento de relanzamiento",
+      "url": "https://www.lanacion.com.ar/politica/envalentonados-nid10082026/",
+      "publishedAt": "Mon, 10 Aug 2026 13:07:27 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-envalentonados",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "78e67243d05fb2ed",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Encuesta Datum: Keiko Fujimori inicia con 60% de aprobación, ¿dónde tiene mayor respaldo?",
+      "summary": "La presidenta Keiko Fujimori inicia su gobierno con 60% de aprobación, un nivel de respaldo cercano al registrado por varios de sus antecesores, pero a su vez muy superior al 39% con el que Pedro Castillo comenzó su mandato en 2021, según la más reciente encue",
+      "url": "https://elcomercio.pe/politica/encuesta-datum-internacional-agosto-keiko-fujimori-inicia-su-gobierno-con-60-de-respaldo-ciudadano-congreso-noticia/",
+      "publishedAt": "Mon, 10 Aug 2026 12:56:43 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-elecciones-peru-elecciones-encuesta-datum",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "738aaef7025bb69c",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Las izquierdas: esas pequeñas diferencias, una crónica de Fernando Vivas sobre el bloque opositor en el Congreso",
+      "summary": "Las izquierdas buscan mantener unido el bloque opositor en el Congreso, pero sus diferencias internas y posiciones frente al pedido de facultades legislativas de Keiko Fujimori ponen a prueba su capacidad para votar en conjunto.",
+      "url": "https://elcomercio.pe/politica/congreso-bicameral-las-izquierdas-esas-pequenas-diferencias-una-cronica-de-fernando-vivas-noticia/",
+      "publishedAt": "Mon, 10 Aug 2026 12:56:31 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-izquierdas-esas",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -419,8 +552,8 @@
       "publishedAt": "Mon, 10 Aug 2026 05:17:30 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-quien-zandra",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -436,59 +569,8 @@
       "publishedAt": "Mon, 10 Aug 2026 05:06:01 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-quien-juan",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "06800fdd99dc383a",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Quién es María Angélica Guerra López",
-      "summary": "Perfil de María Angélica Guerra López senadora del Centro Democrático e integrante de la Comisión Tercera para el periodo 2026-2030. The post Quién es María Angélica Guerra López appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-angelica-guerra-lopez/",
-      "publishedAt": "Mon, 10 Aug 2026 04:50:25 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-quien-maria",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "870d6bdb489f9dfb",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Quién es María Clara Posada Caicedo",
-      "summary": "Perfil de María Clara Posada Caicedo senadora del Centro Democrático e integrante de la Comisión Primera para el periodo 2026-2030. The post Quién es María Clara Posada Caicedo appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-maria-clara-posada-caicedo/",
-      "publishedAt": "Mon, 10 Aug 2026 04:30:04 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-quien-maria",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "58a171e477b65df9",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Quién es Julia Correa Nuttin",
-      "summary": "Perfil de Julia Correa Nuttin senadora del Centro Democrático e integrante de la Comisión Sexta para el periodo 2026-2030. The post Quién es Julia Correa Nuttin appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/quien-es-quien/quien-es-julia-correa-nuttin/",
-      "publishedAt": "Mon, 10 Aug 2026 04:13:55 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-quien-julia",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -504,8 +586,8 @@
       "publishedAt": "Mon, 10 Aug 2026 00:00:39 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -521,8 +603,8 @@
       "publishedAt": "Sun, 09 Aug 2026 21:00:03 -0300",
       "politicalScore": 7,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-sanchez-defendio",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -538,8 +620,8 @@
       "publishedAt": "Mon, 10 Aug 2026 00:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-aislamiento",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -555,8 +637,8 @@
       "publishedAt": "Sun, 09 Aug 2026 18:45:24 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-quien-mata",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -572,8 +654,8 @@
       "publishedAt": "Sun, 09 Aug 2026 12:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-triunvirato-chavismo",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -589,8 +671,8 @@
       "publishedAt": "Mon, 10 Aug 2026 07:15:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-trump-ormu",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -606,8 +688,8 @@
       "publishedAt": "Sun, 09 Aug 2026 23:02:10 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-peruanos-repatriados",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -623,8 +705,8 @@
       "publishedAt": "Sun, 09 Aug 2026 13:02:01 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -640,25 +722,8 @@
       "publishedAt": "Sun, 09 Aug 2026 07:05:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-derecho-interamericano",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "71bf0be7a800d4e8",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Nuevas sanciones de EE UU contra los que \"facilitan los envíos de armas al régimen cubano\"",
-      "summary": "El Departamento de Estado penaliza a cinco entidades y ocho altos funcionarios cubanos, entre ellos el ministro de las Fuerzas Armadas, Álvaro López Miera",
-      "url": "https://www.14ymedio.com/cuba/nuevas-sanciones-ee-uu-facilitan_1_1129545.html",
-      "publishedAt": "Fri, 07 Aug 2026 09:08:18 +0000",
-      "politicalScore": 6,
-      "eventKey": "cuba-diplomacia-cuba-diplomacia-nuevas-sanciones",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -674,8 +739,8 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-diplomacia-espana-diplomacia-pedro-sanchez",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -691,8 +756,8 @@
       "publishedAt": "Sun, 09 Aug 2026 06:15:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-alguien-carcel",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -708,8 +773,8 @@
       "publishedAt": "Sat, 08 Aug 2026 22:44:35 +0200",
       "politicalScore": 5,
       "eventKey": "espana-diplomacia-espana-diplomacia-sanchez-meloni",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -725,8 +790,8 @@
       "publishedAt": "Sat, 08 Aug 2026 06:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-apuntes",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -742,8 +807,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:51:47 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-vuelve-prioridad",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -759,8 +824,8 @@
       "publishedAt": "Sat, 08 Aug 2026 01:44:28 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-podcast-vuelve",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -776,8 +841,8 @@
       "publishedAt": "Fri, 07 Aug 2026 16:59:33 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-ejercito-pide",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -793,8 +858,8 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-notas-ceuta",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -810,25 +875,42 @@
       "publishedAt": "Wed, 05 Aug 2026 17:16:50 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-tribunal-confisca",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
-      "id": "355393af2b80a691",
-      "country": "Espana",
-      "source": "El Pais",
+      "id": "bf8efeecb42b9619",
+      "country": "Peru",
+      "source": "El Comercio",
       "sourceType": "Generalista",
-      "topic": "Instituciones",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "La oposición lanza una ofensiva en varios frentes contra Ayuso a cuenta del ático",
-      "summary": "La inexplicada compra del inmueble marcará el arranque del curso político en la Asamblea de Madrid y en los tribunales con la denuncia del PSOE",
-      "url": "https://elpais.com/espana/madrid/2026-08-10/la-oposicion-lanza-una-ofensiva-en-varios-frentes-contra-ayuso-a-cuenta-del-atico.html",
-      "publishedAt": "Mon, 10 Aug 2026 03:30:01 GMT",
+      "title": "Pedro Castillo: PJ evaluará pedido de excarcelación y nulidad de condena",
+      "summary": "Ultima actualizacion de El Comercio.",
+      "url": "https://elcomercio.pe/politica/pedro-castillo-pj-evaluara-nuevo-su-pedido-de-excarcelacion-y-nulidad-de-condena-por-el-golpe-de-estado-noticia/",
+      "publishedAt": "Mon, 10 Aug 2026 12:56:18 +0000",
       "politicalScore": 4,
-      "eventKey": "espana-instituciones-espana-instituciones-oposicion-lanza",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-pedro-castillo",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ba7600326e56dae3",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "De la Espriella presenta su primer parte de resultados contra los grupos armados ilegales",
+      "summary": "El presidente colombiano agradece el apoyo de María Corina Machado y afirma la voluntad de avanzar juntos",
+      "url": "https://www.14ymedio.com/internacional/espriella-presenta-primer-parte-resultados_1_1129626.html",
+      "publishedAt": "Mon, 10 Aug 2026 09:03:53 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-sociedad-cuba-sociedad-espriella-presenta",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -844,8 +926,8 @@
       "publishedAt": "Mon, 10 Aug 2026 00:04:05 -0300",
       "politicalScore": 4,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-sanidad-animal",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -861,8 +943,8 @@
       "publishedAt": "Mon, 10 Aug 2026 03:01:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-solo",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -878,59 +960,8 @@
       "publishedAt": "Mon, 10 Aug 2026 00:40:23 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-intendente",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9a9a2a39e11763c4",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Santa María y Marziotta desafían a Kicillof y piden a Cristina Kirchner como candidata del PJ",
-      "summary": "Están al frente de “Peronismo por la Provincia de Buenos Aires”; en su tercer encuentro, el espacio reclamó que la expresidenta pueda postularse en 2027 a pesar de su condena",
-      "url": "https://www.lanacion.com.ar/politica/santa-maria-y-marziotta-desafian-a-kicillof-y-piden-a-cristina-kirchner-como-candidata-del-pj-nid09082026/",
-      "publishedAt": "Sun, 09 Aug 2026 21:50:16 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-santa",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c4d2b9db331a6093",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Cambio de mando en Misiones: la silenciosa puja que en tres meses selló el ocaso de Rovira y el ascenso de Passalacqua",
-      "summary": "El gobernador presentó a su nuevo bloque en la Legislatura; sus integrantes son todos exleales al histórico líder; formalizó así el fin de una era que arrancó en 1999",
-      "url": "https://www.lanacion.com.ar/politica/cambio-de-mando-en-misiones-la-silenciosa-puja-que-en-tres-meses-sello-el-ocaso-de-rovira-y-el-nid09082026/",
-      "publishedAt": "Sun, 09 Aug 2026 21:34:22 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-cambio",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1b55a39e77162118",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Galperin cuestionó el dato de CAME sobre la caída del consumo y destacó el crecimiento de Mercado Libre",
-      "summary": "El empresario puso en duda que los indicadores difundidos por la entidad reflejen el comportamiento general de las ventas; resaltó que su compañía de comercio electrónico creció un 38% en moneda constante el último trimestre",
-      "url": "https://www.lanacion.com.ar/politica/galperin-cuestiono-el-dato-de-came-sobre-la-caida-del-consumo-y-destaco-el-crecimiento-de-mercado-nid09082026/",
-      "publishedAt": "Sun, 09 Aug 2026 21:06:13 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-galperin",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -946,8 +977,8 @@
       "publishedAt": "Sun, 09 Aug 2026 15:21:19 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -963,8 +994,8 @@
       "publishedAt": "Sun, 09 Aug 2026 15:02:37 +0200",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-italia-acusa",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -980,8 +1011,25 @@
       "publishedAt": "Sat, 08 Aug 2026 06:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-algunos-datos",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7d8e4d76468e16e7",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "Anuncian la muerte de 11 peruanos que luchaban en el Ejército ruso contra Ucrania",
+      "summary": "Además, 114 están desaparecidos y tres han sido capturados por el ejército ucraniano, informó el Ministerio de Relaciones Exteriores",
+      "url": "https://www.14ymedio.com/internacional/anuncian-muerte-11-peruanos-luchaban_1_1129622.html",
+      "publishedAt": "Mon, 10 Aug 2026 08:42:11 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-sociedad-cuba-sociedad-anuncian-muerte",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -997,8 +1045,8 @@
       "publishedAt": "Sun, 09 Aug 2026 18:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mientras-regresas",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +1062,8 @@
       "publishedAt": "Sun, 09 Aug 2026 13:33:26 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-quien-priorizar",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1031,8 +1079,8 @@
       "publishedAt": "Sun, 09 Aug 2026 07:20:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-guardianes-bosque",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1048,8 +1096,8 @@
       "publishedAt": "Sat, 08 Aug 2026 18:19:18 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-estamos-viviendo",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1065,8 +1113,8 @@
       "publishedAt": "Sat, 08 Aug 2026 13:25:23 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-dignidad-ordinario",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1082,8 +1130,8 @@
       "publishedAt": "Sat, 08 Aug 2026 12:24:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-pesca-mejor",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1099,8 +1147,8 @@
       "publishedAt": "Sat, 08 Aug 2026 07:20:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-identidad-entra",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1116,8 +1164,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-contribuciones-problema",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1133,8 +1181,8 @@
       "publishedAt": "Fri, 07 Aug 2026 08:00:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-garantia-existe",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     },
     {
@@ -1150,8 +1198,8 @@
       "publishedAt": "Fri, 07 Aug 2026 02:48:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-caso-fundamenta",
-      "firstSeenAt": "2026-08-10T07:49:43.993Z",
-      "lastSeenAt": "2026-08-10T07:49:43.993Z",
+      "firstSeenAt": "2026-08-10T13:18:45.662Z",
+      "lastSeenAt": "2026-08-10T13:18:45.662Z",
       "seenCount": 1
     }
   ]
