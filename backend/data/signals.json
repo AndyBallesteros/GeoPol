@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-14T02:20:17.537Z",
-  "count": 68,
+  "generatedAt": "2026-08-14T07:38:40.930Z",
+  "count": 56,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-14T02:20:17.537Z",
-    "activeSignals": 68,
-    "archiveSignals": 126,
-    "countriesCovered": 9,
-    "highPrioritySignals": 24,
-    "averagePoliticalScore": 5.85
+    "generatedAt": "2026-08-14T07:38:40.930Z",
+    "activeSignals": 56,
+    "archiveSignals": 114,
+    "countriesCovered": 8,
+    "highPrioritySignals": 17,
+    "averagePoliticalScore": 5.41
   },
   "briefings": [
     {
@@ -29,8 +29,8 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "El nuevo juez del caso Insaurralde juró ante lo más granado de la familia judicial",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-nuevo-juez-del-caso-insaurralde-juro-ante-lo-mas-granado-de-la-familia-judicial-nid13082026/",
+      "leadTitle": "El oficialismo avanza en un acuerdo con Pro y la oposición se reúne en una cumbre reservada",
+      "leadUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
       "focusTopics": [
         "Economia politica"
       ],
@@ -53,37 +53,8 @@
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 12,
+      "signalCount": 11,
       "summary": "Foco en Diplomacia, Economia politica, Instituciones. Vigilar Confidencial y Confidencial."
-    },
-    {
-      "country": "Uruguay",
-      "priority": "Alta",
-      "leadTitle": "Plan de riego: el gobierno tiene en estudio cinco “proyectos piloto” de represas y define “instrumentos tarifarios”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/plan-de-riego-el-gobierno-tiene-en-estudio-cinco-proyectos-piloto-de-represas-y-define-instrumentos-tarifarios/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Diaria"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "La foto: Abelardo se reúne con la fiscal general",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/la-foto-abelardo-se-reune-con-la-fiscal-general/",
-      "focusTopics": [
-        "Economia politica",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Venezuela",
@@ -122,30 +93,42 @@
       "leadUrl": "https://elpais.com/espana/2026-08-13/marlaska-envia-a-ceuta-mas-policias-de-extranjeria-para-acelerar-la-expulsion-de-migrantes.html",
       "focusTopics": [
         "Seguridad",
-        "Diplomacia",
         "Gobernabilidad"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Seguridad, Diplomacia, Gobernabilidad. Vigilar El Pais y El Pais."
+      "signalCount": 4,
+      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar El Pais y El Mundo."
     },
     {
-      "country": "Peru",
+      "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Mano dura contra el crimen y acercamiento a Estados Unidos: el plan de Flávio Bolsonaro para Brasil",
-      "leadUrl": "https://elcomercio.pe/mundo/latinoamerica/elecciones-brasil-2026-mano-dura-contra-el-crimen-y-acercamiento-a-estados-unidos-el-plan-de-flavio-bolsonaro-para-brasil-ultimas-noticia/",
+      "leadTitle": "Plan de riego: el gobierno tiene en estudio cinco “proyectos piloto” de represas y define “instrumentos tarifarios”",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/plan-de-riego-el-gobierno-tiene-en-estudio-cinco-proyectos-piloto-de-represas-y-define-instrumentos-tarifarios/",
       "focusTopics": [
-        "Seguridad",
         "Elecciones"
       ],
       "topSources": [
-        "El Comercio"
+        "La Diaria"
       ],
       "signalCount": 2,
-      "summary": "Foco en Seguridad, Elecciones. Vigilar El Comercio y El Comercio."
+      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Las ocho movidas de último minuto de Gustavo Petro como presidente",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/las-ocho-movidas-de-ultimo-minuto-de-gustavo-petro-como-presidente/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     }
   ],
   "signals": [
@@ -162,59 +145,25 @@
       "publishedAt": "Thu, 13 Aug 2026 22:46:02 -0300",
       "politicalScore": 16,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-plan-riego",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
-      "id": "bb687245de739b31",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El Niño: Orsi se reunió con el Congreso de Intendentes para empezar a coordinar el plan de contingencia",
-      "summary": "“La mejor respuesta es la que se prepara a tiempo”, subrayó el presidente, y destacó que el gobierno y las intendencias están trabajando juntos para anticiparse al fenómeno “y estar cerca de la gente cuando sea necesario”. La Mesa del Congreso de Intendentes s",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/el-nino-orsi-se-reunio-con-el-congreso-de-intendentes-para-empezar-a-coordinar-el-plan-de-contingencia/",
-      "publishedAt": "Thu, 13 Aug 2026 20:17:02 -0300",
-      "politicalScore": 15,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-nino-orsi",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a4f8394756805449",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Mano dura contra el crimen y acercamiento a Estados Unidos: el plan de Flávio Bolsonaro para Brasil",
-      "summary": "Elecciones Brasil 2026 | El candidato presidencial brasileño Flávio Bolsonaro divulgó este jueves su programa electoral, que tiene entre sus principales propuestas el acercamiento a Estados Unidos, la mano dura contra el crimen organizado y una reforma de Pode",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-brasil-2026-mano-dura-contra-el-crimen-y-acercamiento-a-estados-unidos-el-plan-de-flavio-bolsonaro-para-brasil-ultimas-noticia/",
-      "publishedAt": "Fri, 14 Aug 2026 01:19:37 +0000",
-      "politicalScore": 12,
-      "eventKey": "peru-seguridad-peru-seguridad-mano-dura",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9a175977b8f98cc1",
+      "id": "fa99b164be02934b",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "El nuevo juez del caso Insaurralde juró ante lo más granado de la familia judicial",
-      "summary": "Es Juan Tomás Rodríguez Ponte, exsecretario de Ariel Lijo y funcionario que estaba a cargo de las escuchas telefónicas; en la ceremonia participaron jueces, camaristas, fiscales, cortesanos y ministros",
-      "url": "https://www.lanacion.com.ar/politica/el-nuevo-juez-del-caso-insaurralde-juro-ante-lo-mas-granado-de-la-familia-judicial-nid13082026/",
-      "publishedAt": "Thu, 13 Aug 2026 20:54:41 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-nuevo",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "title": "El oficialismo avanza en un acuerdo con Pro y la oposición se reúne en una cumbre reservada",
+      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
+      "publishedAt": "Fri, 14 Aug 2026 02:40:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-oficialismo",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -230,8 +179,8 @@
       "publishedAt": "Thu, 13 Aug 2026 00:17:26 +0000",
       "politicalScore": 11,
       "eventKey": "chile-probidad-chile-probidad-vivanco-niega",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -244,11 +193,11 @@
       "title": "Horacio Marín habló sobre el precio de la nafta: “No vamos a especular”",
       "summary": "El CEO y presidente de YPF sostuvo que a ningún gobierno provincial le tocamos las regalías y se refirió a la nueva inversión que se desarrollará en el país",
       "url": "https://www.lanacion.com.ar/politica/horacio-marin-hablo-sobre-el-precio-de-la-nafta-no-vamos-a-especular-nid13082026/",
-      "publishedAt": "Fri, 14 Aug 2026 02:10:24 +0000",
+      "publishedAt": "Fri, 14 Aug 2026 05:40:24 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-horacio",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -264,25 +213,8 @@
       "publishedAt": "Tue, 11 Aug 2026 00:20:42 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-gobierno-retirara",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a2d9fa82b870721c",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La esposa del alcalde de Guayaquil busca reemplazarlo en el cargo con apoyo del correísmo",
-      "summary": "Fiorella Icaza, la esposa del encarcelado alcalde de Guayaquil, Aquiles Alvarez, uno de los principales opositores al presidente de Ecuador, Daniel Noboa, inscribió este jueves su candidatura a esa misma dignidad para las elecciones de noviembre bajo el auspic",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/aquiles-alvarez-la-esposa-del-alcalde-de-guayaquil-busca-reemplazarlo-en-el-cargo-con-apoyo-del-correismo-fiorella-icaza-daniel-noboa-ultimas-noticia/",
-      "publishedAt": "Fri, 14 Aug 2026 02:02:47 +0000",
-      "politicalScore": 9,
-      "eventKey": "peru-elecciones-peru-elecciones-esposa-alcalde",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -295,28 +227,28 @@
       "title": "Un gobierno necesitado de gobernabilidad y certezas",
       "summary": "El encuentro de ayer en la Casa Rosada con lo que queda de Pro fue una muestra gratis de las dificultades que atraviesa el oficialismo, tanto como de las enormes fragilidades del submarino amarillo",
       "url": "https://www.lanacion.com.ar/politica/un-gobierno-necesitado-de-gobernabilidad-y-certezas-nid13082026/",
-      "publishedAt": "Fri, 14 Aug 2026 00:30:00 +0000",
+      "publishedAt": "Fri, 14 Aug 2026 06:54:49 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
-      "id": "07145a2e2ba8e02f",
-      "country": "Uruguay",
-      "source": "La Diaria",
+      "id": "3582746a17a45593",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Alejandro Sánchez dijo que el país “no puede ser rehén” del conflicto en la terminal especializada del puerto de Montevideo",
-      "summary": "El secretario de Presidencia explicó que el gobierno observa la situación “con mucha preocupación” y trabaja “intensamente” de manera de llegar a un acuerdo que ponga fin a la situación. El secretario de Presidencia, Alejandro Sánchez, sostuvo que Uruguay “no ",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/alejandro-sanchez-dijo-que-el-pais-no-puede-ser-rehen-del-conflicto-en-la-terminal-especializada-del-puerto-de-montevideo/",
-      "publishedAt": "Thu, 13 Aug 2026 20:34:37 -0300",
+      "title": "Las ocho movidas de último minuto de Gustavo Petro como presidente",
+      "summary": "Antes de irse, dejó firmadas leyes, decretos y resoluciones sobre alimentación universitaria, sindicatos y otros temas clave para grupos que se movilizaron a su favor. The post Las ocho movidas de último minuto de Gustavo Petro como presidente appeared first o",
+      "url": "https://www.lasillavacia.com/silla-nacional/las-ocho-movidas-de-ultimo-minuto-de-gustavo-petro-como-presidente/",
+      "publishedAt": "Fri, 14 Aug 2026 06:00:00 +0000",
       "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-alejandro-sanchez",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ocho-movidas",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -332,25 +264,8 @@
       "publishedAt": "Thu, 13 Aug 2026 23:26:32 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-karina-milei",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "caf88b69f2870ddb",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "“Más grave de lo que parece”: la pobreza entre niños de 0 a 3 años alcanza el 45%, según mediciones del Cinve",
-      "summary": "En una actividad coordinada con la PIAS, representantes de organizaciones sociales reclamaron “apretar el acelerador” para concretar la nueva política de transferencias unificadas. No más de 20 personas, entre ellas el presidente del Codicen de la Administraci",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/mas-grave-de-lo-que-parece-la-pobreza-entre-ninos-de-0-a-3-anos-alcanza-el-45-segun-mediciones-del-cinve/",
-      "publishedAt": "Thu, 13 Aug 2026 20:18:22 -0300",
-      "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-grave-parece",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -366,59 +281,25 @@
       "publishedAt": "Wed, 12 Aug 2026 19:35:06 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-trump-planea",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
-      "id": "2ffd53b237b98523",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
+      "id": "1abb5d1f96e1585b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Alta",
-      "title": "La foto: Abelardo se reúne con la fiscal general",
-      "summary": "Es el primer encuentro entre ambos. También estuvieron el ministro de Justicia y el vicefiscal. The post La foto: Abelardo se reúne con la fiscal general appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/la-foto-abelardo-se-reune-con-la-fiscal-general/",
-      "publishedAt": "Thu, 13 Aug 2026 23:49:40 +0000",
+      "title": "Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; PS suspende militancia de senador Fidel Espinoza por presunta VIF, y detienen a 72 personas en megaoperativo antidrogas",
+      "summary": "La entrada Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; PS suspende militancia de senador Fidel Espinoza por presunta VIF, y detienen a 72 personas en megaoperativo antidrogas se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/13/radar-13-08-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-13-08-2026",
+      "publishedAt": "Fri, 14 Aug 2026 00:27:30 +0000",
       "politicalScore": 8,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-foto",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4c967a75cd7da10c",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Cancillería nominó a Fernando Lugris como embajador uruguayo en India",
-      "summary": "Diplomático de carrera, el ahora director general para Asuntos Culturales de la cartera fue embajador de Uruguay ante China entre 2015 y 2025. El canciller de la República, Mario Lubetkin, nominó al director general para Asuntos Culturales del Ministerio de Re",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/cancilleria-nomino-a-fernando-lugris-como-embajador-uruguayo-en-india/",
-      "publishedAt": "Thu, 13 Aug 2026 19:31:44 -0300",
-      "politicalScore": 8,
-      "eventKey": "uruguay-diplomacia-uruguay-diplomacia-cancilleria-nomino",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "36ac7b80fe9510ab",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La Secretaría Nacional de Drogas lanzó una campaña que busca prevenir la naturalización del consumo problemático de alcohol",
-      "summary": "“No tenemos que eludir la responsabilidad que tenemos como adultos de que hay algo que estamos haciendo muy mal”, afirmó el secretario general del organismo. Este jueves, la Secretaría Nacional de Drogas (SND) lanzó la campaña de bien público “Evidencias famil",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/la-secretaria-nacional-de-drogas-lanzo-una-campana-que-busca-prevenir-la-naturalizacion-del-consumo-problematico-de-alcohol/",
-      "publishedAt": "Thu, 13 Aug 2026 19:15:51 -0300",
-      "politicalScore": 8,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-secretaria-nacional",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "eventKey": "chile-probidad-chile-probidad-gendarmeria-traslada",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -434,8 +315,8 @@
       "publishedAt": "Thu, 13 Aug 2026 21:33:20 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sobreseen",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -451,25 +332,8 @@
       "publishedAt": "Thu, 13 Aug 2026 22:37:35 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-macri",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "01b2b78ee907d41a",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Petro le dejó notaría a aliada de Jaime Dussán en Colpensiones",
-      "summary": "Efvanni Paola Palmariny Peñaranda llegó a la Notaría 78 de Bogotá por decreto del hoy expresidente a dos días de dejar el cargo. The post Petro le dejó notaría a aliada de Jaime Dussán en Colpensiones appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/petro-le-dejo-notaria-a-aliada-de-jaime-dussan-en-colpensiones/",
-      "publishedAt": "Thu, 13 Aug 2026 22:14:55 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-petro-dejo",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -485,8 +349,8 @@
       "publishedAt": "Thu, 13 Aug 2026 21:34:13 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-lamentan-exclusion",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -502,8 +366,8 @@
       "publishedAt": "Thu, 13 Aug 2026 15:59:19 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-sociedad-cuba-sociedad-precios-topados",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -519,8 +383,8 @@
       "publishedAt": "Thu, 13 Aug 2026 09:54:25 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-seguridad-cuba-seguridad-canciller-cubano",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -536,8 +400,8 @@
       "publishedAt": "Wed, 12 Aug 2026 21:38:19 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-sociedad-cuba-sociedad-guanabacoa-estalla",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -553,8 +417,8 @@
       "publishedAt": "Thu, 13 Aug 2026 13:51:16 GMT",
       "politicalScore": 4,
       "eventKey": "espana-seguridad-espana-seguridad-marlaska-envia",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -570,8 +434,8 @@
       "publishedAt": "Fri, 14 Aug 2026 00:31:08 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-seguridad-argentina-seguridad-monteoliva-expuso",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -587,25 +451,8 @@
       "publishedAt": "Thu, 13 Aug 2026 22:10:36 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-interna",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7c58dc82e7d97870",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Aprobación de Bergara se sitúa en 27% y desaprobación disminuye a 43%, según encuesta de Equipos",
-      "summary": "Por primera vez desde que asumió, el intendente de Montevideo revirtió la tendencia a la baja en los sondeos de opinión pública. Además de medir el nivel de satisfacción con el nuevo sistema de recolección de basura en aquellos barrios de la capital en los que",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/aprobacion-de-bergara-se-situa-en-27-y-desaprobacion-disminuye-a-43-segun-encuesta-de-equipos/",
-      "publishedAt": "Thu, 13 Aug 2026 17:56:07 -0300",
-      "politicalScore": 6,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-aprobacion-bergara",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -621,25 +468,8 @@
       "publishedAt": "Thu, 13 Aug 2026 14:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-espriella",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0bde0f33baac0288",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Pedro Sánchez choca con una UE antinmigración",
-      "summary": "El Gobierno podrá indignarse con sus socios, pero Europa se ceba con los que actúan a su aire",
-      "url": "https://elpais.com/opinion/2026-08-06/pedro-sanchez-choca-con-una-ue-antinmigracion.html",
-      "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-diplomacia-espana-diplomacia-pedro-sanchez",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -655,8 +485,8 @@
       "publishedAt": "Fri, 14 Aug 2026 00:50:26 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-primeros-acuerdos",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -672,42 +502,8 @@
       "publishedAt": "Fri, 14 Aug 2026 00:16:12 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ultimos-cupos",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "37f0388745ccf3ba",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Con terremoto, Abelardo paga precio de no tener empalme: The Economist",
-      "summary": "La influyente publicación británica hace un primer balance de la semana del nuevo presidente lidiando con la emergencia del terremoto. The post Con terremoto, Abelardo paga precio de no tener empalme: The Economist appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/con-terremoto-abelardo-paga-precio-de-no-tener-empalme-the-economist/",
-      "publishedAt": "Thu, 13 Aug 2026 23:09:31 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-terremoto",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0ad8e835488b4f05",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Terremoto: China ofrece US$1 millón para atender la emergencia",
-      "summary": "La embajada de ese país puso a disposición 78 toneladas de insumos. El gobierno aún no ha respondido. The post Terremoto: China ofrece US$1 millón para atender la emergencia appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/terremoto-china-ofrece-us1-millon-para-atender-la-emergencia/",
-      "publishedAt": "Thu, 13 Aug 2026 22:44:54 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-terremoto-china",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -723,8 +519,8 @@
       "publishedAt": "Thu, 13 Aug 2026 20:10:24 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-preso-politico",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -740,8 +536,8 @@
       "publishedAt": "Thu, 13 Aug 2026 19:54:09 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-jorge-millan",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -757,8 +553,8 @@
       "publishedAt": "Thu, 13 Aug 2026 19:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-figuera-compromete",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -774,8 +570,8 @@
       "publishedAt": "Thu, 13 Aug 2026 15:15:03 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-admite",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -791,8 +587,8 @@
       "publishedAt": "Thu, 13 Aug 2026 13:13:08 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-escucha-corazon",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -808,8 +604,8 @@
       "publishedAt": "Wed, 12 Aug 2026 22:50:06 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-gasta",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -825,25 +621,8 @@
       "publishedAt": "Wed, 12 Aug 2026 17:17:55 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuba-limites",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "66b6ba04c28beeec",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Más de 2600 Dimex permanecen sin retirar en Migración de Costa Rica",
-      "summary": "Un lote de 2614 Documentos de Identidad Migratorio para Extranjeros (Dimex) están a la espera de ser retirados hasta agosto de 2026, informó en un comunicado la Dirección General de Migración y Extranjería (DGME) de Costa Rica. Los documentos corresponden a Di",
-      "url": "https://confidencial.digital/noticias/mas-de-2600-dimex-permanecen-sin-retirar-en-migracion-de-costa-rica/",
-      "publishedAt": "Wed, 12 Aug 2026 06:11:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-2600-dimex",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -859,8 +638,8 @@
       "publishedAt": "Wed, 12 Aug 2026 00:35:27 +0000",
       "politicalScore": 5,
       "eventKey": "chile-economia-politica-chile-economia-politica-exfiscal",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -876,8 +655,25 @@
       "publishedAt": "Thu, 06 Aug 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-notas-ceuta",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
+      "seenCount": 1
+    },
+    {
+      "id": "790d22ba44dda206",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Karina Milei inauguró el local libertario para la Provincia y Pareja ya habla de Santilli como candidato",
+      "summary": "Acompañada por Martín Menem, fue recibida por la militancia que llegó desde el conurbano; “vamos a seguir trabajando por mejorar cada lugar de cada argentino”, dijo a LA NACION",
+      "url": "https://www.lanacion.com.ar/politica/karina-milei-encabeza-la-apertura-del-local-libertario-de-la-provincia-y-pareja-habla-de-santilli-nid13082026/",
+      "publishedAt": "Fri, 14 Aug 2026 06:54:19 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-karina",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -890,11 +686,28 @@
       "title": "Presentan nuevas imágenes en la causa por enriquecimiento ilícito que tiene en la mira a Martín Insaurralde y Jesica Cirio",
       "summary": "Los denunciantes advierten que la casa donde vivían fue modificada y los cajones con fajos de dólares fueron vaciados; el material tendría información que permitiría saber cuándo fueron grabados",
       "url": "https://www.lanacion.com.ar/politica/presentan-nuevas-imagenes-en-la-causa-por-enriquecimiento-ilicito-que-tiene-en-la-mira-a-insaurralde-nid13082026/",
-      "publishedAt": "Fri, 14 Aug 2026 02:14:15 +0000",
+      "publishedAt": "Fri, 14 Aug 2026 06:53:42 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-presentan",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
+      "seenCount": 1
+    },
+    {
+      "id": "596fef1286e1212a",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Dictadura obtiene un superávit de 40 mil millones en el primer semestre",
+      "summary": "A la dictadura le fue tan bien en la recaudación de impuestos entre enero y junio de 2026, que le alcanzó para pagar todos sus gastos del primer semestre, y aún le sobraron más de 40 mil millones de córdobas.&#160; Ese dinero sobrante (“superávit” en la jerga ",
+      "url": "https://confidencial.digital/analisis/presupuesto-nicaragua-superavit-primer-semestre-2026/",
+      "publishedAt": "Fri, 14 Aug 2026 06:04:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-dictadura",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -910,25 +723,8 @@
       "publishedAt": "Fri, 14 Aug 2026 01:05:03 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-paro",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "790d22ba44dda206",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Karina Milei inauguró el local libertario para la Provincia y Pareja ya habla de Santilli como candidato",
-      "summary": "Acompañada por Martín Menem, fue recibida por la militancia que llegó desde el conurbano; “vamos a seguir trabajando por mejorar cada lugar de cada argentino”, dijo a LA NACION",
-      "url": "https://www.lanacion.com.ar/politica/karina-milei-encabeza-la-apertura-del-local-libertario-de-la-provincia-y-pareja-habla-de-santilli-nid13082026/",
-      "publishedAt": "Thu, 13 Aug 2026 23:01:09 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-karina",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -944,8 +740,8 @@
       "publishedAt": "Thu, 13 Aug 2026 22:19:40 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-iglesia",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -961,8 +757,8 @@
       "publishedAt": "Thu, 13 Aug 2026 21:19:53 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-legislador",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -978,8 +774,8 @@
       "publishedAt": "Thu, 13 Aug 2026 11:33:26 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-lula-silva",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -995,8 +791,8 @@
       "publishedAt": "Wed, 12 Aug 2026 17:37:23 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-pedro-molina",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1012,25 +808,42 @@
       "publishedAt": "Wed, 12 Aug 2026 16:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-envalentonado-iran",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
-      "id": "1abb5d1f96e1585b",
-      "country": "Chile",
-      "source": "CIPER",
+      "id": "a8593a88d24dd9e1",
+      "country": "Nicaragua",
+      "source": "Confidencial",
       "sourceType": "Investigacion",
-      "topic": "Probidad",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; EE. UU. incluye a Chile entre países que China usaría para «triangular» sus productos, y detienen a 72 personas en megaoperativo antidrogas",
-      "summary": "La entrada Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; EE. UU. incluye a Chile entre países que China usaría para «triangular» sus productos, y detienen a 72 personas en megaoperativo antidrogas se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/08/13/radar-13-08-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-13-08-2026",
-      "publishedAt": "Fri, 14 Aug 2026 00:27:30 +0000",
+      "title": "Nicaragua mantiene en las sombras un millonario centro de emergencias con fondos chinos",
+      "summary": "El régimen orteguista mantiene en las sombras uno de sus proyectos más costosos: el Sistema Nacional de Respuesta a Emergencias (Sinarem). El centro de emergencia fue anunciado como un complejo para centralizar y coordinar la atención inmediata ante desastres ",
+      "url": "https://confidencial.digital/analisis/nicaragua-oculta-un-millonario-centro-de-emergencias-con-fondos-chinos/",
+      "publishedAt": "Fri, 14 Aug 2026 06:28:00 +0000",
       "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-gendarmeria-traslada",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mantiene-sombras",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9666c2ec73d24877",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Reproducción de la cultura y el trabajo rural: una tarea estratégica del Instituto Nacional de Colonización",
+      "summary": "En “Canción para mi guitarra”, Osiris recita: “Para que el gaucho no muera, para que nadie (nos) diga que ha muerto hace mucho tiempo crucificado en la risa, con un alambre de púas como corona de espinas”. Con precisión quirúrgica y sin ceder un milímetro de b",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/reproduccion-de-la-cultura-y-el-trabajo-rural-una-tarea-estrategica-del-instituto-nacional-de-colonizacion/",
+      "publishedAt": "Fri, 14 Aug 2026 00:10:47 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-reproduccion-cultura",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1046,8 +859,8 @@
       "publishedAt": "Thu, 13 Aug 2026 06:12:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-organizaciones-elevan",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1063,8 +876,8 @@
       "publishedAt": "Wed, 12 Aug 2026 22:58:21 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-niega",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1080,8 +893,8 @@
       "publishedAt": "Wed, 12 Aug 2026 21:46:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-exhiben-obispo",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1097,8 +910,8 @@
       "publishedAt": "Wed, 12 Aug 2026 19:32:58 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-nuevo-record",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1114,8 +927,8 @@
       "publishedAt": "Wed, 12 Aug 2026 17:46:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-favor-exvocero",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1131,8 +944,8 @@
       "publishedAt": "Wed, 12 Aug 2026 16:42:25 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-monica-gonzalez",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1148,8 +961,8 @@
       "publishedAt": "Wed, 12 Aug 2026 15:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-detecta-terremotos",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1165,25 +978,8 @@
       "publishedAt": "Wed, 12 Aug 2026 08:00:01 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-ciencia-pero",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1e043d458231c24a",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Rosario Murillo tilda de “traidores” a críticos de escultura de Fidel Castro en Nicaragua",
-      "summary": "La vocera y autonombrada “copresidenta” de Nicaragua, Rosario Murillo, arremetió contra aquellos que critican la escultura gigante que instalará el régimen en honor al fallecido dictador cubano Fidel Castro, con motivo del centenario del natalicio del que fuer",
-      "url": "https://confidencial.digital/noticias/rosario-murillo-tilda-de-traidores-a-criticos-de-escultura-de-fidel-castro-en-nicaragua/",
-      "publishedAt": "Wed, 12 Aug 2026 06:08:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-rosario-murillo",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1199,25 +995,8 @@
       "publishedAt": "Tue, 11 Aug 2026 23:25:54 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-monica-gonzalez",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a067aec4972c3ee0",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Búsqueda de desaparecidos y zozobra tras el peor terremoto del siglo en Colombia",
-      "summary": "El terremoto que sacudió el lunes 10 de agosto de 2026 a Colombia es el más fuerte en lo que va de este siglo en el país, mientras las autoridades todavía contabilizan sus daños y buscan entre los escombros a los supervivientes de esta tragedia. Las siguientes",
-      "url": "https://confidencial.digital/mundo/busqueda-de-desaparecidos-y-zozobra-tras-el-peor-terremoto-del-siglo-en-colombia/",
-      "publishedAt": "Tue, 11 Aug 2026 22:25:12 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-busqueda-desaparecidos",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1233,8 +1012,8 @@
       "publishedAt": "Tue, 11 Aug 2026 08:00:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-salida-movimiento",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1250,8 +1029,8 @@
       "publishedAt": "Tue, 11 Aug 2026 02:23:34 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-condiciones-pacientes",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1267,8 +1046,8 @@
       "publishedAt": "Mon, 10 Aug 2026 21:03:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-estudio-fundacion",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1284,8 +1063,8 @@
       "publishedAt": "Mon, 10 Aug 2026 02:00:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-requiem-educacion",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     },
     {
@@ -1301,8 +1080,8 @@
       "publishedAt": "Sun, 09 Aug 2026 13:33:26 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-quien-priorizar",
-      "firstSeenAt": "2026-08-14T02:20:17.537Z",
-      "lastSeenAt": "2026-08-14T02:20:17.537Z",
+      "firstSeenAt": "2026-08-14T07:38:40.930Z",
+      "lastSeenAt": "2026-08-14T07:38:40.930Z",
       "seenCount": 1
     }
   ]
