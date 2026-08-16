@@ -1,16 +1,31 @@
 {
-  "generatedAt": "2026-08-16T06:46:46.255Z",
-  "count": 55,
+  "generatedAt": "2026-08-16T12:48:05.174Z",
+  "count": 56,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-16T06:46:46.255Z",
-    "activeSignals": 55,
-    "archiveSignals": 113,
-    "countriesCovered": 8,
-    "highPrioritySignals": 11,
-    "averagePoliticalScore": 5.25
+    "generatedAt": "2026-08-16T12:48:05.174Z",
+    "activeSignals": 56,
+    "archiveSignals": 114,
+    "countriesCovered": 9,
+    "highPrioritySignals": 14,
+    "averagePoliticalScore": 5.54
   },
   "briefings": [
+    {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "leadUrl": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "focusTopics": [
+        "Elecciones",
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 13,
+      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+    },
     {
       "country": "Nicaragua",
       "priority": "Alta",
@@ -26,21 +41,6 @@
       ],
       "signalCount": 13,
       "summary": "Foco en Economia politica, Instituciones, Elecciones. Vigilar Confidencial y Confidencial."
-    },
-    {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "Con el inicio de la carrera electoral, cambia el mapa del Senado y Bullrich busca armar una nueva mayoría",
-      "leadUrl": "https://www.lanacion.com.ar/politica/con-el-inicio-de-la-carrera-electoral-cambia-el-mapa-del-senado-y-bullrich-busca-armar-una-nueva-nid15082026/",
-      "focusTopics": [
-        "Economia politica",
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Chile",
@@ -73,6 +73,34 @@
       "summary": "Foco en Sociedad, Seguridad, Elecciones. Vigilar 14ymedio y 14ymedio."
     },
     {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "La pelea por Lima, una crónica de Fernando Vivas sobre las movidas en el tablero electoral",
+      "leadUrl": "https://elcomercio.pe/politica/la-pelea-por-lima-una-cronica-de-fernando-vivas-sobre-las-movidas-en-el-tablero-electoral-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "La crisis de Ceuta aviva el debate sobre las vacaciones de los políticos: demagogia y problemas reales de gestión",
+      "leadUrl": "https://elpais.com/espana/2026-08-16/la-crisis-de-ceuta-aviva-el-debate-sobre-las-vacaciones-de-los-politicos-demagogia-y-problemas-reales-de-gestion.html",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Pais"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar El Pais."
+    },
+    {
       "country": "Colombia",
       "priority": "Media",
       "leadTitle": "Sobre Abelardo de la Espriella",
@@ -99,7 +127,7 @@
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 4,
+      "signalCount": 3,
       "summary": "Foco en Instituciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
@@ -115,23 +143,26 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
-    },
-    {
-      "country": "Espana",
-      "priority": "Media",
-      "leadTitle": "Marruecos frustra el intento de cientos de migrantes subsaharianos de alcanzar Ceuta",
-      "leadUrl": "https://elpais.com/espana/2026-08-15/marruecos-frustra-el-intento-de-cientos-de-migrantes-subsaharianos-de-alcanzar-ceuta.html",
-      "focusTopics": [
-        "Seguridad"
-      ],
-      "topSources": [
-        "El Pais"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Seguridad. Vigilar El Pais."
     }
   ],
   "signals": [
+    {
+      "id": "eb96e260001000e9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "summary": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "publishedAt": "Sun, 16 Aug 2026 12:30:06 +0000",
+      "politicalScore": 16,
+      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
+      "seenCount": 1
+    },
     {
       "id": "aa5fc7a0bf89d580",
       "country": "Nicaragua",
@@ -145,8 +176,8 @@
       "publishedAt": "Sat, 15 Aug 2026 21:00:06 +0000",
       "politicalScore": 15,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-apunta",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -162,8 +193,8 @@
       "publishedAt": "Sat, 15 Aug 2026 22:02:42 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-inicio",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -179,8 +210,8 @@
       "publishedAt": "Thu, 13 Aug 2026 00:17:26 +0000",
       "politicalScore": 11,
       "eventKey": "chile-probidad-chile-probidad-vivanco-niega",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -196,8 +227,8 @@
       "publishedAt": "Sun, 16 Aug 2026 05:49:42 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-aferrado-programa",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -213,8 +244,8 @@
       "publishedAt": "Sat, 15 Aug 2026 20:08:33 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-victoria",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -230,8 +261,8 @@
       "publishedAt": "Sat, 15 Aug 2026 15:47:38 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-pedido",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -247,8 +278,8 @@
       "publishedAt": "Sat, 15 Aug 2026 03:25:51 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diego",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -264,8 +295,8 @@
       "publishedAt": "Sun, 16 Aug 2026 05:41:35 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-elecciones-argentina-elecciones-nuevas-fotos",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -281,8 +312,25 @@
       "publishedAt": "Fri, 14 Aug 2026 00:27:30 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-gendarmeria-traslada",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1be3aa4ae8ad86e8",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La pelea por Lima, una crónica de Fernando Vivas sobre las movidas en el tablero electoral",
+      "summary": "‘Porky’ López Aliaga lo cambió todo. En julio, según Ipsos, su gallo de fachada electoral, Luis Rubio, tenía 10% y se ubicaba en el 3er lugar. Tras renunciar este el 4 de julio, víspera del deadline para el retiro de postulantes, ´Porky’ quedó como el virtual ",
+      "url": "https://elcomercio.pe/politica/la-pelea-por-lima-una-cronica-de-fernando-vivas-sobre-las-movidas-en-el-tablero-electoral-noticia/",
+      "publishedAt": "Sun, 16 Aug 2026 12:00:28 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-pelea-lima",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -298,8 +346,8 @@
       "publishedAt": "Sun, 16 Aug 2026 01:53:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-deja",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -315,8 +363,25 @@
       "publishedAt": "Thu, 13 Aug 2026 15:59:19 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-sociedad-cuba-sociedad-precios-topados",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
+      "seenCount": 1
+    },
+    {
+      "id": "421a1ffecebf0e51",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La crisis de Ceuta aviva el debate sobre las vacaciones de los políticos: demagogia y problemas reales de gestión",
+      "summary": "La oposición activa la polémica cada verano, pero los fallos en el operativo desplegado en la ciudad autónoma han alimentado la percepción de un Gobierno ausente",
+      "url": "https://elpais.com/espana/2026-08-16/la-crisis-de-ceuta-aviva-el-debate-sobre-las-vacaciones-de-los-politicos-demagogia-y-problemas-reales-de-gestion.html",
+      "publishedAt": "Sun, 16 Aug 2026 03:45:01 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-crisis-ceuta",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -332,8 +397,8 @@
       "publishedAt": "Sun, 16 Aug 2026 00:14:45 +0000",
       "politicalScore": 6,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-pide-miraflores",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -349,8 +414,8 @@
       "publishedAt": "Sat, 15 Aug 2026 23:25:00 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-espriella",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -366,8 +431,8 @@
       "publishedAt": "Sat, 15 Aug 2026 19:43:49 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-defendio-acuerdo",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -383,8 +448,8 @@
       "publishedAt": "Sat, 15 Aug 2026 21:55:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-panama-plantea",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -400,8 +465,8 @@
       "publishedAt": "Sat, 15 Aug 2026 16:44:40 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-sunca-respaldo",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -417,8 +482,8 @@
       "publishedAt": "Fri, 14 Aug 2026 23:30:40 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-elecciones-argentina-elecciones-lanus-presento",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -434,8 +499,8 @@
       "publishedAt": "Fri, 14 Aug 2026 20:41:46 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-nueva-convocatoria",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -451,8 +516,8 @@
       "publishedAt": "Fri, 14 Aug 2026 18:10:58 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mantiene-alerta",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -468,8 +533,25 @@
       "publishedAt": "Fri, 14 Aug 2026 15:19:47 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-corte-condena",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f813d23667363717",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Relaciones con Colombia se perfilan entre el pragmatismo y el enfoque comercial",
+      "summary": "Internacionalistas estiman que se profundizarán las relaciones comerciales bajo la supervisión de EEUU",
+      "url": "https://efectococuyo.com/politica/pragmatismo-comercial-choques-ideologicos-perfilan-relaciones/",
+      "publishedAt": "Sun, 16 Aug 2026 12:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-relaciones-colombia",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -485,8 +567,8 @@
       "publishedAt": "Sun, 16 Aug 2026 06:45:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-andres-caleca",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -502,25 +584,8 @@
       "publishedAt": "Sun, 16 Aug 2026 06:22:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-minsa-orden",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f813d23667363717",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Relaciones con Colombia se perfilan entre el pragmatismo y el enfoque comercial",
-      "summary": "Internacionalistas estiman que se profundizarán las relaciones comerciales bajo la supervisión de EEUU",
-      "url": "https://efectococuyo.com/politica/pragmatismo-comercial-choques-ideologicos-perfilan-relaciones/",
-      "publishedAt": "Sun, 16 Aug 2026 06:15:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-relaciones-colombia",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -536,8 +601,8 @@
       "publishedAt": "Sat, 15 Aug 2026 19:42:42 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-georreferencia-situa",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -553,8 +618,8 @@
       "publishedAt": "Sat, 15 Aug 2026 08:06:55 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-alla-autoridad",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -570,8 +635,8 @@
       "publishedAt": "Sat, 15 Aug 2026 06:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuando-faro",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -587,8 +652,8 @@
       "publishedAt": "Thu, 13 Aug 2026 13:13:08 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-escucha-corazon",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -604,8 +669,25 @@
       "publishedAt": "Wed, 12 Aug 2026 00:35:27 +0000",
       "politicalScore": 5,
       "eventKey": "chile-economia-politica-chile-economia-politica-exfiscal",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c0c0f69e31d17141",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Comunicar desde el poder en tiempos de algoritmos: ¿qué hay detrás de la estrategia de Keiko Fujimori?",
+      "summary": "Desde que asumió la Presidencia, Keiko Fujimori ha convertido las redes sociales en uno de los principales canales para comunicar sus actividades y proyectar una imagen de cercanía, gestión y liderazgo. Facebook, TikTok, Instagram y X concentran millones de se",
+      "url": "https://elcomercio.pe/politica/keiko-fujimori-estrategia-de-comunicacion-en-facebook-tiktok-instagram-y-x-comunicar-desde-el-poder-en-tiempos-de-algoritmos-que-hay-detras-de-su-estrategia-comunicacional-noticia/",
+      "publishedAt": "Sun, 16 Aug 2026 12:01:06 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-comunicar-poder",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -621,8 +703,8 @@
       "publishedAt": "Sun, 16 Aug 2026 06:02:24 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -638,8 +720,8 @@
       "publishedAt": "Sun, 16 Aug 2026 01:41:11 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-acabo",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -655,8 +737,8 @@
       "publishedAt": "Sat, 15 Aug 2026 22:29:23 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-hugo",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -672,8 +754,8 @@
       "publishedAt": "Sat, 15 Aug 2026 18:59:59 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tres",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -689,25 +771,8 @@
       "publishedAt": "Sat, 15 Aug 2026 17:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-nicaragua-problema",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
-      "seenCount": 1
-    },
-    {
-      "id": "658f6117f9df87d9",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Marruecos frustra el intento de cientos de migrantes subsaharianos de alcanzar Ceuta",
-      "summary": "Las fuerzas de seguridad marroquíes han detenido a 61 personas por incitar a la migración ilegal en un dispositivo que mantiene blindadas las fronteras de Ceuta y Melilla con el país magrebí",
-      "url": "https://elpais.com/espana/2026-08-15/marruecos-frustra-el-intento-de-cientos-de-migrantes-subsaharianos-de-alcanzar-ceuta.html",
-      "publishedAt": "Sat, 15 Aug 2026 16:51:14 GMT",
-      "politicalScore": 4,
-      "eventKey": "espana-seguridad-espana-seguridad-marruecos-frustra",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -723,25 +788,8 @@
       "publishedAt": "Sat, 15 Aug 2026 15:54:11 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-fuente-cercana",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
-      "seenCount": 1
-    },
-    {
-      "id": "774922e74f6f2b2f",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Elisa Carrió habló de la reunión entre Pro y LLA: “Mauricio Macri quiere ser muy rico de nuevo”",
-      "summary": "La exdiputada también apuntó contra el empresario Nicolás Caputo y dijo que el modelo de Milei es “traicionar a la patria”",
-      "url": "https://www.lanacion.com.ar/politica/elisa-carrio-hablo-de-la-reunion-entre-pro-y-lla-mauricio-macri-quiere-ser-muy-rico-de-nuevo-nid14082026/",
-      "publishedAt": "Fri, 14 Aug 2026 23:29:38 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-elisa",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -757,8 +805,8 @@
       "publishedAt": "Fri, 14 Aug 2026 16:15:28 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-elecciones-cuba-elecciones-excluyendo-remesas",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -774,8 +822,8 @@
       "publishedAt": "Sat, 15 Aug 2026 20:17:28 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-estados-unidos",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -791,8 +839,8 @@
       "publishedAt": "Sat, 15 Aug 2026 18:30:06 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-retos-vienen",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -808,8 +856,8 @@
       "publishedAt": "Sat, 15 Aug 2026 18:23:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -825,8 +873,8 @@
       "publishedAt": "Sat, 15 Aug 2026 17:40:34 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-seguimos-combate",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -842,8 +890,8 @@
       "publishedAt": "Sat, 15 Aug 2026 17:09:46 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-miles-millones",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -859,25 +907,8 @@
       "publishedAt": "Sat, 15 Aug 2026 16:15:58 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cerca-medio",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
-      "seenCount": 1
-    },
-    {
-      "id": "00239f0e2b1d404c",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Oposición y ONG piden liberar a todos los presos políticos",
-      "summary": "Marco Rubio consideró las liberaciones bajo el paragua de la Mesa de Diálogo como \"un paso crucial\" para la reconciliación",
-      "url": "https://efectococuyo.com/la-humanidad/oposicion-y-ong-piden-liberar-a-todos-los-presos-politicos/",
-      "publishedAt": "Sat, 15 Aug 2026 14:52:27 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-oposicion-piden",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -893,8 +924,8 @@
       "publishedAt": "Sat, 15 Aug 2026 14:15:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-venezuela-anuncia",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -910,8 +941,8 @@
       "publishedAt": "Sat, 15 Aug 2026 06:22:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-explotacion-nicas",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -927,8 +958,8 @@
       "publishedAt": "Sat, 15 Aug 2026 01:03:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-porceltv",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -944,8 +975,8 @@
       "publishedAt": "Sat, 15 Aug 2026 01:00:42 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-2025-pensiones",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -961,8 +992,8 @@
       "publishedAt": "Fri, 14 Aug 2026 18:30:14 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sacerdotes-nicaraguenses",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -978,8 +1009,8 @@
       "publishedAt": "Fri, 14 Aug 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-eclipses-fascinan",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -995,8 +1026,8 @@
       "publishedAt": "Fri, 14 Aug 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nino-podria",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -1012,8 +1043,8 @@
       "publishedAt": "Fri, 14 Aug 2026 08:14:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-estrategia-comunicacional",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -1029,8 +1060,8 @@
       "publishedAt": "Wed, 12 Aug 2026 17:46:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-favor-exvocero",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -1046,8 +1077,8 @@
       "publishedAt": "Wed, 12 Aug 2026 16:42:25 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-monica-gonzalez",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     },
     {
@@ -1063,8 +1094,8 @@
       "publishedAt": "Wed, 12 Aug 2026 08:00:01 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-ciencia-pero",
-      "firstSeenAt": "2026-08-16T06:46:46.255Z",
-      "lastSeenAt": "2026-08-16T06:46:46.255Z",
+      "firstSeenAt": "2026-08-16T12:48:05.174Z",
+      "lastSeenAt": "2026-08-16T12:48:05.174Z",
       "seenCount": 1
     }
   ]
