@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-18T06:50:59.594Z",
-  "count": 51,
+  "generatedAt": "2026-08-18T12:54:11.700Z",
+  "count": 53,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-18T06:50:59.594Z",
-    "activeSignals": 51,
-    "archiveSignals": 109,
+    "generatedAt": "2026-08-18T12:54:11.700Z",
+    "activeSignals": 53,
+    "archiveSignals": 111,
     "countriesCovered": 8,
     "highPrioritySignals": 18,
-    "averagePoliticalScore": 6
+    "averagePoliticalScore": 5.77
   },
   "briefings": [
     {
@@ -27,6 +27,20 @@
       "summary": "Foco en Seguridad, Probidad. Vigilar CIPER y CIPER."
     },
     {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Academias de derecho piden un “profundo y amplio debate” sobre la reforma de la Ley de Sociedades",
+      "leadUrl": "https://www.lanacion.com.ar/politica/academias-de-derecho-piden-un-profundo-y-amplio-debate-sobre-la-reforma-de-la-ley-de-sociedades-nid17082026/",
+      "focusTopics": [
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+    },
+    {
       "country": "Nicaragua",
       "priority": "Alta",
       "leadTitle": "Kast: el presidente conservador aburrido",
@@ -41,21 +55,6 @@
       "summary": "Foco en Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "La vuelta de la reelección indefinida de los intendentes que impulsa Kicillof no tiene los votos suficientes en la Legislatura",
-      "leadUrl": "https://www.lanacion.com.ar/politica/la-vuelta-de-la-reeleccion-indefinida-de-los-intendentes-que-impulsa-kicillof-no-tiene-los-votos-nid17082026/",
-      "focusTopics": [
-        "Elecciones",
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 11,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
-    },
-    {
       "country": "Espana",
       "priority": "Alta",
       "leadTitle": "El presidente de Ceuta eleva el tono contra el Gobierno y amenaza con acudir a la justicia si no resuelve la crisis: “Hay pasividad absoluta”",
@@ -68,8 +67,23 @@
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 5,
+      "signalCount": 7,
       "summary": "Foco en Instituciones, Gobernabilidad. Vigilar El Pais y El Mundo."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Lo que revela del gobierno De La Espriella su reacción al terremoto",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/lo-que-revela-del-gobierno-de-la-espriella-su-reaccion-al-terremoto/",
+      "focusTopics": [
+        "Gobernabilidad",
+        "Diplomacia"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 3,
+      "summary": "Foco en Gobernabilidad, Diplomacia. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Uruguay",
@@ -86,34 +100,19 @@
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Lo que revela del gobierno De La Espriella su reacción al terremoto",
-      "leadUrl": "https://www.lasillavacia.com/silla-nacional/lo-que-revela-del-gobierno-de-la-espriella-su-reaccion-al-terremoto/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia."
-    },
-    {
       "country": "Cuba",
       "priority": "Media",
       "leadTitle": "Desde prisión, ‘Spiderman’ dice a las autoridades: “No me van a doblegar”",
       "leadUrl": "https://www.14ymedio.com/cuba/prision-spiderman-dice-autoridades-no_1_1129890.html",
       "focusTopics": [
         "Economia politica",
-        "Seguridad",
-        "Elecciones"
+        "Seguridad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Economia politica, Seguridad, Elecciones. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 2,
+      "summary": "Foco en Economia politica, Seguridad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Venezuela",
@@ -126,28 +125,11 @@
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 1,
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo."
     }
   ],
   "signals": [
-    {
-      "id": "b8f9a08081d00311",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La vuelta de la reelección indefinida de los intendentes que impulsa Kicillof no tiene los votos suficientes en la Legislatura",
-      "summary": "Al menos 18 voluntades faltan en la Cámara de Diputados, y tres en el Senado provincial para descongelar el proyecto que promueve el gobernador; algunas posturas negativas tienen matices que podrían habilitar una negociación",
-      "url": "https://www.lanacion.com.ar/politica/la-vuelta-de-la-reeleccion-indefinida-de-los-intendentes-que-impulsa-kicillof-no-tiene-los-votos-nid17082026/",
-      "publishedAt": "Mon, 17 Aug 2026 18:56:40 +0000",
-      "politicalScore": 16,
-      "eventKey": "argentina-elecciones-argentina-elecciones-vuelta-reeleccion",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
-      "seenCount": 1
-    },
     {
       "id": "a72cd4d72e7fd07a",
       "country": "Argentina",
@@ -161,8 +143,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:56:18 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-academias",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -178,8 +160,8 @@
       "publishedAt": "Mon, 17 Aug 2026 19:56:33 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fuerte",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -195,8 +177,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:00:00 +0000",
       "politicalScore": 10,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-revela-gobierno",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -212,8 +194,8 @@
       "publishedAt": "Tue, 18 Aug 2026 00:01:43 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-presidente-retracta",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -229,8 +211,8 @@
       "publishedAt": "Mon, 17 Aug 2026 20:52:10 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -246,8 +228,8 @@
       "publishedAt": "Mon, 17 Aug 2026 20:21:31 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscalia",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -263,8 +245,8 @@
       "publishedAt": "Tue, 18 Aug 2026 03:29:20 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-ignacio",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -280,8 +262,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:38:07 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-tabare-aguerre",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -297,8 +279,8 @@
       "publishedAt": "Mon, 17 Aug 2026 09:31:09 GMT",
       "politicalScore": 8,
       "eventKey": "espana-instituciones-espana-instituciones-presidente-ceuta",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -314,25 +296,25 @@
       "publishedAt": "Sun, 16 Aug 2026 06:05:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-kast-presidente",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
-      "id": "1abb5d1f96e1585b",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
+      "id": "999534ccb3047046",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; PS suspende militancia de senador Fidel Espinoza por presunta VIF, y detienen a 72 personas en megaoperativo antidrogas",
-      "summary": "La entrada Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; PS suspende militancia de senador Fidel Espinoza por presunta VIF, y detienen a 72 personas en megaoperativo antidrogas se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/08/13/radar-13-08-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-13-08-2026",
-      "publishedAt": "Fri, 14 Aug 2026 00:27:30 +0000",
-      "politicalScore": 8,
-      "eventKey": "chile-probidad-chile-probidad-gendarmeria-traslada",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "title": "El Gobierno amplió el secreto militar del programa de los aviones F-16 que compró la Argentina",
+      "summary": "Los cazas requieren un esquema de mantenimiento y actualización que involucra a proveedores y centros especializados fuera del país",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-amplio-el-secreto-militar-del-programa-de-los-aviones-f-16-que-compro-la-argentina-nid18082026/",
+      "publishedAt": "Tue, 18 Aug 2026 11:40:50 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-seguridad-argentina-seguridad-gobierno-amplio",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -348,8 +330,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:43:27 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -365,8 +347,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:20:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cien-anos",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -382,8 +364,8 @@
       "publishedAt": "Tue, 18 Aug 2026 03:01:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-crisis",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -399,8 +381,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:37:51 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -416,8 +398,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-farsa-gobierno",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -433,8 +415,42 @@
       "publishedAt": "Tue, 18 Aug 2026 00:09:48 +0200",
       "politicalScore": 6,
       "eventKey": "espana-instituciones-espana-instituciones-ejercito-buenos",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fe3bd7effe0b6ef0",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Mónica García rompe el equilibrio institucional con Ceuta mientras el Gobierno levanta carpas porque no podrá devolver a todos los migrantes",
+      "summary": "El presidente autonómico recrimina a la ministra que vaya a \"dar lecciones de humanidad\" por acusar a su Gobierno de tener a los inmigrantes en \"condiciones de insalubridad\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/08/17/6a832b73fc6c83f4498b456e.html",
+      "publishedAt": "Mon, 17 Aug 2026 22:37:10 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-monica-garcia",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5acfed48b9e25915",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El PP acusa al Gobierno de cercenar a las fuerzas armadas en la incomparecencia de Robles sobre Ceuta",
+      "summary": "La ministra ha esgrimido que tenía que asistir hoy a las honras fúnebres del cabo fallecido de la UME para no ir al Senado",
+      "url": "https://elpais.com/espana/2026-08-18/el-pp-acusa-al-gobierno-de-cercenar-a-las-fuerzas-armadas-en-la-incomparecencia-de-robles-sobre-ceuta.html",
+      "publishedAt": "Tue, 18 Aug 2026 12:09:34 GMT",
+      "politicalScore": 6,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-acusa-gobierno",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -450,8 +466,8 @@
       "publishedAt": "Tue, 18 Aug 2026 00:11:39 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-cinco-anos",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -467,8 +483,8 @@
       "publishedAt": "Mon, 17 Aug 2026 20:15:24 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-trabajadores-tercerizados",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -484,8 +500,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:48:51 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-estados-unidos",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -501,8 +517,8 @@
       "publishedAt": "Mon, 17 Aug 2026 21:05:59 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-rioja",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -518,8 +534,42 @@
       "publishedAt": "Sat, 15 Aug 2026 21:55:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-panama-plantea",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e838c756e5915001",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Desayune informado con las movidas de este 18 de agosto de 2026",
+      "summary": "En la historia de hoy le contamos lo que revela del gobierno de Abelardo de La Espriella su reacción al terremoto. The post Desayune informado con las movidas de este 18 de agosto de 2026 appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-18-de-agosto-de-2026/",
+      "publishedAt": "Tue, 18 Aug 2026 12:40:25 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-desayune-informado",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "77d60fa44539e823",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El juez Pedraz blinda los posibles mensajes del ‘caso Leire’ en el móvil del expresidente de Correos con un nuevo volcado",
+      "summary": "Juan Manuel Serrano, antiguo jefe de Gabinete de Pedro Sánchez en el PSOE, cuestionó la legalidad de la intervención de su teléfono por la UCO en mayo",
+      "url": "https://elpais.com/espana/2026-08-18/el-juez-pedraz-blinda-los-posibles-mensajes-del-caso-leire-en-el-movil-del-expresidente-de-correos-con-un-nuevo-volcado.html",
+      "publishedAt": "Tue, 18 Aug 2026 10:56:00 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-pedraz",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -535,8 +585,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-playboy-desnudo",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -552,8 +602,25 @@
       "publishedAt": "Mon, 17 Aug 2026 21:10:08 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-cabello-advierte",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1e482e875cb856fb",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El diputado del PSOE en Ceuta que pide cuentas a Sánchez: \"Echo en falta mayor implicación; se fue de vacaciones un día después de venir\"",
+      "summary": "Pese a su filiación política, Melchor León exige la dimisión del delegado del Gobierno en la ciudad&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/08/17/6a833f98e85ecee34b8b4587.html",
+      "publishedAt": "Mon, 17 Aug 2026 22:36:54 +0200",
+      "politicalScore": 5,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-diputado-psoe",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -569,8 +636,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:54:03 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-pedraz",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -586,42 +653,8 @@
       "publishedAt": "Mon, 17 Aug 2026 16:47:58 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-prision",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cf1b789716888838",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El Gobierno anuncia 1.500 nuevas plazas para acoger a los inmigrantes que siguen en Ceuta 18 días después de la avalancha",
-      "summary": "Sánchez mantiene otra videoconferencia con sus ministros desde La Mareta&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/08/17/6a7af7affdddfffc2d8b458c.html",
-      "publishedAt": "Mon, 17 Aug 2026 13:35:19 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-anuncia",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5b36d7518575cece",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La derecha, ante la ausencia de Albares en el Senado: “¿Qué falló en Ceuta el 30 de julio y no el 15 de agosto?”",
-      "summary": "El ministro de Exteriores acude a la misma hora de su citación en la Cámara alta a visitar las obras de la Casa Asia en Barcelona",
-      "url": "https://elpais.com/espana/2026-08-17/la-derecha-ante-la-ausencia-de-albares-en-el-senado-que-fallo-en-ceuta-el-30-de-julio-y-no-el-15-de-agosto.html",
-      "publishedAt": "Mon, 17 Aug 2026 11:10:10 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-derecha-ausencia",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -637,8 +670,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-oposicion-todavia",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -654,8 +687,8 @@
       "publishedAt": "Sun, 16 Aug 2026 15:54:01 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-parlamento-irani",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -671,8 +704,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:41 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-capitalizar-decreto",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -688,8 +721,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-prioridades-ministerio",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -705,8 +738,8 @@
       "publishedAt": "Sun, 16 Aug 2026 06:22:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-minsa-orden",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -722,8 +755,8 @@
       "publishedAt": "Sat, 15 Aug 2026 19:42:42 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-georreferencia-situa",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -739,8 +772,42 @@
       "publishedAt": "Sat, 15 Aug 2026 08:06:55 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-alla-autoridad",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e588ec37d1fc3191",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Detuvieron a Fernando Cerimedo en Bolivia: investigan al exasesor de Milei por el atentado a una activista política",
+      "summary": "Fue aprehendido en el aeropuerto de Santa Cruz de la Sierra, cuando estaba por embarcar hacia la Argentina; según medios locales, fue su pareja; dos hombres disfrazados la atacaron a balazos en la puerta de un hotel",
+      "url": "https://www.lanacion.com.ar/politica/detuvieron-a-fernando-cerimedo-en-bolivia-lo-investigan-por-un-ataque-a-balazos-a-su-expareja-nid18082026/",
+      "publishedAt": "Tue, 18 Aug 2026 12:41:55 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-detuvieron",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9c97e8767afe39f6",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "La primera semana de Abelardo: Caos, cámaras y diplomacia",
+      "summary": "Hoy en el pódcast Huevos Revueltos con Política revisamos cómo ha sido la primera semana de Abelardo de la Espriella. The post La primera semana de Abelardo: Caos, cámaras y diplomacia appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/la-primera-semana-de-abelardo-caos-camaras-y-diplomacia/",
+      "publishedAt": "Tue, 18 Aug 2026 12:16:09 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-diplomacia-colombia-diplomacia-primera-semana",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -756,25 +823,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:37:04 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-aparecio",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
-      "seenCount": 1
-    },
-    {
-      "id": "de4910e98d669636",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Foro Penal solo ha podido confirmar 78 excarcelaciones desde el viernes",
-      "summary": "Alfredo Romero, director presidente de la ONG, insiste en que todos los presos políticos deben ser liberados.",
-      "url": "https://efectococuyo.com/la-humanidad/foro-penal-solo-ha-podido-confirmar-78-excarcelaciones-desde-el-viernes/",
-      "publishedAt": "Mon, 17 Aug 2026 16:51:24 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-foro-penal",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -790,8 +840,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tierra-tiembla",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -807,25 +857,25 @@
       "publishedAt": "Sat, 15 Aug 2026 15:54:11 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-fuente-cercana",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
-      "id": "07b37a5aa3b64762",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
+      "id": "2549bddac231db76",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Excluyendo las remesas, los ingresos del 94% de los cubanos los sitúan en el umbral de pobreza extrema",
-      "summary": "Más de tres cuartas partes de los 1.318 encuestados dentro de la Isla reclaman cambios políticos y económicos y el 84% desconfía de las recientes reformas",
-      "url": "https://www.14ymedio.com/cuba/94-cubanos-vive-pobreza-extrema_1_1129804.html",
-      "publishedAt": "Fri, 14 Aug 2026 16:15:28 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-elecciones-cuba-elecciones-excluyendo-remesas",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "title": "La Carrera Docente cumplió diez años: ¿por qué tantos docentes siguen fuera del sistema que debía desarrollarlos?",
+      "summary": "La entrada La Carrera Docente cumplió diez años: ¿por qué tantos docentes siguen fuera del sistema que debía desarrollarlos? se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/18/la-carrera-docente-cumplio-diez-anos-por-que-tantos-docentes-siguen-fuera-del-sistema-que-debia-desarrollarlos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-carrera-docente-cumplio-diez-anos-por-que-tantos-docentes-siguen-fuera-del-sistema-que-debia-desarrollarlos",
+      "publishedAt": "Tue, 18 Aug 2026 08:00:23 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-carrera-docente",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -841,8 +891,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:51:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-exencion-contribuciones",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -858,8 +908,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:54:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ficha-francisco",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -875,8 +925,8 @@
       "publishedAt": "Mon, 17 Aug 2026 08:03:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-investigacion",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -892,8 +942,8 @@
       "publishedAt": "Sun, 16 Aug 2026 21:21:35 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cali-avanza",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -909,8 +959,8 @@
       "publishedAt": "Sun, 16 Aug 2026 07:59:22 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carlos-caszely",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -926,25 +976,8 @@
       "publishedAt": "Sat, 15 Aug 2026 18:23:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f771495ba0848a92",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "\"Seguimos en combate, la libertad de Cuba hay que lograrla\", dice un preso del 11J al salir de la cárcel",
-      "summary": "Mitchel Barzaga cumplió una pena de cinco años en la prisión de Granma, donde aún permanecen encarcelados otros manifestantes de las protestas de 2021",
-      "url": "https://www.14ymedio.com/cuba/seguimos-combate-libertad-cuba-hay_1_1129827.html",
-      "publishedAt": "Sat, 15 Aug 2026 17:40:34 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-sociedad-cuba-sociedad-seguimos-combate",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -960,8 +993,8 @@
       "publishedAt": "Sat, 15 Aug 2026 01:03:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-porceltv",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -977,8 +1010,8 @@
       "publishedAt": "Sat, 15 Aug 2026 01:00:42 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-2025-pensiones",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     },
     {
@@ -994,8 +1027,8 @@
       "publishedAt": "Fri, 14 Aug 2026 08:14:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-estrategia-comunicacional",
-      "firstSeenAt": "2026-08-18T06:50:59.594Z",
-      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "firstSeenAt": "2026-08-18T12:54:11.700Z",
+      "lastSeenAt": "2026-08-18T12:54:11.700Z",
       "seenCount": 1
     }
   ]
