@@ -1,31 +1,16 @@
 {
-  "generatedAt": "2026-08-18T01:27:01.587Z",
-  "count": 57,
+  "generatedAt": "2026-08-18T06:50:59.594Z",
+  "count": 51,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-18T01:27:01.587Z",
-    "activeSignals": 57,
-    "archiveSignals": 115,
-    "countriesCovered": 9,
-    "highPrioritySignals": 19,
-    "averagePoliticalScore": 6.14
+    "generatedAt": "2026-08-18T06:50:59.594Z",
+    "activeSignals": 51,
+    "archiveSignals": 109,
+    "countriesCovered": 8,
+    "highPrioritySignals": 18,
+    "averagePoliticalScore": 6
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "EE. UU. apunta a las finanzas del régimen con sanciones al oro y al Ejército",
-      "leadUrl": "https://confidencial.digital/noticias/ee-uu-apunta-a-las-finanzas-del-regimen-con-sanciones-al-oro-y-al-ejercito/",
-      "focusTopics": [
-        "Economia politica",
-        "Instituciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Economia politica, Instituciones. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -40,6 +25,20 @@
       ],
       "signalCount": 13,
       "summary": "Foco en Seguridad, Probidad. Vigilar CIPER y CIPER."
+    },
+    {
+      "country": "Nicaragua",
+      "priority": "Alta",
+      "leadTitle": "Kast: el presidente conservador aburrido",
+      "leadUrl": "https://confidencial.digital/opinion/kast-el-presidente-conservador-aburrido-2/",
+      "focusTopics": [
+        "Instituciones"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Argentina",
@@ -75,31 +74,30 @@
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Sánchez sobre Castillo y la eventual esencialidad en TCP: “Si es el límite de Juan y hay que declararla, renunciará”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/sanchez-sobre-castillo-y-la-eventual-esencialidad-en-tcp-si-es-el-limite-de-juan-y-hay-que-declararla-renunciara/",
+      "leadTitle": "Tabaré Aguerre respaldó el impulso al riego: “Uruguay puede triplicar la producción de maíz y duplicar la de soja”",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/tabare-aguerre-respaldo-el-impulso-al-riego-uruguay-puede-triplicar-la-produccion-de-maiz-y-duplicar-la-de-soja/",
       "focusTopics": [
-        "Seguridad",
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Seguridad, Elecciones. Vigilar La Diaria y La Diaria."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Voceros designados de Abelardo: posiciones encontradas sobre críticas a minVivienda",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/voceros-de-de-la-espriella-posiciones-encontradas-sobre-criticas-a-minvivienda/",
+      "leadTitle": "Lo que revela del gobierno De La Espriella su reacción al terremoto",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/lo-que-revela-del-gobierno-de-la-espriella-su-reaccion-al-terremoto/",
       "focusTopics": [
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -130,20 +128,6 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
-      "country": "Peru",
-      "priority": "Media",
-      "leadTitle": "Trump manda a callar a reportera de CNN que le preguntó sobre Corea del Norte",
-      "leadUrl": "https://elcomercio.pe/mundo/eeuu/donald-trump-manda-a-callar-a-reportera-de-cnn-que-le-pregunto-sobre-corea-del-norte-kristen-holmes-kim-jong-un-estados-unidos-ultimas-noticia/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
     }
   ],
   "signals": [
@@ -160,42 +144,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:56:40 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-elecciones-argentina-elecciones-vuelta-reeleccion",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6ea075e1a07c02bd",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La campaña ya empezó (las operaciones también)",
-      "summary": "De cara a las elecciones, el oficialismo y la oposición comenzaron sus estrategias",
-      "url": "https://www.lanacion.com.ar/politica/la-campana-ya-empezo-las-operaciones-tambien-nid17082026/",
-      "publishedAt": "Mon, 17 Aug 2026 17:04:34 +0000",
-      "politicalScore": 16,
-      "eventKey": "argentina-elecciones-argentina-elecciones-campana-empezo",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "aa5fc7a0bf89d580",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "EE. UU. apunta a las finanzas del régimen con sanciones al oro y al Ejército",
-      "summary": "Los detalles revelados en una propuesta de ley de los senadores estadounidenses Ted Cruz (republicano) y Tim Kaine (demócrata) proponen extender las sanciones de Estados Unidos al negocio del oro en Nicaragua, uno de los principales motores de la economía del ",
-      "url": "https://confidencial.digital/noticias/ee-uu-apunta-a-las-finanzas-del-regimen-con-sanciones-al-oro-y-al-ejercito/",
-      "publishedAt": "Sat, 15 Aug 2026 21:00:06 +0000",
-      "politicalScore": 15,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-apunta",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -211,8 +161,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:56:18 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-academias",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -228,8 +178,25 @@
       "publishedAt": "Mon, 17 Aug 2026 19:56:33 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fuerte",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "seenCount": 1
+    },
+    {
+      "id": "63f8ff82644f93d0",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Lo que revela del gobierno De La Espriella su reacción al terremoto",
+      "summary": "El presidente ha demostrado un liderazgo ejecutivo y una comunicación personalista. Los ministros que brillan son los más experimentados. The post Lo que revela del gobierno De La Espriella su reacción al terremoto appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/silla-nacional/lo-que-revela-del-gobierno-de-la-espriella-su-reaccion-al-terremoto/",
+      "publishedAt": "Tue, 18 Aug 2026 06:00:00 +0000",
+      "politicalScore": 10,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-revela-gobierno",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -245,8 +212,8 @@
       "publishedAt": "Tue, 18 Aug 2026 00:01:43 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-presidente-retracta",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -262,8 +229,8 @@
       "publishedAt": "Mon, 17 Aug 2026 20:52:10 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -279,59 +246,42 @@
       "publishedAt": "Mon, 17 Aug 2026 20:21:31 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscalia",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
-      "id": "9bb43f6f52a515d5",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
+      "id": "507ece39d80c0bc9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Sánchez sobre Castillo y la eventual esencialidad en TCP: “Si es el límite de Juan y hay que declararla, renunciará”",
-      "summary": "El subsecretario de Trabajo y Seguridad Social, Hugo Barretto, dijo que el ministerio “no está hablando de servicios esenciales”, sino que “está extremando todos los instrumentos que tiene para la negociación”. Con idas y vueltas, la negociación de un nuevo co",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/sanchez-sobre-castillo-y-la-eventual-esencialidad-en-tcp-si-es-el-limite-de-juan-y-hay-que-declararla-renunciara/",
-      "publishedAt": "Mon, 17 Aug 2026 16:43:57 -0300",
-      "politicalScore": 10,
-      "eventKey": "uruguay-seguridad-uruguay-seguridad-sanchez-castillo",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "title": "Ignacio Torres: “Celebro que haya un principio de acuerdo entre LLA y Pro”",
+      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
+      "publishedAt": "Tue, 18 Aug 2026 03:29:20 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-ignacio",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
-      "id": "6d9acbd820abdab4",
+      "id": "04028300c6405ced",
       "country": "Uruguay",
       "source": "La Diaria",
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Rivera: autoridades toman medidas ante “escenario climático complejo” para los próximos meses",
-      "summary": "El intendente Richard Sander contó detalles de la reunión que mantuvo con Orsi y el director del Sinae. El intendente de Rivera, Richard Sander, brindó detalles este lunes de la reunión que tuvo a finales de la semana pasada con el presidente de la República, ",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/rivera-autoridades-toman-medidas-ante-escenario-climatico-complejo-para-los-proximos-meses/",
-      "publishedAt": "Mon, 17 Aug 2026 20:04:15 -0300",
+      "title": "Tabaré Aguerre respaldó el impulso al riego: “Uruguay puede triplicar la producción de maíz y duplicar la de soja”",
+      "summary": "El referente de la Comisión Ejecutiva Interministerial para Asuntos de Riego dijo en el Parlamento que el gobierno pretende promover “la inversión privada” y no una “inversión pública” que “sea usufructuada por los empresarios”. La Comisión de Ganadería del Se",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/tabare-aguerre-respaldo-el-impulso-al-riego-uruguay-puede-triplicar-la-produccion-de-maiz-y-duplicar-la-de-soja/",
+      "publishedAt": "Mon, 17 Aug 2026 22:38:07 -0300",
       "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-rivera-autoridades",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "952ba7872b9b7d46",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Alejandro Sánchez: “Si Lacalle Pou es candidato, le vamos a ganar porque va a haber un buen gobierno”",
-      "summary": "El secretario de Presidencia sostuvo que en 2029 el gobierno del Frente Amplio “va a poder mostrar que en cinco años cumplió con sus compromisos con la ciudadanía”. Este lunes, el secretario de Presidencia, Alejandro Sánchez, estuvo en el programa Desayunos In",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/alejandro-sanchez-si-lacalle-pou-es-candidato-le-vamos-a-ganar-porque-va-a-haber-un-buen-gobierno/",
-      "publishedAt": "Mon, 17 Aug 2026 17:29:48 -0300",
-      "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-alejandro-sanchez",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-tabare-aguerre",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -347,8 +297,8 @@
       "publishedAt": "Mon, 17 Aug 2026 09:31:09 GMT",
       "politicalScore": 8,
       "eventKey": "espana-instituciones-espana-instituciones-presidente-ceuta",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -364,8 +314,8 @@
       "publishedAt": "Sun, 16 Aug 2026 06:05:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-kast-presidente",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -381,8 +331,59 @@
       "publishedAt": "Fri, 14 Aug 2026 00:27:30 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-gendarmeria-traslada",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3daa56ef3ac5d89b",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Javier Milei reapareció en el homenaje a San Martín con un discurso de tono electoral y gestos hacia el Pro",
+      "summary": "Sin nombrarlos, Milei criticó al kirchnerismo y sus rivales en la región; “hay algunos que quieren volver al pasado”, dijo; abrazo y acercamiento con el macrismo, y una referencia a “la prosperidad económica”",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-reaparecio-en-el-homenaje-a-san-martin-con-un-discurso-de-tono-electoral-y-gestos-hacia-nid17082026/",
+      "publishedAt": "Tue, 18 Aug 2026 06:43:27 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "seenCount": 1
+    },
+    {
+      "id": "983264b68459a718",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Cien años de Fidel Castro",
+      "summary": "Fidel Alejandro Castro Ruz nació el 13 de agosto de 1926 en Birán, un poblado de la hoy provincia cubana de Holguín. Último de los grandes protagonistas de la Guerra Fría, retuvo el poder durante 47 años contra vientos y mareas desatados por diez presidentes d",
+      "url": "https://confidencial.digital/opinion/cien-anos-de-fidel-castro/",
+      "publishedAt": "Tue, 18 Aug 2026 06:20:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cien-anos",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "seenCount": 1
+    },
+    {
+      "id": "18d1213701493be3",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "¿Crisis o no crisis? La gran batalla cultural que definirá 2027",
+      "summary": "En el homenaje a San Martín, el presidente Milei esbozó una ligera autocrítica por la situación de las familias frente al cuadro económico; sin embargo, cuenta con ventajas competitivas ante al agotamiento del modelo kirchnerista",
+      "url": "https://www.lanacion.com.ar/politica/la-gran-batalla-cultural-que-definira-2027-nid18082026/",
+      "publishedAt": "Tue, 18 Aug 2026 03:01:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-crisis",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -398,42 +399,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:37:51 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3daa56ef3ac5d89b",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Javier Milei reapareció en el homenaje a San Martín con un discurso de tono electoral y gestos hacia el Pro",
-      "summary": "Sin nombrarlos, Milei criticó al kirchnerismo y sus rivales en la región; “hay algunos que quieren volver al pasado”, dijo; abrazo y acercamiento con el macrismo, y una referencia a “la prosperidad económica”",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-reaparecio-en-el-homenaje-a-san-martin-con-un-discurso-de-tono-electoral-y-gestos-hacia-nid17082026/",
-      "publishedAt": "Mon, 17 Aug 2026 20:19:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "920f4b0906428b40",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Voceros designados de Abelardo: posiciones encontradas sobre críticas a minVivienda",
-      "summary": "Carolina Gómez recordó que el presidente les ha dicho que se acabaron las vacaciones. Miller Soto dijo que el ministro debe dedicarle tiempo a sus hijos. The post Voceros designados de Abelardo: posiciones encontradas sobre críticas a minVivienda appeared firs",
-      "url": "https://www.lasillavacia.com/en-vivo/voceros-de-de-la-espriella-posiciones-encontradas-sobre-criticas-a-minvivienda/",
-      "publishedAt": "Mon, 17 Aug 2026 19:49:30 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-voceros-designados",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -449,8 +416,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-farsa-gobierno",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -466,8 +433,25 @@
       "publishedAt": "Tue, 18 Aug 2026 00:09:48 +0200",
       "politicalScore": 6,
       "eventKey": "espana-instituciones-espana-instituciones-ejercito-buenos",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0b9e856c9cec4b07",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Cinco años de la interpelación por la entrega del puerto de Montevideo",
+      "summary": "Parece increíble, pero ya pasaron cinco años de aquel 18 de agosto de 2021, cuando desde el Frente Amplio decidimos interpelar al entonces ministro de Transporte y Obras Públicas, Luis Alberto Heber, a propósito del acuerdo celebrado entre el Estado uruguayo y",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/cinco-anos-de-la-interpelacion-por-la-entrega-del-puerto-de-montevideo/",
+      "publishedAt": "Tue, 18 Aug 2026 00:11:39 -0300",
+      "politicalScore": 6,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-cinco-anos",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -483,8 +467,8 @@
       "publishedAt": "Mon, 17 Aug 2026 20:15:24 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-trabajadores-tercerizados",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -500,8 +484,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:48:51 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-estados-unidos",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -517,42 +501,8 @@
       "publishedAt": "Mon, 17 Aug 2026 21:05:59 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-rioja",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "58c9d01c0cd0497f",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Fiscales alertan sobre cómo los juegos online pueden ser un vehículo de grupos terroristas",
-      "summary": "La Procuración publicó una guía para detectar conductas y perseguir actividad extremista incipiente; Roblox, Minecraft, Discord y Telegram, bajo análisis",
-      "url": "https://www.lanacion.com.ar/politica/fiscales-alertan-sobre-como-los-juegos-online-pueden-ser-un-vehiculo-de-grupos-terroristas-nid17082026/",
-      "publishedAt": "Mon, 17 Aug 2026 18:56:30 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscales",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "72801eef986d4b7f",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "María Consuelo Araújo, nueva embajadora de Colombia en Estados Unidos",
-      "summary": "Es amiga del presidente Abelardo de La Espriella, que confirmó su nombramiento. Tiene una larga trayectoria en lo público y lo privado. The post María Consuelo Araújo, nueva embajadora de Colombia en Estados Unidos appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/maria-consuelo-araujo-nueva-embajadora-de-colombia-en-estados-unidos/",
-      "publishedAt": "Mon, 17 Aug 2026 17:49:17 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-maria-consuelo",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -568,25 +518,25 @@
       "publishedAt": "Sat, 15 Aug 2026 21:55:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-panama-plantea",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
-      "id": "d5d1bc92f806ebdd",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "id": "861bce83ee506f95",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "MinTic anuncia reestructuración del sistema de medios públicos",
-      "summary": "El nuevo gobierno dio por terminada la franja noticiosa y de opinión en radio y televisión que se emitía de 6:00 a.m. a 10:00 p.m. The post MinTic anuncia reestructuración del sistema de medios públicos appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/mintic-anuncia-reestructuracion-del-sistema-de-medios-publicos/",
-      "publishedAt": "Mon, 17 Aug 2026 21:22:45 +0000",
+      "title": "El día que ‘Playboy’ desnudó a Fidel Castro",
+      "summary": "El hombre que prohibió en su Isla toda revista con mujeres desnudas, el mismo que convirtió el pudor revolucionario en política de Estado, decidió en 1967 abrirle las puertas de su despacho –y de su ego– nada menos que a Playboy, la revista del conejito. Y a H",
+      "url": "https://confidencial.digital/opinion/el-dia-que-playboy-desnudo-a-fidel-castro/",
+      "publishedAt": "Tue, 18 Aug 2026 06:10:00 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-mintic-anuncia",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-playboy-desnudo",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -602,8 +552,8 @@
       "publishedAt": "Mon, 17 Aug 2026 21:10:08 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-cabello-advierte",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -619,8 +569,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:54:03 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-pedraz",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -636,8 +586,8 @@
       "publishedAt": "Mon, 17 Aug 2026 16:47:58 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-prision",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -653,8 +603,8 @@
       "publishedAt": "Mon, 17 Aug 2026 13:35:19 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-anuncia",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -670,8 +620,8 @@
       "publishedAt": "Mon, 17 Aug 2026 11:10:10 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-derecha-ausencia",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -687,8 +637,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-oposicion-todavia",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -704,8 +654,8 @@
       "publishedAt": "Sun, 16 Aug 2026 15:54:01 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-parlamento-irani",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -721,8 +671,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:41 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-capitalizar-decreto",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -738,8 +688,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-prioridades-ministerio",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -755,8 +705,8 @@
       "publishedAt": "Sun, 16 Aug 2026 06:22:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-minsa-orden",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -772,8 +722,8 @@
       "publishedAt": "Sat, 15 Aug 2026 19:42:42 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-georreferencia-situa",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -789,59 +739,25 @@
       "publishedAt": "Sat, 15 Aug 2026 08:06:55 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-alla-autoridad",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
-      "id": "487a166f9c749008",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Trump manda a callar a reportera de CNN que le preguntó sobre Corea del Norte",
-      "summary": "El presidente de Estados Unidos, Donald Trump, mandó callar este lunes en varias ocasiones a la corresponsal de CNN en la Casa Blanca, Kristen Holmes, cuando la periodista intentaba preguntarle por sus recientes contactos con el líder de Corea del Norte, Kim J",
-      "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-manda-a-callar-a-reportera-de-cnn-que-le-pregunto-sobre-corea-del-norte-kristen-holmes-kim-jong-un-estados-unidos-ultimas-noticia/",
-      "publishedAt": "Tue, 18 Aug 2026 00:54:30 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-trump-manda",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9b2a34def7e8ef49",
+      "id": "2800d0f0f6f1339e",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Media",
-      "title": "Axel Kicillof intensifica su armado nacional tras la cumbre del PJ con Máximo Kirchner y Sergio Massa",
-      "summary": "El gobernador visitará el miércoles Chaco y encabezará el jueves un acto en La Plata y el sábado en San Martín con su fuerza política; el viernes viajará a Montevideo",
-      "url": "https://www.lanacion.com.ar/politica/axel-kicillof-intensifica-su-armado-nacional-tras-la-cumbre-del-pj-con-maximo-kirchner-y-sergio-nid17082026/",
-      "publishedAt": "Mon, 17 Aug 2026 17:36:15 +0000",
+      "title": "Apareció la palabra prohibida",
+      "summary": "Préstamos en dólares: ¿para qué?; por qué esta estilizada la economía; se busca un candidato de centro; gobernadores toman distancia; Macri dialoga con recelo; duelo entre primos",
+      "url": "https://www.lanacion.com.ar/politica/aparecio-la-palabra-prohibida-nid18082026/",
+      "publishedAt": "Tue, 18 Aug 2026 06:37:04 +0000",
       "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-axel",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4d92e74680156b48",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "“Detrás del ministro, hay un padre”: Jaime Beltrán tras críticas por fotos en playa",
-      "summary": "El ministro de Vivienda apeló a su faceta de padre para defenderse. Dijo que de nada vale construir cosas importantes para el país, si se destruye la familia. The post “Detrás del ministro, hay un padre”: Jaime Beltrán tras críticas por fotos en playa appeared",
-      "url": "https://www.lasillavacia.com/en-vivo/detras-del-ministro-hay-un-padre-jaime-beltran-tras-criticas-por-fotos-en-playa/",
-      "publishedAt": "Mon, 17 Aug 2026 17:19:39 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-detras-ministro",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-aparecio",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -857,8 +773,8 @@
       "publishedAt": "Mon, 17 Aug 2026 16:51:24 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-foro-penal",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -874,8 +790,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tierra-tiembla",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -891,8 +807,8 @@
       "publishedAt": "Sat, 15 Aug 2026 15:54:11 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-fuente-cercana",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -908,8 +824,8 @@
       "publishedAt": "Fri, 14 Aug 2026 16:15:28 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-elecciones-cuba-elecciones-excluyendo-remesas",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -925,8 +841,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:51:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-exencion-contribuciones",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -942,8 +858,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:54:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ficha-francisco",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -959,8 +875,8 @@
       "publishedAt": "Mon, 17 Aug 2026 08:03:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-investigacion",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -976,8 +892,8 @@
       "publishedAt": "Sun, 16 Aug 2026 21:21:35 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cali-avanza",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -993,8 +909,8 @@
       "publishedAt": "Sun, 16 Aug 2026 07:59:22 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carlos-caszely",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -1010,8 +926,8 @@
       "publishedAt": "Sat, 15 Aug 2026 18:23:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -1027,42 +943,8 @@
       "publishedAt": "Sat, 15 Aug 2026 17:40:34 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-seguimos-combate",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "706189de058b38ee",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Cerca de medio centenar de muertos y 2000 evacuados tras un terremoto de 7.7 en Indonesia",
-      "summary": "Casi medio centenar de personas han muerto y 2000 tuvieron que ser evacuadas después de que un fuerte terremoto de magnitud 7.7 sacudiera el sábado 15 de agosto de 2026 la costa de la isla indonesia de Flores, al este del archipiélago, mientras las autoridades",
-      "url": "https://confidencial.digital/mundo/cerca-de-medio-centenar-de-muertos-y-2000-evacuados-tras-un-terremoto-de-7-7-en-indonesia/",
-      "publishedAt": "Sat, 15 Aug 2026 16:15:58 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cerca-medio",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a2bb2e341efa2a27",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Venezuela anuncia excarcelación de más de 130 presos políticos",
-      "summary": "Venezuela anunció este viernes (14.08.2026) la excarcelación de más de un centenar de presos políticos, entre ellos una acusada por un atentado con drones contra el depuesto Nicolás Maduro, tras la promesa hecha en la víspera por la jefa de la delegación oposi",
-      "url": "https://confidencial.digital/mundo/venezuela-anuncia-excarcelacion-de-mas-de-130-presos-politicos/",
-      "publishedAt": "Sat, 15 Aug 2026 14:15:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-venezuela-anuncia",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -1078,8 +960,8 @@
       "publishedAt": "Sat, 15 Aug 2026 01:03:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-porceltv",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -1095,8 +977,8 @@
       "publishedAt": "Sat, 15 Aug 2026 01:00:42 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-2025-pensiones",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     },
     {
@@ -1112,8 +994,8 @@
       "publishedAt": "Fri, 14 Aug 2026 08:14:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-estrategia-comunicacional",
-      "firstSeenAt": "2026-08-18T01:27:01.587Z",
-      "lastSeenAt": "2026-08-18T01:27:01.587Z",
+      "firstSeenAt": "2026-08-18T06:50:59.594Z",
+      "lastSeenAt": "2026-08-18T06:50:59.594Z",
       "seenCount": 1
     }
   ]
