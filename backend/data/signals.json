@@ -1,30 +1,16 @@
 {
-  "generatedAt": "2026-08-19T01:34:27.114Z",
-  "count": 68,
+  "generatedAt": "2026-08-19T06:51:20.313Z",
+  "count": 60,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-19T01:34:27.114Z",
-    "activeSignals": 68,
-    "archiveSignals": 126,
-    "countriesCovered": 9,
-    "highPrioritySignals": 25,
-    "averagePoliticalScore": 5.96
+    "generatedAt": "2026-08-19T06:51:20.313Z",
+    "activeSignals": 60,
+    "archiveSignals": 118,
+    "countriesCovered": 8,
+    "highPrioritySignals": 20,
+    "averagePoliticalScore": 5.73
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Trump insiste en declarar el estrecho de Ormuz “nuevo territorio estadounidense”",
-      "leadUrl": "https://confidencial.digital/mundo/trump-insiste-en-declarar-el-estrecho-de-ormuz-nuevo-territorio-estadounidense/",
-      "focusTopics": [
-        "Instituciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 14,
-      "summary": "Foco en Instituciones. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -41,10 +27,25 @@
       "summary": "Foco en Seguridad, Probidad. Vigilar CIPER y CIPER."
     },
     {
+      "country": "Nicaragua",
+      "priority": "Alta",
+      "leadTitle": "Otra vez Estado de emergencia económica en Venezuela",
+      "leadUrl": "https://confidencial.digital/opinion/otra-vez-estado-de-emergencia-economica-en-venezuela/",
+      "focusTopics": [
+        "Economia politica",
+        "Instituciones"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 13,
+      "summary": "Foco en Economia politica, Instituciones. Vigilar Confidencial y Confidencial."
+    },
+    {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Diputados: el peronismo exigió interpelar a Caputo por los fondos viales y planteó coparticipar el impuesto a las provincias",
-      "leadUrl": "https://www.lanacion.com.ar/politica/diputados-el-peronismo-exigio-interpelar-a-caputo-por-los-fondos-viales-y-planteo-coparticipar-el-nid18082026/",
+      "leadTitle": "El Gobierno anunció el envío de ayuda humanitaria a Colombia tras el terremoto",
+      "leadUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-visita-del-papa-leon-xiv-nid18082026/",
       "focusTopics": [
         "Economia politica",
         "Instituciones"
@@ -52,7 +53,7 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 11,
+      "signalCount": 12,
       "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
@@ -86,35 +87,19 @@
       "summary": "Foco en Gobernabilidad. Vigilar El Pais y El Pais."
     },
     {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Congresista vinculada a Pedro Castillo preside la Comisión de Justicia de la Cámara de Diputados",
-      "leadUrl": "https://elcomercio.pe/politica/congreso/catherin-palomino-congresista-vinculada-a-pedro-castillo-preside-la-comision-de-justicia-de-la-camara-de-diputados-noticia/",
-      "focusTopics": [
-        "Instituciones",
-        "Economia politica"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 6,
-      "summary": "Foco en Instituciones, Economia politica. Vigilar El Comercio y El Comercio."
-    },
-    {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Senado aprobó proyecto que habilita a madres y padres a ausentarse del trabajo para asistir a actividades educativas de sus hijos",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/senado-aprobo-proyecto-que-habilita-a-madres-y-padres-a-ausentarse-del-trabajo-para-asistir-a-actividades-educativas-de-sus-hijos/",
+      "leadTitle": "Rendición: con votos de Cabildo Abierto, Diputados aprobó la creación de una agencia para la gestión de inmuebles estatales",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/rendicion-con-votos-de-cabildo-abierto-diputados-aprobo-la-creacion-de-una-agencia-para-la-gestion-de-inmuebles-estatales/",
       "focusTopics": [
-        "Diplomacia",
         "Elecciones",
         "Instituciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Diplomacia, Elecciones, Instituciones. Vigilar La Diaria y La Diaria."
+      "signalCount": 2,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Venezuela",
@@ -150,20 +135,20 @@
   ],
   "signals": [
     {
-      "id": "54122b602c548a3c",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Diplomacia",
+      "id": "602a437fd80fbbe5",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Senado aprobó proyecto que habilita a madres y padres a ausentarse del trabajo para asistir a actividades educativas de sus hijos",
-      "summary": "La iniciativa fue votada por unanimidad y pasa ahora a la Cámara de Diputados; los legisladores destacaron el efecto positivo que la medida tendrá en el bienestar emocional de escolares y liceales. La Cámara de Senadores dio media sanción este martes al proyec",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/senado-aprobo-proyecto-que-habilita-a-madres-y-padres-a-ausentarse-del-trabajo-para-asistir-a-actividades-educativas-de-sus-hijos/",
-      "publishedAt": "Tue, 18 Aug 2026 20:18:04 -0300",
-      "politicalScore": 17,
-      "eventKey": "uruguay-diplomacia-uruguay-diplomacia-senado-aprobo",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "title": "El Gobierno anunció el envío de ayuda humanitaria a Colombia tras el terremoto",
+      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-visita-del-papa-leon-xiv-nid18082026/",
+      "publishedAt": "Wed, 19 Aug 2026 03:17:39 +0000",
+      "politicalScore": 12,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -179,8 +164,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:18:01 -0300",
       "politicalScore": 12,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-rendicion-votos",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -196,8 +181,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:36:41 +0000",
       "politicalScore": 11,
       "eventKey": "chile-seguridad-chile-seguridad-criticas-transversales",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -213,25 +198,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:42:26 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diputados",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c182181f5351a0a3",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Congresista vinculada a Pedro Castillo preside la Comisión de Justicia de la Cámara de Diputados",
-      "summary": "La diputada Catherin Palomino, de Juntos por el Perú, fue elegida presidenta de la Comisión de Justicia y Derechos Humanos de la Cámara de Diputados este martes 18 de agosto. Esto a pesar de los cuestionamientos en su contra por sus vínculos políticos con el e",
-      "url": "https://elcomercio.pe/politica/congreso/catherin-palomino-congresista-vinculada-a-pedro-castillo-preside-la-comision-de-justicia-de-la-camara-de-diputados-noticia/",
-      "publishedAt": "Wed, 19 Aug 2026 01:17:38 +0000",
-      "politicalScore": 10,
-      "eventKey": "peru-instituciones-peru-instituciones-congresista-vinculada",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -247,8 +215,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:25:32 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-instituciones-argentina-instituciones-nadia-beller",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -264,8 +232,8 @@
       "publishedAt": "Tue, 18 Aug 2026 00:01:43 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-presidente-retracta",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -281,8 +249,8 @@
       "publishedAt": "Wed, 19 Aug 2026 00:18:50 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-instituciones-argentina-instituciones-jueces-garantizan",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -298,8 +266,8 @@
       "publishedAt": "Wed, 19 Aug 2026 00:05:01 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -315,8 +283,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:07:37 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-nadie",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -332,42 +300,25 @@
       "publishedAt": "Tue, 18 Aug 2026 23:05:30 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-seguridad-argentina-seguridad-agenda-gobierno",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
-      "id": "b7cfbca21fb8ee9a",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
+      "id": "e7204058e2956ee7",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Ministro Elmer Cuba anuncia que el Estado asumirá casi la mitad del incremento del combustible",
-      "summary": "Elmer Cuba, titular del Ministerio de Economía y Finanzas (MEF) informó que el Estado asumirá aproximadamente la mitad del incremento del precio del combustible para el transporte masivo de carga y pasajeros, como parte del subsidio anunciado por el Gobierno a",
-      "url": "https://elcomercio.pe/economia/peru/ministro-elmer-cuba-anuncia-que-el-estado-asumira-casi-la-mitad-del-incremento-del-combustible-l-ultimas-noticia/",
-      "publishedAt": "Mon, 17 Aug 2026 22:04:22 +0000",
-      "politicalScore": 9,
-      "eventKey": "peru-economia-politica-peru-economia-politica-ministro",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2a416b6803110412",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "MEF alista combo tributario-laboral para facilitar la formalización de empresas y trabajadores",
-      "summary": "Elmer Cuba, ministro de Economía y Finanzas, informó que el Gobierno presentará al Congreso propuestas para reducir la informalidad laboral mediante un combo tributario-laboral que facilite la formalización de las empresas y los trabajadores, especialmente de ",
-      "url": "https://elcomercio.pe/economia/peru/mef-alista-combo-tributario-laboral-para-facilitar-la-formalizacion-de-empresas-y-trabajadores-l-ultimas-noticia/",
-      "publishedAt": "Mon, 17 Aug 2026 21:35:21 +0000",
-      "politicalScore": 9,
-      "eventKey": "peru-economia-politica-peru-economia-politica-alista",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "title": "Otra vez Estado de emergencia económica en Venezuela",
+      "summary": "En la Gaceta Oficial del 8 de agosto de 2026 —número 7066, Extraordinaria—, el gobierno de Venezuela anuncia la declaración de Estado de Emergencia Económica en todo el territorio por un periodo de 60 días, que podrían ser prorrogados por otros 60 días. Como h",
+      "url": "https://confidencial.digital/opinion/otra-vez-estado-de-emergencia-economica-en-venezuela/",
+      "publishedAt": "Wed, 19 Aug 2026 06:20:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-otra",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -383,8 +334,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:25:03 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-instituciones-uruguay-instituciones-rosca-sigue",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -400,42 +351,8 @@
       "publishedAt": "Wed, 19 Aug 2026 00:02:27 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscalia",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "148bada1981b1d08",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "UTE cerró la licitación para la construcción de parque fotovoltaico en Río Negro: se presentaron 10 empresas",
-      "summary": "Fernanda Cardona dijo que el proyecto “no solo deja la infraestructura de la empresa pública y de generación para Uruguay, sino que también genera movimiento en el interior del país” Este martes, el Ministerio de Industria, Energía y Minería (MIEM) y UTE diero",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/ute-cerro-la-licitacion-para-la-construccion-de-parque-fotovoltaico-en-rio-negro-se-presentaron-10-empresas/",
-      "publishedAt": "Tue, 18 Aug 2026 19:29:41 -0300",
-      "politicalScore": 8,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-cerro-licitacion",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e084ed5716760540",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Carta sobre el LUM",
-      "summary": "El exdirector del Lugar de la Memoria, la Tolerancia y la Inclusión Social (LUM), Manuel Burga, y el expresidente de la Comisión de la Verdad y Reconciliación (CVR), Salomón Lerner Febres, se pronunciaron sobre el debate en torno a la administración del LUM y ",
-      "url": "https://elcomercio.pe/politica/carta-sobre-el-lum-de-manuel-burga-y-salomon-lerner-ultimas-noticia/",
-      "publishedAt": "Wed, 19 Aug 2026 01:13:28 +0000",
-      "politicalScore": 7,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-carta",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -451,8 +368,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:54:21 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-instituciones-colombia-instituciones-abelardo-visita",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -468,8 +385,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:20:03 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-instituciones-argentina-instituciones-quien-exesposa",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -485,8 +402,8 @@
       "publishedAt": "Tue, 18 Aug 2026 20:40:13 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-mirada-cantera",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -502,8 +419,8 @@
       "publishedAt": "Tue, 18 Aug 2026 17:42:53 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-trump-insiste",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -519,25 +436,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:20:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cien-anos",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6ca672c9ef6c2225",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Secretario del SUTEP defiende ley que otorga pensión a los maestros y cuestiona al ministro de Economía, Elmer Cuba",
-      "summary": "Luis Castro, secretario general del SUTEP, se refirió al anuncio dado por Elmer Cuba, ministro de Economía, de enviar al Tribunal Constitucional la Ley 32581 que otorga una pensión de S/3.500 a los maestros cesantes y jubilados.",
-      "url": "https://elcomercio.pe/economia/peru/secretario-del-sutep-defiende-ley-que-otorga-pension-a-los-maestros-y-cuestiona-al-ministro-de-economia-elmer-cuba-l-ultimas-noticia/",
-      "publishedAt": "Mon, 17 Aug 2026 19:27:19 +0000",
-      "politicalScore": 7,
-      "eventKey": "peru-economia-politica-peru-economia-politica-secretario",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -553,8 +453,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-farsa-gobierno",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -570,8 +470,8 @@
       "publishedAt": "Tue, 18 Aug 2026 03:45:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-moncloa-ceuta",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -587,8 +487,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:34:12 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-removieron",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -604,8 +504,8 @@
       "publishedAt": "Tue, 18 Aug 2026 12:09:34 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-acusa-gobierno",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -621,8 +521,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:48:51 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-estados-unidos",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -638,8 +538,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:50:34 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-batalla",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -655,8 +555,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:12:16 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sindicatos-piden",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -672,8 +572,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:56:12 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-amenaza",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -689,8 +589,8 @@
       "publishedAt": "Tue, 18 Aug 2026 20:15:17 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-trump-declara",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -706,8 +606,8 @@
       "publishedAt": "Tue, 18 Aug 2026 14:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-musk-altman",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -723,8 +623,8 @@
       "publishedAt": "Tue, 18 Aug 2026 15:59:41 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-entra-polemica",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -740,8 +640,8 @@
       "publishedAt": "Tue, 18 Aug 2026 12:33:57 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-audiencia-nacional",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -757,25 +657,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-playboy-desnudo",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3d59e6fc1eef718a",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Julio Velarde: Perú debe ser “menos clientelista” y más meritocrático para volver a crecer",
-      "summary": "Durante una ceremonia en la que el presidente del Banco Central de Reserva del Perú (BCRP), Julio Velarde, fue distinguido por su labor al mando de la institución, destacó su diagnóstico sobre el camino que debe tomar el país en búsqueda de un constante crecim",
-      "url": "https://elcomercio.pe/economia/peru/julio-velarde-peru-debe-ser-menos-clientelista-y-mas-meritocratico-para-volver-a-crecer-banco-central-de-reserva-del-peru-universidad-catolica-de-santa-maria-de-arequipa-ultimas-noticia/",
-      "publishedAt": "Mon, 17 Aug 2026 22:58:59 +0000",
-      "politicalScore": 5,
-      "eventKey": "peru-economia-politica-peru-economia-politica-julio",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -791,8 +674,8 @@
       "publishedAt": "Mon, 17 Aug 2026 19:18:18 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-tres-nuevas",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -808,8 +691,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:54:03 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-pedraz",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -825,8 +708,8 @@
       "publishedAt": "Mon, 17 Aug 2026 16:47:58 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-prision",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -842,25 +725,8 @@
       "publishedAt": "Mon, 17 Aug 2026 06:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-oposicion-todavia",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b45d95412454cef8",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "El Parlamento iraní aprueba penas de cárcel por contactar con medios “hostiles”",
-      "summary": "El Parlamento iraní aprobó este domingo un proyecto de ley que contempla penas de hasta dos años de cárcel por conceder entrevistas, participar en conversaciones o mantener cualquier tipo de contacto con medios de comunicación considerados “hostiles”, entre el",
-      "url": "https://confidencial.digital/mundo/el-parlamento-irani-aprueba-penas-de-carcel-por-contactar-con-medios-hostiles/",
-      "publishedAt": "Sun, 16 Aug 2026 15:54:01 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-parlamento-irani",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -876,8 +742,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:41 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-capitalizar-decreto",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -893,25 +759,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-prioridades-ministerio",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "251400716d3fa7a2",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Minsa con orden de ocultar masivos contagios de chikungunya",
-      "summary": "“Virus indefinido”, ese fue el diagnóstico que quedó registrado en la hoja de reposo que un médico entregó a Karla, quien llegó a un hospital en Managua con fiebre y dolor de cuerpo. Esta es la forma en que el Ministerio de Salud (Minsa) está registrando los c",
-      "url": "https://confidencial.digital/analisis/minsa-con-orden-de-ocultar-masivos-contagios-de-chikungunya/",
-      "publishedAt": "Sun, 16 Aug 2026 06:22:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-minsa-orden",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -927,8 +776,8 @@
       "publishedAt": "Sat, 15 Aug 2026 19:42:42 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-georreferencia-situa",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -944,8 +793,25 @@
       "publishedAt": "Sat, 15 Aug 2026 08:06:55 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-alla-autoridad",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
+      "seenCount": 1
+    },
+    {
+      "id": "90a06ae05d86bff6",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Monsiváis antes de Monsiváis",
+      "summary": "Las memorias precoces de Carlos Monsiváis, escritas por encargo de Emmanuel Carballo hace sesenta años, y rescatadas ahora por la editorial Siglo XXI, están firmadas en octubre de 1966. En aquel mismo año, Monsiváis trabajó en su antología La poesía mexicana d",
+      "url": "https://confidencial.digital/opinion/monsivais-antes-de-monsivais/",
+      "publishedAt": "Wed, 19 Aug 2026 06:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-monsivais-antes",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -961,8 +827,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:27:29 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-acusaciones",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -978,8 +844,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:54:05 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-ironico",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -995,8 +861,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:30:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-narcotrafico-china",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1012,8 +878,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:11:32 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-eljach-dice",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1029,8 +895,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:19:33 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-joan-duran",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1046,8 +912,8 @@
       "publishedAt": "Tue, 18 Aug 2026 19:58:19 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-estados-unidos",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1063,8 +929,8 @@
       "publishedAt": "Tue, 18 Aug 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-vence-plazo",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1080,8 +946,25 @@
       "publishedAt": "Mon, 17 Aug 2026 06:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tierra-tiembla",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0c1255da26fc4007",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Cuando matar vuelve a ser solución",
+      "summary": "La entrada Cuando matar vuelve a ser solución se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/08/18/cuando-matar-vuelve-a-ser-solucion/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cuando-matar-vuelve-a-ser-solucion",
+      "publishedAt": "Wed, 19 Aug 2026 02:21:12 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-cuando-matar",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1097,8 +980,8 @@
       "publishedAt": "Wed, 19 Aug 2026 00:52:20 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-colombia",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1114,8 +997,8 @@
       "publishedAt": "Wed, 19 Aug 2026 00:07:06 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1131,8 +1014,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:03:21 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-mipyme-jolyni",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1148,8 +1031,8 @@
       "publishedAt": "Tue, 18 Aug 2026 20:50:29 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-agentes-cubanos",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1165,8 +1048,8 @@
       "publishedAt": "Tue, 18 Aug 2026 15:32:14 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-plan-quiroz",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1176,14 +1059,14 @@
       "sourceType": "Investigacion",
       "topic": "Probidad",
       "priority": "Media",
-      "title": "La Carrera Docente cumplió diez años: ¿por qué tantos docentes siguen fuera del sistema que debía desarrollarlos?",
-      "summary": "La entrada La Carrera Docente cumplió diez años: ¿por qué tantos docentes siguen fuera del sistema que debía desarrollarlos? se publicó primero en CIPER Chile .",
+      "title": "La Carrera Docente cumplió diez años: ¿por qué tantos profesores siguen fuera del sistema que debía desarrollarlos?",
+      "summary": "La entrada La Carrera Docente cumplió diez años: ¿por qué tantos profesores siguen fuera del sistema que debía desarrollarlos? se publicó primero en CIPER Chile .",
       "url": "https://www.ciperchile.cl/2026/08/18/la-carrera-docente-cumplio-diez-anos-por-que-tantos-docentes-siguen-fuera-del-sistema-que-debia-desarrollarlos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=la-carrera-docente-cumplio-diez-anos-por-que-tantos-docentes-siguen-fuera-del-sistema-que-debia-desarrollarlos",
       "publishedAt": "Tue, 18 Aug 2026 08:00:23 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carrera-docente",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1199,8 +1082,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:51:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-exencion-contribuciones",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1216,8 +1099,8 @@
       "publishedAt": "Mon, 17 Aug 2026 18:54:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ficha-francisco",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1233,25 +1116,8 @@
       "publishedAt": "Mon, 17 Aug 2026 08:03:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-investigacion",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4e065853b86d5d56",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Cali avanza en la recuperación de cuerpos una semana después del devastador terremoto",
-      "summary": "Una semana después del potente terremoto de magnitud 7.4 que estremeció a Colombia y que deja cerca de 300 muertos, decenas de rescatistas de varios países trabajan sin descanso para tratar de recuperar los cuerpos de las personas que murieron bajo toneladas d",
-      "url": "https://confidencial.digital/mundo/cali-avanza-en-la-recuperacion-de-cuerpos-una-semana-despues-del-devastador-terremoto/",
-      "publishedAt": "Sun, 16 Aug 2026 21:21:35 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cali-avanza",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1267,8 +1133,8 @@
       "publishedAt": "Sun, 16 Aug 2026 07:59:22 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carlos-caszely",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     },
     {
@@ -1284,25 +1150,8 @@
       "publishedAt": "Sat, 15 Aug 2026 18:23:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-fondecyt",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fd92ac15868deddc",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Más allá de PorcelTV: el nuevo negocio de TVN",
-      "summary": "La entrada Más allá de PorcelTV: el nuevo negocio de TVN se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/08/14/mas-alla-de-porceltv-el-nuevo-negocio-de-tvn/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mas-alla-de-porceltv-el-nuevo-negocio-de-tvn",
-      "publishedAt": "Sat, 15 Aug 2026 01:03:46 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-alla-porceltv",
-      "firstSeenAt": "2026-08-19T01:34:27.114Z",
-      "lastSeenAt": "2026-08-19T01:34:27.114Z",
+      "firstSeenAt": "2026-08-19T06:51:20.313Z",
+      "lastSeenAt": "2026-08-19T06:51:20.313Z",
       "seenCount": 1
     }
   ]
