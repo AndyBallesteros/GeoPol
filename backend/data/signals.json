@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-20T01:27:46.522Z",
-  "count": 58,
+  "generatedAt": "2026-08-20T06:53:14.324Z",
+  "count": 60,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-20T01:27:46.522Z",
-    "activeSignals": 58,
-    "archiveSignals": 116,
-    "countriesCovered": 9,
-    "highPrioritySignals": 25,
-    "averagePoliticalScore": 6.48
+    "generatedAt": "2026-08-20T06:53:14.324Z",
+    "activeSignals": 60,
+    "archiveSignals": 118,
+    "countriesCovered": 8,
+    "highPrioritySignals": 26,
+    "averagePoliticalScore": 6.65
   },
   "briefings": [
     {
@@ -44,8 +44,8 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Cambios en el Senado: el Gobierno cede y ya no promueve las sociedades automatizadas sin participación humana",
-      "leadUrl": "https://www.lanacion.com.ar/politica/cambios-en-el-senado-el-gobierno-cede-y-ya-no-promueve-las-sociedades-automatizadas-sin-nid19082026/",
+      "leadTitle": "Intento de femicidio en Bolivia: la fiscalía pidió 180 días de “prisión preventiva” para Fernando Cerimedo y decide el juez",
+      "leadUrl": "https://www.lanacion.com.ar/politica/intento-de-femicidio-en-bolivia-la-fiscalia-pidio-180-dias-de-prision-preventiva-para-fernando-nid19082026/",
       "focusTopics": [
         "Economia politica",
         "Instituciones"
@@ -53,23 +53,39 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 11,
+      "signalCount": 10,
       "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Exvicepresidente técnico de Asofondos será director técnico del Carf",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/exvicepresidente-tecnico-de-asofondos-sera-director-tecnico-del-carf/",
+      "leadTitle": "Nueva EPS y viceministro: Joaquín Gutiérrez gana espacios en el gobierno de Abelardo",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/nueva-eps-y-viceministro-joaquin-gutierrez-gana-espacios-en-el-gobierno-de-abelardo/",
       "focusTopics": [
-        "Economia politica",
-        "Gobernabilidad"
+        "Elecciones",
+        "Economia politica"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 7,
+      "summary": "Foco en Elecciones, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Uruguay",
+      "priority": "Alta",
+      "leadTitle": "Proyecto de ley de competitividad: Senado avanza “contrarreloj“ con el objetivo de que se apruebe la semana próxima",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/proyecto-de-ley-de-competitividad-senado-avanza-contrarreloj-con-el-objetivo-de-que-se-apruebe-la-semana-proxima/",
+      "focusTopics": [
+        "Diplomacia",
+        "Elecciones",
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Diaria"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Diplomacia, Elecciones, Economia politica. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Espana",
@@ -104,20 +120,6 @@
       "summary": "Foco en Seguridad, Sociedad, Instituciones. Vigilar 14ymedio y 14ymedio."
     },
     {
-      "country": "Uruguay",
-      "priority": "Alta",
-      "leadTitle": "Rendición: la Coalición cuestiona la gobernanza del Instituto Nacional de Reinserción y pide disminuir potestades del presidente",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/rendicion-la-coalicion-cuestiona-la-gobernanza-del-instituto-nacional-de-reinsercion-y-pide-disminuir-potestades-del-presidente/",
-      "focusTopics": [
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Diaria"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Economia politica. Vigilar La Diaria y La Diaria."
-    },
-    {
       "country": "Venezuela",
       "priority": "Alta",
       "leadTitle": "OEA reunirá a sus cancilleres para actuar ante la suspensión de elecciones en Nicaragua",
@@ -131,38 +133,41 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Elecciones, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
-      "country": "Peru",
-      "priority": "Media",
-      "leadTitle": "SBS afirma que reglamento sobre la pensión mínima en AFP “está bastante listo” y espera validación del MEF",
-      "leadUrl": "https://elcomercio.pe/economia/peru/sbs-afirma-que-reglamento-sobre-la-pension-minima-en-afp-esta-bastante-listo-y-espera-validacion-del-mef-l-ultimas-noticia/",
-      "focusTopics": [
-        "Economia politica"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Economia politica. Vigilar El Comercio."
     }
   ],
   "signals": [
     {
-      "id": "d5adf3b1e717c1d7",
+      "id": "475e9c6ccb084c6a",
       "country": "Uruguay",
       "source": "La Diaria",
       "sourceType": "Analisis",
-      "topic": "Economia politica",
+      "topic": "Diplomacia",
       "priority": "Alta",
-      "title": "Rendición: la Coalición cuestiona la gobernanza del Instituto Nacional de Reinserción y pide disminuir potestades del presidente",
-      "summary": "Desde el oficialismo confirmaron que el presupuesto de las Fuerzas Armadas no tendrá ningún recorte, tal como acordó el Poder Ejecutivo con Cabildo Abierto. La Cámara de Diputados continuó el miércoles con el tratamiento en particular de los 351 artículos del ",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/rendicion-la-coalicion-cuestiona-la-gobernanza-del-instituto-nacional-de-reinsercion-y-pide-disminuir-potestades-del-presidente/",
-      "publishedAt": "Wed, 19 Aug 2026 20:33:21 -0300",
-      "politicalScore": 18,
-      "eventKey": "uruguay-economia-politica-uruguay-economia-politica-rendicion",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "title": "Proyecto de ley de competitividad: Senado avanza “contrarreloj“ con el objetivo de que se apruebe la semana próxima",
+      "summary": "La Comisión de Hacienda aprobó por unanimidad la mitad del articulado, mientras la oposición advierte que lo que el plenario sancione sin acuerdo “no será acompañado en Diputados” Este miércoles la Comisión de Hacienda de la Cámara de Senadores avanzó en el tr",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/proyecto-de-ley-de-competitividad-senado-avanza-contrarreloj-con-el-objetivo-de-que-se-apruebe-la-semana-proxima/",
+      "publishedAt": "Wed, 19 Aug 2026 22:29:59 -0300",
+      "politicalScore": 21,
+      "eventKey": "uruguay-diplomacia-uruguay-diplomacia-proyecto-competitividad",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6b9569ccf684d759",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Allanamientos nocturnos: ¿cuántas veces vamos a preguntarles lo mismo a los uruguayos?",
+      "summary": "El senador nacionalista Carlos Camy propone volver a plebiscitar los allanamientos nocturnos dos o tres años antes de las elecciones de 2029, con la expectativa de que puedan utilizarse durante este período de gobierno. La propuesta merece una respuesta que va",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/allanamientos-nocturnos-cuantas-veces-vamos-a-preguntarles-lo-mismo-a-los-uruguayos/",
+      "publishedAt": "Thu, 20 Aug 2026 00:10:32 -0300",
+      "politicalScore": 17,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-allanamientos-nocturnos",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -178,25 +183,25 @@
       "publishedAt": "Wed, 19 Aug 2026 22:14:39 -0300",
       "politicalScore": 15,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-debe",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
-      "id": "1e0787a4ddd7647b",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "id": "0930af8be6fa5799",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Cambios en el Senado: el Gobierno cede y ya no promueve las sociedades automatizadas sin participación humana",
-      "summary": "Patricia Bullrich anunció que se incluirá a una persona física o jurídica como responsable de las “organizaciones autónomas” en el proyecto de ley de sociedades, cuya autoría original es del ministro Sturzenegger",
-      "url": "https://www.lanacion.com.ar/politica/cambios-en-el-senado-el-gobierno-cede-y-ya-no-promueve-las-sociedades-automatizadas-sin-nid19082026/",
-      "publishedAt": "Wed, 19 Aug 2026 21:29:19 +0000",
+      "title": "Rendición de Cuentas: cambios en la ley de medios y en el Instituto de Bienestar Animal no se votaron y se tratarán en comisión",
+      "summary": "En el articulado del MTOP, Cabildo Abierto dio sus votos para la aprobación de un fideicomiso ferroviario para contratar estudios y obras de infraestructura. Este miércoles, la Cámara de Diputados tuvo una extensa jornada de tratamiento en particular del proye",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/rendicion-de-cuentas-cambios-en-la-ley-de-medios-y-en-el-instituto-de-bienestar-animal-no-se-votaron-y-se-trataran-en-comision/",
+      "publishedAt": "Wed, 19 Aug 2026 23:16:30 -0300",
       "politicalScore": 14,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-cambios",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-rendicion-cuentas",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -212,8 +217,8 @@
       "publishedAt": "Wed, 19 Aug 2026 19:09:33 +0000",
       "politicalScore": 13,
       "eventKey": "venezuela-elecciones-venezuela-elecciones-reunira-cancilleres",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -229,8 +234,8 @@
       "publishedAt": "Wed, 19 Aug 2026 15:34:34 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-convocara-cancilleres",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -246,25 +251,8 @@
       "publishedAt": "Wed, 19 Aug 2026 23:37:14 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-opositores-exilio",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "17956d475a411692",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "José Luis Espert amplió su descargo en la Justicia: insistió con su inocencia y dijo por qué no le devolvió los US$200.000 a Fred Machado",
-      "summary": "El exdiputado libertario afirmó que desconocía las actividades del empresario condenado en los Estados Unidos y defendió el contrato con una de sus mineras; el juez debe resolver si lo procesa",
-      "url": "https://www.lanacion.com.ar/politica/espert-amplio-su-descargo-en-la-justicia-insistio-con-su-inocencia-y-dijo-por-que-no-le-devolvio-los-nid19082026/",
-      "publishedAt": "Wed, 19 Aug 2026 21:13:37 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-instituciones-argentina-instituciones-jose-luis",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -280,8 +268,8 @@
       "publishedAt": "Tue, 18 Aug 2026 23:36:41 +0000",
       "politicalScore": 11,
       "eventKey": "chile-seguridad-chile-seguridad-criticas-transversales",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -291,14 +279,14 @@
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Intento de femicidio en Bolivia: la fiscalía pidió 180 días de “prisión preventiva” para Fernando Cerimedo y mañana decide el juez",
+      "title": "Intento de femicidio en Bolivia: la fiscalía pidió 180 días de “prisión preventiva” para Fernando Cerimedo y decide el juez",
       "summary": "Fuentes de la causa dijeron a LA NACION que el magistrado determinará si el exasesor de Milei queda detenido; mientras tanto, buscan a los autores materiales y la diputada Pagano pidió que la víctima declare en una causa en la Argentina",
       "url": "https://www.lanacion.com.ar/politica/intento-de-femicidio-en-bolivia-la-fiscalia-pidio-180-dias-de-prision-preventiva-para-fernando-nid19082026/",
-      "publishedAt": "Wed, 19 Aug 2026 22:54:52 +0000",
+      "publishedAt": "Thu, 20 Aug 2026 06:38:47 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-intento",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -314,8 +302,8 @@
       "publishedAt": "Wed, 19 Aug 2026 11:11:07 +0000",
       "politicalScore": 10,
       "eventKey": "cuba-seguridad-cuba-seguridad-arropado-calle",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -331,8 +319,42 @@
       "publishedAt": "Tue, 18 Aug 2026 00:01:43 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-presidente-retracta",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8f7b3be797780374",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Nueva EPS y viceministro: Joaquín Gutiérrez gana espacios en el gobierno de Abelardo",
+      "summary": "Dos nombramientos tienen conexiones con el amigo y jefe de campaña de De la Espriella. El interventor de la EPS es cercano a Gutiérrez, que tiene negocios en el sector. The post Nueva EPS y viceministro: Joaquín Gutiérrez gana espacios en el gobierno de Abelar",
+      "url": "https://www.lasillavacia.com/silla-nacional/nueva-eps-y-viceministro-joaquin-gutierrez-gana-espacios-en-el-gobierno-de-abelardo/",
+      "publishedAt": "Thu, 20 Aug 2026 06:00:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "colombia-elecciones-colombia-elecciones-nueva-viceministro",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3346642ea3f7ffa7",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Sturzenegger, sobre la privatización del Belgrano Cargas: “Uno de los cambios más trascendentales”",
+      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-detencion-de-cerimedo-nid19082026/",
+      "publishedAt": "Thu, 20 Aug 2026 02:24:03 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-sturzenegger",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -348,8 +370,8 @@
       "publishedAt": "Wed, 19 Aug 2026 23:53:38 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-instituciones-argentina-instituciones-grabois-cruzo",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -365,8 +387,8 @@
       "publishedAt": "Wed, 19 Aug 2026 23:26:11 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diputado",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -382,42 +404,8 @@
       "publishedAt": "Wed, 19 Aug 2026 22:39:11 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-exvicepresidente",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3fdc3fce0efd000e",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Caso Insaurralde: la fiscalía apeló el sobreseimiento de Sofía Clerici y criticó a los jueces que intervinieron en la investigación",
-      "summary": "Sergio Mola y Diego Velasco consideraron que la decisión es prematura y arbitraria; acusaron a Armella y Kreplak por la falta de avances en la causa",
-      "url": "https://www.lanacion.com.ar/politica/caso-insaurralde-la-fiscalia-apelo-el-sobreseimiento-de-sofia-clerici-y-critico-a-los-jueces-que-nid19082026/",
-      "publishedAt": "Wed, 19 Aug 2026 22:03:10 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-caso",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cf563277d6fbc070",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Santilli recibió a Figueroa y el gobernador apoyará la reforma del BCRA y la eliminación de las PASO",
-      "summary": "El jefe de Gabinete le aseguró al neuquino que no se tocarán los subsidios de zonas frías en la Patagonia; el mandatario provincial recibirá inmuebles para compensar deudas; hubo reclamos por el estado de las rutas",
-      "url": "https://www.lanacion.com.ar/politica/santilli-recibio-a-figueroa-y-el-gobernador-le-garantizo-apoyo-para-la-reforma-del-bcra-y-la-nid19082026/",
-      "publishedAt": "Wed, 19 Aug 2026 21:41:33 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -433,8 +421,25 @@
       "publishedAt": "Wed, 19 Aug 2026 06:20:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-otra",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "729c40a78fbd1933",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Un buen paso hacia la reforma carcelaria",
+      "summary": "El martes, en una entrevista con la diaria Radio , la criminóloga Ana Vigna, asesora sobre políticas penitenciarias del Ministerio del Interior, confirmó que en el primer semestre del año que viene comenzará a funcionar la [unidad de reclusión 27](https://ladi",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/un-buen-paso-hacia-la-reforma-carcelaria/",
+      "publishedAt": "Thu, 20 Aug 2026 00:10:31 -0300",
+      "politicalScore": 7,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-buen-paso",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -450,8 +455,8 @@
       "publishedAt": "Thu, 20 Aug 2026 00:08:35 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-duerma",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -467,8 +472,8 @@
       "publishedAt": "Wed, 19 Aug 2026 22:54:33 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-seguridad-argentina-seguridad-cumbre-gobierno",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -484,8 +489,8 @@
       "publishedAt": "Wed, 19 Aug 2026 22:10:36 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-abogada",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -501,8 +506,8 @@
       "publishedAt": "Tue, 18 Aug 2026 17:42:53 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-trump-insiste",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -518,8 +523,8 @@
       "publishedAt": "Tue, 18 Aug 2026 06:20:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cien-anos",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -535,8 +540,8 @@
       "publishedAt": "Wed, 19 Aug 2026 20:00:35 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-feijoo-proclama",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -552,8 +557,8 @@
       "publishedAt": "Wed, 19 Aug 2026 12:01:20 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-registra-congreso",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -569,8 +574,42 @@
       "publishedAt": "Wed, 19 Aug 2026 00:04:35 +0200",
       "politicalScore": 4,
       "eventKey": "espana-seguridad-espana-seguridad-gran-tablero",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "88c09422bf5fc546",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "OEA enoja a Rosario Murillo: “Delincuentes, mentecatos, truhanes, ridículos, migajas…”",
+      "summary": "La “copresidenta” nicaragüense, Rosario Murillo, arremetió el miércoles 19 de agosto de 2026 contra la oposición en el exilio después de que la Organización de los Estados Americanos (OEA) convocara de forma urgente a una reunión de cancilleres, todavía sin fe",
+      "url": "https://confidencial.digital/noticias/rosario-murillo-insulta-a-oposicion-tras-convocatoria-de-la-oea/",
+      "publishedAt": "Thu, 20 Aug 2026 03:58:33 +0000",
+      "politicalScore": 6,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-enoja-rosario",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "34e217e793340a91",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El ministro de Presidencia de Bolivia se distanció de Cerimedo",
+      "summary": "El exasesor de Javier Milei fue detenido por el ataque a balazos a su expareja, una abogada y activista boliviana; tras su detención se negó a declarar",
+      "url": "https://www.lanacion.com.ar/politica/caso-cerimedo-en-vivo-que-se-sabe-de-la-investigacion-al-exasesor-de-milei-que-esta-detenido-en-nid19082026/",
+      "publishedAt": "Thu, 20 Aug 2026 02:07:27 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-ministro",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -586,8 +625,8 @@
       "publishedAt": "Thu, 20 Aug 2026 01:03:43 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-hilos-submundo",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -603,8 +642,8 @@
       "publishedAt": "Wed, 19 Aug 2026 23:58:04 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-camioneros-exigen",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -620,25 +659,8 @@
       "publishedAt": "Wed, 19 Aug 2026 08:00:48 +0000",
       "politicalScore": 6,
       "eventKey": "chile-seguridad-chile-seguridad-estado-excepcion",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2a4ed40a8a5c06fe",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Estados Unidos acaba con el TPS para nicaragüenses y 12 nacionalidades más",
-      "summary": "El Departamento de Seguridad Nacional de los Estados Unidos (DHS) finalizó el Estatus de Protección Temporal (TPS, por sus siglas en inglés) otorgado a más de 2000 migrantes nicaragüenses y de otras 12 nacionalidades. El anunció lo dio a conocer en su cuenta d",
-      "url": "https://confidencial.digital/noticias/estados-unidos-acaba-con-el-tps-para-nicaraguenses-y-12-nacionalidades-mas/",
-      "publishedAt": "Mon, 17 Aug 2026 22:48:51 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-estados-unidos",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -654,8 +676,8 @@
       "publishedAt": "Thu, 20 Aug 2026 01:11:12 +0000",
       "politicalScore": 5,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-parte",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -671,8 +693,8 @@
       "publishedAt": "Thu, 20 Aug 2026 00:22:10 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-siete-giros",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -688,8 +710,8 @@
       "publishedAt": "Thu, 20 Aug 2026 00:00:02 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-reconstruccion-primer",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -705,25 +727,8 @@
       "publishedAt": "Wed, 19 Aug 2026 21:57:20 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-diana-bravo",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c9d321b2232a98d1",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "SBS afirma que reglamento sobre la pensión mínima en AFP “está bastante listo” y espera validación del MEF",
-      "summary": "Sergio Espinosa, jefe de la SBS, señaló que la reforma de pensiones que establece una pensión mínima garantizada para los afiliados que se jubilen por la ONP y el sistema privado (AFP), ya está avanzada y espera validación del Ministerio de Economía y Finanzas",
-      "url": "https://elcomercio.pe/economia/peru/sbs-afirma-que-reglamento-sobre-la-pension-minima-en-afp-esta-bastante-listo-y-espera-validacion-del-mef-l-ultimas-noticia/",
-      "publishedAt": "Wed, 19 Aug 2026 18:57:31 +0000",
-      "politicalScore": 5,
-      "eventKey": "peru-economia-politica-peru-economia-politica-afirma",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -739,8 +744,8 @@
       "publishedAt": "Wed, 19 Aug 2026 18:02:19 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-plan-destrabar",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -756,8 +761,8 @@
       "publishedAt": "Wed, 19 Aug 2026 15:42:23 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-corte-apelaciones",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -773,8 +778,8 @@
       "publishedAt": "Wed, 19 Aug 2026 11:44:27 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-pide-senado",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -790,8 +795,8 @@
       "publishedAt": "Tue, 18 Aug 2026 22:56:12 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-amenaza",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -807,25 +812,8 @@
       "publishedAt": "Tue, 18 Aug 2026 14:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-musk-altman",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "861bce83ee506f95",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "El día que ‘Playboy’ desnudó a Fidel Castro",
-      "summary": "El hombre que prohibió en su Isla toda revista con mujeres desnudas, el mismo que convirtió el pudor revolucionario en política de Estado, decidió en 1967 abrirle las puertas de su despacho –y de su ego– nada menos que a Playboy, la revista del conejito. Y a H",
-      "url": "https://confidencial.digital/opinion/el-dia-que-playboy-desnudo-a-fidel-castro/",
-      "publishedAt": "Tue, 18 Aug 2026 06:10:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-playboy-desnudo",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -841,8 +829,8 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:41 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-capitalizar-decreto",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -858,8 +846,59 @@
       "publishedAt": "Sun, 16 Aug 2026 08:00:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-prioridades-ministerio",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ea8ea34bc3afb827",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La paradoja de Kessler y la democracia",
+      "summary": "Nunca imaginé que un astrónomo pudiera ayudarme a comprender los autoritarismos del siglo XXI. El síndrome de Kessler, una hipótesis formulada en 1978 por el astrofísico Donald J. Kessler, describe un fenómeno inquietante: cuando la cantidad de desechos en la ",
+      "url": "https://confidencial.digital/opinion/la-paradoja-de-kessler-y-la-democracia/",
+      "publishedAt": "Thu, 20 Aug 2026 06:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-paradoja-kessler",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "87c87a89622fa413",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Los duelos afectivos del exilio: amar desde las sombras",
+      "summary": "He escrito antes sobre el duelo de dejar un territorio. Sobre lo que significa alejarse de la tierra que guarda nuestra memoria, de los lugares que nos nombran, de aquello que reconocemos como propio. Pero con el tiempo he comprendido que el exilio acumula due",
+      "url": "https://confidencial.digital/opinion/los-duelos-afectivos-del-exilio-amar-desde-las-sombras/",
+      "publishedAt": "Thu, 20 Aug 2026 06:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-duelos-afectivos",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6a13223710654480",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "En una visita con impacto político, el peronismo federal buscó sumar a Passalacqua y Misiones podría salir de la órbita libertaria",
+      "summary": "Dirigentes del Grupo Parque Norte acudieron al encuentro del gobernador norteño; ocurrió en medio de indicios de un distanciamiento de la provincia con la Casa Rosada",
+      "url": "https://www.lanacion.com.ar/politica/el-peronismo-federal-busca-sumar-a-passalacqua-y-misiones-podria-salir-de-la-orbita-libertaria-nid19082026/",
+      "publishedAt": "Thu, 20 Aug 2026 01:33:14 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-visita",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -875,8 +914,8 @@
       "publishedAt": "Wed, 19 Aug 2026 23:38:40 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-abelardo",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -892,8 +931,8 @@
       "publishedAt": "Wed, 19 Aug 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -909,8 +948,8 @@
       "publishedAt": "Wed, 19 Aug 2026 06:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-monsivais-antes",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -926,8 +965,8 @@
       "publishedAt": "Tue, 18 Aug 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-vence-plazo",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -943,8 +982,8 @@
       "publishedAt": "Wed, 19 Aug 2026 18:41:52 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-protesta-mujeres",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -960,8 +999,8 @@
       "publishedAt": "Wed, 19 Aug 2026 08:00:55 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fracaso-diseno",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -977,8 +1016,8 @@
       "publishedAt": "Wed, 19 Aug 2026 07:10:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-comunidad-internacional",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -994,8 +1033,8 @@
       "publishedAt": "Wed, 19 Aug 2026 02:21:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-matar",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1011,8 +1050,8 @@
       "publishedAt": "Wed, 19 Aug 2026 00:52:20 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-colombia",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1028,8 +1067,8 @@
       "publishedAt": "Tue, 18 Aug 2026 21:03:21 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-mipyme-jolyni",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1045,8 +1084,8 @@
       "publishedAt": "Tue, 18 Aug 2026 20:50:29 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-agentes-cubanos",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1062,8 +1101,8 @@
       "publishedAt": "Tue, 18 Aug 2026 15:32:14 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-plan-quiroz",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1079,8 +1118,8 @@
       "publishedAt": "Tue, 18 Aug 2026 08:00:23 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carrera-docente",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1096,25 +1135,8 @@
       "publishedAt": "Mon, 17 Aug 2026 22:51:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-exencion-contribuciones",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f5326f37ccba72e2",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Cae en la DGI ficha de Francisco “Chico” López",
-      "summary": "El régimen de Daniel Ortega y Rosario Murillo “renunció” a Martín Gustavo Rivas Ruiz, quien por 15 años fue el titular de la Dirección General de Ingresos (DGI). El alto funcionario —de acuerdo con fuentes de la dictadura— era una “ficha” de Francisco “Chico” ",
-      "url": "https://confidencial.digital/noticias/renuncia-director-de-la-dgi-martin-rivas-en-nicaragua/",
-      "publishedAt": "Mon, 17 Aug 2026 18:54:13 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ficha-francisco",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     },
     {
@@ -1130,8 +1152,8 @@
       "publishedAt": "Mon, 17 Aug 2026 08:03:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-investigacion",
-      "firstSeenAt": "2026-08-20T01:27:46.522Z",
-      "lastSeenAt": "2026-08-20T01:27:46.522Z",
+      "firstSeenAt": "2026-08-20T06:53:14.324Z",
+      "lastSeenAt": "2026-08-20T06:53:14.324Z",
       "seenCount": 1
     }
   ]
