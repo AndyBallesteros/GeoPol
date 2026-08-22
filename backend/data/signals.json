@@ -1,16 +1,30 @@
 {
-  "generatedAt": "2026-08-22T01:26:56.772Z",
-  "count": 66,
+  "generatedAt": "2026-08-22T06:47:22.523Z",
+  "count": 60,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-08-22T01:26:56.772Z",
-    "activeSignals": 66,
-    "archiveSignals": 124,
+    "generatedAt": "2026-08-22T06:47:22.523Z",
+    "activeSignals": 60,
+    "archiveSignals": 118,
     "countriesCovered": 8,
     "highPrioritySignals": 26,
-    "averagePoliticalScore": 5.86
+    "averagePoliticalScore": 6.12
   },
   "briefings": [
+    {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Tucumán: denuncian a Lisandro Catalán y a un diputado libertario por falsificar su domicilio con fines electorales",
+      "leadUrl": "https://www.lanacion.com.ar/politica/tucuman-denuncian-a-lisandro-catalan-y-a-un-diputado-libertario-por-falsificar-su-domicilio-con-nid22082026/",
+      "focusTopics": [
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 14,
+      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+    },
     {
       "country": "Nicaragua",
       "priority": "Alta",
@@ -23,22 +37,8 @@
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 15,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Confidencial y Confidencial."
-    },
-    {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "Milei negó que la morosidad sea alta y dijo que no se puede culpar al Gobierno",
-      "leadUrl": "https://www.lanacion.com.ar/politica/milei-nego-que-la-morosidad-sea-alta-y-dijo-que-los-numeros-de-argentina-son-similares-a-los-de-nid21082026/",
-      "focusTopics": [
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
       "signalCount": 13,
-      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -62,14 +62,15 @@
       "leadTitle": "El Gobierno designará al ministro Torres como coordinador de la crisis en Ceuta tres semanas después de la avalancha",
       "leadUrl": "https://www.elmundo.es/espana/2026/08/21/6a88657d21efa0c07e8b4577.html",
       "focusTopics": [
-        "Gobernabilidad"
+        "Gobernabilidad",
+        "Economia politica"
       ],
       "topSources": [
         "El Mundo",
         "El Pais"
       ],
-      "signalCount": 7,
-      "summary": "Foco en Gobernabilidad. Vigilar El Mundo y El Pais."
+      "signalCount": 6,
+      "summary": "Foco en Gobernabilidad, Economia politica. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Colombia",
@@ -84,21 +85,21 @@
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 7,
+      "signalCount": 5,
       "summary": "Foco en Instituciones, Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Rendición: Diputados aprobó por unanimidad exoneración del IVA a cooperativas y rechazó prisión domiciliaria para mayores de 65",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/rendicion-diputados-aprobo-por-unanimidad-exoneracion-del-iva-a-cooperativas-y-rechazo-prision-domiciliaria-para-mayores-de-65/",
+      "leadTitle": "Mario Lubetkin: “Se ha dañado” el vínculo con el FA pero cuando “prime la verdad” se reducirán “los niveles de desencuentro”",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/8/mario-lubetkin-se-ha-danado-el-vinculo-con-el-fa-pero-cuando-prime-la-verdad-se-reduciran-los-niveles-de-desencuentro/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 5,
+      "signalCount": 3,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
@@ -145,8 +146,25 @@
       "publishedAt": "Fri, 21 Aug 2026 17:59:23 +0000",
       "politicalScore": 14,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-voto-latinoamericano",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b7b970019712774d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Tucumán: denuncian a Lisandro Catalán y a un diputado libertario por falsificar su domicilio con fines electorales",
+      "summary": "La presentación judicial fue impulsada por un concejal de la UCR que responde a Mariano Campero, un diputado que se sumó en el Congreso a La Libertad Avanza; en el PJ también escaló la interna",
+      "url": "https://www.lanacion.com.ar/politica/tucuman-denuncian-a-lisandro-catalan-y-a-un-diputado-libertario-por-falsificar-su-domicilio-con-nid22082026/",
+      "publishedAt": "Sat, 22 Aug 2026 04:00:00 +0000",
+      "politicalScore": 12,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-tucuman",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -162,8 +180,8 @@
       "publishedAt": "Sat, 22 Aug 2026 01:08:23 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -179,8 +197,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:42:06 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-corte",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -196,25 +214,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:20:31 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-oficialismo",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "51f64e8264f53088",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Rendición: Diputados aprobó por unanimidad exoneración del IVA a cooperativas y rechazó prisión domiciliaria para mayores de 65",
-      "summary": "La diputada del Frente Amplio Sylvia Ibarguren dijo a la diaria que el resultado de la votación fue favorable “para la sociedad en su conjunto”. A la 01.43 de este viernes terminó la sesión que marcó el final del trámite parlamentario de la Rendición de Cuenta",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/rendicion-diputados-aprobo-por-unanimidad-exoneracion-del-iva-a-cooperativas-y-rechazo-prision-domiciliaria-para-mayores-de-65/",
-      "publishedAt": "Fri, 21 Aug 2026 21:29:08 -0300",
-      "politicalScore": 10,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-rendicion-diputados",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -230,8 +231,8 @@
       "publishedAt": "Fri, 21 Aug 2026 20:30:45 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-exiliados-piden",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -247,8 +248,8 @@
       "publishedAt": "Fri, 21 Aug 2026 19:05:12 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -264,42 +265,42 @@
       "publishedAt": "Fri, 21 Aug 2026 16:55:52 +0200",
       "politicalScore": 10,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-designara",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
-      "id": "7d15dfa1e347cb75",
+      "id": "60c9b0f089822d0b",
       "country": "Uruguay",
       "source": "La Diaria",
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Kicillof en el Congreso Panamericano: “Lo que antes era una novedad hoy se está volviendo cada vez más una calamidad”",
-      "summary": "El gobernador de Buenos Aires dijo que la ultraderecha “perdió” la batalla cultural en Argentina; mientras que la exvicepresidenta Lucía Topolansky llamó a la integración regional y a “marcar la presencia de los pueblos”. Como parte del coloquio “Esto es Améri",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/kicillof-en-el-congreso-panamericano-lo-que-antes-era-una-novedad-hoy-se-esta-volviendo-cada-vez-mas-una-calamidad/",
-      "publishedAt": "Fri, 21 Aug 2026 19:56:53 -0300",
+      "title": "Mario Lubetkin: “Se ha dañado” el vínculo con el FA pero cuando “prime la verdad” se reducirán “los niveles de desencuentro”",
+      "summary": "El canciller afirmó que la “lección aprendida” de las repercusiones por un eventual acuerdo de deportaciones es que “hay que informar más” y remarcó que el gobierno tiene la misma posición que la fuerza política en este tema. Respeto a los derechos humanos y a",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/mario-lubetkin-se-ha-danado-el-vinculo-con-el-fa-pero-cuando-prime-la-verdad-se-reduciran-los-niveles-de-desencuentro/",
+      "publishedAt": "Sat, 22 Aug 2026 00:06:55 -0300",
       "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-kicillof-congreso",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-mario-lubetkin",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
-      "id": "c0da290e894713fd",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "id": "33c434ab2aa5676b",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, se reunió con Yamandú Orsi en la Torre Ejecutiva y anunció convenios",
-      "summary": "El argentino elogió el conocimiento “sorprendente y minucioso” que posee el presidente de la República sobre los cambios geopolíticos y dijo que Milei “metió la pata hasta el fondo” con sus agravios hacia Lula. El presidente de la República, Yamandú Orsi, se r",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/el-gobernador-de-la-provincia-de-buenos-aires-axel-kicillof-se-reunio-con-yamandu-orsi-en-la-torre-ejecutiva-y-anuncio-convenios/",
-      "publishedAt": "Fri, 21 Aug 2026 17:56:52 -0300",
+      "title": "El presidente Javier Milei participó del 142 aniversario de la Bolsa de Comercio de Rosario",
+      "summary": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-aumento-de-la-morosidad-bancaria-y-las-primeras-alianzas-de-nid21082026/",
+      "publishedAt": "Sat, 22 Aug 2026 02:06:35 +0000",
       "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-gobernador-provincia",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-presidente",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -309,14 +310,14 @@
       "sourceType": "Generalista",
       "topic": "Instituciones",
       "priority": "Alta",
-      "title": "La Justicia ordenó la prisión preventiva por 180 días para Fernando Cerimedo por el ataque a Nadia Beller",
-      "summary": "Así lo determinó el juez Wilson Espada, quien ejecutó la detención del ciudadano argentino; el abogado de su novia, que sigue internada, presentó un chat donde habla de “eliminarla”",
+      "title": "La Justicia de Bolivia dictó 180 días de prisión preventiva para Fernando Cerimedo por el ataque a Nadia Beller",
+      "summary": "Así lo determinó el juez Wilson Espada, quien ejecutó la detención del ciudadano argentino; el abogado de su novia, que sigue internada, presentó un chat donde habla de “eliminarla”; el exasesor fue trasladado al penal de Pasmasola",
       "url": "https://www.lanacion.com.ar/politica/la-policia-arresto-a-un-nuevo-sospechoso-del-atentado-contra-la-pareja-de-cerimedo-nid21082026/",
-      "publishedAt": "Sat, 22 Aug 2026 01:05:19 +0000",
+      "publishedAt": "Sat, 22 Aug 2026 06:10:17 +0000",
       "politicalScore": 8,
-      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-ordeno",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-bolivia",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -332,25 +333,8 @@
       "publishedAt": "Fri, 21 Aug 2026 20:07:05 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-instituciones-argentina-instituciones-procesaron-exagente",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c6a75ff2166d4854",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Caso Cerimedo: qué se sabe de la investigación al exasesor de Milei hoy, viernes 21 de agosto",
-      "summary": "La fiscalía solicitó la “prisión preventiva” del acusado sin límite de tiempo o en su defecto la detención preventiva por el plazo máximo de 180 días; según el documento, “dirigió una emboscada” para matar a su novia; el móvil fue el embarazo",
-      "url": "https://www.lanacion.com.ar/politica/caso-cerimedo-que-se-sabe-de-la-investigacion-al-exasesor-de-milei-por-el-ataque-a-balazos-contra-nid20082026/",
-      "publishedAt": "Fri, 21 Aug 2026 18:57:19 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-caso",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -366,8 +350,25 @@
       "publishedAt": "Fri, 21 Aug 2026 01:39:50 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-estados-unidos",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
+      "seenCount": 1
+    },
+    {
+      "id": "48a30fef3222f13c",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Los errores de Petro",
+      "summary": "El 21 de junio Colombia se sumó al grupo de países que en el último bienio han girado a la derecha en Latinoamérica. El candidato outsider Abelardo de la Espriella se convirtió en presidente de la república y asumió el poder por los siguientes cuatro años. Más",
+      "url": "https://confidencial.digital/opinion/los-errores-de-petro/",
+      "publishedAt": "Sat, 22 Aug 2026 06:10:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-errores-petro",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -383,8 +384,8 @@
       "publishedAt": "Sat, 22 Aug 2026 00:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-instituciones-colombia-instituciones-duerma-informado",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -400,8 +401,8 @@
       "publishedAt": "Fri, 21 Aug 2026 22:27:22 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-recoleccion-escombros",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -417,8 +418,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:59:38 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-abelardo-hablan",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -434,8 +435,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:05:13 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-mintrabajo-cambio",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -451,8 +452,8 @@
       "publishedAt": "Fri, 21 Aug 2026 19:36:30 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-jorge-rodriguez",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -468,8 +469,8 @@
       "publishedAt": "Fri, 21 Aug 2026 19:09:55 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-bullrich",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -485,8 +486,8 @@
       "publishedAt": "Fri, 21 Aug 2026 12:49:18 +0000",
       "politicalScore": 7,
       "eventKey": "chile-seguridad-chile-seguridad-reforma-constitucional",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -502,25 +503,25 @@
       "publishedAt": "Thu, 20 Aug 2026 22:00:31 +0000",
       "politicalScore": 7,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-estados-unidos",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
-      "id": "313fe8831d2fef60",
+      "id": "3efe42ebd888ebc3",
       "country": "Espana",
       "source": "El Pais",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "El Gobierno sondeó al Rey sobre la oportunidad de hacer una llamada a Mohamed VI por la crisis de Ceuta",
-      "summary": "Felipe VI no descarta esa intervención o la visita a la ciudad si lo pide el presidente y cuando sea “útil y razonable”",
-      "url": "https://elpais.com/espana/2026-08-21/el-gobierno-sondeo-al-rey-sobre-la-oportunidad-de-hacer-una-llamada-a-mohamed-vi-por-la-crisis-de-ceuta.html",
-      "publishedAt": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-sondeo",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "title": "El Gobierno prepara un plan económico para revitalizar Ceuta tras la crisis migratoria",
+      "summary": "Cuerpo viajará a reunirse con distintos sectores para ver sus necesidades. El Consejo de Ministros aprobará este martes 25 millones para atender a los menores, pero habrá goteo de más dinero en las próximas citas",
+      "url": "https://elpais.com/espana/2026-08-22/el-gobierno-prepara-un-plan-economico-para-revitalizar-ceuta-tras-la-crisis-migratoria.html",
+      "publishedAt": "Sat, 22 Aug 2026 03:45:01 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-economia-politica-espana-economia-politica-gobierno",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -536,8 +537,8 @@
       "publishedAt": "Fri, 21 Aug 2026 22:49:43 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-justo-agravio",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -553,8 +554,8 @@
       "publishedAt": "Fri, 21 Aug 2026 16:15:04 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-desvia",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -570,25 +571,42 @@
       "publishedAt": "Fri, 21 Aug 2026 01:15:53 +0200",
       "politicalScore": 5,
       "eventKey": "espana-elecciones-espana-elecciones-gobierno-alerta",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
-      "id": "8e2218d206043c76",
+      "id": "9f4c620ac18adff1",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El nuevo juez del caso Insaurralde validó los videos en los que Jesica Cirio aparece rodeada de fajos de dólares",
+      "summary": "En su primera actuación, Rodríguez Ponte rechazó la pretensión de la modelo y del exintendente de Lomas de Zamora de excluirlos como prueba",
+      "url": "https://www.lanacion.com.ar/politica/el-nuevo-juez-del-caso-insaurralde-valido-los-videos-en-los-que-jesica-cirio-aparece-rodeada-de-nid22082026/",
+      "publishedAt": "Sat, 22 Aug 2026 04:00:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-nuevo",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c81a2795842e1386",
       "country": "Uruguay",
       "source": "La Diaria",
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Media",
-      "title": "Para el historiador argentino Pablo Stefanoni, la izquierda debe “conectar de nuevo” con la clase trabajadora",
-      "summary": "Sostuvo que el progresismo debería “jugar” en el terreno de las redes sociales, pero sin “caer en la misma cosa” que las ultraderechas. Este jueves, con una edición titulada “¿Dónde está la izquierda?”, la revista Nueva Sociedad celebró su acto de relanzamient",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/para-el-historiador-argentino-pablo-stefanoni-la-izquierda-debe-conectar-de-nuevo-con-la-clase-trabajadora/",
-      "publishedAt": "Fri, 21 Aug 2026 21:32:57 -0300",
+      "title": "Concluyó investigadora sobre Cardama: FA señala responsabilidad de funcionarios públicos y CR habla de “una operación política”",
+      "summary": "Luego de seis meses de trabajo, el ámbito parlamentario elevó a la Asamblea General cuatro informes. Tras 17 sesiones y seis meses de trabajo, el viernes la comisión especial para investigar y analizar el proceso de adquisición de OPV culminó sus funciones y r",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/concluyo-investigadora-sobre-cardama-fa-senala-responsabilidad-de-funcionarios-publicos-y-cr-habla-de-una-operacion-politica/",
+      "publishedAt": "Sat, 22 Aug 2026 00:13:49 -0300",
       "politicalScore": 6,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-historiador-argentino",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-concluyo-investigadora",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -604,8 +622,8 @@
       "publishedAt": "Fri, 21 Aug 2026 23:39:34 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-juan-condena",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -621,8 +639,8 @@
       "publishedAt": "Fri, 21 Aug 2026 22:13:44 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-instituciones-colombia-instituciones-corte-ordena",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -638,8 +656,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:46:49 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscal",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -655,8 +673,8 @@
       "publishedAt": "Fri, 21 Aug 2026 00:12:12 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-allanan-oficinas",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -672,8 +690,8 @@
       "publishedAt": "Thu, 20 Aug 2026 20:19:03 +0000",
       "politicalScore": 6,
       "eventKey": "chile-instituciones-chile-instituciones-informe-noruego",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -689,8 +707,8 @@
       "publishedAt": "Thu, 20 Aug 2026 19:02:10 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espejismo-megacarceles",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -706,8 +724,8 @@
       "publishedAt": "Thu, 20 Aug 2026 16:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espana-acogera",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -723,8 +741,8 @@
       "publishedAt": "Wed, 19 Aug 2026 23:58:04 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-camioneros-exigen",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -740,8 +758,8 @@
       "publishedAt": "Wed, 19 Aug 2026 08:00:48 +0000",
       "politicalScore": 6,
       "eventKey": "chile-seguridad-chile-seguridad-estado-excepcion",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -757,8 +775,8 @@
       "publishedAt": "Sat, 22 Aug 2026 01:01:58 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-instituciones-colombia-instituciones-libro-verdad",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -774,8 +792,8 @@
       "publishedAt": "Fri, 21 Aug 2026 18:12:20 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-iran-contacto",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -791,8 +809,8 @@
       "publishedAt": "Thu, 20 Aug 2026 14:08:15 +0200",
       "politicalScore": 5,
       "eventKey": "espana-elecciones-espana-elecciones-covite-documenta",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -808,8 +826,8 @@
       "publishedAt": "Wed, 19 Aug 2026 18:02:19 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-plan-destrabar",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -825,8 +843,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:37:07 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sanciona-promocion",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -842,25 +860,8 @@
       "publishedAt": "Fri, 21 Aug 2026 20:39:50 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-nadia",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "797fc7d2b1f71ef4",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Ideología de género 2.0",
-      "summary": "La educación debe proteger a niños y niñas de violencias reales, no de una supuesta “ideología de género”, y centrarse en garantizar sus derechos y su libertad. The post Ideología de género 2.0 appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/ideologia-de-genero-2-0/",
-      "publishedAt": "Fri, 21 Aug 2026 20:31:37 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-seguridad-colombia-seguridad-ideologia-genero",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -876,42 +877,8 @@
       "publishedAt": "Fri, 21 Aug 2026 19:36:16 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-ariel",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a5727e798ef3b1c9",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "La Armada desactiva la Base Aeronaval de Punta Indio y avanza con un plan de reestructuración",
-      "summary": "La unidad, que reúne a 300 militares y 180 civiles, pasará a ser una “estación aeronaval”; la Escuela de Aviación Naval se mudará a Bahía Blanca; quejas en sectores militares",
-      "url": "https://www.lanacion.com.ar/politica/la-armada-desactiva-la-base-aeronaval-de-punta-indio-y-avanza-con-un-plan-de-reestructuracion-nid21082026/",
-      "publishedAt": "Fri, 21 Aug 2026 18:58:15 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-seguridad-argentina-seguridad-armada-desactiva",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "96a712d0f7098f2b",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Sánchez encarga al ministro Ángel Víctor Torres coordinar la gestión de los ministerios implicados en la crisis de Ceuta",
-      "summary": "Fuentes de Política Territorial afirman que es una decisión previsible porque el departamento ya atiende varios aspectos relacionados con la situación en la ciudad autónoma",
-      "url": "https://elpais.com/espana/2026-08-21/el-ministro-angel-victor-torres-coordinara-la-gestion-de-todos-los-ministerios-implicados-en-la-crisis-de-ceuta.html",
-      "publishedAt": "Fri, 21 Aug 2026 16:24:34 GMT",
-      "politicalScore": 4,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-encarga",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -927,8 +894,8 @@
       "publishedAt": "Fri, 21 Aug 2026 14:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -944,8 +911,8 @@
       "publishedAt": "Fri, 21 Aug 2026 06:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-soberania-democracia",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -961,8 +928,8 @@
       "publishedAt": "Thu, 20 Aug 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-captura-nueve",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -978,42 +945,25 @@
       "publishedAt": "Thu, 20 Aug 2026 14:48:14 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-eterna",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
-      "id": "ea8ea34bc3afb827",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "48f6dcc1126d148e",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
       "priority": "Media",
-      "title": "La paradoja de Kessler y la democracia",
-      "summary": "Nunca imaginé que un astrónomo pudiera ayudarme a comprender los autoritarismos del siglo XXI. El síndrome de Kessler, una hipótesis formulada en 1978 por el astrofísico Donald J. Kessler, describe un fenómeno inquietante: cuando la cantidad de desechos en la ",
-      "url": "https://confidencial.digital/opinion/la-paradoja-de-kessler-y-la-democracia/",
-      "publishedAt": "Thu, 20 Aug 2026 06:20:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-paradoja-kessler",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "87c87a89622fa413",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Los duelos afectivos del exilio: amar desde las sombras",
-      "summary": "He escrito antes sobre el duelo de dejar un territorio. Sobre lo que significa alejarse de la tierra que guarda nuestra memoria, de los lugares que nos nombran, de aquello que reconocemos como propio. Pero con el tiempo he comprendido que el exilio acumula due",
-      "url": "https://confidencial.digital/opinion/los-duelos-afectivos-del-exilio-amar-desde-las-sombras/",
-      "publishedAt": "Thu, 20 Aug 2026 06:10:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-duelos-afectivos",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "title": "La limpieza en Montevideo: transformaciones que se ven desde la ventana",
+      "summary": "Hay transformaciones que se anuncian con grandes obras y cintas cortadas, hay otras que van entrando, literalmente, por la puerta de casa. En Montevideo está ocurriendo una de las segundas. Un objeto tan poco glamoroso como un contenedor –gris para los residuo",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/la-limpieza-en-montevideo-transformaciones-que-se-ven-desde-la-ventana/",
+      "publishedAt": "Sat, 22 Aug 2026 00:02:13 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-limpieza-montevideo",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1029,8 +979,8 @@
       "publishedAt": "Sat, 22 Aug 2026 01:18:28 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-hermanos-quiroz",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1046,25 +996,8 @@
       "publishedAt": "Fri, 21 Aug 2026 23:49:55 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-aprobacion-alto",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "933633fda9081084",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "El miedo doble a la (in)fertilidad",
-      "summary": "Cada semana recibo un mensaje de una mujer que dice tener “miedo de ser infértil”. Es, sin duda, el mensaje que más recibo de quienes recién descubren mi trabajo profesional. Imaginando a todas las mujeres que lo dudan en silencio, me animo a hipotetizar que l",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/8/el-miedo-doble-a-la-infertilidad/",
-      "publishedAt": "Fri, 21 Aug 2026 20:09:11 -0300",
-      "politicalScore": 3,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-miedo-doble",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1080,25 +1013,8 @@
       "publishedAt": "Fri, 21 Aug 2026 21:40:07 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-presume",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b6e49160032a5827",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Dejemos de satanizar el impuesto al patrimonio",
-      "summary": "Bajar impuestos a los más ricos no garantiza más crecimiento ni empleo. Eliminar el impuesto al patrimonio sí garantiza algo: menos recaudo cuando más se necesita. The post Dejemos de satanizar el impuesto al patrimonio appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/dejemos-de-satanizar-el-impuesto-al-patrimonio/",
-      "publishedAt": "Fri, 21 Aug 2026 20:58:23 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-dejemos",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1114,8 +1030,8 @@
       "publishedAt": "Fri, 21 Aug 2026 15:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-empresas-inteligencia",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1131,8 +1047,8 @@
       "publishedAt": "Fri, 21 Aug 2026 08:40:34 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-habana-muertes",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1148,8 +1064,8 @@
       "publishedAt": "Fri, 21 Aug 2026 08:15:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-policia-llena",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1165,8 +1081,8 @@
       "publishedAt": "Fri, 21 Aug 2026 08:00:10 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-modernizar-empleo",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1182,25 +1098,8 @@
       "publishedAt": "Thu, 20 Aug 2026 15:18:52 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-dipirona-hidrocortisona",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a1bb80d32f39d806",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Las resurrecciones de Federico García Lorca",
-      "summary": "Federico García Lorca continúa generando nuevas lecturas casi noventa años después de su asesinato. Así lo demuestran la exposición organizada a partir de nuevos documentos del archivo de la Fundación Federico García Lorca; las imágenes inéditas difundidas por",
-      "url": "https://confidencial.digital/revista-niu/las-resurrecciones-de-federico-garcia-lorca/",
-      "publishedAt": "Thu, 20 Aug 2026 14:30:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-resurrecciones-federico",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1216,8 +1115,8 @@
       "publishedAt": "Thu, 20 Aug 2026 08:00:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-territorio-comunidad",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1233,8 +1132,8 @@
       "publishedAt": "Wed, 19 Aug 2026 17:39:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-plan-quiroz",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     },
     {
@@ -1250,8 +1149,8 @@
       "publishedAt": "Wed, 19 Aug 2026 08:00:55 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fracaso-diseno",
-      "firstSeenAt": "2026-08-22T01:26:56.772Z",
-      "lastSeenAt": "2026-08-22T01:26:56.772Z",
+      "firstSeenAt": "2026-08-22T06:47:22.523Z",
+      "lastSeenAt": "2026-08-22T06:47:22.523Z",
       "seenCount": 1
     }
   ]
