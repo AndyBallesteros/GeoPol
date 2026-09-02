@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-02T03:50:14.664Z",
-  "count": 52,
+  "generatedAt": "2026-09-02T10:58:03.660Z",
+  "count": 45,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-09-02T03:50:14.664Z",
-    "activeSignals": 52,
-    "archiveSignals": 110,
-    "countriesCovered": 8,
-    "highPrioritySignals": 19,
-    "averagePoliticalScore": 5.23
+    "generatedAt": "2026-09-02T10:58:03.660Z",
+    "activeSignals": 45,
+    "archiveSignals": 103,
+    "countriesCovered": 7,
+    "highPrioritySignals": 14,
+    "averagePoliticalScore": 5.04
   },
   "briefings": [
     {
@@ -39,25 +39,8 @@
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 13,
+      "signalCount": 12,
       "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
-    },
-    {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "Vox ya acusa a Sánchez de ser \"capaz de no convocar elecciones\" usando como \"excusa\" la \"inseguridad y la amenaza sobre nuestra soberanía\" en Ceuta",
-      "leadUrl": "https://www.elmundo.es/espana/2026/09/01/6a96a5b7e9cf4ab3448b4596.html",
-      "focusTopics": [
-        "Seguridad",
-        "Gobernabilidad",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "El Mundo",
-        "El Pais"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Seguridad, Gobernabilidad, Diplomacia. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Venezuela",
@@ -81,13 +64,31 @@
       "leadUrl": "https://www.lasillavacia.com/en-vivo/con-29-votos-estefanel-gutierrez-es-el-presidente-de-la-comision-afro/",
       "focusTopics": [
         "Elecciones",
-        "Economia politica"
+        "Economia politica",
+        "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
       "signalCount": 4,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Elecciones, Economia politica, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "Bruselas no ve pruebas de que la crisis de Ceuta fuera provocada por desinformación de actores estatales extranjeros pese a que Sánchez apuntó a Rusia e Israel",
+      "leadUrl": "https://www.elmundo.es/espana/2026/09/01/6a970ab8e9cf4ae9398b458f.html",
+      "focusTopics": [
+        "Diplomacia",
+        "Gobernabilidad",
+        "Economia politica"
+      ],
+      "topSources": [
+        "El Mundo",
+        "El Pais"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Diplomacia, Gobernabilidad, Economia politica. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Uruguay",
@@ -118,21 +119,6 @@
       ],
       "signalCount": 4,
       "summary": "Foco en Economia politica, Seguridad, Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Peru",
-      "priority": "Media",
-      "leadTitle": "Julio Velarde, presidente del BCR, es reconocido con el Premio Legado",
-      "leadUrl": "https://elcomercio.pe/economia/julio-velarde-presidente-del-bcr-es-reconocido-con-el-premio-legado-noticia/",
-      "focusTopics": [
-        "Economia politica",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 3,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar El Comercio y El Comercio."
     }
   ],
   "signals": [
@@ -149,42 +135,8 @@
       "publishedAt": "Wed, 02 Sep 2026 00:01:33 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-aprueban-reforma",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d3b4e24146c71de6",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Vox ya acusa a Sánchez de ser \"capaz de no convocar elecciones\" usando como \"excusa\" la \"inseguridad y la amenaza sobre nuestra soberanía\" en Ceuta",
-      "summary": "También acusa al Gobierno de \"querer provocar el estallido social\" en la ciudad \"para justificar futuras claudicaciones frente al régimen de Marruecos\"&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/01/6a96a5b7e9cf4ab3448b4596.html",
-      "publishedAt": "Tue, 01 Sep 2026 13:22:33 +0200",
-      "politicalScore": 11,
-      "eventKey": "espana-seguridad-espana-seguridad-acusa-sanchez",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cd80f94f209d477c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Aprobarán el 21 de septiembre “parche” a Constitución “Chamuca”",
-      "summary": "Nicaragua aprobará el 21 de septiembre de 2026 en primera legislatura la reforma constitucional que busca ampliar el mandato de los dictadores y sus operadores más leales, así como excluir de las elecciones a los opositores desnacionalizados, considerados “tra",
-      "url": "https://confidencial.digital/noticias/aprobaran-el-21-de-septiembre-parche-a-constitucion-chamuca/",
-      "publishedAt": "Sun, 30 Aug 2026 22:46:23 +0000",
-      "politicalScore": 11,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-aprobaran-septiembre",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -200,8 +152,8 @@
       "publishedAt": "Wed, 02 Sep 2026 00:19:29 +0000",
       "politicalScore": 10,
       "eventKey": "colombia-elecciones-colombia-elecciones-votos-estefanel",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -217,8 +169,8 @@
       "publishedAt": "Tue, 01 Sep 2026 18:33:28 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-confirman-julia",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -234,8 +186,8 @@
       "publishedAt": "Tue, 01 Sep 2026 21:29:18 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-representante-centro",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -251,8 +203,8 @@
       "publishedAt": "Tue, 01 Sep 2026 18:35:17 +0000",
       "politicalScore": 9,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sanciona-unanimidad",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -268,8 +220,8 @@
       "publishedAt": "Tue, 01 Sep 2026 07:10:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-espejo-jose",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -285,8 +237,8 @@
       "publishedAt": "Tue, 01 Sep 2026 00:14:09 +0000",
       "politicalScore": 9,
       "eventKey": "chile-probidad-chile-probidad-presidente-kast",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -302,8 +254,8 @@
       "publishedAt": "Tue, 01 Sep 2026 19:05:49 +0000",
       "politicalScore": 8,
       "eventKey": "venezuela-elecciones-venezuela-elecciones-eeuu-defiende",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -319,8 +271,8 @@
       "publishedAt": "Wed, 02 Sep 2026 00:27:12 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-duerma",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -336,25 +288,8 @@
       "publishedAt": "Tue, 01 Sep 2026 20:14:18 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-parlamento-respalda",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9f4187dc01c2529e",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Nicaragua “prohíbe” leyes extranjeras, pero sigue atada a decenas de convenios internacionales",
-      "summary": "Con la aprobación de la reforma constitucional impulsada por Daniel Ortega y Rosario Murillo quedará “prohibido” en Nicaragua la aplicación de leyes extranjeras, pero el país seguirá atado a decenas de tratados, convenios y convenciones internacionales firmado",
-      "url": "https://confidencial.digital/analisis/nicaragua-prohibe-leyes-extranjeras-pero-sigue-atada-a-decenas-de-convenios-internacionales/",
-      "publishedAt": "Mon, 31 Aug 2026 06:36:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-prohibe-leyes",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -370,8 +305,25 @@
       "publishedAt": "Tue, 01 Sep 2026 15:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-lideres-rusia",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d1759fc367f19a9e",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Bruselas no ve pruebas de que la crisis de Ceuta fuera provocada por desinformación de actores estatales extranjeros pese a que Sánchez apuntó a Rusia e Israel",
+      "summary": "La diplomacia europea ha enmendado la postura del Gobierno español al asegurar que no dispone de \"evidencia concluyente\" de que la crisis migratoria de Ceuta fuera orquestada por desinformación de terceros países, si bien ha confirmado que Rusia sí intentó ins",
+      "url": "https://www.elmundo.es/espana/2026/09/01/6a970ab8e9cf4ae9398b458f.html",
+      "publishedAt": "Wed, 02 Sep 2026 08:49:20 +0200",
+      "politicalScore": 5,
+      "eventKey": "espana-diplomacia-espana-diplomacia-bruselas-pruebas",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -387,42 +339,8 @@
       "publishedAt": "Wed, 02 Sep 2026 03:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-feijoo-abascal",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d1759fc367f19a9e",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Bruselas no ve pruebas de que la crisis de Ceuta fuera provocada por desinformación de actores estatales extranjeros pese a que Sánchez apuntó a Rusia e Israel",
-      "summary": "La diplomacia europea ha enmendado la postura del Gobierno español al asegurar que no dispone de \"evidencia concluyente\" de que la crisis migratoria de Ceuta fuera orquestada por desinformación de terceros países, si bien ha confirmado que Rusia sí intentó ins",
-      "url": "https://www.elmundo.es/espana/2026/09/01/6a970ab8e9cf4ae9398b458f.html",
-      "publishedAt": "Tue, 01 Sep 2026 19:27:42 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-diplomacia-espana-diplomacia-bruselas-pruebas",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8a7c997432d1d5c0",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "\"Sánchez, si tiene que elegir, está con Mohamed VI, no con Felipe VI\": el PP señala al Gobierno por cruzar \"la línea roja\" contra la Monarquía",
-      "summary": "\"Es evidente que Marruecos no respeta al Gobierno de España y es evidente que el Gobierno de España no hace respetar la integridad territorial de nuestro país y la seguridad nacional\", lamenta Tellado&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/01/6a96a26b21efa0c8188b458b.html",
-      "publishedAt": "Tue, 01 Sep 2026 12:08:52 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-seguridad-espana-seguridad-sanchez-tiene",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -438,25 +356,8 @@
       "publishedAt": "Tue, 01 Sep 2026 08:00:10 +0000",
       "politicalScore": 5,
       "eventKey": "chile-seguridad-chile-seguridad-militarismo-civil",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "61e397552ea72f97",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Sánchez intenta bajar la presión prometiendo una visita del Rey a Ceuta cuando se supere la crisis",
-      "summary": "El presidente quiere mostrar con el viaje del monarca que él no teme a Marruecos. El Consejo de Ministros aprueba este martes ayudas millonarias para la ciudad",
-      "url": "https://elpais.com/espana/2026-09-01/sanchez-intenta-bajar-la-presion-prometiendo-una-visita-del-rey-a-ceuta-cuando-se-supere-la-crisis.html",
-      "publishedAt": "Tue, 01 Sep 2026 03:30:01 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-intenta",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -472,8 +373,8 @@
       "publishedAt": "Wed, 02 Sep 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -489,25 +390,42 @@
       "publishedAt": "Wed, 02 Sep 2026 02:13:52 +0000",
       "politicalScore": 6,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-chris-wright",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
-      "id": "d37ec2e8086cbd5b",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "877fa5e6d32c3b69",
+      "country": "Espana",
+      "source": "El Mundo",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Julio Velarde, presidente del BCR, es reconocido con el Premio Legado",
-      "summary": "La primera edición del premio, organizado por la UPC y El Comercio, reconoció la trayectoria, legado e impacto del titular del Banco Central en la historia y economía peruana.",
-      "url": "https://elcomercio.pe/economia/julio-velarde-presidente-del-bcr-es-reconocido-con-el-premio-legado-noticia/",
-      "publishedAt": "Wed, 02 Sep 2026 03:31:15 +0000",
+      "title": "IU exige dimisiones en el Ministerio del Interior por el informe policial que vincula a Marruecos con la entrada masiva de inmigrantes en Ceuta",
+      "summary": "Antonio Maíllo considera que existe una \"responsabilidad criminal evidente\" en las autoridades del país vecino y advierte de una \"deslealtad\" del director general de la Policía con el Gobierno&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/09/02/6a97efa7e9cf4ab20a8b45aa.html",
+      "publishedAt": "Wed, 02 Sep 2026 12:06:09 +0200",
       "politicalScore": 5,
-      "eventKey": "peru-economia-politica-peru-economia-politica-julio",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-exige-dimisiones",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9f72b3c2adaeee6b",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Caracol TV saca a Camila Zuluaga justo cuando el gobierno bloquea voces incómodas",
+      "summary": "La decisión fue celebrada por abelardistas. Dentro de la empresa de medios deja la sensación de que la crítica a De la Espriella puede costar el puesto. The post Caracol TV saca a Camila Zuluaga justo cuando el gobierno bloquea voces incómodas appeared first o",
+      "url": "https://www.lasillavacia.com/silla-nacional/caracol-tv-saca-a-camila-zuluaga-justo-cuando-el-gobierno-bloquea-voces-incomodas/",
+      "publishedAt": "Wed, 02 Sep 2026 06:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-caracol-saca",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -523,8 +441,8 @@
       "publishedAt": "Tue, 01 Sep 2026 21:58:12 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-costa-rica",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -540,8 +458,8 @@
       "publishedAt": "Mon, 31 Aug 2026 19:15:13 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-unas",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -557,8 +475,8 @@
       "publishedAt": "Mon, 31 Aug 2026 17:33:57 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-corte-talca",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -574,42 +492,25 @@
       "publishedAt": "Mon, 31 Aug 2026 08:02:05 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-lafkenche-teatro",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
-      "id": "7a95286b4830f0e8",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "bf5ac07005a9a2e8",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "Gobierno de Estados Unidos quiere “mucha inversión” de su país en Venezuela, afirma Chris Wright",
-      "summary": "El Gobierno de Estados Unidos quiere que haya “mucha inversión” de su país en Venezuela, aseguró este martes el secretario de Energía, Chris Wright, tras su llegada a la nación sudamericana, donde se prevé que participe en la firma de un nuevo contrato de la e",
-      "url": "https://elcomercio.pe/mundo/venezuela/venezuela-gobierno-de-estados-unidos-quiere-mucha-inversion-de-su-pais-en-caracas-afirma-chris-wright-delcy-rodriguez-chevron-ultimas-noticia/",
-      "publishedAt": "Wed, 02 Sep 2026 03:28:55 +0000",
+      "title": "La dictadura orteguista es una mala copia de la norcoreana",
+      "summary": "La dictadura hereditaria era como un perro verde en los regímenes comunistas; un animal extraño más bien propio de las monarquías tardo feudales que de los movimientos de izquierda que trataban de derrocarlas. Hasta que se instauró la dictadura hereditaria de ",
+      "url": "https://confidencial.digital/opinion/la-dictadura-orteguista-es-una-mala-copia-de-la-norcoreana/",
+      "publishedAt": "Wed, 02 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-gobierno-estados",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "96d037d644f7a206",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Estados Unidos entrega a una empresa privada la concesión de 100 años sobre el petróleo de Venezuela",
-      "summary": "Según el acuerdo entre la administración de Donald Trump y el Gobierno de Delcy Rodríguez, NABEP tendrá derechos durante 100 años para perforar 17 campos de petróleo en Venezuela que albergan unos 65.000 millones de barriles de crudo",
-      "url": "https://elcomercio.pe/mundo/eeuu/estados-unidos-entrega-a-empresa-privada-nabep-la-concesion-de-100-anos-sobre-el-petroleo-de-venezuela-alejandro-betancourt-donald-trump-delcy-rodriguez-noticia/",
-      "publishedAt": "Wed, 02 Sep 2026 03:18:56 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-estados-unidos",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-orteguista",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -625,25 +526,8 @@
       "publishedAt": "Tue, 01 Sep 2026 21:25:17 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-marco-rubio",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5c84a307e8e02cb6",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Macarena Olona, ex diputada de Vox, se incorpora al despacho del abogado de Aldama y Julio Iglesias",
-      "summary": "Olona, que inició en 2009 su andadura en la Abogacía del Estado, dio el salto a la política una década después y fue diputada por Vox en el Congreso desde mayo de 2019 a julio de 2022, cuando anunció su adiós por motivos de salud&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/01/6a969912e85ece5a698b45af.html",
-      "publishedAt": "Tue, 01 Sep 2026 11:22:32 +0200",
-      "politicalScore": 4,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-macarena-olona",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -659,8 +543,8 @@
       "publishedAt": "Mon, 31 Aug 2026 23:59:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-secretario-general",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -676,8 +560,8 @@
       "publishedAt": "Mon, 31 Aug 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-usar-caja",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -693,8 +577,8 @@
       "publishedAt": "Mon, 31 Aug 2026 07:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-homo-fumus",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -710,8 +594,25 @@
       "publishedAt": "Sun, 30 Aug 2026 19:23:20 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-preso-andy",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6f7088a20e7971bd",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Más allá de la metodología: la pobreza estructural en tiempos de Kast",
+      "summary": "La entrada Más allá de la metodología: la pobreza estructural en tiempos de Kast se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/09/02/mas-alla-de-la-metodologia-la-pobreza-estructural-en-tiempos-de-kast/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mas-alla-de-la-metodologia-la-pobreza-estructural-en-tiempos-de-kast",
+      "publishedAt": "Wed, 02 Sep 2026 06:00:41 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-alla-metodologia",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -727,8 +628,8 @@
       "publishedAt": "Wed, 02 Sep 2026 00:12:34 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-miedo-imaginar",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -744,8 +645,8 @@
       "publishedAt": "Wed, 02 Sep 2026 00:45:58 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-confirman-investigacion",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -761,25 +662,8 @@
       "publishedAt": "Wed, 02 Sep 2026 00:01:25 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-tres",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "544aab4cd478562d",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Organización comunitaria deberá indemnizar a Ecopetrol por bloqueos",
-      "summary": "El Consejo de Estado declaró responsables a la corporación Cjaid y a su exlíder tras promover un bloqueo a la Estación Chichimene en 2017. The post Organización comunitaria deberá indemnizar a Ecopetrol por bloqueos appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/organizacion-comunitaria-debera-indemnizar-a-ecopetrol-por-bloqueos/",
-      "publishedAt": "Tue, 01 Sep 2026 23:36:42 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-organizacion-comunitaria",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -795,8 +679,8 @@
       "publishedAt": "Tue, 01 Sep 2026 20:51:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-museo-memoria",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -812,8 +696,8 @@
       "publishedAt": "Tue, 01 Sep 2026 16:59:20 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-desconocida-investigacion",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -829,8 +713,8 @@
       "publishedAt": "Tue, 01 Sep 2026 16:10:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-asiste-primera",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -846,8 +730,8 @@
       "publishedAt": "Mon, 31 Aug 2026 22:41:42 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-falta-suero",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -863,8 +747,8 @@
       "publishedAt": "Mon, 31 Aug 2026 20:37:19 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-video-imagenes",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -880,8 +764,8 @@
       "publishedAt": "Mon, 31 Aug 2026 19:44:09 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-gioconda-belli",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -897,8 +781,8 @@
       "publishedAt": "Mon, 31 Aug 2026 19:33:37 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-entorno-confirma",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -914,8 +798,8 @@
       "publishedAt": "Mon, 31 Aug 2026 16:53:12 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-instagram-limitara",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -931,8 +815,8 @@
       "publishedAt": "Mon, 31 Aug 2026 15:05:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-imagenes-historicas",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -948,8 +832,8 @@
       "publishedAt": "Sun, 30 Aug 2026 08:00:33 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-granjas-bots",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -965,8 +849,8 @@
       "publishedAt": "Sun, 30 Aug 2026 08:00:14 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cerimedo-sombra",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -982,8 +866,8 @@
       "publishedAt": "Sat, 29 Aug 2026 08:00:59 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-evaluar-tiempos",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     },
     {
@@ -999,25 +883,8 @@
       "publishedAt": "Sat, 29 Aug 2026 08:00:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-paso-cristo",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6cb98c2c869c6b84",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "El fallo del TC: que no pague la gente",
-      "summary": "La entrada El fallo del TC: que no pague la gente se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/08/28/el-fallo-del-tc-que-no-pague-la-gente/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-fallo-del-tc-que-no-pague-la-gente",
-      "publishedAt": "Sat, 29 Aug 2026 02:11:59 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-fallo-pague",
-      "firstSeenAt": "2026-09-02T03:50:14.664Z",
-      "lastSeenAt": "2026-09-02T03:50:14.664Z",
+      "firstSeenAt": "2026-09-02T10:58:03.660Z",
+      "lastSeenAt": "2026-09-02T10:58:03.660Z",
       "seenCount": 1
     }
   ]
