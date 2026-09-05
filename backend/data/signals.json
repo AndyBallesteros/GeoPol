@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-05T10:17:55.382Z",
-  "count": 63,
+  "generatedAt": "2026-09-05T14:53:57.771Z",
+  "count": 67,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-09-05T10:17:55.382Z",
-    "activeSignals": 63,
-    "archiveSignals": 121,
-    "countriesCovered": 7,
+    "generatedAt": "2026-09-05T14:53:57.771Z",
+    "activeSignals": 67,
+    "archiveSignals": 125,
+    "countriesCovered": 8,
     "highPrioritySignals": 25,
-    "averagePoliticalScore": 5.81
+    "averagePoliticalScore": 5.87
   },
   "briefings": [
     {
@@ -27,22 +27,6 @@
       "summary": "Foco en Elecciones, Probidad. Vigilar CIPER y CIPER."
     },
     {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "El discurso de Milei sobre Malvinas: el último milagro de Messi, la carta de Trump y un homenaje silencioso a Cristina",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-discurso-de-milei-sobre-malvinas-el-ultimo-milagro-de-messi-la-carta-de-trump-y-un-homenaje-nid04092026/",
-      "focusTopics": [
-        "Economia politica",
-        "Diplomacia",
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 14,
-      "summary": "Foco en Economia politica, Diplomacia, Elecciones. Vigilar La Nacion y La Nacion."
-    },
-    {
       "country": "Nicaragua",
       "priority": "Alta",
       "leadTitle": "Juana Méndez, la última sobreviviente de la barrida de Murillo en la CSJ",
@@ -56,6 +40,22 @@
       ],
       "signalCount": 14,
       "summary": "Foco en Instituciones, Diplomacia. Vigilar Confidencial y Confidencial."
+    },
+    {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner",
+      "leadUrl": "https://www.lanacion.com.ar/politica/murio-alberto-iribarne-exministro-de-justicia-durante-el-gobierno-de-nestor-kirchner-nid05092026/",
+      "focusTopics": [
+        "Instituciones",
+        "Economia politica",
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 13,
+      "summary": "Foco en Instituciones, Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Espana",
@@ -85,8 +85,23 @@
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 4,
+      "signalCount": 6,
       "summary": "Foco en Diplomacia, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Elecciones Regionales y Municipales 2026: este sábado vence el plazo para inscribir candidaturas",
+      "leadUrl": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-sabado-5-de-setiembre-vence-plazo-para-inscribir-candidaturas-ultimas-noticia/",
+      "focusTopics": [
+        "Elecciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Venezuela",
@@ -105,20 +120,38 @@
     {
       "country": "Cuba",
       "priority": "Media",
-      "leadTitle": "El Gobierno cubano autoriza la “empresa privada de gran tamaño”, con más de 100 empleados",
-      "leadUrl": "https://www.14ymedio.com/cuba/gobierno-cubano-autoriza-empresa-privada_1_1130384.html",
+      "leadTitle": "Nicaragua reforma su Constitución para blindar el poder de Ortega y Murillo",
+      "leadUrl": "https://www.14ymedio.com/internacional/nicaragua-reforma-constitucion-blindar-ortega_1_1130444.html",
       "focusTopics": [
+        "Sociedad",
         "Economia politica",
         "Diplomacia"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Economia politica, Diplomacia. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 6,
+      "summary": "Foco en Sociedad, Economia politica, Diplomacia. Vigilar 14ymedio y 14ymedio."
     }
   ],
   "signals": [
+    {
+      "id": "1e0dc861a1c49b50",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones Regionales y Municipales 2026: este sábado vence el plazo para inscribir candidaturas",
+      "summary": "El Jurado Nacional de Elecciones (JNE) de Perú cierra este sábado 5 de setiembre el registro definitivo de las listas para las elecciones regionales y municipales de este año. El hito electoral establece formalmente el universo de candidatos que competirán por",
+      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-sabado-5-de-setiembre-vence-plazo-para-inscribir-candidaturas-ultimas-noticia/",
+      "publishedAt": "Sat, 05 Sep 2026 14:43:51 +0000",
+      "politicalScore": 17,
+      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
     {
       "id": "bb5192d450349673",
       "country": "Chile",
@@ -132,8 +165,25 @@
       "publishedAt": "Thu, 03 Sep 2026 00:12:30 +0000",
       "politicalScore": 14,
       "eventKey": "chile-elecciones-chile-elecciones-corte-espaldarazo",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "545b82433a662d5e",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Murió Alberto Iribarne, exministro de Justicia durante el gobierno de Néstor Kirchner",
+      "summary": "También fue embajador durante la gestión de Alberto Fernández y diputado nacional",
+      "url": "https://www.lanacion.com.ar/politica/murio-alberto-iribarne-exministro-de-justicia-durante-el-gobierno-de-nestor-kirchner-nid05092026/",
+      "publishedAt": "Sat, 05 Sep 2026 14:39:18 +0000",
+      "politicalScore": 13,
+      "eventKey": "argentina-instituciones-argentina-instituciones-murio-alberto",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -149,25 +199,8 @@
       "publishedAt": "Sat, 05 Sep 2026 06:34:37 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-discurso",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d98b8a4371a708d4",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Qué tipos de sanciones podrían enfrentar las empresas que operan en las islas Malvinas",
-      "summary": "El Gobierno confía en modificar la ley para apuntar también a los proveedores y acelerar los procesos",
-      "url": "https://www.lanacion.com.ar/politica/que-tipos-de-sanciones-podrian-enfrentar-las-empresas-que-operen-en-las-islas-malvinas-nid04092026/",
-      "publishedAt": "Fri, 04 Sep 2026 21:46:37 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-diplomacia-argentina-diplomacia-tipos-sanciones",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -183,8 +216,8 @@
       "publishedAt": "Sat, 05 Sep 2026 06:34:05 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-milei-ratifico",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -200,25 +233,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:41:32 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-santilli",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
-      "seenCount": 1
-    },
-    {
-      "id": "83431cc83cc329b4",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "El nuevo Comodoro Py: acercamientos impensados, el mensaje encriptado del kirchnerismo y el tribunal de Cristina como objetivo",
-      "summary": "La decisión de todo el peronismo de aprobar para la Cámara Federal a Pablo Yadarola, a quien habían denunciado como un juez del lawfare, alimentó las sospechas de un pacto con el oficialismo; el futuro del caso Hotesur",
-      "url": "https://www.lanacion.com.ar/politica/el-nuevo-comodoro-py-el-mensaje-encriptado-del-kirchnerismo-y-el-tribunal-de-cristina-como-objetivo-nid02092026/",
-      "publishedAt": "Fri, 04 Sep 2026 22:18:14 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-instituciones-argentina-instituciones-nuevo-comodoro",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -234,8 +250,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:27:22 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-grabois",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -251,8 +267,8 @@
       "publishedAt": "Fri, 04 Sep 2026 12:39:24 +0200",
       "politicalScore": 9,
       "eventKey": "espana-seguridad-espana-seguridad-page-plantea",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -268,8 +284,8 @@
       "publishedAt": "Fri, 04 Sep 2026 06:28:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-juana-mendez",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -285,8 +301,8 @@
       "publishedAt": "Thu, 03 Sep 2026 18:33:18 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-estados-unidos",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -302,8 +318,8 @@
       "publishedAt": "Sat, 05 Sep 2026 07:15:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-enigmas-venezuela",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -319,8 +335,8 @@
       "publishedAt": "Sat, 05 Sep 2026 06:30:00 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-lista-empresas",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -336,8 +352,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:19:15 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-evaluaron",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -353,8 +369,8 @@
       "publishedAt": "Fri, 04 Sep 2026 18:28:55 +0200",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juez-rechaza",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -370,25 +386,25 @@
       "publishedAt": "Thu, 03 Sep 2026 16:29:31 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
-      "id": "463b93d037bf711c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
+      "id": "232e3749ac785486",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
       "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Perú pide a comunidad internacional “evitar que se consolide una dictadura en Nicaragua”",
-      "summary": "El Gobierno de la presidenta de Perú, la derechista Keiko Fujimori, hizo un llamado a la comunidad internacional para activar mecanismos contra las reformas constitucionales aprobadas en primera votación en Nicaragua y “evitar que se consolide una dictadura” e",
-      "url": "https://confidencial.digital/noticias/peru-pide-a-comunidad-internacional-evitar-que-se-consolide-una-dictadura-en-nicaragua/",
-      "publishedAt": "Thu, 03 Sep 2026 15:06:44 +0000",
-      "politicalScore": 8,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-peru-pide",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "title": "Detuvieron al exgobernador Sergio Urribarri: rechazaron sus argumentos de “estrés” y “depresión”",
+      "summary": "Fue arrestado este sábado por la madrugada luego de que la Corte dejara firme una condena a 8 años de cárcel en su contra; no llegó a los 70 años",
+      "url": "https://www.lanacion.com.ar/politica/el-exgobernador-urribarri-dice-que-tiene-estres-postraumatico-y-depresion-nid04092026/",
+      "publishedAt": "Sat, 05 Sep 2026 13:38:52 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-instituciones-argentina-instituciones-detuvieron-exgobernador",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -399,13 +415,13 @@
       "topic": "Economia politica",
       "priority": "Alta",
       "title": "Las omisiones de Milei para no mencionar a sus aliados más incómodos en el reclamo por las Malvinas",
-      "summary": "El Presidente pidió que “los amigos de la Argentina no miren para otro lado”, pero no les planteó a Netanyahu y Kast ninguna objeción por las operaciones de empresas de sus países en las islas",
+      "summary": "El Presidente les habló a “los amigos de la Argentina”, pero no les planteó ni a Netanyahu ni a Kast ninguna objeción por las operaciones de empresas de sus países en las islas",
       "url": "https://www.lanacion.com.ar/politica/las-omisiones-de-milei-para-no-mencionar-a-sus-aliados-mas-incomodos-en-el-reclamo-por-las-malvinas-nid05092026/",
       "publishedAt": "Sat, 05 Sep 2026 04:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-omisiones",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -421,8 +437,8 @@
       "publishedAt": "Sat, 05 Sep 2026 02:16:07 +0000",
       "politicalScore": 7,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -438,8 +454,8 @@
       "publishedAt": "Sat, 05 Sep 2026 00:36:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-diplomacia-colombia-diplomacia-matrimonio-infantil",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -455,8 +471,8 @@
       "publishedAt": "Sat, 05 Sep 2026 00:20:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-julio",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -472,8 +488,8 @@
       "publishedAt": "Sat, 05 Sep 2026 00:06:52 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-gobierno-anuncio",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -489,8 +505,8 @@
       "publishedAt": "Fri, 04 Sep 2026 09:38:50 GMT",
       "politicalScore": 7,
       "eventKey": "espana-seguridad-espana-seguridad-audiencia-nacional",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -506,8 +522,8 @@
       "publishedAt": "Thu, 03 Sep 2026 10:31:58 GMT",
       "politicalScore": 7,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-otro-historico",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -523,8 +539,8 @@
       "publishedAt": "Fri, 04 Sep 2026 12:23:46 GMT",
       "politicalScore": 6,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -540,8 +556,59 @@
       "publishedAt": "Fri, 04 Sep 2026 19:08:54 +0200",
       "politicalScore": 5,
       "eventKey": "espana-diplomacia-espana-diplomacia-guardia-civil",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bf573ecc68999bba",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Dictadura ataca a países latinos y calla ante Estados Unidos",
+      "summary": "El régimen de Daniel Ortega y Rosario Murillo evitó responder a las críticas del secretario de Estado de Estados Unidos, Marco Rubio, sobre la nueva reforma a la Constitución “Chamuca”. Silencio que, valora un analista, dice más que los comunicados con insulto",
+      "url": "https://confidencial.digital/analisis/dictadura-ataca-a-paises-latinos-y-calla-ante-estados-unidos/",
+      "publishedAt": "Sat, 05 Sep 2026 14:52:36 +0000",
+      "politicalScore": 6,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-ataca",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5a3468cc5fbf8c0a",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Marlon Aguirre: la historia detrás del diputado que amenazó con renunciar a Juntos por el Perú, pero sigue en la bancada",
+      "summary": "Marlon Aguirre pasó en menos de una semana de denunciar un supuesto intento de autoritarismo y cuestionar la falta de democracia en Juntos por el Perú a dar por superado el episodio y asegurar que no renunciará a la bancada política. El diputado había cuestion",
+      "url": "https://elcomercio.pe/politica/jp-busca-bloquear-renuncias-y-salidas-de-legisladores-a-otras-bancadas-politicas-tras-amenazas-de-diputado-marlon-aguirre-noticia/",
+      "publishedAt": "Sat, 05 Sep 2026 14:45:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-marlon-aguirre",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "99d59348c10ee4e8",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "Nicaragua reforma su Constitución para blindar el poder de Ortega y Murillo",
+      "summary": "La enmienda cierra el paso electoral a opositores y críticos y extiende a siete años los mandatos",
+      "url": "https://www.14ymedio.com/internacional/nicaragua-reforma-constitucion-blindar-ortega_1_1130444.html",
+      "publishedAt": "Sat, 05 Sep 2026 10:58:33 +0000",
+      "politicalScore": 6,
+      "eventKey": "cuba-sociedad-cuba-sociedad-nicaragua-reforma",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -557,8 +624,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:53:18 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-seguridad-argentina-seguridad-intendente-lujan",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -574,8 +641,8 @@
       "publishedAt": "Fri, 04 Sep 2026 14:59:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-miles-agentes",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -591,8 +658,8 @@
       "publishedAt": "Fri, 04 Sep 2026 16:25:00 +0200",
       "politicalScore": 6,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -608,8 +675,8 @@
       "publishedAt": "Wed, 02 Sep 2026 21:49:25 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-gobierno",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -625,8 +692,8 @@
       "publishedAt": "Sat, 05 Sep 2026 07:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nueva-fase",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -642,8 +709,8 @@
       "publishedAt": "Sat, 05 Sep 2026 05:05:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-informacion-publica",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -659,8 +726,8 @@
       "publishedAt": "Sat, 05 Sep 2026 03:45:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-presion-complica",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -676,25 +743,8 @@
       "publishedAt": "Sat, 05 Sep 2026 00:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b36bb33e45fc7c36",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Avianca le canceló los tiquetes a Petro por estar en la Lista Clinton",
-      "summary": "Al expresidente le cancelaron los tiquetes de ida y vuelta a México. Avianca le había informado sobre el tema una semana antes del viaje. The post Avianca le canceló los tiquetes a Petro por estar en la Lista Clinton appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/avianca-le-cancelo-los-tiquetes-a-petro-por-estar-en-la-lista-clinton/",
-      "publishedAt": "Fri, 04 Sep 2026 22:11:57 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-avianca-cancelo",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -710,8 +760,8 @@
       "publishedAt": "Fri, 04 Sep 2026 00:54:11 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-socio-chileno",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -727,8 +777,8 @@
       "publishedAt": "Thu, 03 Sep 2026 23:05:48 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-argentina-cierran",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -744,8 +794,8 @@
       "publishedAt": "Thu, 03 Sep 2026 22:18:43 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-premian-ejercito",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -761,8 +811,8 @@
       "publishedAt": "Thu, 03 Sep 2026 16:16:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-estatuto",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -778,8 +828,25 @@
       "publishedAt": "Thu, 03 Sep 2026 12:00:04 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-linea-metro",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "496ed5c9bd45bc54",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Los apestados",
+      "summary": "\"Quizás esa sea la forma más elemental de la asepsia libertaria: sacar al otro del cuadro, cerrar la puerta y hacer como si la suciedad nunca hubiera estado allí. Así de banal y de implacable es el mundo\". The post Los apestados appeared first on La Silla Vací",
+      "url": "https://www.lasillavacia.com/opinion/los-apestados/",
+      "publishedAt": "Sat, 05 Sep 2026 13:59:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-apestados",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -795,8 +862,8 @@
       "publishedAt": "Sat, 05 Sep 2026 03:45:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-instituciones-espana-instituciones-ceuta-causa",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -812,25 +879,8 @@
       "publishedAt": "Sat, 05 Sep 2026 03:12:17 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
-      "seenCount": 1
-    },
-    {
-      "id": "eac633d180bbfef8",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "La autopsia del exfuncionario que hallaron muerto aleja la hipótesis de un crimen",
-      "summary": "Apareció acuchillado en un auto; en 20 días debía enfrentar un juicio oral junto con la exprocuradora Alejandra Gils Carbó",
-      "url": "https://www.lanacion.com.ar/politica/la-autopsia-del-exfuncionario-muerto-aleja-la-hipotesis-de-un-crimen-nid04092026/",
-      "publishedAt": "Fri, 04 Sep 2026 22:05:57 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-seguridad-argentina-seguridad-autopsia-exfuncionario",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -846,8 +896,8 @@
       "publishedAt": "Fri, 04 Sep 2026 09:33:33 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-canciller-cubano",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -863,8 +913,8 @@
       "publishedAt": "Fri, 04 Sep 2026 07:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-analisis-critico",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -880,8 +930,8 @@
       "publishedAt": "Fri, 04 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-apellidos-olvidados",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -897,8 +947,8 @@
       "publishedAt": "Fri, 04 Sep 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-muertos-ceuta",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -914,8 +964,59 @@
       "publishedAt": "Thu, 03 Sep 2026 12:27:20 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-movimiento-ceuta",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9c6f4f17f8069416",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Votar por eso",
+      "summary": "Yo voté por eso. Preferí eso, que me parece infame, a los peligros que venían con lo otro. Y, aunque no sabía que eso se iba a ver así, sabía –sé– que algo como eso iba a pasar. The post Votar por eso appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/votar-por-eso/",
+      "publishedAt": "Sat, 05 Sep 2026 14:00:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-votar",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b4b1e66c56a4fa5c",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Aprender sobre la niñez y adolescencia trans",
+      "summary": "\"Si el propósito es proteger los derechos de las infancias, el punto de partida debe ser la evidencia científica, la experiencia familiar empática y el artículo 44 de la Constitución\". The post Aprender sobre la niñez y adolescencia trans appeared first on La ",
+      "url": "https://www.lasillavacia.com/opinion/aprender-sobre-la-ninez-y-adolescencia-trans/",
+      "publishedAt": "Sat, 05 Sep 2026 14:00:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-aprender-ninez",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
+      "seenCount": 1
+    },
+    {
+      "id": "69b037d2073d6b7b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "“Un humedal que nadie usa”: el Gran Concepción y la ilusión del terreno vacío",
+      "summary": "La entrada “Un humedal que nadie usa”: el Gran Concepción y la ilusión del terreno vacío se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/09/05/un-humedal-que-nadie-usa-el-gran-concepcion-y-la-ilusion-del-terreno-vacio/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=un-humedal-que-nadie-usa-el-gran-concepcion-y-la-ilusion-del-terreno-vacio",
+      "publishedAt": "Sat, 05 Sep 2026 08:00:17 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-humedal-nadie",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -931,8 +1032,8 @@
       "publishedAt": "Sat, 05 Sep 2026 02:30:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nexos-cerimedo",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -948,8 +1049,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:18:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-valor-cambio",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -965,8 +1066,8 @@
       "publishedAt": "Fri, 04 Sep 2026 22:18:02 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-asociacion-internacional",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -982,8 +1083,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:11:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-articulos-historicos",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -999,8 +1100,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:09:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-general-leigh",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1016,8 +1117,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:08:58 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-orlando-saenz",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1033,8 +1134,8 @@
       "publishedAt": "Fri, 04 Sep 2026 19:08:54 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-paradoja-relaciones",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1050,8 +1151,8 @@
       "publishedAt": "Fri, 04 Sep 2026 19:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-unicef-cada",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1067,8 +1168,8 @@
       "publishedAt": "Fri, 04 Sep 2026 17:05:46 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-ministro-perez",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1084,8 +1185,8 @@
       "publishedAt": "Fri, 04 Sep 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nino-genera",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1101,8 +1202,8 @@
       "publishedAt": "Fri, 04 Sep 2026 13:20:35 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-neuroproteccion-caso",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1118,8 +1219,8 @@
       "publishedAt": "Thu, 03 Sep 2026 20:52:47 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-gaesa-acumula",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1135,8 +1236,8 @@
       "publishedAt": "Thu, 03 Sep 2026 19:00:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-foro-madrid",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1152,8 +1253,8 @@
       "publishedAt": "Thu, 03 Sep 2026 15:20:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-siglos-revolucion",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     },
     {
@@ -1169,25 +1270,8 @@
       "publishedAt": "Wed, 02 Sep 2026 21:35:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-quien-decide",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ec6254874aeeaf6e",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "VIDEO &#124; La desconocida investigación sobre adopciones irregulares en dictadura que hizo Mónica Madariaga en los años 80",
-      "summary": "La entrada VIDEO | La desconocida investigación sobre adopciones irregulares en dictadura que hizo Mónica Madariaga en los años 80 se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/09/02/video-la-desconocida-investigacion-sobre-adopciones-irregulares-en-dictadura-que-hizo-monica-madariaga-en-los-anos-80/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=video-la-desconocida-investigacion-sobre-adopciones-irregulares-en-dictadura-que-hizo-monica-madariaga-en-los-anos-80",
-      "publishedAt": "Wed, 02 Sep 2026 21:14:58 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-video-desconocida",
-      "firstSeenAt": "2026-09-05T10:17:55.382Z",
-      "lastSeenAt": "2026-09-05T10:17:55.382Z",
+      "firstSeenAt": "2026-09-05T14:53:57.771Z",
+      "lastSeenAt": "2026-09-05T14:53:57.771Z",
       "seenCount": 1
     }
   ]
