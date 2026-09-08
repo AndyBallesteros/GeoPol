@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-08T16:21:29.330Z",
-  "count": 64,
+  "generatedAt": "2026-09-08T20:56:24.287Z",
+  "count": 60,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-09-08T16:21:29.330Z",
-    "activeSignals": 64,
-    "archiveSignals": 122,
+    "generatedAt": "2026-09-08T20:56:24.287Z",
+    "activeSignals": 60,
+    "archiveSignals": 118,
     "countriesCovered": 8,
-    "highPrioritySignals": 22,
-    "averagePoliticalScore": 5.88
+    "highPrioritySignals": 19,
+    "averagePoliticalScore": 5.33
   },
   "briefings": [
     {
@@ -28,17 +28,18 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "leadUrl": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "leadTitle": "La Justicia le advierte al Congreso que el cambio de las PASO no debe hacerse en pleno proceso electoral",
+      "leadUrl": "https://www.lanacion.com.ar/politica/la-justicia-le-advierte-al-congreso-que-el-cambio-de-las-paso-no-debe-hacerse-en-pleno-proceso-nid08092026/",
       "focusTopics": [
-        "Elecciones",
+        "Instituciones",
+        "Seguridad",
         "Economia politica"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 13,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Instituciones, Seguridad, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -56,51 +57,35 @@
       "summary": "Foco en Seguridad, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Abelardo suspende decreto que restringía el porte de armas",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/abelardo-suspende-decreto-que-restringia-el-porte-de-armas/",
-      "focusTopics": [
-        "Gobernabilidad",
-        "Economia politica",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Gobernabilidad, Economia politica, Diplomacia. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
       "country": "Espana",
       "priority": "Alta",
       "leadTitle": "Las actas demuestran que Vivas apoyó el uso del puerto en sus reuniones con Sánchez antes de echarse atrás",
       "leadUrl": "https://elpais.com/espana/2026-09-08/las-actas-demuestran-que-vivas-apoyo-el-uso-del-puerto-en-sus-reuniones-con-sanchez-antes-de-echarse-atras.html",
       "focusTopics": [
         "Elecciones",
-        "Gobernabilidad"
+        "Economia politica"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
       "signalCount": 6,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Mundo."
+      "summary": "Foco en Elecciones, Economia politica. Vigilar El Pais y El Mundo."
     },
     {
-      "country": "Venezuela",
+      "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Cabello asegura que Psuv está listo para ir elecciones y ganar sin importar la fecha",
-      "leadUrl": "https://efectococuyo.com/politica/cabello-asegura-que-psuv-esta-listo-para-ir-elecciones-y-ganar-sin-importar-la-fecha/",
+      "leadTitle": "Diario del gobierno de Abelardo: suspende decreto sobre porte de armas",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-suspende-decreto-sobre-porte-de-armas/",
       "focusTopics": [
-        "Elecciones",
-        "Diplomacia"
+        "Gobernabilidad",
+        "Instituciones"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "La Silla Vacia"
       ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Gobernabilidad, Instituciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -109,64 +94,60 @@
       "leadUrl": "https://www.14ymedio.com/internacional/tribunal-supremo-espanol-paraliza-temporalmente_1_1130557.html",
       "focusTopics": [
         "Elecciones",
-        "Instituciones",
-        "Sociedad"
+        "Sociedad",
+        "Seguridad"
       ],
       "topSources": [
         "14ymedio"
       ],
+      "signalCount": 4,
+      "summary": "Foco en Elecciones, Sociedad, Seguridad. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Venezuela",
+      "priority": "Media",
+      "leadTitle": "Machado denuncia “revictimización” del teniente coronel Igbert Marín Chaparro",
+      "leadUrl": "https://efectococuyo.com/politica/machado-teniente-coronel-igbert-marin-chaparro/",
+      "focusTopics": [
+        "Diplomacia"
+      ],
+      "topSources": [
+        "Efecto Cocuyo"
+      ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Instituciones, Sociedad. Vigilar 14ymedio y 14ymedio."
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Uruguay",
       "priority": "Media",
-      "leadTitle": "Soberanía o subordinación: el llamado del Tercer Congreso Panamericano de Montevideo y una agenda progresista para las Américas",
-      "leadUrl": "https://ladiaria.com.uy/opinion/articulo/2026/9/soberania-o-subordinacion-el-llamado-del-tercer-congreso-panamericano-de-montevideo-y-una-agenda-progresista-para-las-americas/",
+      "leadTitle": "La infraestructura invisible del mérito",
+      "leadUrl": "https://ladiaria.com.uy/opinion/articulo/2026/9/la-infraestructura-invisible-del-merito/",
       "focusTopics": [
-        "Elecciones",
-        "Seguridad"
+        "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar La Diaria y La Diaria."
+      "signalCount": 1,
+      "summary": "Foco en Elecciones. Vigilar La Diaria."
     }
   ],
   "signals": [
     {
-      "id": "bde72d3e4eacc748",
+      "id": "7ca8fff3d9de6dd9",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "summary": "La convocatoria electoral del año próximo define los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; cuáles son las fechas relevantes",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "publishedAt": "Tue, 08 Sep 2026 10:44:27 +0000",
-      "politicalScore": 19,
-      "eventKey": "argentina-elecciones-argentina-elecciones-cuando-vota",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "eb96e260001000e9",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "summary": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "publishedAt": "Tue, 08 Sep 2026 10:44:25 +0000",
-      "politicalScore": 16,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "title": "La Justicia le advierte al Congreso que el cambio de las PASO no debe hacerse en pleno proceso electoral",
+      "summary": "Así lo afirmó en una acordada firmada por los tres integrantes de la Cámara Electoral; el pronunciamiento llega cuando el Gobierno impulsa la eliminación o suspensión de los comicios primarios para 2027",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-le-advierte-al-congreso-que-el-cambio-de-las-paso-no-debe-hacerse-en-pleno-proceso-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 19:02:27 +0000",
+      "politicalScore": 15,
+      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-advierte",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -174,67 +155,33 @@
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El Gobierno reúne a la mesa política para definir los proyectos de ley vinculados a Malvinas",
-      "summary": "Se suman al encuentro los ministros Quirno y Presti; la iniciativa ingresará por Diputados en los próximos días",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-para-definir-los-proyectos-de-ley-vinculados-a-malvinas-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 15:19:03 +0000",
-      "politicalScore": 15,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a73db009fa31033c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones 2027: cuándo se vota en la Argentina y qué se elige",
-      "summary": "La votación del año próximo redefinirá el escenario político del país y la distribución de bancas en el Congreso; cuáles son las fechas clave y qué provincias eligen gobernador",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "publishedAt": "Tue, 08 Sep 2026 10:44:30 +0000",
-      "politicalScore": 13,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "01f2395ae5b91b8c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
       "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Santilli y el ministro de Seguridad bonaerense discutieron por la suspensión del nuevo Régimen Penal Juvenil: “Un eslogan de campaña”",
-      "summary": "El jefe de Gabinete cuestionó la actitud tomada por Kicillof ante la suspensión de determinada por una jueza bonaerense; Javier Alonso reclamó fondos para aplicarlo",
-      "url": "https://www.lanacion.com.ar/politica/santilli-y-el-ministro-de-seguridad-bonaerense-discutieron-por-la-suspension-del-nuevo-regimen-penal-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 11:20:04 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-seguridad-argentina-seguridad-santilli-ministro",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "title": "El Gobierno reunió a la mesa política para definir los proyectos de ley vinculados a Malvinas",
+      "summary": "Se sumaron al encuentro los ministros Quirno y Presti; ambos viajarán este viernes a Tierra del Fuego por la construcción de la base militar",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-para-definir-los-proyectos-de-ley-vinculados-a-malvinas-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 19:13:33 +0000",
+      "politicalScore": 11,
+      "eventKey": "argentina-seguridad-argentina-seguridad-gobierno-reunio",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
-      "id": "2ec6b90e78c7392d",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
+      "id": "0f5de13ef6aa3627",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Cabello asegura que Psuv está listo para ir elecciones y ganar sin importar la fecha",
-      "summary": "\"Si a nosotros nos dicen: las elecciones son mañana, vamos a tener presencia en todo el territorio nacional\", aseguró Cabello",
-      "url": "https://efectococuyo.com/politica/cabello-asegura-que-psuv-esta-listo-para-ir-elecciones-y-ganar-sin-importar-la-fecha/",
-      "publishedAt": "Mon, 07 Sep 2026 22:18:43 +0000",
+      "title": "Diario del gobierno de Abelardo: suspende decreto sobre porte de armas",
+      "summary": "Estaremos pendientes de la reunión entre el presidente y el secretario de Estado de Estados Unidos, Marco Rubio, en Barranquilla. The post Diario del gobierno de Abelardo: suspende decreto sobre porte de armas appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-suspende-decreto-sobre-porte-de-armas/",
+      "publishedAt": "Tue, 08 Sep 2026 18:16:21 +0000",
       "politicalScore": 11,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-cabello-asegura",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-diario-gobierno",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -250,8 +197,8 @@
       "publishedAt": "Mon, 07 Sep 2026 14:34:03 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-alemania-rechaza",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -267,25 +214,8 @@
       "publishedAt": "Tue, 08 Sep 2026 15:57:52 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-suspende",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b1a31cd44fd1e743",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Fiscalía reactiva órdenes de captura contra exmiembros de Comuneros del Sur",
-      "summary": "El gobierno cerró la mesa de diálogo con esa disidencia del ELN. En la lista está su líder, Gabriel Yepes Mejía, alias “HH”. The post Fiscalía reactiva órdenes de captura contra exmiembros de Comuneros del Sur appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/fiscalia-reactiva-ordenes-de-captura-contra-exmiembros-de-comuneros-del-sur/",
-      "publishedAt": "Tue, 08 Sep 2026 14:21:15 +0000",
-      "politicalScore": 9,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-fiscalia",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -301,8 +231,8 @@
       "publishedAt": "Tue, 08 Sep 2026 13:28:10 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-causa",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -318,8 +248,25 @@
       "publishedAt": "Mon, 07 Sep 2026 07:15:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reforma-constitucional",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bf75eeeddec2a01d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Gobierno no ha consultado ingreso de tropas gringas con Consejo de Estado",
+      "summary": "El tribunal contestó a un derecho de petición que en el primer mes de gobierno no recibió solicitudes, mientras Estados Unidos confirmaba operaciones con Colombia. The post Gobierno no ha consultado ingreso de tropas gringas con Consejo de Estado appeared firs",
+      "url": "https://www.lasillavacia.com/en-vivo/gobierno-no-ha-consultado-ingreso-de-tropas-gringas-con-consejo-de-estado/",
+      "publishedAt": "Tue, 08 Sep 2026 20:39:34 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-instituciones-colombia-instituciones-gobierno-consultado",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -335,8 +282,42 @@
       "publishedAt": "Mon, 07 Sep 2026 23:40:13 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-oposicion-interpelara",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "40947b0b79a1844c",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Desde construcción y logística hasta excursiones por los campos de batalla: los variados servicios de la empresa de Malvinas en la que es accionista el argentino Elsztain",
+      "summary": "The Falkland Islands Company se presenta como “el proveedor de soluciones de primera elección” en el archipiélago; el empresario argentino tiene una participación accionaria cercana al 2%",
+      "url": "https://www.lanacion.com.ar/politica/desde-construccion-y-logistica-hasta-excursiones-por-los-campos-de-batalla-los-variados-servicios-de-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 20:25:41 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-elecciones-argentina-elecciones-construccion-logistica",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a3d6f7722e8b3dd9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno acelera los contactos con aliados regionales para sumar apoyos al reclamo por las islas Malvinas",
+      "summary": "Desde la Casa Rosada y la Cancillería pretenden reeditar el apoyo conjunto de gobiernos afines a distintas iniciativas",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-los-contactos-con-aliados-regionales-para-sumar-apoyos-al-reclamo-por-las-islas-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 18:20:26 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -352,8 +333,8 @@
       "publishedAt": "Tue, 08 Sep 2026 16:06:23 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-orteguismo-saca",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -369,8 +350,8 @@
       "publishedAt": "Tue, 08 Sep 2026 14:50:30 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-seguridad-argentina-seguridad-gobierno-descarto",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -386,8 +367,8 @@
       "publishedAt": "Tue, 08 Sep 2026 14:05:16 +0000",
       "politicalScore": 7,
       "eventKey": "cuba-elecciones-cuba-elecciones-tribunal-supremo",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -403,8 +384,8 @@
       "publishedAt": "Tue, 08 Sep 2026 13:27:20 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-ausencia",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -420,8 +401,8 @@
       "publishedAt": "Tue, 08 Sep 2026 09:42:00 GMT",
       "politicalScore": 7,
       "eventKey": "espana-elecciones-espana-elecciones-actas-demuestran",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -437,8 +418,8 @@
       "publishedAt": "Mon, 07 Sep 2026 20:51:05 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-julia-guido",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -454,42 +435,8 @@
       "publishedAt": "Tue, 08 Sep 2026 12:50:52 +0200",
       "politicalScore": 6,
       "eventKey": "espana-elecciones-espana-elecciones-sumar-compromete",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fa33ddf06cca2d6b",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "El exconsejero de Plus Ultra también apunta a que se pagó una comisión de 1% al “grupo Zapatero” para conseguir el rescate",
-      "summary": "Roberto Roselli sigue la línea marcada por el expresidente de la aerolínea, aunque asegura que nunca supieron qué gestiones pudo hacer el exmandatario del Gobierno",
-      "url": "https://elpais.com/espana/2026-09-08/el-ex-consejero-de-plus-ultra-tambien-apunta-a-que-se-pago-una-comision-de-1-al-grupo-zapatero-para-conseguir-el-rescate.html",
-      "publishedAt": "Tue, 08 Sep 2026 10:30:52 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-exconsejero-plus",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8c7f1c8bac88d744",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "La Policía interviene con una decena de patrullas para disolver una protesta en el barrio habanero de Fontanar",
-      "summary": "Los vecinos denuncian cortes de luz de más de 20 horas mientras algunos repartos de casas con piscinas nunca sufren apagones El asalto a un camión cargado de aceite de cocina refleja la agudización de las tensiones sociales en Cuba",
-      "url": "https://www.14ymedio.com/cuba/policia-interviene-decena-patrullas-disolver_1_1130453.html",
-      "publishedAt": "Sat, 05 Sep 2026 17:56:11 +0000",
-      "politicalScore": 5,
-      "eventKey": "cuba-instituciones-cuba-instituciones-policia-interviene",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -505,8 +452,59 @@
       "publishedAt": "Sun, 06 Sep 2026 18:55:59 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-habana-pone",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "97fd17d22921a910",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Cuadernos de las coimas: dos empresarios aseguraron en el juicio que el financista de los Kirchner les exigió dinero para destrabar pagos de obra pública",
+      "summary": "Jorge Cibraro, de la firma ICF, y Juan Manuel Saavedra Vértiz, de Construmex, afirmaron hoy ante el Tribunal que mantuvieron reuniones con Ernesto Clarens, pero que no recibieron ningún trato especial porque se negaron a pagar",
+      "url": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-otro-empresario-aseguro-en-el-juicio-que-el-financista-de-los-kirchner-le-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 19:53:15 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-instituciones-argentina-instituciones-cuadernos-coimas",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "71b546da0b462b32",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La Libertad Avanza quiere someter a juicio político a la jueza que frenó el nuevo régimen penal juvenil",
+      "summary": "Sebastián Pareja dijo que la magistrada Marta Pascual “piensa exclusivamente en los intereses de lo peor de la política”",
+      "url": "https://www.lanacion.com.ar/politica/la-libertad-avanza-quiere-someter-a-juicio-politico-a-la-jueza-que-freno-el-nuevo-regimen-penal-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 19:07:29 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-libertad",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6c8128ea808f3a4a",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "La foto: comenzó la reunión entre Marco Rubio y Abelardo",
+      "summary": "El secretario de Estado llegó este mediodía al aeropuerto de Barranquilla. Ya comenzó su encuentro con el presidente. The post La foto: comenzó la reunión entre Marco Rubio y Abelardo appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/la-foto-marco-rubio-llego-a-barranquilla-para-reunirse-con-abelardo/",
+      "publishedAt": "Tue, 08 Sep 2026 18:59:44 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-foto-comenzo",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -519,79 +517,28 @@
       "title": "Visita del Papa León XIV a la Argentina: qué se sabe de la misa central y toda la agenda oficial",
       "summary": "El Pontífice estará en el país del 8 al 11 de noviembre; se proyectan celebraciones en Palermo, Luján y Córdoba, además de visitas a la cárcel de Devoto y al Cottolengo de Claypole; el programa definitivo será anunciado por la Santa Sede",
       "url": "https://www.lanacion.com.ar/politica/visita-del-papa-leon-xiv-a-la-argentina-que-se-sabe-de-la-misa-central-y-toda-la-agenda-oficial-nid07092026/",
-      "publishedAt": "Tue, 08 Sep 2026 15:38:28 +0000",
+      "publishedAt": "Tue, 08 Sep 2026 18:54:44 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-elecciones-argentina-elecciones-visita-papa",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
-      "id": "cac281a59a6e7df9",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Netanyahu sabía de planes de Hamás antes del 7 de octubre: Haaretz",
-      "summary": "El diario israelí dice que el primer ministro recibió “una denuncia explícita” de Emiratos Árabes. Hoy Reino Unido anunció sanciones para territorios ocupados. The post Netanyahu sabía de planes de Hamás antes del 7 de octubre: Haaretz appeared first on La Sil",
-      "url": "https://www.lasillavacia.com/en-vivo/netanyahu-sabia-de-planes-de-hamas-antes-del-7-de-octubre-haaretz/",
-      "publishedAt": "Tue, 08 Sep 2026 15:20:54 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-diplomacia-colombia-diplomacia-netanyahu-sabia",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "97fd17d22921a910",
+      "id": "e911cfb98121db85",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Instituciones",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "Cuadernos de las coimas: dos empresarios aseguraron en el juicio que el financista de los Kirchner le exigió dinero para destrabar pagos de obra pública",
-      "summary": "Jorge Cibraro, de la firma ICF, y Juan Manuel Saavedra Vértiz, de la firma de Construmax, afirmaron hoy ante el Tribunal que mantuvieron reuniones con Ernesto Clarens, pero que no recibieron ningún trato especial porque se negaron a pagar",
-      "url": "https://www.lanacion.com.ar/politica/cuadernos-de-las-coimas-otro-empresario-aseguro-en-el-juicio-que-el-financista-de-los-kirchner-le-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 15:20:07 +0000",
+      "title": "La “vecina” de Cristina Kirchner admitió que compró el primer piso de San José 1111 y dijo para qué lo adquirió",
+      "summary": "María Soledad Calle se presentó ante el juez Julián Ercolini y pidió su sobreseimiento; su versión sobre un auto de lujo y otros bienes a su nombre",
+      "url": "https://www.lanacion.com.ar/politica/la-vecina-de-cristina-kirchner-admitio-que-compro-el-primero-piso-de-san-jose-1111-y-dijo-para-que-nid08092026/",
+      "publishedAt": "Tue, 08 Sep 2026 18:17:24 +0000",
       "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-cuadernos-coimas",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7bed9757bc29ec03",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Soberanía o subordinación: el llamado del Tercer Congreso Panamericano de Montevideo y una agenda progresista para las Américas",
-      "summary": "Hay momentos en que reunirse es, en sí mismo, un acto político. El Tercer Congreso Panamericano, celebrado en Montevideo entre el 21 y 23 de agosto, es un ejemplo. Más de 150 participantes de 15 países de las Américas se encontraron en Uruguay para dar continu",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/9/soberania-o-subordinacion-el-llamado-del-tercer-congreso-panamericano-de-montevideo-y-una-agenda-progresista-para-las-americas/",
-      "publishedAt": "Tue, 08 Sep 2026 11:50:55 -0300",
-      "politicalScore": 6,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-soberania-subordinacion",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0db37a246b3474d5",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "El Supremo paraliza el derecho al voto de nacionalizados por la ‘ley de nietos’",
-      "summary": "El alto tribunal acepta parcialmente la petición que habían formulado Vox e Iustitia Europa y condiciona el sufragio a quienes acrediten ser descendientes de exiliados",
-      "url": "https://elpais.com/espana/2026-09-08/el-supremo-paraliza-el-derecho-al-voto-de-los-beneficiarios-de-la-ley-de-nietos.html",
-      "publishedAt": "Tue, 08 Sep 2026 13:36:56 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-elecciones-espana-elecciones-supremo-paraliza",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-vecina",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -607,8 +554,8 @@
       "publishedAt": "Tue, 08 Sep 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-economia-politica-espana-economia-politica-cuerpo",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -624,8 +571,42 @@
       "publishedAt": "Mon, 07 Sep 2026 16:12:54 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tesla-lanza",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6b09cb0063c03366",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "La herencia colonial explica el ascenso del autoritarismo en América Latina",
+      "summary": "El resurgimiento de gobiernos autoritarios en América Latina responde a estructuras coloniales de poder que perpetúan la exclusión y la desigualdad social. The post La herencia colonial explica el ascenso del autoritarismo en América Latina appeared first on L",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-herencia-colonial-explica-el-ascenso-del-autoritarismo-en-america-latina/",
+      "publishedAt": "Tue, 08 Sep 2026 17:26:05 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-herencia-colonial",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d769f38b41e69b1e",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Machado denuncia “revictimización” del teniente coronel Igbert Marín Chaparro",
+      "summary": "Le abren nuevo juicio por el Caso La Viñeta tras cumplir su condena",
+      "url": "https://efectococuyo.com/politica/machado-teniente-coronel-igbert-marin-chaparro/",
+      "publishedAt": "Tue, 08 Sep 2026 16:53:23 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-machado-denuncia",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -641,25 +622,8 @@
       "publishedAt": "Tue, 08 Sep 2026 16:05:34 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-rubio-acuerdo",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cc4b2081db37b829",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Basta de violencia en todas partes",
-      "summary": "Hoy quiero hablar no solamente como legisladora. Quiero hablar como mujer. Como madre. Como abuela. Desde ese lugar quiero hacer un ruego: que termine esta locura. Que terminemos de una vez por todas con esta espiral de violencia que viene creciendo alrededor ",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/9/basta-de-violencia-en-todas-partes/",
-      "publishedAt": "Tue, 08 Sep 2026 12:25:53 -0300",
-      "politicalScore": 5,
-      "eventKey": "uruguay-seguridad-uruguay-seguridad-basta-violencia",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -675,42 +639,8 @@
       "publishedAt": "Tue, 08 Sep 2026 14:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-cuba",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7c7346971d34f64d",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Presidenta de PJ regresa a Venezuela tras dos años en el exilio y llama a consolidar la unidad",
-      "summary": "María Baetriz Martínez reiteró su respaldo a María Corina Machado",
-      "url": "https://efectococuyo.com/politica/presidenta-de-pj-regresa-a-venezuela/",
-      "publishedAt": "Tue, 08 Sep 2026 13:50:51 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-presidenta-regresa",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e7884a94b4f72fe4",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Dentro de la reunión de De la Espriella con los cacaos en Chocó",
-      "summary": "El presidente De la Espriella lideró una vaca privada para proyectos específicos con aportes de los empresarios más ricos de Colombia. The post Dentro de la reunión de De la Espriella con los cacaos en Chocó appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/silla-nacional/dentro-de-la-reunion-de-de-la-espriella-con-los-cacaos-en-choco/",
-      "publishedAt": "Tue, 08 Sep 2026 06:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-dentro-reunion",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -726,25 +656,8 @@
       "publishedAt": "Mon, 07 Sep 2026 07:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-toma-corporativa",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dafab38d0493a79d",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Socio chileno de Cerimedo y un asesor del ministro Arrau financiaron a grupo que difundió información falsa del “Rechazo”",
-      "summary": "La entrada Socio chileno de Cerimedo y un asesor del ministro Arrau financiaron a grupo que difundió información falsa del “Rechazo” se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/09/03/socio-chileno-de-cerimedo-y-un-asesor-del-ministro-arrau-financiaron-a-grupo-que-difundio-informacion-falsa-del-rechazo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=socio-chileno-de-cerimedo-y-un-asesor-del-ministro-arrau-financiaron-a-grupo-que-difundio-informacion-falsa-del-rechazo",
-      "publishedAt": "Fri, 04 Sep 2026 00:54:11 +0000",
-      "politicalScore": 5,
-      "eventKey": "chile-probidad-chile-probidad-socio-chileno",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -754,14 +667,48 @@
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Media",
-      "title": "Axel Kicillof viaja a Misiones: se reunirá con el gobernador, autoridades del PJ local y yerbateros",
-      "summary": "El encuentro con los productores locales lo diferencia de Javier Milei, que fue recibido con insultos del sector durante su última visita a la provincia",
+      "title": "Kicillof viaja mañana a Misiones y se reunirá con el gobernador, jefes del PJ local y los yerbateros",
+      "summary": "El encuentro con los productores apunta a diferenciarlo de Milei, cuestionado por el sector en su última visita a la provincia; busca armar su candidatura presidencial, que aún no confirmó",
       "url": "https://www.lanacion.com.ar/politica/axel-kicillof-viaja-a-misiones-se-reunira-con-el-gobernador-autoridades-del-pj-local-y-yerbateros-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 16:06:06 +0000",
+      "publishedAt": "Tue, 08 Sep 2026 20:33:12 +0000",
       "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-axel",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8fb48222937baf2c",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Marlaska tilda de “sensación de inseguridad subjetiva” las quejas de los ceutíes",
+      "summary": "El ministro del Interior, de visita en Ceuta, se ha referido a una de las principales quejas de los vecinos de la ciudad",
+      "url": "https://elpais.com/espana/2026-09-08/marlaska-tilda-de-sensacion-de-inseguridad-subjetiva-las-quejas-de-los-ceuties.html",
+      "publishedAt": "Tue, 08 Sep 2026 19:01:35 GMT",
+      "politicalScore": 4,
+      "eventKey": "espana-seguridad-espana-seguridad-marlaska-tilda",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c9237b1ab04c33d",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Claves de la decisión del Supremo sobre la ‘ley de nietos’ que deja a españoles sin derecho al voto",
+      "summary": "La medida cautelar impide votar a parte de los nuevos ciudadanos pero no afecta a la concesión de la nacionalidad",
+      "url": "https://elpais.com/espana/2026-09-08/claves-de-la-decision-del-supremo-sobre-la-ley-de-nietos-que-deja-a-espanoles-sin-derecho-al-voto.html",
+      "publishedAt": "Tue, 08 Sep 2026 16:13:21 GMT",
+      "politicalScore": 4,
+      "eventKey": "espana-elecciones-espana-elecciones-claves-decision",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -777,8 +724,8 @@
       "publishedAt": "Tue, 08 Sep 2026 14:44:46 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-politica-hacia",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -794,76 +741,8 @@
       "publishedAt": "Tue, 08 Sep 2026 14:08:43 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-levanto",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "afe62f008032bb9b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Seguridad, comercio y valores: la agenda de De la Espriella y Rubio",
-      "summary": "La reunión comenzará a las 2 de la tarde en Barranquilla, con esos tres temas sobre la mesa. Después firmarán dos memorandos de entendimiento. The post Seguridad, comercio y valores: la agenda de De la Espriella y Rubio appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/seguridad-comercio-y-valores-la-agenda-de-de-la-espriella-y-rubio/",
-      "publishedAt": "Tue, 08 Sep 2026 13:47:14 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-seguridad-colombia-seguridad-comercio-valores",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5bcd05ada5e6b469",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Reapareció Mauricio Novelli para vender un curso de trading financiero tras el escándalo de $LIBRA",
-      "summary": "Difundió un video por redes sociales en el que se ufanó de su recorrido profesional e invitó a “aprender” de él; es uno de los protagonistas del caso de la criptomoneda que involucra a Milei",
-      "url": "https://www.lanacion.com.ar/politica/reaparecio-mauricio-novelli-para-vender-un-curso-de-trading-financiero-tras-el-escandalo-de-libra-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 13:23:45 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-reaparecio",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "59e006df1fcbaa96",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "¿Y la oposición?",
-      "summary": "Hoy en el pódcast Huevos Revueltos con Política revisamos cuál es y qué hace la oposición a Abelardo de la Espriella. The post ¿Y la oposición? appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/y-la-oposicion/",
-      "publishedAt": "Tue, 08 Sep 2026 12:34:44 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-oposicion",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d33cd3529aebe97f",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "Hungría expulsa a diez empleados de la Embajada rusa en Budapest",
-      "summary": "Bajo el Gobierno de Orbán, Hungría se había convertido en un \"verdadero centro de espionaje ruso\"",
-      "url": "https://www.14ymedio.com/internacional/hungria-expulsa-diez-empleados-embajada_1_1130547.html",
-      "publishedAt": "Tue, 08 Sep 2026 12:05:24 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-sociedad-cuba-sociedad-hungria-expulsa",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -879,8 +758,8 @@
       "publishedAt": "Tue, 08 Sep 2026 09:52:21 +0200",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-puente-cuestiona",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -896,8 +775,8 @@
       "publishedAt": "Tue, 08 Sep 2026 07:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-maldicion",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -913,8 +792,8 @@
       "publishedAt": "Tue, 08 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mafia-balcanica",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -930,8 +809,8 @@
       "publishedAt": "Mon, 07 Sep 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-marco-rubio",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -947,8 +826,93 @@
       "publishedAt": "Sun, 06 Sep 2026 12:08:23 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-emir-mesa",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f2ad658225d557d6",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Cubalex reporta 52 homicidios en la Isla durante agosto, un nuevo récord",
+      "summary": "La organización registra 280 eventos represivos en Cuba, entre ellos abusos contra personas privadas de libertad, violencia o acoso",
+      "url": "https://www.14ymedio.com/cuba/cubalex-reporta-52-homicidios-isla_1_1130575.html",
+      "publishedAt": "Tue, 08 Sep 2026 19:43:09 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-seguridad-cuba-seguridad-cubalex-reporta",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "604d8b22759244aa",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "La infraestructura invisible del mérito",
+      "summary": "Cuando pensamos en el éxito masculino solemos imaginar una historia de esfuerzo individual. Un hombre trabaja, se sacrifica, asciende, acumula prestigio y finalmente alcanza una posición de reconocimiento. La narrativa es conocida: talento, disciplina, perseve",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/9/la-infraestructura-invisible-del-merito/",
+      "publishedAt": "Tue, 08 Sep 2026 16:29:21 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-infraestructura-invisible",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "62deffb37d072bca",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Una nueva danza macabra en Colombia: la muerte como espectáculo",
+      "summary": "La entrada Una nueva danza macabra en Colombia: la muerte como espectáculo se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/09/08/una-nueva-danza-macabra-en-colombia-la-muerte-como-espectaculo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=una-nueva-danza-macabra-en-colombia-la-muerte-como-espectaculo",
+      "publishedAt": "Tue, 08 Sep 2026 19:14:38 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-nueva-danza",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d2a09e759c81e3e9",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Ministro de Perú anticipa acuerdos para deportar a venezolanos en barco",
+      "summary": "Astudillo explicó que, \"con muchísimo esfuerzo\", han logrado expulsar a 1.635 venezolanos migrantes",
+      "url": "https://efectococuyo.com/internacionales/ministro-de-peru-anticipa-acuerdos-para-deportar-a-venezolanos-en-barco/",
+      "publishedAt": "Tue, 08 Sep 2026 18:41:19 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-ministro-peru",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a1abbd33e27967fb",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Gendarme argentino pide a la justicia internacional captura de 5 funcionarios venezolanos",
+      "summary": "Nahuel Gallo pone nombre y apellido a los responsables de su secuestro en Venezuela",
+      "url": "https://efectococuyo.com/internacionales/gendarme-argentino-captura-de-5-funcionarios-venezolanos/",
+      "publishedAt": "Tue, 08 Sep 2026 18:28:57 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-instituciones-venezuela-instituciones-gendarme-argentino",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -964,42 +928,8 @@
       "publishedAt": "Tue, 08 Sep 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-victimas-invisibles",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2e969deaa105e1a7",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Duerma informado con las movidas de este 7 de septiembre de 2026",
-      "summary": "La inflación, la audiencia contra Ricardo Roa y la red de reporteros con IA que impulsan a Abelardo. Esto dejó la tarde. The post Duerma informado con las movidas de este 7 de septiembre de 2026 appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-7-de-septiembre-de-2026/",
-      "publishedAt": "Tue, 08 Sep 2026 00:05:41 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-duerma",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7cbdd2b9a750c70a",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Familiares protestan frente a la Defensoría y denuncian torturas a presos políticos",
-      "summary": "La Defensoría del Pueblo acordó instalar una mesa técnica en un plazo máximo de 15 días para evaluar inspecciones a las cárceles y priorizar expedientes con retardo procesal.",
-      "url": "https://efectococuyo.com/la-humanidad/familiares-protestan-frente-a-la-defensoria-y-denuncian-torturas-a-presos-politicos/",
-      "publishedAt": "Mon, 07 Sep 2026 22:32:02 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-familiares-protestan",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1015,8 +945,8 @@
       "publishedAt": "Mon, 07 Sep 2026 19:11:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-video-socio",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1032,8 +962,8 @@
       "publishedAt": "Mon, 07 Sep 2026 15:36:10 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-considera-potencial",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1049,8 +979,8 @@
       "publishedAt": "Mon, 07 Sep 2026 13:22:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-desafios-trabajo",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1066,8 +996,8 @@
       "publishedAt": "Mon, 07 Sep 2026 12:24:05 +0000",
       "politicalScore": 3,
       "eventKey": "chile-seguridad-chile-seguridad-victimas-parejas",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1083,8 +1013,8 @@
       "publishedAt": "Sun, 06 Sep 2026 15:43:07 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-manuela-martelli",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1100,8 +1030,8 @@
       "publishedAt": "Sat, 05 Sep 2026 08:00:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-humedal-nadie",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1117,8 +1047,8 @@
       "publishedAt": "Sat, 05 Sep 2026 02:30:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nexos-cerimedo",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1134,8 +1064,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:18:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-valor-cambio",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1151,8 +1081,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:11:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-articulos-historicos",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1168,8 +1098,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:09:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-general-leigh",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1185,8 +1115,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:08:58 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-orlando-saenz",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1202,8 +1132,8 @@
       "publishedAt": "Fri, 04 Sep 2026 20:07:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-nexos",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     },
     {
@@ -1219,8 +1149,8 @@
       "publishedAt": "Fri, 04 Sep 2026 13:20:35 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-neuroproteccion-caso",
-      "firstSeenAt": "2026-09-08T16:21:29.330Z",
-      "lastSeenAt": "2026-09-08T16:21:29.330Z",
+      "firstSeenAt": "2026-09-08T20:56:24.287Z",
+      "lastSeenAt": "2026-09-08T20:56:24.287Z",
       "seenCount": 1
     }
   ]
