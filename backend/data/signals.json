@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-09T04:00:26.076Z",
-  "count": 64,
+  "generatedAt": "2026-09-09T11:01:06.720Z",
+  "count": 60,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-09-09T04:00:26.076Z",
-    "activeSignals": 64,
-    "archiveSignals": 122,
-    "countriesCovered": 9,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 6
+    "generatedAt": "2026-09-09T11:01:06.720Z",
+    "activeSignals": 60,
+    "archiveSignals": 118,
+    "countriesCovered": 8,
+    "highPrioritySignals": 20,
+    "averagePoliticalScore": 5.6
   },
   "briefings": [
     {
@@ -37,14 +37,14 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 13,
+      "signalCount": 12,
       "summary": "Foco en Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "Alemanía rechaza las acusaciones orteguistas en La Haya",
-      "leadUrl": "https://confidencial.digital/noticias/alemania-rechaza-las-acusaciones-orteguistas-en-la-haya/",
+      "leadTitle": "Orteguismo saca la carta “nazi” contra Alemania en La Haya",
+      "leadUrl": "https://confidencial.digital/noticias/nicaragua-saca-la-carta-nazi-contra-alemania-en-la-haya/",
       "focusTopics": [
         "Seguridad",
         "Instituciones"
@@ -52,7 +52,7 @@
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 12,
+      "signalCount": 10,
       "summary": "Foco en Seguridad, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
@@ -62,21 +62,20 @@
       "leadUrl": "https://elpais.com/espana/2026-09-09/el-gobierno-se-revuelve-contra-una-nueva-provocacion-del-supremo-ahora-con-la-ley-de-nietos.html",
       "focusTopics": [
         "Gobernabilidad",
-        "Elecciones",
-        "Economia politica"
+        "Elecciones"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 8,
-      "summary": "Foco en Gobernabilidad, Elecciones, Economia politica. Vigilar El Pais y El Pais."
+      "signalCount": 7,
+      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Pais y El Pais."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Primer congreso minero de De la Espriella: el sector minero pide más Estado y reglas claras",
-      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-verde/primer-congreso-minero-de-de-la-espriella-el-sector-minero-pide-mas-estado-y-reglas-claras/",
+      "leadTitle": "El Ministerio de Ambiente aterriza su agenda ABC",
+      "leadUrl": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/el-ministerio-de-ambiente-aterriza-su-agenda-abc/",
       "focusTopics": [
         "Gobernabilidad"
       ],
@@ -87,35 +86,34 @@
       "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Uruguay",
-      "priority": "Alta",
-      "leadTitle": "Diputados aprobó el acceso del Casmu al Fondo de Garantía con aporte de los médicos capitalizadores",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/9/diputados-aprobo-el-acceso-del-casmu-al-fondo-de-garantia-con-aporte-de-los-medicos-capitalizadores/",
-      "focusTopics": [
-        "Elecciones",
-        "Economia politica",
-        "Instituciones"
-      ],
-      "topSources": [
-        "La Diaria"
-      ],
-      "signalCount": 3,
-      "summary": "Foco en Elecciones, Economia politica, Instituciones. Vigilar La Diaria y La Diaria."
-    },
-    {
       "country": "Cuba",
       "priority": "Alta",
       "leadTitle": "\"Me gustaría votar\": los cubanos reaccionan a la decisión del Supremo de España",
       "leadUrl": "https://www.14ymedio.com/cuba/gustaria-votar-cubanos-reaccionan-decision_1_1130579.html",
       "focusTopics": [
         "Elecciones",
-        "Seguridad"
+        "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
+      "signalCount": 4,
+      "summary": "Foco en Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Uruguay",
+      "priority": "Alta",
+      "leadTitle": "Diputados aprobó el acceso del Casmu al Fondo de Garantía con aporte de los médicos capitalizadores",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/9/diputados-aprobo-el-acceso-del-casmu-al-fondo-de-garantia-con-aporte-de-los-medicos-capitalizadores/",
+      "focusTopics": [
+        "Elecciones",
+        "Instituciones"
+      ],
+      "topSources": [
+        "La Diaria"
+      ],
       "signalCount": 2,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar 14ymedio y 14ymedio."
+      "summary": "Foco en Elecciones, Instituciones. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Venezuela",
@@ -130,20 +128,6 @@
       ],
       "signalCount": 4,
       "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
-      "country": "Peru",
-      "priority": "Media",
-      "leadTitle": "De la Espriella y Rubio anuncian los acuerdos de Barranquilla para “reconstruir” Colombia",
-      "leadUrl": "https://elcomercio.pe/mundo/latinoamerica/abelaardo-de-la-espriella-y-marco-rubio-anuncian-los-acuerdos-de-barranquilla-para-reconstruir-colombia-estados-unidos-terremoto-ultimas-noticia/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
     }
   ],
   "signals": [
@@ -160,8 +144,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:30:44 +0000",
       "politicalScore": 19,
       "eventKey": "argentina-elecciones-argentina-elecciones-cuando-vota",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -177,8 +161,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:30:41 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -194,8 +178,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:30:47 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -211,8 +195,8 @@
       "publishedAt": "Wed, 09 Sep 2026 03:20:42 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-gobierno-sanciono",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -225,11 +209,11 @@
       "title": "Ante la perspectiva de una derrota, el oficialismo dará quorum para debatir discapacidad y morosidad en Diputados",
       "summary": "En una reunión de último momento, el bloque libertario definió que habilitará el debate en el recinto este miércoles en un intento por no perder el control de la agenda política",
       "url": "https://www.lanacion.com.ar/politica/ante-la-perspectiva-de-una-derrota-el-oficialismo-dara-quorum-manana-para-debatir-discapacidad-y-nid08092026/",
-      "publishedAt": "Wed, 09 Sep 2026 03:08:45 +0000",
+      "publishedAt": "Wed, 09 Sep 2026 05:48:27 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-perspectiva",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -245,8 +229,8 @@
       "publishedAt": "Tue, 08 Sep 2026 21:34:05 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-diputados-aprobo",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -262,93 +246,25 @@
       "publishedAt": "Tue, 08 Sep 2026 23:36:08 +0000",
       "politicalScore": 10,
       "eventKey": "chile-economia-politica-chile-economia-politica-sorprende",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
-      "id": "e7688cb6e9a62422",
+      "id": "706455bf0b316cef",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Sesión en Diputados: la oposición construye el quorum con gobernadores para discutir la morosidad y la emergencia en discapacidad",
-      "summary": "La convocatoria está fijada para este miércoles a las 12; los mandatarios que se desmarcaron de la Casa Rosada y respaldarán dos discusiones sensibles para Milei",
-      "url": "https://www.lanacion.com.ar/politica/sesion-en-diputados-la-oposicion-construye-el-quorum-con-gobernadores-para-discutir-la-morosidad-y-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 21:51:25 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-sesion",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b8e01efd2fa2a9a9",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
       "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Alemanía rechaza las acusaciones orteguistas en La Haya",
-      "summary": "Alemania defendió el lunes 7 de septiembre de 2026 ante la Corte Internacional de Justicia (CIJ) que su “apoyo inquebrantable” a la existencia y seguridad del Estado israelí, fruto —dijo— de su “responsabilidad histórica”, “no implica un desprecio por el derec",
-      "url": "https://confidencial.digital/noticias/alemania-rechaza-las-acusaciones-orteguistas-en-la-haya/",
-      "publishedAt": "Mon, 07 Sep 2026 14:34:03 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-alemania-rechaza",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "42722e0ac8ce4371",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Rendición de Cuentas: abogados cuestionan cambio en juicios laborales y señalan que “el perjudicado es el trabajador”",
-      "summary": "Asociación de Laboralistas planteó al oficialismo que la ampliación del “plazo de apelación” en procesos laborales aumenta la “brecha de desigualdad” entre empleadores y trabajadores. En paralelo al trabajo de la Comisión de Presupuesto integrada con Hacienda ",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/rendicion-de-cuentas-abogados-cuestionan-cambio-en-juicios-laborales-y-senalan-que-el-perjudicado-es-el-trabajador/",
-      "publishedAt": "Tue, 08 Sep 2026 20:44:11 -0300",
+      "title": "Malvinas: el Gobierno anunció que sancionará a otras 15 empresas y define los proyectos para endurecer las penas",
+      "summary": "Se sumaron a la mesa política los ministros Quirno y Presti; ambos viajarán este viernes a Tierra del Fuego por la construcción de la base militar",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-reune-a-la-mesa-politica-para-definir-los-proyectos-de-ley-vinculados-a-malvinas-nid08092026/",
+      "publishedAt": "Wed, 09 Sep 2026 06:27:40 +0000",
       "politicalScore": 9,
-      "eventKey": "uruguay-economia-politica-uruguay-economia-politica-rendicion",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "28cbcf13fac76fcd",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Primer congreso minero de De la Espriella: el sector minero pide más Estado y reglas claras",
-      "summary": "El Congreso Nacional de Minería de 2026 dejó un mejor clima entre el gobierno y las empresas, pero persisten vacíos en comunidades y sostenibilidad. The post Primer congreso minero de De la Espriella: el sector minero pide más Estado y reglas claras appeared f",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-verde/primer-congreso-minero-de-de-la-espriella-el-sector-minero-pide-mas-estado-y-reglas-claras/",
-      "publishedAt": "Tue, 08 Sep 2026 21:00:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-primer-congreso",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3102df6e16a5bde1",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Una reforma constitucional para atornillar a una dictadura esclerótica",
-      "summary": "La dictadura matrimonial de Daniel Ortega y Rosario Murillo sigue deparando sorpresas, más allá del deterioro físico de los dos copresidentes, cada vez más visible en sus rostros y fotografías. No en vano entre ambos suman 156 años. Ortega, con casi dos década",
-      "url": "https://confidencial.digital/opinion/una-reforma-constitucional-para-atornillar-a-una-dictadura-esclerotica/",
-      "publishedAt": "Mon, 07 Sep 2026 07:15:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reforma-constitucional",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "eventKey": "argentina-seguridad-argentina-seguridad-malvinas-gobierno",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -364,25 +280,8 @@
       "publishedAt": "Wed, 09 Sep 2026 03:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-revuelve",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "834d3306dfd3f301",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Un tribunal bonaerense frenó la privatización de AySA y le mandó la causa a la justicia federal",
-      "summary": "Fue a pedido del Defensor del Pueblo de la provincia; rechaza un cambio de convenio que habilita a un nuevo operador privado a prestar un servicio con estándares más bajos que los actuales",
-      "url": "https://www.lanacion.com.ar/politica/un-tribunal-bonaerense-freno-la-privatizacion-de-aysa-y-le-mando-la-causa-a-la-justicia-federal-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 21:45:02 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-instituciones-argentina-instituciones-tribunal-bonaerense",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -398,8 +297,8 @@
       "publishedAt": "Mon, 07 Sep 2026 23:40:13 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-oposicion-interpelara",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -415,8 +314,8 @@
       "publishedAt": "Wed, 09 Sep 2026 01:38:11 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ministerio-ambiente",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -432,8 +331,8 @@
       "publishedAt": "Wed, 09 Sep 2026 00:09:49 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -449,8 +348,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:23:03 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobernadores",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -466,8 +365,8 @@
       "publishedAt": "Tue, 08 Sep 2026 22:59:44 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-elecciones-argentina-elecciones-construccion-logistica",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -483,8 +382,8 @@
       "publishedAt": "Tue, 08 Sep 2026 22:54:05 +0000",
       "politicalScore": 7,
       "eventKey": "cuba-elecciones-cuba-elecciones-gustaria-votar",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -500,42 +399,8 @@
       "publishedAt": "Tue, 08 Sep 2026 16:06:23 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-orteguismo-saca",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ef27fa396d7943a6",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Las actas demuestran que Vivas apoyó el uso del puerto en sus reuniones con Sánchez antes de echarse atrás",
-      "summary": "El presidente de Ceuta votó con todos los ministros “de forma unánime” usar las instalaciones que ahora rechaza",
-      "url": "https://elpais.com/espana/2026-09-08/las-actas-demuestran-que-vivas-apoyo-el-uso-del-puerto-en-sus-reuniones-con-sanchez-antes-de-echarse-atras.html",
-      "publishedAt": "Tue, 08 Sep 2026 09:42:00 GMT",
-      "politicalScore": 7,
-      "eventKey": "espana-elecciones-espana-elecciones-actas-demuestran",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2b035794b441158f",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "La Fiscalía pone el foco en la legalidad del rescate por el control extranjero de Plus Ultra",
-      "summary": "La Fiscalía pregunta al ex presidente Julio Martínez Sola por el capital venezolano en la compañía&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/07/6a9f01ed21efa0da6c8b458a.html",
-      "publishedAt": "Mon, 07 Sep 2026 22:57:46 +0200",
-      "politicalScore": 7,
-      "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -551,8 +416,25 @@
       "publishedAt": "Mon, 07 Sep 2026 20:51:05 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-julia-guido",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e45a62952b4b4950",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Feijóo y Abascal acusan al presidente de no ser libre con Rabat y Sánchez replica: “Seré un perro, pero sin amo”",
+      "summary": "El PP advierte al Gobierno de que pagará “la invasión” de Ceuta. “Yo seré un perro, pero no tengo amo”, replica el presidente",
+      "url": "https://elpais.com/espana/2026-09-09/feijoo-y-abascal-acusan-al-presidente-de-no-ser-libre-con-rabat-y-sanchez-replica-que-no-tiene-amo.html",
+      "publishedAt": "Wed, 09 Sep 2026 08:52:31 GMT",
+      "politicalScore": 6,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-feijoo-abascal",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -568,8 +450,8 @@
       "publishedAt": "Tue, 08 Sep 2026 12:50:52 +0200",
       "politicalScore": 6,
       "eventKey": "espana-elecciones-espana-elecciones-sumar-compromete",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -585,8 +467,8 @@
       "publishedAt": "Wed, 09 Sep 2026 00:00:05 +0200",
       "politicalScore": 5,
       "eventKey": "espana-diplomacia-espana-diplomacia-gobierno-lanza",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -602,8 +484,8 @@
       "publishedAt": "Wed, 09 Sep 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ceuta-verdad",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -619,25 +501,8 @@
       "publishedAt": "Wed, 09 Sep 2026 00:19:07 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b3f22afb81cc9bc1",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Cuerpo electoral",
-      "summary": "Debería plantearse seriamente la posibilidad de lanzar a un candidato como el ministro de Economía para suceder a Sánchez",
-      "url": "https://elpais.com/opinion/2026-09-08/cuerpo-electoral.html",
-      "publishedAt": "Tue, 08 Sep 2026 03:30:01 GMT",
-      "politicalScore": 6,
-      "eventKey": "espana-economia-politica-espana-economia-politica-cuerpo",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -653,8 +518,25 @@
       "publishedAt": "Mon, 07 Sep 2026 16:12:54 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tesla-lanza",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bdd6d8e4d10ac79c",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Así se mueve el poder de la fe en el gobierno De la Espriella",
+      "summary": "Curas y pastores acumulan un gran poder, sobre todo en el sector educación. Católicos y evangélicos son una base de apoyo político clave de Defensores de la Patria. The post Así se mueve el poder de la fe en el gobierno De la Espriella appeared first on La Sil",
+      "url": "https://www.lasillavacia.com/silla-nacional/asi-se-mueve-el-poder-de-la-fe-en-el-gobierno-de-la-espriella/",
+      "publishedAt": "Wed, 09 Sep 2026 05:01:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-mueve-poder",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -670,8 +552,8 @@
       "publishedAt": "Wed, 09 Sep 2026 00:11:53 -0300",
       "politicalScore": 5,
       "eventKey": "uruguay-instituciones-uruguay-instituciones-facultad-medicina",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -687,8 +569,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:23:03 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-campesinos-piden",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -704,8 +586,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:09:51 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-andi-elige",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -721,8 +603,8 @@
       "publishedAt": "Tue, 08 Sep 2026 22:40:07 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-campesinos-sino",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -738,8 +620,8 @@
       "publishedAt": "Tue, 08 Sep 2026 22:28:13 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-congresistas",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -755,8 +637,8 @@
       "publishedAt": "Tue, 08 Sep 2026 16:53:23 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-machado-denuncia",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -772,25 +654,59 @@
       "publishedAt": "Tue, 08 Sep 2026 14:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-cuba",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
-      "id": "2ed3da5301ea4eea",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "527384b3ee7f59c3",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "De la Espriella y Rubio anuncian los acuerdos de Barranquilla para “reconstruir” Colombia",
-      "summary": "El presidente de Colombia, Abelardo de la Espriella, y el secretario de Estado de Estados Unidos, Marco Rubio, anunciaron este martes los “acuerdos de Barranquilla”, con los que buscan reconstruir el país tras el terremoto del pasado 10 de agosto y recuperar l",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/abelaardo-de-la-espriella-y-marco-rubio-anuncian-los-acuerdos-de-barranquilla-para-reconstruir-colombia-estados-unidos-terremoto-ultimas-noticia/",
-      "publishedAt": "Wed, 09 Sep 2026 03:00:28 +0000",
+      "title": "Por qué la economía está bien para el empresario y mal para el trabajador",
+      "summary": "La economía de Nicaragua genera un contraste entre la visión del trabajador(a) y la del empresario. El trabajador, formal o informal, dice que no le rinde la plata, que no hay trabajo bien pagado o que simplemente no encuentra buen trabajo, y que lleva meses o",
+      "url": "https://confidencial.digital/opinion/por-que-la-economia-esta-bien-para-el-empresario-y-mal-para-el-trabajador/",
+      "publishedAt": "Wed, 09 Sep 2026 07:20:00 +0000",
       "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-espriella-rubio",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-bien",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b3a71d4248e9b465",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Costa Rica, entre la nostalgia y la bronca",
+      "summary": "Desde hace unos años, en Costa Rica los datos muestran el establecimiento de dos visiones de país profundamente diferenciadas, tanto en el campo económico estratégico como en el sociocultural. Dos hechos ocurridos en agosto reflejan más explícitamente las dime",
+      "url": "https://confidencial.digital/opinion/costa-rica-entre-la-nostalgia-y-la-bronca/",
+      "publishedAt": "Wed, 09 Sep 2026 07:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-costa",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f1b2721c98c7c868",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Kicillof viaja a Misiones y se reunirá con el gobernador, jefes del PJ local y los yerbateros",
+      "summary": "El encuentro con los productores apunta a diferenciarlo de Milei, cuestionado por el sector en su última visita a la provincia; busca armar su candidatura presidencial, que aún no confirmó",
+      "url": "https://www.lanacion.com.ar/politica/axel-kicillof-viaja-a-misiones-se-reunira-con-el-gobernador-autoridades-del-pj-local-y-yerbateros-nid08092026/",
+      "publishedAt": "Wed, 09 Sep 2026 06:29:24 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -806,8 +722,8 @@
       "publishedAt": "Wed, 09 Sep 2026 01:19:53 +0000",
       "politicalScore": 4,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-regional",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -823,8 +739,8 @@
       "publishedAt": "Wed, 09 Sep 2026 00:28:32 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-homenaje",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -840,25 +756,25 @@
       "publishedAt": "Tue, 08 Sep 2026 22:27:44 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-somos",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
-      "id": "f1b2721c98c7c868",
-      "country": "Argentina",
-      "source": "La Nacion",
+      "id": "3c9237b1ab04c33d",
+      "country": "Espana",
+      "source": "El Pais",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Elecciones",
       "priority": "Media",
-      "title": "Kicillof viaja mañana a Misiones y se reunirá con el gobernador, jefes del PJ local y los yerbateros",
-      "summary": "El encuentro con los productores apunta a diferenciarlo de Milei, cuestionado por el sector en su última visita a la provincia; busca armar su candidatura presidencial, que aún no confirmó",
-      "url": "https://www.lanacion.com.ar/politica/axel-kicillof-viaja-a-misiones-se-reunira-con-el-gobernador-autoridades-del-pj-local-y-yerbateros-nid08092026/",
-      "publishedAt": "Tue, 08 Sep 2026 20:33:12 +0000",
+      "title": "Claves de la decisión del Supremo sobre la ‘ley de nietos’ que deja a españoles sin derecho al voto",
+      "summary": "La medida cautelar impide votar a parte de los nuevos ciudadanos pero no afecta a la concesión de la nacionalidad",
+      "url": "https://elpais.com/espana/2026-09-08/claves-de-la-decision-del-supremo-sobre-la-ley-de-nietos-que-deja-a-espanoles-sin-derecho-al-voto.html",
+      "publishedAt": "Tue, 08 Sep 2026 16:13:21 GMT",
       "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "eventKey": "espana-elecciones-espana-elecciones-claves-decision",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -874,8 +790,8 @@
       "publishedAt": "Tue, 08 Sep 2026 09:52:21 +0200",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-puente-cuestiona",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -891,8 +807,8 @@
       "publishedAt": "Tue, 08 Sep 2026 07:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-maldicion",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -908,25 +824,42 @@
       "publishedAt": "Tue, 08 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mafia-balcanica",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
-      "id": "f80433b2ba529479",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "22f389d5076e743f",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
       "priority": "Media",
-      "title": "Marco Rubio lanza “bola recia”, pero “no se trata de invadir y sacarlos”",
-      "summary": "¿Qué se puede esperar de la próxima reunión de cancilleres de la OEA sobre la crisis de Nicaragua, que hasta ahora no tiene una fecha, en espera de que el secretario de Estado de Estados Unidos, Marco Rubio, confirme su participación? Y qué significa el mensaj",
-      "url": "https://confidencial.digital/entrevistas/marco-rubio-lanza-bola-recia-pero-no-se-trata-de-invadir-y-sacarlos/",
-      "publishedAt": "Mon, 07 Sep 2026 07:20:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-marco-rubio",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "title": "China afirma desde Perú que América Latina \"no es el 'patio trasero' de nadie\"",
+      "summary": "La embajada responde a un artículo de Marco Rubio: \"La inversión china en Perú es transparente y acorde a la ley\"",
+      "url": "https://www.14ymedio.com/internacional/china-afirma-peru-america-latina_1_1130593.html",
+      "publishedAt": "Wed, 09 Sep 2026 10:20:48 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-sociedad-cuba-sociedad-china-afirma",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
+      "seenCount": 1
+    },
+    {
+      "id": "165b55d4a6f3235f",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "EE UU hunde un sexto barco ecuatoriano en las horas previas de la visita de Marco Rubio a Quito",
+      "summary": "El pasado sábado, un juez dejó en libertad a 28 tripulantes de dos embarcaciones, al no hallar indicios de delito y este martes otros 32 salieron en libertad condicional",
+      "url": "https://www.14ymedio.com/internacional/ee-uu-hunde-sexto-barco_1_1130590.html",
+      "publishedAt": "Wed, 09 Sep 2026 09:52:40 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-sociedad-cuba-sociedad-hunde-sexto",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -942,8 +875,8 @@
       "publishedAt": "Wed, 09 Sep 2026 01:05:13 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carta-enviada",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -959,8 +892,8 @@
       "publishedAt": "Tue, 08 Sep 2026 23:09:07 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estudio-pisa",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -976,8 +909,8 @@
       "publishedAt": "Tue, 08 Sep 2026 21:02:36 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-amenazas-narco",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -993,8 +926,8 @@
       "publishedAt": "Tue, 08 Sep 2026 19:43:09 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-cubalex-reporta",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1010,8 +943,8 @@
       "publishedAt": "Tue, 08 Sep 2026 19:14:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nueva-danza",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1027,8 +960,8 @@
       "publishedAt": "Tue, 08 Sep 2026 18:41:19 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-ministro-peru",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1044,8 +977,8 @@
       "publishedAt": "Tue, 08 Sep 2026 18:28:57 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-instituciones-venezuela-instituciones-gendarme-argentino",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1061,8 +994,8 @@
       "publishedAt": "Tue, 08 Sep 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-victimas-invisibles",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1078,25 +1011,8 @@
       "publishedAt": "Mon, 07 Sep 2026 19:11:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-video-socio",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
-      "seenCount": 1
-    },
-    {
-      "id": "62eab10d3c33342a",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "La ONU considera la IA un potencial “riesgo existencial para la humanidad”",
-      "summary": "El Alto Comisionado de la ONU para los Derechos Humanos, Volker Türk, alertó el lunes 7 de septiembre de 2026 que los sistemas más avanzados de inteligencia artificial (IA) podrían llegar a representar una amenaza existencial para la humanidad si no se estable",
-      "url": "https://confidencial.digital/revista-niu/la-onu-considera-la-ia-un-potencial-riesgo-existencial-para-la-humanidad/",
-      "publishedAt": "Mon, 07 Sep 2026 15:36:10 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-considera-potencial",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1112,8 +1028,8 @@
       "publishedAt": "Mon, 07 Sep 2026 13:22:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-desafios-trabajo",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1129,8 +1045,8 @@
       "publishedAt": "Mon, 07 Sep 2026 12:24:05 +0000",
       "politicalScore": 3,
       "eventKey": "chile-seguridad-chile-seguridad-victimas-parejas",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1146,8 +1062,8 @@
       "publishedAt": "Sun, 06 Sep 2026 15:43:07 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-manuela-martelli",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1163,8 +1079,8 @@
       "publishedAt": "Sat, 05 Sep 2026 08:00:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-humedal-nadie",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1180,8 +1096,8 @@
       "publishedAt": "Sat, 05 Sep 2026 02:30:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nexos-cerimedo",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1197,8 +1113,8 @@
       "publishedAt": "Fri, 04 Sep 2026 23:18:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-valor-cambio",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1214,8 +1130,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:11:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-articulos-historicos",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     },
     {
@@ -1231,8 +1147,8 @@
       "publishedAt": "Fri, 04 Sep 2026 21:09:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-general-leigh",
-      "firstSeenAt": "2026-09-09T04:00:26.076Z",
-      "lastSeenAt": "2026-09-09T04:00:26.076Z",
+      "firstSeenAt": "2026-09-09T11:01:06.720Z",
+      "lastSeenAt": "2026-09-09T11:01:06.720Z",
       "seenCount": 1
     }
   ]
