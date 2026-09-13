@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-13T15:55:48.150Z",
-  "count": 56,
+  "generatedAt": "2026-09-13T20:33:23.348Z",
+  "count": 57,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-09-13T15:55:48.150Z",
-    "activeSignals": 56,
-    "archiveSignals": 114,
-    "countriesCovered": 8,
-    "highPrioritySignals": 17,
-    "averagePoliticalScore": 5.82
+    "generatedAt": "2026-09-13T20:33:23.348Z",
+    "activeSignals": 57,
+    "archiveSignals": 115,
+    "countriesCovered": 9,
+    "highPrioritySignals": 16,
+    "averagePoliticalScore": 5.65
   },
   "briefings": [
     {
@@ -32,13 +32,14 @@
       "leadTitle": "Banco Central reduce drásticamente proyección de crecimiento; embajador de EE.UU. aclara que no tiene información sobre organizadores del estallido social, y gobierno elimina sanciones del Registro de vándalos",
       "leadUrl": "https://www.ciperchile.cl/2026/09/09/radar-09-09-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-09-09-26",
       "focusTopics": [
-        "Economia politica"
+        "Economia politica",
+        "Probidad"
       ],
       "topSources": [
         "CIPER"
       ],
       "signalCount": 13,
-      "summary": "Foco en Economia politica. Vigilar CIPER y CIPER."
+      "summary": "Foco en Economia politica, Probidad. Vigilar CIPER y CIPER."
     },
     {
       "country": "Argentina",
@@ -51,23 +52,8 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 11,
+      "signalCount": 10,
       "summary": "Foco en Elecciones. Vigilar La Nacion y La Nacion."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Lo que hay detrás del uso de la religión por parte del presidente",
-      "leadUrl": "https://www.lasillavacia.com/opinion/lo-que-hay-detras-del-uso-de-la-religion-por-parte-del-presidente/",
-      "focusTopics": [
-        "Gobernabilidad",
-        "Seguridad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Gobernabilidad, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -86,6 +72,21 @@
       "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Mundo y El Pais."
     },
     {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Así se volvió la Sergio Arboleda una cantera de poder de la derecha",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/asi-se-volvio-la-sergio-arboleda-una-cantera-de-poder-de-derecha/",
+      "focusTopics": [
+        "Economia politica",
+        "Seguridad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Economia politica, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
       "country": "Cuba",
       "priority": "Alta",
       "leadTitle": "Una propuesta polémica de Harvard: la transición en Cuba debe incluir al Gobierno actual",
@@ -97,37 +98,50 @@
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 3,
+      "signalCount": 4,
       "summary": "Foco en Diplomacia, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
-      "country": "Venezuela",
+      "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "¿Se aleja la convocatoria a elecciones en Venezuela?",
-      "leadUrl": "https://efectococuyo.com/politica/se-aleja-la-convocatoria-a-elecciones-en-venezuela/",
+      "leadTitle": "OEDI: La entidad de la PCM que administró S/34 millones y solo logró un expediente",
+      "leadUrl": "https://elcomercio.pe/politica/oedi-pcm-la-entidad-de-la-pcm-que-administro-s34-millones-y-solo-logro-un-expediente-jenny-ocampo-francisco-gatica-rafael-gatica-inversion-proyectos-gastos-estatales-fuerza-popular-noticia/",
       "focusTopics": [
-        "Elecciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 3,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
+    },
+    {
+      "country": "Uruguay",
+      "priority": "Alta",
+      "leadTitle": "“Uruguay está dispuesto a trabajar” con los BRICS, “en el plano bilateral, regional y global”, dijo Lubetkin en la cumbre de India",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/9/uruguay-esta-dispuesto-a-trabajar-con-los-brics-en-el-plano-bilateral-regional-y-global-dijo-lubetkin-en-la-cumbre-de-india/",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Diaria"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Venezuela",
+      "priority": "Media",
+      "leadTitle": "Psuv pasa de marchar en Caracas a asambleas comunales",
+      "leadUrl": "https://efectococuyo.com/politica/psuv-pasa-de-marchar-en-caracas-a-asambleas-comunales/",
+      "focusTopics": [
         "Diplomacia"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Líder del Congreso ofrece apoyo a Trump para su promesa de 5.000 dólares a los votantes en Estados Unidos",
-      "leadUrl": "https://elcomercio.pe/mundo/europa/lider-del-congreso-ofrece-apoyo-a-donald-trump-para-su-promesa-de-5000-dolares-a-los-votantes-en-estados-unidos-mike-johnson-ultimas-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
       "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo."
     }
   ],
   "signals": [
@@ -144,8 +158,8 @@
       "publishedAt": "Sun, 13 Sep 2026 13:27:53 +0000",
       "politicalScore": 19,
       "eventKey": "argentina-elecciones-argentina-elecciones-cuando-vota",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -161,8 +175,8 @@
       "publishedAt": "Sun, 13 Sep 2026 13:27:49 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -178,8 +192,25 @@
       "publishedAt": "Sat, 12 Sep 2026 13:12:26 +0200",
       "politicalScore": 14,
       "eventKey": "espana-elecciones-espana-elecciones-ministro-justicia",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "795d7b73e0c9674b",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "“Uruguay está dispuesto a trabajar” con los BRICS, “en el plano bilateral, regional y global”, dijo Lubetkin en la cumbre de India",
+      "summary": "Entrevistado por un medio local, el canciller dijo que la presión de Estados Unidos en la región “es básicamente de carácter económico”, aunque la influencia “es real” y “desempeña un papel muy importante en algunas elecciones”. En la madrugada del domingo, en",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/uruguay-esta-dispuesto-a-trabajar-con-los-brics-en-el-plano-bilateral-regional-y-global-dijo-lubetkin-en-la-cumbre-de-india/",
+      "publishedAt": "Sun, 13 Sep 2026 17:05:48 -0300",
+      "politicalScore": 13,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-dispuesto-trabajar",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -195,42 +226,8 @@
       "publishedAt": "Sun, 13 Sep 2026 07:20:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-inteligencia-artificial",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2d07ddb40633a748",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "¿Se aleja la convocatoria a elecciones en Venezuela?",
-      "summary": "Jesús Castellanos Vásquez y Eugenio Martínez recuerdan que cualquier elección pasa primero por la renovación del CNE",
-      "url": "https://efectococuyo.com/politica/se-aleja-la-convocatoria-a-elecciones-en-venezuela/",
-      "publishedAt": "Sat, 12 Sep 2026 21:30:00 +0000",
-      "politicalScore": 11,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-aleja-convocatoria",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2e24167d44daf65d",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Líder del Congreso ofrece apoyo a Trump para su promesa de 5.000 dólares a los votantes en Estados Unidos",
-      "summary": "Mike Johnson apoyó el plan de Trump para entregar US$5.000 a los adultos si los republicanos ganan las elecciones de medio mandato.",
-      "url": "https://elcomercio.pe/mundo/europa/lider-del-congreso-ofrece-apoyo-a-donald-trump-para-su-promesa-de-5000-dolares-a-los-votantes-en-estados-unidos-mike-johnson-ultimas-noticia/",
-      "publishedAt": "Sun, 13 Sep 2026 15:50:26 +0000",
-      "politicalScore": 10,
-      "eventKey": "peru-elecciones-peru-elecciones-lider-congreso",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -246,8 +243,8 @@
       "publishedAt": "Sun, 13 Sep 2026 13:28:00 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -263,25 +260,8 @@
       "publishedAt": "Fri, 11 Sep 2026 07:20:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-hipocresia-mexico",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e52ef06c7f3f8cf1",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Lo que hay detrás del uso de la religión por parte del presidente",
-      "summary": "Juanita León y Héctor Riveros hablan sobre el papel que ha tomado la religión en el gobierno De la Espriella. The post Lo que hay detrás del uso de la religión por parte del presidente appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/lo-que-hay-detras-del-uso-de-la-religion-por-parte-del-presidente/",
-      "publishedAt": "Sat, 12 Sep 2026 22:02:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-detras-religion",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -297,8 +277,8 @@
       "publishedAt": "Sat, 12 Sep 2026 21:00:10 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fundadores",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -314,8 +294,8 @@
       "publishedAt": "Sat, 12 Sep 2026 16:10:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-salvador",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -331,25 +311,25 @@
       "publishedAt": "Wed, 09 Sep 2026 23:27:43 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-banco",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
-      "id": "77ba14399e1cbf54",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
+      "id": "669995e8e3e55cd0",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Los chats que contradicen a la fiscalía: tres acciones de Chadwick a favor de Parque Capital cuando sí era ministro",
-      "summary": "La entrada Los chats que contradicen a la fiscalía: tres acciones de Chadwick a favor de Parque Capital cuando sí era ministro se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/09/09/los-chats-que-contradicen-a-la-fiscalia-tres-acciones-de-chadwick-a-favor-de-parque-capital-cuando-si-era-ministro/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=los-chats-que-contradicen-a-la-fiscalia-tres-acciones-de-chadwick-a-favor-de-parque-capital-cuando-si-era-ministro",
-      "publishedAt": "Wed, 09 Sep 2026 18:40:10 +0000",
-      "politicalScore": 9,
-      "eventKey": "chile-economia-politica-chile-economia-politica-chats",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "title": "OEDI: La entidad de la PCM que administró S/34 millones y solo logró un expediente",
+      "summary": "OEDI: La entidad de la PCM que administró S/34 millones y solo logró un expediente | Este organismo técnico nació el 21 de diciembre de 2023, mediante el Decreto Legislativo N° 1615. Casi tres años después, la entidad adscrita a la Presidencia del Consejo de M",
+      "url": "https://elcomercio.pe/politica/oedi-pcm-la-entidad-de-la-pcm-que-administro-s34-millones-y-solo-logro-un-expediente-jenny-ocampo-francisco-gatica-rafael-gatica-inversion-proyectos-gastos-estatales-fuerza-popular-noticia/",
+      "publishedAt": "Sun, 13 Sep 2026 11:00:01 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-oedi-entidad",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -365,8 +345,25 @@
       "publishedAt": "Sun, 13 Sep 2026 03:37:43 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6677051119dd68e8",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Así se volvió la Sergio Arboleda una cantera de poder de la derecha",
+      "summary": "En menos de 50 años, la Sergio Arboleda ha puesto dos presidentes, un fiscal general y varios funcionarios. De la Espriella es su ejemplo más reciente. The post Así se volvió la Sergio Arboleda una cantera de poder de la derecha appeared first on La Silla Vací",
+      "url": "https://www.lasillavacia.com/silla-nacional/asi-se-volvio-la-sergio-arboleda-una-cantera-de-poder-de-derecha/",
+      "publishedAt": "Sun, 13 Sep 2026 16:38:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-volvio",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -382,8 +379,8 @@
       "publishedAt": "Sat, 12 Sep 2026 07:20:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-gasto",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -399,8 +396,8 @@
       "publishedAt": "Sat, 12 Sep 2026 01:22:13 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-chadwick",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -416,8 +413,8 @@
       "publishedAt": "Sat, 12 Sep 2026 18:34:16 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-propuesta-polemica",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -433,25 +430,8 @@
       "publishedAt": "Sun, 13 Sep 2026 10:23:48 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-juicio-cristina",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "425d6fe25cfb132f",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Periodismo milagro",
-      "summary": "\"No hay peor negocio que provocar a un presidente con experiencia de sobra en ajuste de cuentas y retaliación con la prensa\", escribe el columnista. The post Periodismo milagro appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/periodismo-milagro/",
-      "publishedAt": "Sat, 12 Sep 2026 19:56:01 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-periodismo-milagro",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -467,8 +447,8 @@
       "publishedAt": "Fri, 11 Sep 2026 07:00:05 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-gobierno-conmemoracion",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -484,8 +464,42 @@
       "publishedAt": "Wed, 09 Sep 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ceuta-verdad",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "171c3d6d076907e3",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "Las autoridades españolas congelan las cuentas de Tabacalera, socia del Estado cubano en Habanos S.A.",
+      "summary": "La empresa española necesita autorización del Gobierno para pagar sus gastos y los salarios de su personal",
+      "url": "https://www.14ymedio.com/internacional/autoridades-espanolas-congelan-cuentas-tabacalera_1_1130763.html",
+      "publishedAt": "Sun, 13 Sep 2026 18:49:13 +0000",
+      "politicalScore": 5,
+      "eventKey": "cuba-sociedad-cuba-sociedad-autoridades-espanolas",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c85242e6780d254a",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Alfredo Ferrero: “El Perú tiene que aprovechar esta coyuntura donde están Navarro, Rubio y Trump”",
+      "summary": "Tras la visita oficial que cumplió esta semana el secretario de Estado de EE.UU., Marco Rubio, el exrepresentante del Perú ante ese país, Alfredo Ferrero, hace una lectura sobre las posibilidades que se abren para fortalecer las relaciones y remarca la condici",
+      "url": "https://elcomercio.pe/politica/alfredo-ferrero-el-peru-tiene-que-aprovechar-esta-coyuntura-donde-estan-navarro-rubio-y-trump-entrevista-noticia/",
+      "publishedAt": "Sun, 13 Sep 2026 16:22:48 +0000",
+      "politicalScore": 5,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-alfredo-ferrero",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -501,8 +515,8 @@
       "publishedAt": "Sun, 13 Sep 2026 07:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-psuv-pasa",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -518,8 +532,8 @@
       "publishedAt": "Fri, 11 Sep 2026 22:11:55 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tribunal-reafirma",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -535,8 +549,42 @@
       "publishedAt": "Fri, 11 Sep 2026 07:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuando-demasiado",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4af02c263b604a80",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Proteger a los jóvenes es proteger el futuro de Bogotá",
+      "summary": "Bogotá debe hacer de la prevención una prioridad y proponerse salvar más vidas jóvenes cada año, conectando seguridad, educación, empleo y salud mental. The post Proteger a los jóvenes es proteger el futuro de Bogotá appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-cachaca/proteger-a-los-jovenes-es-proteger-el-futuro-de-bogota/",
+      "publishedAt": "Sun, 13 Sep 2026 17:00:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-seguridad-colombia-seguridad-proteger-jovenes",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "81c78dbadc6f9f52",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Curiosos con causa, una crónica de Fernando Vivas sobre la prueba PISA",
+      "summary": "Curiosos con causa, una crónica de Fernando Vivas sobre la prueba PISA | La última prueba PISA ha sido cruel con todo el mundo, pero más con el Perú, que se aleja de los promedios de la OCDE. Mientras, los maestros se juegan su ‘cédula viva’ ante el TC.",
+      "url": "https://elcomercio.pe/politica/curiosos-con-causa-una-cronica-de-fernando-vivas-sobre-la-prueba-pisa-noticia/",
+      "publishedAt": "Sun, 13 Sep 2026 16:22:15 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-curiosos-causa",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -552,8 +600,8 @@
       "publishedAt": "Sun, 13 Sep 2026 15:43:21 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-voces-estamos",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -569,8 +617,8 @@
       "publishedAt": "Sun, 13 Sep 2026 15:01:10 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-renuncio",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -586,8 +634,8 @@
       "publishedAt": "Sun, 13 Sep 2026 13:48:16 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-palabras-cosas",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -603,8 +651,8 @@
       "publishedAt": "Sun, 13 Sep 2026 12:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-sigue",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -620,8 +668,8 @@
       "publishedAt": "Sun, 13 Sep 2026 10:20:18 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-carrera",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -637,8 +685,8 @@
       "publishedAt": "Sun, 13 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-repensar-nuestro",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -654,8 +702,8 @@
       "publishedAt": "Sun, 13 Sep 2026 06:54:45 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-derecha",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -671,8 +719,8 @@
       "publishedAt": "Sun, 13 Sep 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-elecciones-espana-elecciones-cuatro-horas",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -688,8 +736,8 @@
       "publishedAt": "Sun, 13 Sep 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-siente",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -705,42 +753,8 @@
       "publishedAt": "Sat, 12 Sep 2026 23:37:40 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-maximo",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5c655a3d98cc9d26",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "El sindicalista Gerardo Martínez compartió un evento con el Papa y dijo que la Argentina está “triste”",
-      "summary": "Junto a otros referentes, el jefe de la UOCRA y miembro de la OIT fue recibido en audiencia por León XIV luego de participar de un encuentro por el diálogo socioambiental Norte Sur",
-      "url": "https://www.lanacion.com.ar/politica/el-sindicalista-gerardo-martinez-compartio-un-evento-con-el-papa-y-dijo-que-la-argentina-esta-triste-nid12092026/",
-      "publishedAt": "Sat, 12 Sep 2026 20:28:26 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-sindicalista",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "afbe64ee5263bc19",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El país en caricatura: Estados Unidos visita Colombia",
-      "summary": "\"El 8 de septiembre de 2026, Marco Rubio, secretario de Estado de Estados Unidos, pasó por Barranquilla\", escribe el columnista. The post El país en caricatura: Estados Unidos visita Colombia appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/el-pais-en-caricatura-estados-unidos-visita-colombia/",
-      "publishedAt": "Sat, 12 Sep 2026 19:39:17 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-pais-caricatura",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -756,8 +770,8 @@
       "publishedAt": "Sat, 12 Sep 2026 07:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-enigmatico-porvenir",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -773,8 +787,8 @@
       "publishedAt": "Sat, 12 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-desarrollo",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -790,8 +804,42 @@
       "publishedAt": "Fri, 11 Sep 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ceuta-idea",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "46e5cd28ce8230c4",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Pablo Ilabaca y Lucho Castillo: “Chile es un país que se puso fome”",
+      "summary": "La entrada Pablo Ilabaca y Lucho Castillo: “Chile es un país que se puso fome” se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/09/13/pablo-ilabaca-y-lucho-castillo-chile-es-un-pais-que-se-puso-fome/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pablo-ilabaca-y-lucho-castillo-chile-es-un-pais-que-se-puso-fome",
+      "publishedAt": "Sun, 13 Sep 2026 20:28:22 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-pablo-ilabaca",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9008ed6a53e9d2cc",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Del totalitarismo al tecnofascismo: los peligros de una genealogía y las alternativas",
+      "summary": "Hay una paradoja en ciertas lecturas contemporáneas de Los orígenes del totalitarismo (1951). Cuanto mayor es la admiración por Hannah Arendt, mayor parece ser la tentación de volver determinista un libro que, en varios de sus momentos fundamentales, intentó p",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/9/del-totalitarismo-al-tecnofascismo-los-peligros-de-una-genealogia-y-las-alternativas/",
+      "publishedAt": "Sun, 13 Sep 2026 17:11:33 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-totalitarismo-tecnofascismo",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -807,8 +855,8 @@
       "publishedAt": "Sun, 13 Sep 2026 14:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-papa-recuerda",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -819,13 +867,13 @@
       "topic": "Instituciones",
       "priority": "Media",
       "title": "“Tememos ser secuestrados” denuncian nicas deportados a República Centroafricana",
-      "summary": "Luis Mendoza Santamaría cumplió dos semanas desde que fue llevado junto a otros dos nicaragüenses a República Centroafricana. Ha perdido la noción del tiempo, “ve visiones” y “vive con miedo”.&#160; —“Un día miré a uno de mis compañeros y creí que era alguien ",
+      "summary": "Luis Mendoza Santamaría cumplió dos semanas desde que fue llevado junto a otros dos nicaragüenses a República Centroafricana. Ha perdido la noción del tiempo, “ve visiones” y “vive con miedo”.&#160; —Un día miré a uno de mis compañeros y creí que era alguien q",
       "url": "https://confidencial.digital/principal/tememos-ser-secuestrados-denuncian-nicas-deportados-a-republica-centroafricana/",
       "publishedAt": "Sun, 13 Sep 2026 07:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tememos-secuestrados",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -841,25 +889,8 @@
       "publishedAt": "Sun, 13 Sep 2026 07:00:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sala-cuna",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
-      "seenCount": 1
-    },
-    {
-      "id": "348ae2eccc95b9ef",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Consejo de Estado mantiene investidura de congresistas en caso de vías 4G",
-      "summary": "Mantuvo la investidura de los congresistas que en 2024 donaron a la “vaca” impulsada por el gobernador de Antioquia, Andrés Julián Rendón. The post Consejo de Estado mantiene investidura de congresistas en caso de vías 4G appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/consejo-de-estado-mantiene-investidura-de-congresistas-en-caso-de-vias-4g/",
-      "publishedAt": "Sat, 12 Sep 2026 21:15:53 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-consejo-estado",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -875,8 +906,8 @@
       "publishedAt": "Sat, 12 Sep 2026 14:08:19 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-excarcelan-pastor",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -892,8 +923,8 @@
       "publishedAt": "Sat, 12 Sep 2026 07:00:01 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-menos-estudiantes",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -909,8 +940,8 @@
       "publishedAt": "Fri, 11 Sep 2026 20:52:46 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-battista-abandona",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -926,8 +957,8 @@
       "publishedAt": "Fri, 11 Sep 2026 17:44:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-codelco-historia",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -943,8 +974,8 @@
       "publishedAt": "Fri, 11 Sep 2026 17:11:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-india-apuesta",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -960,8 +991,8 @@
       "publishedAt": "Fri, 11 Sep 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-fujimori-anuncia",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -977,8 +1008,8 @@
       "publishedAt": "Fri, 11 Sep 2026 09:57:33 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-audio-historia",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -994,8 +1025,8 @@
       "publishedAt": "Fri, 11 Sep 2026 07:10:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-contrabando-costa",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -1011,8 +1042,8 @@
       "publishedAt": "Thu, 10 Sep 2026 23:37:05 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carabineros-establece",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -1028,8 +1059,8 @@
       "publishedAt": "Thu, 10 Sep 2026 20:20:13 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-documentos-desconocidos",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -1045,8 +1076,8 @@
       "publishedAt": "Thu, 10 Sep 2026 13:21:28 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cifras-suicidio",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -1062,8 +1093,8 @@
       "publishedAt": "Thu, 10 Sep 2026 12:37:13 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-antideportivo-deshonesto",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     },
     {
@@ -1079,8 +1110,8 @@
       "publishedAt": "Wed, 09 Sep 2026 19:49:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-plan-secreto",
-      "firstSeenAt": "2026-09-13T15:55:48.150Z",
-      "lastSeenAt": "2026-09-13T15:55:48.150Z",
+      "firstSeenAt": "2026-09-13T20:33:23.348Z",
+      "lastSeenAt": "2026-09-13T20:33:23.348Z",
       "seenCount": 1
     }
   ]
