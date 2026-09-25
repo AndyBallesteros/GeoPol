@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-09-25T16:55:21.379Z",
-  "count": 65,
-  "failures": [],
+  "generatedAt": "2026-09-25T21:19:45.377Z",
+  "count": 55,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-09-25T16:55:21.379Z",
-    "activeSignals": 65,
-    "archiveSignals": 123,
-    "countriesCovered": 8,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 6.43
+    "generatedAt": "2026-09-25T21:19:45.377Z",
+    "activeSignals": 55,
+    "archiveSignals": 113,
+    "countriesCovered": 6,
+    "highPrioritySignals": 23,
+    "averagePoliticalScore": 6.15
   },
   "briefings": [
     {
@@ -28,34 +33,35 @@
       "summary": "Foco en Seguridad, Economia politica, Probidad. Vigilar CIPER y CIPER."
     },
     {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "La Justicia cita a 10 exsenadores y pide investigar si la Cámara de Diputados cometió un delito",
+      "leadUrl": "https://www.lanacion.com.ar/politica/la-justicia-cita-a-10-exsenadores-y-pide-investigar-si-la-camara-de-diputados-cometio-un-delito-nid25092026/",
+      "focusTopics": [
+        "Instituciones",
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Instituciones, Elecciones. Vigilar La Nacion y La Nacion."
+    },
+    {
       "country": "Nicaragua",
       "priority": "Alta",
       "leadTitle": "Doctrina “Donroe”: Trump presiona a Brasil antes de las elecciones",
       "leadUrl": "https://confidencial.digital/mundo/doctrina-donroe-trump-presiona-a-brasil-antes-de-las-elecciones/",
       "focusTopics": [
         "Elecciones",
-        "Diplomacia"
+        "Diplomacia",
+        "Instituciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 13,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Confidencial y Confidencial."
-    },
-    {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "leadUrl": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
       "signalCount": 12,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones, Diplomacia, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Espana",
@@ -71,39 +77,23 @@
         "El Mundo",
         "El Pais"
       ],
-      "signalCount": 8,
+      "signalCount": 7,
       "summary": "Foco en Seguridad, Instituciones, Gobernabilidad. Vigilar El Mundo y El Mundo."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Mac Master pide suspender &#8220;campaña malintencionada&#8221; sobre la Andi",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/mac-master-pide-suspender-campana-malintencionada-sobre-la-andi/",
+      "leadTitle": "La propuesta del gobierno sobre el maíz no es alternativa para arroceros del Tolima",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-rural/la-propuesta-del-gobierno-sobre-el-maiz-no-es-alternativa-para-arroceros-del-tolima/",
       "focusTopics": [
-        "Elecciones",
         "Gobernabilidad",
         "Seguridad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones, Gobernabilidad, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Facultades legislativas: la nueva alternativa de Renovación Popular y la posición de Obras",
-      "leadUrl": "https://elcomercio.pe/politica/congreso/facultades-legislativas-la-nueva-alternativa-de-renovacion-popular-y-la-posicion-de-obras-noticia/",
-      "focusTopics": [
-        "Seguridad",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "signalCount": 6,
+      "summary": "Foco en Gobernabilidad, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -112,45 +102,32 @@
       "leadUrl": "https://www.14ymedio.com/cuba/prensa-oficialista-preocupa-impagos-gobierno_1_1131118.html",
       "focusTopics": [
         "Economia politica",
+        "Diplomacia",
         "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Economia politica, Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Media",
-      "leadTitle": "Delcy Rodríguez pide a venezolanos colaborar con el ahorro energético tras su llegada de NY",
-      "leadUrl": "https://efectococuyo.com/politica/delcy-rodriguez-pide-a-venezolanos-colaborar-con-el-ahorro-energetico-tras-su-llegada-de-ny/",
-      "focusTopics": [
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 4,
+      "summary": "Foco en Economia politica, Diplomacia, Sociedad. Vigilar 14ymedio y 14ymedio."
     }
   ],
   "signals": [
     {
-      "id": "bde72d3e4eacc748",
+      "id": "41559419b1b5ec77",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "summary": "La convocatoria electoral del año próximo define los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; los detalles en la nota",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "publishedAt": "Thu, 24 Sep 2026 23:43:58 +0000",
-      "politicalScore": 19,
-      "eventKey": "argentina-elecciones-argentina-elecciones-cuando-vota",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "title": "La Justicia cita a 10 exsenadores y pide investigar si la Cámara de Diputados cometió un delito",
+      "summary": "Se activaron medidas en dos causas del caso “Chocolate”, luego de que la Legislatura bonaerense ocultara a los responsables de los empleados truchos",
+      "url": "https://www.lanacion.com.ar/politica/la-justicia-cita-a-10-exsenadores-y-pide-investigar-si-la-camara-de-diputados-cometio-un-delito-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 17:03:37 +0000",
+      "politicalScore": 17,
+      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-cita",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -166,8 +143,8 @@
       "publishedAt": "Fri, 25 Sep 2026 15:12:57 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-elecciones-argentina-elecciones-sorpresiva-cumbre",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -183,25 +160,8 @@
       "publishedAt": "Fri, 25 Sep 2026 15:06:28 +0000",
       "politicalScore": 14,
       "eventKey": "argentina-instituciones-argentina-instituciones-patricia-bullrich",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6c270b4ed840de23",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Facultades legislativas: la nueva alternativa de Renovación Popular y la posición de Obras",
-      "summary": "Los diputados Roxana Rocha y Frank Krklec, de Renovación Popular, plantearon a la Comisión de Constitución limitar a cuatro materias la delegación de facultades legislativas solicitada por el gobierno de Keiko Fujimori. Estas son seguridad ciudadana, fenómeno ",
-      "url": "https://elcomercio.pe/politica/congreso/facultades-legislativas-la-nueva-alternativa-de-renovacion-popular-y-la-posicion-de-obras-noticia/",
-      "publishedAt": "Fri, 25 Sep 2026 16:37:31 +0000",
-      "politicalScore": 13,
-      "eventKey": "peru-seguridad-peru-seguridad-facultades-legislativas",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -217,93 +177,25 @@
       "publishedAt": "Fri, 25 Sep 2026 06:02:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-doctrina-donroe",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
-      "id": "eed68d3b68d3c724",
+      "id": "a95dedf9aace52ca",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Cómo votó cada senador la modificación de la ley de zonas frías",
-      "summary": "Ultima actualizacion de La Nacion.",
-      "url": "https://www.lanacion.com.ar/politica/como-voto-cada-senador-la-modificacion-de-la-ley-de-zonas-frias-nid24092026/",
-      "publishedAt": "Thu, 24 Sep 2026 23:47:24 +0000",
-      "politicalScore": 13,
-      "eventKey": "argentina-elecciones-argentina-elecciones-voto-cada",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b500821c241485e5",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Confiep exhorta al Congreso a evaluar “con celeridad y responsabilidad” pedido de facultades del Gobierno",
-      "summary": "La Confederación Nacional de Instituciones Empresariales Privadas (Confiep) emitió este viernes un comunicado en el que exhorta al Congreso a evaluar “con celeridad y responsabilidad” el pedido del Gobierno para que se le otorgue facultades especiales para leg",
-      "url": "https://elcomercio.pe/politica/confiep-exhorta-al-congreso-a-evaluar-con-celeridad-y-responsabilidad-pedido-de-facultades-del-gobierno-noticia/",
-      "publishedAt": "Fri, 25 Sep 2026 16:37:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-confiep-exhorta",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e94952ec48ca27c0",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Mac Master pide suspender &#8220;campaña malintencionada&#8221; sobre la Andi",
-      "summary": "Su respuesta llega luego del veto del gobierno al presidente del gremio, quien hoy dice que la Andi “es mucho más” que él. The post Mac Master pide suspender &#8220;campaña malintencionada&#8221; sobre la Andi appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/mac-master-pide-suspender-campana-malintencionada-sobre-la-andi/",
-      "publishedAt": "Fri, 25 Sep 2026 16:10:24 +0000",
-      "politicalScore": 10,
-      "eventKey": "colombia-elecciones-colombia-elecciones-master-pide",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ff1fc4046a67c68f",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
-      "summary": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; los detalles en la nota",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
-      "publishedAt": "Thu, 24 Sep 2026 23:44:06 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-fechas",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a73db009fa31033c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
-      "summary": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; los detalles en la nota",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "publishedAt": "Thu, 24 Sep 2026 23:44:01 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "title": "Insólito ataque de Milei: un equipo de periodistas fue perseguido por la justicia de Insfrán y el Presidente acusó a la prensa",
+      "summary": "Enviados de LA NACION fueron condenados a cinco días de arresto por un juez formoseño y exconcejal peronista por publicar un informe sobre pobreza; “El tiro por la culata”, tuiteó el Presidente, que culpó a los medios de trabajar para el modelo del caudillo no",
+      "url": "https://www.lanacion.com.ar/politica/insolito-ataque-de-milei-un-equipo-de-periodistas-fue-perseguido-por-la-justicia-de-insfran-y-el-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 19:49:51 +0000",
+      "politicalScore": 11,
+      "eventKey": "argentina-instituciones-argentina-instituciones-insolito-ataque",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -319,8 +211,8 @@
       "publishedAt": "Mon, 21 Sep 2026 23:08:03 +0000",
       "politicalScore": 10,
       "eventKey": "chile-seguridad-chile-seguridad-gobierno-conmemora",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -336,42 +228,8 @@
       "publishedAt": "Fri, 25 Sep 2026 14:08:31 +0200",
       "politicalScore": 9,
       "eventKey": "espana-seguridad-espana-seguridad-feijoo-llama",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "98d44ae05fd773e3",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "La explicación de Luis Caputo en redes sociales sobre la caída de la actividad económica en julio",
-      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-hablo-en-la-onu-y-aseguro-que-el-peronismo-propone-nid24092026/",
-      "publishedAt": "Fri, 25 Sep 2026 03:23:56 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-explicacion",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f3d57dcbf2dc24e0",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Delcy Rodríguez dice en la ONU que habrá elecciones en Venezuela",
-      "summary": "La presidenta encargada de Venezuela, Delcy Rodríguez, dijo el miércoles 23 de septiembre de 2026 durante su intervención en la Asamblea General de las Naciones Unidas que en su país habrá elecciones con condiciones de igualdad “para todos” y exaltó el diálogo",
-      "url": "https://confidencial.digital/mundo/delcy-rodriguez-dice-en-la-onu-que-habra-elecciones-en-venezuela/",
-      "publishedAt": "Thu, 24 Sep 2026 04:22:10 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-delcy-rodriguez",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -387,8 +245,59 @@
       "publishedAt": "Tue, 22 Sep 2026 23:42:02 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d97dec6db9cc3ef6",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Procesaron a un camarista federal de Córdoba por abuso de autoridad y lesiones graves calificadas por violencia de género",
+      "summary": "Se trata de Abel Sánchez Torres; los fiscales habían pedido que también se avanzara contra su colega Graciela Montessi",
+      "url": "https://www.lanacion.com.ar/politica/procesaron-a-un-camarista-federal-de-cordoba-por-abuso-de-autoridad-y-lesiones-graves-calificadas-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 21:02:14 +0000",
+      "politicalScore": 8,
+      "eventKey": "argentina-seguridad-argentina-seguridad-procesaron-camarista",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "38118e8642709bb1",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La propuesta del gobierno sobre el maíz no es alternativa para arroceros del Tolima",
+      "summary": "El plan del Ministerio de Agricultura para producir maíz en Tolima choca con los costos de importación y los subsidios de Estados Unidos. The post La propuesta del gobierno sobre el maíz no es alternativa para arroceros del Tolima appeared first on La Silla Va",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-rural/la-propuesta-del-gobierno-sobre-el-maiz-no-es-alternativa-para-arroceros-del-tolima/",
+      "publishedAt": "Fri, 25 Sep 2026 19:00:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-propuesta-gobierno",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "33a490e80127649f",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Diario del gobierno de Abelardo: su amigo es el presidente de Ecopetrol",
+      "summary": "Joaquín Gutiérrez fue el elegido por la Junta para ese cargo. A quien no le fue bien fue al presidente de Colpensiones, a quien le pidieron la renuncia. The post Diario del gobierno de Abelardo: su amigo es el presidente de Ecopetrol appeared first on La Silla",
+      "url": "https://www.lasillavacia.com/en-vivo/diario-del-gobierno-de-abelardo-su-amigo-es-el-presidente-de-ecopetrol/",
+      "publishedAt": "Fri, 25 Sep 2026 18:18:23 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-diario-gobierno",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -404,8 +313,8 @@
       "publishedAt": "Fri, 25 Sep 2026 16:13:42 +0200",
       "politicalScore": 8,
       "eventKey": "espana-instituciones-espana-instituciones-fallece-presidente",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -421,8 +330,8 @@
       "publishedAt": "Fri, 25 Sep 2026 12:27:12 GMT",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-zapatero-plantea",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -438,59 +347,76 @@
       "publishedAt": "Wed, 23 Sep 2026 22:48:07 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-chomali-dice",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
-      "id": "ffbebcdc0c078698",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Congreso evaluará situación de trabajadores vinculados al Movadef: ¿Cuáles son los riesgos de su contratación?",
-      "summary": "La situación de, al menos, ocho trabajadores del Congreso que firmaron el planillón del Movimiento por la Amnistía y Derechos Fundamentales (Movadef), brazo político del grupo terrorista Sendero Luminoso, será evaluada en la Comisión Directiva del Parlamento e",
-      "url": "https://elcomercio.pe/politica/congreso/congreso-evaluara-situacion-de-trabajadores-vinculados-al-movadef-cuales-son-los-riesgos-de-su-contratacion-miguel-torres-noticia/",
-      "publishedAt": "Fri, 25 Sep 2026 16:37:09 +0000",
-      "politicalScore": 7,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-congreso-evaluara",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "00700ebcf13febb8",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Juez frenó la suspensión de la ZUT de los Comandos en Putumayo",
-      "summary": "El gobierno la cerró vía resolución y tenía efectos desde el 30 de septiembre. Esta medida es provisional mientras se resuelve de fondo una tutela. The post Juez frenó la suspensión de la ZUT de los Comandos en Putumayo appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/juez-freno-la-suspension-de-la-zut-de-los-comandos-en-putumayo/",
-      "publishedAt": "Fri, 25 Sep 2026 13:57:31 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-juez-freno",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e53078e18249ab54",
+      "id": "8047d7c694f78e0c",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Milei se reunió con Netanyahu en Nueva York: hablaron de Malvinas e intercambiaron elogios",
-      "summary": "El Presidente mantuvo un encuentro de unos 20 minutos con uno de sus principales aliados internacionales; Quirno no especificó si en el diálogo se trató la situación de la compañía de capitales israelíes Navitas Petroleum por sus proyectos en la zona de las is",
-      "url": "https://www.lanacion.com.ar/politica/tras-el-desplante-de-diplomaticos-a-netanyahu-en-la-onu-milei-se-reunio-con-el-premier-israeli-en-nid24092026/",
-      "publishedAt": "Fri, 25 Sep 2026 06:52:21 +0000",
+      "title": "Malvinas: el gobierno isleño relativizó el mensaje de Milei en la ONU y asegura que nada va a cambiar",
+      "summary": "“Hemos escuchado amenazas de esta naturaleza muchas veces durante muchos años”, dijo Jack Ford, miembro de la Asamblea Legislativa",
+      "url": "https://www.lanacion.com.ar/politica/malvinas-el-gobierno-isleno-relativizo-el-mensaje-de-milei-en-la-onu-y-asegura-que-nada-va-a-cambiar-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 20:21:11 +0000",
       "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-malvinas",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7b4f12b8b48b3189",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Un organismo de la Iglesia reclama respuestas para atender la emergencia de las personas con discapacidad",
+      "summary": "Frente al debate en el Congreso, la Comisión de Pastoral Social advirtió que está en juego la continuidad de tratamientos, terapias, apoyos y condiciones básicas de una franja de la población",
+      "url": "https://www.lanacion.com.ar/politica/un-organismo-de-la-iglesia-reclama-respuestas-para-atender-la-emergencia-de-las-personas-con-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 19:06:44 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-organismo",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3102d33f7c2c9d58",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Las seis preguntas que incomodaron a Milei en una dura entrevista en EE.UU.",
+      "summary": "El Presidente fue consultado por el editor global de Bloomberg sobre el desempleo, las restricciones cambiarias, el vínculo con China y la posibilidad de una recesión en The Economic Club de Nueva York",
+      "url": "https://www.lanacion.com.ar/politica/las-seis-preguntas-que-incomodaron-a-milei-en-una-dura-entrevista-en-eeuu-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 19:05:54 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-seis",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bdeaa1d7f9ce0340",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Entre la posesión y el terremoto: el suroccidente que el gobierno debe entender",
+      "summary": "El terremoto en Cali y la crisis de seguridad en el suroccidente exigen reconocer la capacidad de organización juvenil y renovar las respuestas estatales. The post Entre la posesión y el terremoto: el suroccidente que el gobierno debe entender appeared first o",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/entre-la-posesion-y-el-terremoto-el-suroccidente-que-el-gobierno-debe-entender/",
+      "publishedAt": "Fri, 25 Sep 2026 18:00:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-seguridad-colombia-seguridad-posesion-terremoto",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -506,8 +432,8 @@
       "publishedAt": "Thu, 24 Sep 2026 23:08:48 +0000",
       "politicalScore": 7,
       "eventKey": "chile-seguridad-chile-seguridad-bachelet-boric",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -523,8 +449,8 @@
       "publishedAt": "Thu, 24 Sep 2026 16:18:21 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-nominada-embajadora",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -540,8 +466,25 @@
       "publishedAt": "Thu, 24 Sep 2026 14:45:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-presidente-irani",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f0a3e6d1b6e2f4e6",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Sánchez contraprograma la visita de la Reina Letizia junto a Page a Talavera con un acto sorpresa en Toledo entre abucheos de los vecinos",
+      "summary": "El Ejecutivo de Castilla-La Mancha asegura que Moncloa no le informó de la agenda del presidente y que fue, ayer a última hora, cuando la Delegación del Gobierno excusó su asistencia&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/09/25/6ab63998e9cf4a57488b4589.html",
+      "publishedAt": "Fri, 25 Sep 2026 18:45:41 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-contraprograma",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -557,42 +500,8 @@
       "publishedAt": "Fri, 25 Sep 2026 12:42:32 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-bolanos-acusa",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "31a042704db88a1f",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "¿Culiacanazo en el Caribe?",
-      "summary": "La crisis de seguridad en Santa Marta exige una estrategia estatal integral para recuperar el control territorial frente al poder de los grupos armados. The post ¿Culiacanazo en el Caribe? appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/culiacanazo-en-el-caribe/",
-      "publishedAt": "Fri, 25 Sep 2026 15:40:13 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-seguridad-colombia-seguridad-culiacanazo-caribe",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "94bf35ffecf60c9d",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Paola Martínez sobre censura a César Astudillo: “Yo creo que es inoportuna”",
-      "summary": "La diputada de Renovación Popular Paola Martínez calificó de “inoportuna” la moción de censura contra el ministro del Interior, César Astudillo.",
-      "url": "https://elcomercio.pe/politica/congreso/paola-martinez-sobre-censura-a-cesar-astudillo-yo-creo-que-es-inoportuna-apuesplan-ultimas-noticia/",
-      "publishedAt": "Fri, 25 Sep 2026 16:42:31 +0000",
-      "politicalScore": 6,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-paola-martinez",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -608,8 +517,8 @@
       "publishedAt": "Fri, 25 Sep 2026 13:43:28 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-juez",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -625,8 +534,8 @@
       "publishedAt": "Fri, 25 Sep 2026 12:21:28 GMT",
       "politicalScore": 6,
       "eventKey": "espana-economia-politica-espana-economia-politica-juez",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -642,76 +551,8 @@
       "publishedAt": "Fri, 25 Sep 2026 07:10:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-rubio-lleva",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e6d02f30298ce503",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Conceden fianza a Luis Galeano, periodista nicaragüense detenido por ICE",
-      "summary": "El periodista nicaragüense Luis Galeano, director del programa Café con Voz, recibió una fianza tras permanecer nueve días bajo custodia del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE), y podría continuar su proceso migratorio en liber",
-      "url": "https://confidencial.digital/noticias/conceden-fianza-a-luis-galeano-periodista-nicaraguense-detenido-por-ice/",
-      "publishedAt": "Wed, 23 Sep 2026 17:01:13 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-conceden-fianza",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ef80140e07912e36",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Arranca extradición de Araña a EE.UU. Primero hará parada en Barranquilla",
-      "summary": "Allí, el presidente Abelardo de la Espriella hará un pronunciamiento a su lada antes de entregarlo a agentes Marshal gringos. The post Arranca extradición de Araña a EE.UU. Primero hará parada en Barranquilla appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/arranca-extradicion-de-arana-a-ee-uu-primero-hara-parada-en-barranquilla/",
-      "publishedAt": "Fri, 25 Sep 2026 15:02:03 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-arranca-extradicion",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a92ce75dd218a015",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Delcy Rodríguez pide a venezolanos colaborar con el ahorro energético tras su llegada de NY",
-      "summary": "Tras su llegada desde Nueva York, Delcy Rodríguez llamó a los venezolanos a &#8220;colaborar con el ahorro energético&#8221;, ante un nuevo pico de demanda eléctrica que no se veía desde 2017 y justo en momentos en que su Administración aplica prolongados raci",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-pide-a-venezolanos-colaborar-con-el-ahorro-energetico-tras-su-llegada-de-ny/",
-      "publishedAt": "Fri, 25 Sep 2026 14:53:20 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "157a5d149b919c43",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "David Murcia se retractó de sus señalamientos contra Abelardo, su exabogado",
-      "summary": "Dijo que estuvieron precedidos por expectativas planteadas por “sectores cercanos al gobierno” Petro sobre una eventual vinculación a ser gestor de paz. The post David Murcia se retractó de sus señalamientos contra Abelardo, su exabogado appeared first on La S",
-      "url": "https://www.lasillavacia.com/en-vivo/david-murcia-se-retracto-de-sus-senalamientos-contra-abelardo-su-exabogado/",
-      "publishedAt": "Fri, 25 Sep 2026 13:14:59 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-david-murcia",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -727,59 +568,8 @@
       "publishedAt": "Fri, 25 Sep 2026 12:49:18 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-misma-datos",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "86b1dbdbed26b88b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Joaquín Gutiérrez: de amigo de Abelardo a presidente de Ecopetrol",
-      "summary": "Hoy en el pódcast, Huevos Revueltos con Política revisamos cómo llegó Joaquín Gutiérrez a la presidencia de Ecopetrol. The post Joaquín Gutiérrez: de amigo de Abelardo a presidente de Ecopetrol appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/joaquin-gutierrez-de-amigo-de-abelardo-a-presidente-de-ecopetrol/",
-      "publishedAt": "Fri, 25 Sep 2026 12:00:01 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-joaquin-gutierrez",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6c581b54da4ec87d",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La tal “ideología de género” en la escuela sí existe",
-      "summary": "La polémica por la “ideología de género” llegó 18 años tarde. Las cartillas oficiales existen desde 2008 y han sobrevivido a gobiernos de distintas orientaciones. The post La tal “ideología de género” en la escuela sí existe appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-educacion/la-tal-ideologia-de-genero-en-la-escuela-si-existe/",
-      "publishedAt": "Fri, 25 Sep 2026 12:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ideologia-genero",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cab3a14e35873039",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Los Reyes visitarán Finlandia en medio del aumento de los ataques híbridos de Rusia a la OTAN",
-      "summary": "La agenda institucional en Helsinki incluirá reuniones al más alto nivel con el presidente Stubb, el primer ministro Orpo y el Parlamento, además de visitar las bases de Fuerzas Terrestres de la Brigada Jaeger&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/25/6ab56a04fdddff13218b45bf.html",
-      "publishedAt": "Fri, 25 Sep 2026 11:03:42 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-reyes-visitaran",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -795,8 +585,8 @@
       "publishedAt": "Thu, 24 Sep 2026 22:37:38 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-inauguran-unidad",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -812,42 +602,8 @@
       "publishedAt": "Thu, 24 Sep 2026 22:20:20 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-bots-trolls",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d09d7fcbd67b61b3",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "AN 2015 se reúne con movimiento estudiantil que pide ser escuchado",
-      "summary": "Miembros de la FCU solicitaron ser incluidos en el proceso de diálogo",
-      "url": "https://efectococuyo.com/politica/an-2015-se-reune-con-movimiento-estudiantil-que-pide-ser-escuchado/",
-      "publishedAt": "Thu, 24 Sep 2026 20:57:50 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-2015-reune",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c23092507ddfe627",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El Gobierno busca una salida para evitar un 15-M de la vivienda: \"El caso Maricarmen es un punto de inflexión\"",
-      "summary": "El clamor contra el desahucio de la anciana, convertida en símbolo, presionan al PSOE para tomar medidas y sacar un decreto \"este mismo martes\" ante el riesgo de un estallido social&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/24/6ab55f2221efa05c598b4577.html",
-      "publishedAt": "Thu, 24 Sep 2026 22:45:34 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-gobierno-busca",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -863,8 +619,8 @@
       "publishedAt": "Wed, 23 Sep 2026 11:39:34 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-prensa",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -880,8 +636,8 @@
       "publishedAt": "Tue, 22 Sep 2026 17:02:00 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-sistema",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -897,8 +653,127 @@
       "publishedAt": "Mon, 21 Sep 2026 21:18:04 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-video-exasesor",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ded38c8f3db51a95",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Polémica en El Calafate por la venta de tierras en una reserva provincial",
+      "summary": "Se autorizó de forma excepcional desarrollar un proyecto turístico junto al Parque Nacional Los Glaciares",
+      "url": "https://www.lanacion.com.ar/politica/polemica-en-el-calafate-por-la-venta-de-tierras-en-una-reserva-provincial-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 21:03:19 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-polemica",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ab0845246edb77e8",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Colombia pierde peso ante el mundo al alinearse con EE. UU.",
+      "summary": "El viraje de Colombia en la ONU y sus decisiones unilaterales erosionan las mayorías y el capital político que necesita para su periodo en el Consejo de Seguridad. The post Colombia pierde peso ante el mundo al alinearse con EE. UU. appeared first on La Silla ",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/colombia-pierde-peso-ante-el-mundo-al-alinearse-con-ee-uu/",
+      "publishedAt": "Fri, 25 Sep 2026 20:31:52 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-seguridad-colombia-seguridad-pierde-peso",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5e400f5bb7072f6a",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Tras una semana, incendio en Villa de Leyva está controlado en un 98%",
+      "summary": "El gobernador Carlos Amaya cerró hoy el último PMU. Esta tarde habrá un homenaje en la plaza principal a los “héroes de Iguaque”. The post Tras una semana, incendio en Villa de Leyva está controlado en un 98% appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/tras-una-semana-incendio-en-villa-de-leyva-esta-controlado-en-un-98/",
+      "publishedAt": "Fri, 25 Sep 2026 20:16:18 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-semana-incendio",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fb0afa7f230ecd71",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Solicitan apoyo para evitar deportación del padre de Gerald Vásquez, el universitario asesinado en la Divina Misericordia",
+      "summary": "Yader Vásquez, padre del joven Gerald José Vásquez López, asesinado durante el ataque contra estudiantes refugiados en la iglesia Divina Misericordia en julio de 2018, permanece bajo custodia migratoria de Estados Unidos después de ser detenido por agentes del",
+      "url": "https://confidencial.digital/noticias/solicitan-apoyo-para-evitar-deportacion-del-padre-de-gerald-vasquez-el-universitario-asesinado-en-la-divina-misericordia/",
+      "publishedAt": "Fri, 25 Sep 2026 19:55:52 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-solicitan-apoyo",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ef0269d3703338fe",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Dudas y sorpresas entre empresarios e inversores por las respuestas de Milei en Nueva York",
+      "summary": "También lamentaron la “falta de definiciones” de Kicillof, aunque destacaron que no lanzó ninguna propuesta radicalizada",
+      "url": "https://www.lanacion.com.ar/politica/dudas-y-sorpresas-entre-empresarios-e-inversores-por-las-respuestas-de-milei-en-nueva-york-nid25092026/",
+      "publishedAt": "Fri, 25 Sep 2026 19:10:34 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-dudas",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "96c3265a495d9f34",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "14 congresistas se unen para proteger la Amazonía colombiana",
+      "summary": "Tendrá 14 congresistas. Su objetivo es promover leyes, controles políticos y otros instrumentos para proteger la Amazonía y su población. The post 14 congresistas se unen para proteger la Amazonía colombiana appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/14-congresistas-se-unen-para-proteger-la-amazonia-colombiana/",
+      "publishedAt": "Fri, 25 Sep 2026 18:39:05 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-congresistas-unen",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d620ef219172e8ee",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Más de 200 barcos procedentes de Estados Unidos han entregado mercancía a Cuba este año",
+      "summary": "La paradoja de las sanciones hace que casi todo el tráfico marítimo de la Isla y la mayoría de sus importaciones procedan ahora de Florida, Texas y Luisiana",
+      "url": "https://www.14ymedio.com/cuba/200-barcos-procedentes-ee-uu_1_1131194.html",
+      "publishedAt": "Fri, 25 Sep 2026 17:46:13 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-diplomacia-cuba-diplomacia-barcos-procedentes",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -914,42 +789,8 @@
       "publishedAt": "Fri, 25 Sep 2026 14:09:48 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-seguridad-argentina-seguridad-vuelan-rumbo",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "30a7d855e664a2b1",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Andrés Schipani, investigador de la pobreza: “Cada vez más personas se están quedando fuera de la sociedad”",
-      "summary": "Editor de un libro que analiza el fenómeno social en profundidad, sostiene que se debe mirar más allá de las mediciones por ingresos y explica por qué la política de contención ya no saca hogares de la pobreza",
-      "url": "https://www.lanacion.com.ar/politica/andres-schipani-investigador-de-la-pobreza-cada-vez-mas-personas-se-estan-quedando-fuera-de-la-nid25092026/",
-      "publishedAt": "Fri, 25 Sep 2026 13:34:15 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-andres",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "448e30f679d1028a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Así huele la muerte. Una periodista de FEED viajó al epicentro del desastre en Nepal y sintió el cachetazo del horror",
-      "summary": "A casi un mes de la tragedia, al menos 5000 personas siguen bajo el lodo en el corazón de la zona arrasada por el río Trishuli",
-      "url": "https://www.lanacion.com.ar/politica/asi-huele-la-muerte-una-cronista-de-la-nacion-viajo-al-epicentro-del-desastre-en-nepal-y-sintio-el-nid25092026/",
-      "publishedAt": "Fri, 25 Sep 2026 13:33:57 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-huele",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -965,8 +806,8 @@
       "publishedAt": "Fri, 25 Sep 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-frenar-auge",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -982,8 +823,8 @@
       "publishedAt": "Thu, 24 Sep 2026 16:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-china-extienden",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -999,8 +840,8 @@
       "publishedAt": "Thu, 24 Sep 2026 15:44:54 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-cubano",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1016,8 +857,8 @@
       "publishedAt": "Thu, 24 Sep 2026 15:38:04 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nueva-guerra",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1033,8 +874,8 @@
       "publishedAt": "Thu, 24 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-pensar",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1050,8 +891,8 @@
       "publishedAt": "Fri, 11 Sep 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ceuta-idea",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1067,25 +908,8 @@
       "publishedAt": "Fri, 25 Sep 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cambia-nino",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0d542640092c3220",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "Taiwán, el asunto pendiente tras la cumbre entre Xi y Trump, según los analistas de la isla",
-      "summary": "El Ministerio chino de Exteriores aseguró en un comunicado que se trasladó el deseo de que EE UU adopte una \"posición correcta\" contra la independencia",
-      "url": "https://www.14ymedio.com/internacional/taiwan-asunto-pendiente-cumbre-xi_1_1131167.html",
-      "publishedAt": "Fri, 25 Sep 2026 08:57:42 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-sociedad-cuba-sociedad-taiwan-asunto",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1101,8 +925,8 @@
       "publishedAt": "Fri, 25 Sep 2026 06:32:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ganaderos-corredor",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1118,8 +942,8 @@
       "publishedAt": "Thu, 24 Sep 2026 21:37:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-expediente",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1135,8 +959,8 @@
       "publishedAt": "Thu, 24 Sep 2026 21:31:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-escudo-pone",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1152,8 +976,8 @@
       "publishedAt": "Thu, 24 Sep 2026 11:16:27 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-podemos",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1169,8 +993,8 @@
       "publishedAt": "Wed, 23 Sep 2026 19:57:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-diplomacia-chile-diplomacia-enero-agosto",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1186,25 +1010,8 @@
       "publishedAt": "Wed, 23 Sep 2026 01:54:35 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cuando-terroristas",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d32340555ca3cffc",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "Despidos y plantas vacías en el Ministerio de la Agricultura antes de su disolución",
-      "summary": "Las autoridades reducen su extensa burocracia mientras preparan el organismo que concentrará la agricultura, el azúcar, la pesca y la industria alimentaria",
-      "url": "https://www.14ymedio.com/cuba/despidos-plantas-vacias-ministerio-agricultura_1_1131087.html",
-      "publishedAt": "Tue, 22 Sep 2026 16:24:03 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-sociedad-cuba-sociedad-despidos-plantas",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1220,8 +1027,8 @@
       "publishedAt": "Mon, 21 Sep 2026 23:45:28 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-pisa-2025",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     },
     {
@@ -1237,8 +1044,8 @@
       "publishedAt": "Mon, 21 Sep 2026 20:54:17 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-caso-letelier",
-      "firstSeenAt": "2026-09-25T16:55:21.379Z",
-      "lastSeenAt": "2026-09-25T16:55:21.379Z",
+      "firstSeenAt": "2026-09-25T21:19:45.377Z",
+      "lastSeenAt": "2026-09-25T21:19:45.377Z",
       "seenCount": 1
     }
   ]
