@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-09-28T04:41:10.059Z",
-  "count": 61,
-  "failures": [],
+  "generatedAt": "2026-09-28T13:24:19.105Z",
+  "count": 57,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-09-28T04:41:10.059Z",
-    "activeSignals": 61,
-    "archiveSignals": 119,
-    "countriesCovered": 9,
-    "highPrioritySignals": 18,
-    "averagePoliticalScore": 5.67
+    "generatedAt": "2026-09-28T13:24:19.105Z",
+    "activeSignals": 57,
+    "archiveSignals": 115,
+    "countriesCovered": 8,
+    "highPrioritySignals": 21,
+    "averagePoliticalScore": 6.26
   },
   "briefings": [
     {
@@ -19,28 +24,28 @@
       "focusTopics": [
         "Elecciones",
         "Probidad",
-        "Seguridad"
+        "Economia politica"
       ],
       "topSources": [
         "CIPER"
       ],
       "signalCount": 14,
-      "summary": "Foco en Elecciones, Probidad, Seguridad. Vigilar CIPER y CIPER."
+      "summary": "Foco en Elecciones, Probidad, Economia politica. Vigilar CIPER y CIPER."
     },
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Las principales frases de Milei: Bullrich, críticas a Rubinstein y Prat-Gay, Olivos como “base militar” y la visita de León XIV",
-      "leadUrl": "https://www.lanacion.com.ar/politica/las-principales-frases-de-milei-bullrich-criticas-a-rubinstein-y-prat-gay-olivos-como-base-militar-y-nid27092026/",
+      "leadTitle": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "leadUrl": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
       "focusTopics": [
-        "Seguridad",
+        "Elecciones",
         "Economia politica"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 12,
-      "summary": "Foco en Seguridad, Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -49,29 +54,28 @@
       "leadUrl": "https://confidencial.digital/opinion/el-madurismo-borra-a-maduro/",
       "focusTopics": [
         "Instituciones",
-        "Seguridad"
+        "Seguridad",
+        "Economia politica"
       ],
       "topSources": [
         "Confidencial"
       ],
       "signalCount": 10,
-      "summary": "Foco en Instituciones, Seguridad. Vigilar Confidencial y Confidencial."
+      "summary": "Foco en Instituciones, Seguridad, Economia politica. Vigilar Confidencial y Confidencial."
     },
     {
-      "country": "Venezuela",
+      "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Expertos ven con buenos ojos la conformación del Consejo de Revisión de Credenciales para el TSJ",
-      "leadUrl": "https://efectococuyo.com/politica/consejo-de-revision-de-credenciales-del-tsj-genera-satisfaccion-entre-expertos/",
+      "leadTitle": "Carolina Corcho apuesta a ser la política distinta en el Pacto Histórico",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/carolina-corcho-apuesta-a-ser-la-politica-distinta-en-el-pacto-historico/",
       "focusTopics": [
-        "Instituciones",
-        "Elecciones",
-        "Diplomacia"
+        "Gobernabilidad"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "La Silla Vacia"
       ],
       "signalCount": 6,
-      "summary": "Foco en Instituciones, Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -80,59 +84,46 @@
       "leadUrl": "https://www.14ymedio.com/cuba/regimen-cubano-queja-sanciones-ee_1_1131213.html",
       "focusTopics": [
         "Economia politica",
-        "Diplomacia",
-        "Sociedad"
+        "Seguridad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Economia politica, Diplomacia, Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "Sánchez contraprograma la visita de la Reina Letizia junto a Page a Talavera con un acto sorpresa en Toledo entre abucheos de los vecinos",
-      "leadUrl": "https://www.elmundo.es/espana/2026/09/25/6ab63998e9cf4a57488b4589.html",
-      "focusTopics": [
-        "Gobernabilidad",
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Mundo",
-        "El Pais"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Mundo y El Pais."
+      "signalCount": 6,
+      "summary": "Foco en Economia politica, Seguridad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Ministro Vinelli pide que Comisión de Constitución tome una decisión sobre facultades legislativas este lunes",
-      "leadUrl": "https://elcomercio.pe/politica/gobierno/delegacion-de-facultades-ministro-marco-vinelli-pide-que-comision-de-constitucion-tome-una-decision-sobre-el-tema-este-lunes-28-de-setiembre-ultimas-noticia/",
+      "leadTitle": "Restricciones electorales desde hoy lunes 28: ¿Qué actividades están prohibidas con miras a los comicios del domingo?",
+      "leadUrl": "https://elcomercio.pe/politica/elecciones/restricciones-y-prohibiciones-electorales-desde-este-lunes-28-de-setiembre-cuales-son-y-que-no-se-puede-hacer-en-las-elecciones-regionales-y-municipales-2026-noticia/",
       "focusTopics": [
-        "Gobernabilidad"
+        "Gobernabilidad",
+        "Elecciones",
+        "Economia politica"
       ],
       "topSources": [
         "El Comercio"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "signalCount": 4,
+      "summary": "Foco en Gobernabilidad, Elecciones, Economia politica. Vigilar El Comercio y El Comercio."
     },
     {
-      "country": "Colombia",
-      "priority": "Media",
-      "leadTitle": "Petro vs. De la Espriella fiscalmente: la deuda se está comiendo el presupuesto",
-      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-social/petro-vs-de-la-espriella-fiscalmente-la-deuda-se-esta-comiendo-el-presupuesto/",
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "El Gobierno cesará este martes al delegado en Ceuta",
+      "leadUrl": "https://elpais.com/espana/2026-09-28/el-gobierno-ultima-el-cese-del-delegado-del-gobierno-en-ceuta.html",
       "focusTopics": [
-        "Economia politica",
+        "Elecciones",
+        "Instituciones",
         "Gobernabilidad"
       ],
       "topSources": [
-        "La Silla Vacia"
+        "El Pais",
+        "El Mundo"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Instituciones, Gobernabilidad. Vigilar El Pais y El Mundo."
     },
     {
       "country": "Uruguay",
@@ -152,20 +143,71 @@
   ],
   "signals": [
     {
-      "id": "e3678ce05d66e634",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
+      "id": "bde72d3e4eacc748",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Expertos ven con buenos ojos la conformación del Consejo de Revisión de Credenciales para el TSJ",
-      "summary": "La reciente conformación del Consejo de Revisión de Credenciales del Tribunal Supremo de Justicia (TSJ) realizada por la Mesa de Diálogo entre el gobierno y parte de la oposición ha generado satisfacción en el ámbito de los expertos jurídicos y políticos, al m",
-      "url": "https://efectococuyo.com/politica/consejo-de-revision-de-credenciales-del-tsj-genera-satisfaccion-entre-expertos/",
-      "publishedAt": "Sun, 27 Sep 2026 16:38:46 +0000",
-      "politicalScore": 14,
-      "eventKey": "venezuela-instituciones-venezuela-instituciones-expertos-buenos",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
+      "summary": "La convocatoria electoral del año próximo define los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; los detalles en la nota",
+      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "publishedAt": "Mon, 28 Sep 2026 12:13:57 +0000",
+      "politicalScore": 19,
+      "eventKey": "argentina-elecciones-argentina-elecciones-cuando-vota",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "eb96e260001000e9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
+      "summary": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción; descubrí los detalles",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
+      "publishedAt": "Mon, 28 Sep 2026 12:13:52 +0000",
+      "politicalScore": 16,
+      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "638627955046a220",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Diputados: la oposición busca arrinconar al oficialismo con la morosidad y el Gobierno intenta desactivar un nuevo frente",
+      "summary": "Este martes el oficialismo intentará alcanzar un dictamen de mayoría con un proyecto propio; el escenario más adverso podría darse en la próxima sesión",
+      "url": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-busca-arrinconar-al-oficialismo-con-la-morosidad-y-el-gobierno-intenta-nid28092026/",
+      "publishedAt": "Mon, 28 Sep 2026 10:00:00 +0000",
+      "politicalScore": 15,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-diputados",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "cb390dc5fd591e3a",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Restricciones electorales desde hoy lunes 28: ¿Qué actividades están prohibidas con miras a los comicios del domingo?",
+      "summary": "Conoce qué actividades están prohibidas durante el proceso electoral, como la ley seca, la propaganda política y otras restricciones vigentes desde días previos a la votación.",
+      "url": "https://elcomercio.pe/politica/elecciones/restricciones-y-prohibiciones-electorales-desde-este-lunes-28-de-setiembre-cuales-son-y-que-no-se-puede-hacer-en-las-elecciones-regionales-y-municipales-2026-noticia/",
+      "publishedAt": "Mon, 28 Sep 2026 13:15:15 +0000",
+      "politicalScore": 13,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-restricciones-electorales",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -181,42 +223,76 @@
       "publishedAt": "Mon, 28 Sep 2026 02:33:31 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-seguridad-argentina-seguridad-principales-frases",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
-      "id": "603a03dea758288b",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Los países y su petición de elecciones en Venezuela ante la ONU: qué dicen los internacionalistas",
-      "summary": "Maria Teresa Romero destacó que aun existe preocupación por crisis venezolana. Iván Rojas habla de optimismo \"cauto\" por plan de EEUU y Luis Remiro de poca incidencia",
-      "url": "https://efectococuyo.com/politica/los-paises-y-su-peticion-de-elecciones-en-venezuela-ante-la-onu-que-dicen-los-internacionalistas/",
-      "publishedAt": "Sun, 27 Sep 2026 06:25:00 +0000",
-      "politicalScore": 11,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-paises-peticion",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "33c2492b364a2042",
+      "id": "7e7f6e3cb571c667",
       "country": "Peru",
       "source": "El Comercio",
       "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "La reelección descubierta, una crónica de Fernando Vivas",
+      "summary": "El debate municipal movió ligeramente las agujas entre la lista de López Aliaga y las demás, pero no provocó que el JNE soltara prenda. Su debate jurídico interno es intenso.",
+      "url": "https://elcomercio.pe/politica/elecciones/la-reeleccion-descubierta-una-cronica-de-fernando-vivas-apuesplan-noticia/",
+      "publishedAt": "Sun, 27 Sep 2026 12:58:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "peru-elecciones-peru-elecciones-reeleccion-descubierta",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ff1fc4046a67c68f",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
+      "summary": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
+      "publishedAt": "Mon, 28 Sep 2026 12:15:05 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-elecciones-argentina-elecciones-2027-fechas",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a73db009fa31033c",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
+      "summary": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
+      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
+      "publishedAt": "Mon, 28 Sep 2026 12:14:28 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a9d7abb51c293c24",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Ministro Vinelli pide que Comisión de Constitución tome una decisión sobre facultades legislativas este lunes",
-      "summary": "El ministro de Desarrollo Agrario e Inclusión Social, Marco Vinelli, pidió que la Comisión de Constitución de la Cámara de Diputados tome una decisión sobre la delegación de facultades legislativas, solicitadas por el Ejecutivo, este lunes 28 de setiembre.",
-      "url": "https://elcomercio.pe/politica/gobierno/delegacion-de-facultades-ministro-marco-vinelli-pide-que-comision-de-constitucion-tome-una-decision-sobre-el-tema-este-lunes-28-de-setiembre-ultimas-noticia/",
-      "publishedAt": "Mon, 28 Sep 2026 03:23:12 +0000",
+      "title": "Carolina Corcho apuesta a ser la política distinta en el Pacto Histórico",
+      "summary": "La senadora es una de las pocas voces que critica abiertamente decisiones del expresidente Petro en la izquierda. Se pondrá a prueba con una tendencia propia. The post Carolina Corcho apuesta a ser la política distinta en el Pacto Histórico appeared first on L",
+      "url": "https://www.lasillavacia.com/silla-nacional/carolina-corcho-apuesta-a-ser-la-politica-distinta-en-el-pacto-historico/",
+      "publishedAt": "Mon, 28 Sep 2026 06:00:00 +0000",
       "politicalScore": 10,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-ministro-vinelli",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-carolina-corcho",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -232,8 +308,8 @@
       "publishedAt": "Mon, 28 Sep 2026 03:01:00 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-solo",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -249,76 +325,8 @@
       "publishedAt": "Sun, 27 Sep 2026 23:50:29 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "feb39b07ee85d122",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Presupuesto 2027: los gobernadores buscan precisiones en la negociación con la Casa Rosada por los fondos para el año electoral",
-      "summary": "Las provincias piden saber cuánto dinero recibirán, bajo qué mecanismos y qué partidas quedarán garantizadas por ley; coincidirán en el CFI y buscarán puntos en común",
-      "url": "https://www.lanacion.com.ar/politica/presupuesto-2027-los-gobernadores-buscan-precisiones-en-la-negociacion-con-la-casa-rosada-por-los-nid27092026/",
-      "publishedAt": "Sun, 27 Sep 2026 20:25:33 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-presupuesto",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7b884af3456b03d1",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "La Justicia prepara medidas para contrastar las explicaciones de Adorni sobre sus bienes y billeteras virtuales",
-      "summary": "El fiscal Pollicita trabaja en una batería de solicitudes; incluye un pedido al juez Lijo para acceder a las cuentas de criptomonedas cuyas claves están a resguardo en un sobre lacrado que entregó el exjefe de Gabinete",
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-prepara-medidas-para-contrastar-las-explicaciones-de-adorni-sobre-sus-bienes-y-nid27092026/",
-      "publishedAt": "Sun, 27 Sep 2026 19:06:30 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-justicia",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ff1fc4046a67c68f",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones en la Argentina 2027: fechas, cargos que se renuevan y todo lo que hay que saber",
-      "summary": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-en-la-argentina-2027-fechas-cargos-que-se-renuevan-y-todo-lo-que-hay-que-saber-nid23092026/",
-      "publishedAt": "Sun, 27 Sep 2026 13:33:22 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-fechas",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "548fbe778ce91e43",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La elección en Brasil esconde pistas sobre el futuro de la Argentina",
-      "summary": "Los cambios de la “grieta”, las consignas que pasan de un sector a otro, el “voto anti”; de muchas formas, la definición entre Lula y Bolsonaro está repleta de paralelos con la realidad local",
-      "url": "https://www.lanacion.com.ar/politica/la-eleccion-en-brasil-esconde-pistas-sobre-el-futuro-de-la-argentina-nid27092026/",
-      "publishedAt": "Sun, 27 Sep 2026 16:03:36 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-elecciones-argentina-elecciones-eleccion-brasil",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -334,8 +342,25 @@
       "publishedAt": "Sun, 27 Sep 2026 07:15:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-madurismo-borra",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2228c13f5165de08",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Vladimir Cerrón: PJ ordenó a la fiscalía cumplir con presentar acusación en caso “Antalsis”",
+      "summary": "El Poder Judicial rechazo el recurso de Vladimir Cerrón para evadir pago de reparación en el caso “Antalsis” y ahora deberá afrontar el proceso penal y civil.",
+      "url": "https://elcomercio.pe/politica/el-poder-judicial-rechazo-el-recurso-de-vladimir-cerron-para-evadir-pago-de-reparacion-en-el-caso-antalsis-noticia/",
+      "publishedAt": "Mon, 28 Sep 2026 12:56:49 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-economia-politica-peru-economia-politica-vladimir",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -351,8 +376,8 @@
       "publishedAt": "Sat, 26 Sep 2026 13:09:06 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-regimen",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -368,8 +393,8 @@
       "publishedAt": "Fri, 25 Sep 2026 21:30:00 +0000",
       "politicalScore": 8,
       "eventKey": "chile-elecciones-chile-elecciones-servel-sanciono",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -385,8 +410,42 @@
       "publishedAt": "Wed, 23 Sep 2026 22:48:07 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-chomali-dice",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "238a4435f32b5bc6",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "El 76% se siente inseguro en las calles de su ciudad, según última encuesta de Datum",
+      "summary": "A dos meses de iniciado el gobierno de la presidenta Keiko Fujimori (Fuerza Popular), el 76% de peruanos se siente inseguro en las calles de su ciudad, mientras que solamente el 23% se siente seguro, según la última encuesta de Datum Internacional para El Come",
+      "url": "https://elcomercio.pe/politica/gobierno/el-76-se-siente-inseguro-en-las-calles-de-su-ciudad-segun-ultima-encuesta-de-datum-apuesplan-noticia/",
+      "publishedAt": "Mon, 28 Sep 2026 12:59:56 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-elecciones-peru-elecciones-siente-inseguro",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "dc08f258ab53978d",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Fiscalía y PDI desarticulan primera célula en Chile de peligrosa organización criminal brasileña",
+      "summary": "La entrada Fiscalía y PDI desarticulan primera célula en Chile de peligrosa organización criminal brasileña se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/09/28/fiscalia-y-pdi-desarticulan-primera-celula-en-chile-de-peligrosa-organizacion-criminal-brasilena/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fiscalia-y-pdi-desarticulan-primera-celula-en-chile-de-peligrosa-organizacion-criminal-brasilena",
+      "publishedAt": "Mon, 28 Sep 2026 10:36:39 +0000",
+      "politicalScore": 7,
+      "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -402,25 +461,8 @@
       "publishedAt": "Sun, 27 Sep 2026 22:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-trump-detenidos",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6d301545909b8e20",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Demanda de derogar leyes inconstitucionales se reactiva con segunda ronda del diálogo: ¿Cuáles son?",
-      "summary": "Martha Tineo y Melanio Escobar llaman al desmontaje del aparato legal y represivo con eliminación de normativas como la Ley Contra el Odio y Simón Bolivar",
-      "url": "https://efectococuyo.com/politica/demanda-de-derogar-leyes-inconstitucionales-se-reactiva-con-segunda-ronda-del-dialogo-cuales-son/",
-      "publishedAt": "Sun, 27 Sep 2026 06:40:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-demanda-derogar",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -436,25 +478,42 @@
       "publishedAt": "Thu, 24 Sep 2026 23:08:48 +0000",
       "politicalScore": 7,
       "eventKey": "chile-seguridad-chile-seguridad-bachelet-boric",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
-      "id": "f0a3e6d1b6e2f4e6",
+      "id": "01294551d2210a30",
       "country": "Espana",
-      "source": "El Mundo",
+      "source": "El Pais",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Sánchez contraprograma la visita de la Reina Letizia junto a Page a Talavera con un acto sorpresa en Toledo entre abucheos de los vecinos",
-      "summary": "El Ejecutivo de Castilla-La Mancha asegura que Moncloa no le informó de la agenda del presidente y que fue, ayer a última hora, cuando la Delegación del Gobierno excusó su asistencia&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/25/6ab63998e9cf4a57488b4589.html",
-      "publishedAt": "Fri, 25 Sep 2026 18:45:41 +0200",
+      "title": "El Gobierno cesará este martes al delegado en Ceuta",
+      "summary": "Pérez Triano anuncia que abandona la política tras las críticas a la gestión del Ejecutivo de la crisis en la ciudad: “He sufrido una campaña de acoso constante”",
+      "url": "https://elpais.com/espana/2026-09-28/el-gobierno-ultima-el-cese-del-delegado-del-gobierno-en-ceuta.html",
+      "publishedAt": "Mon, 28 Sep 2026 10:58:51 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-elecciones-espana-elecciones-gobierno-cesara",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bd929a3c5533ec3b",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Medianas empresas denuncian ser víctimas de “extorsión fiscal”",
+      "summary": "La “extorsión fiscal” es el pan de cada día para medianos empresarios a manos de la principal agencia recaudadora del Estado de Nicaragua: la Dirección General de Ingresos (DGI). Tres medianos empresarios que solo serán identificados como Eugenio, Felipe y Jua",
+      "url": "https://confidencial.digital/analisis/medianas-empresas-tambien-son-victimas-de-extorsion-fiscal/",
+      "publishedAt": "Mon, 28 Sep 2026 06:23:00 +0000",
       "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-contraprograma",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-medianas",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -470,8 +529,25 @@
       "publishedAt": "Sun, 27 Sep 2026 23:32:59 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-comienza",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8a55dc4d793afa43",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La Audiencia Nacional pedirá refuerzos ante el aluvión de recursos por el asalto de Ceuta",
+      "summary": "El Ministerio de Justicia y el tribunal se anticipan a las miles de impugnaciones contra las denegaciones de protección a los inmigrantes&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/09/28/6ab95fb821efa007048b4590.html",
+      "publishedAt": "Mon, 28 Sep 2026 01:02:30 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-instituciones-espana-instituciones-audiencia-nacional",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -487,42 +563,8 @@
       "publishedAt": "Sun, 27 Sep 2026 20:56:28 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-malvinas",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "08c996d16c95dd2a",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Caravanas en varias regiones del país piden el regreso de María Corina Machado",
-      "summary": "En Carabobo, la policía del estado impidió a la caravana el libre tránsito por la autopista",
-      "url": "https://efectococuyo.com/politica/caravanas-en-varias-regiones-del-pais-piden-el-regreso-de-maria-corina-machado/",
-      "publishedAt": "Sun, 27 Sep 2026 18:01:25 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-caravanas-varias",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0d3acc6d66631b82",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Petro vs. De la Espriella fiscalmente: la deuda se está comiendo el presupuesto",
-      "summary": "Colombia no puede salir de su crisis fiscal recortando la inversión: necesita ordenar el gasto e impulsar el crecimiento para pagar la deuda sin frenar el desarrollo. The post Petro vs. De la Espriella fiscalmente: la deuda se está comiendo el presupuesto appe",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/petro-vs-de-la-espriella-fiscalmente-la-deuda-se-esta-comiendo-el-presupuesto/",
-      "publishedAt": "Sun, 27 Sep 2026 17:00:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-petro",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -538,8 +580,8 @@
       "publishedAt": "Sat, 26 Sep 2026 15:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-iran-presenta",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -552,11 +594,11 @@
       "title": "La rabia de los jóvenes por la vivienda activa la cuenta atrás en el reloj de Sol: 48 horas para un decreto real",
       "summary": "Miles de personas acampan en el centro de Madrid para urgir al Gobierno a aprobar una norma el martes que cambie de verdad las cosas",
       "url": "https://elpais.com/espana/madrid/2026-09-28/la-rabia-de-los-jovenes-por-la-vivienda-activa-la-cuenta-atras-en-el-reloj-de-sol-48-horas-para-un-decreto-real.html",
-      "publishedAt": "Mon, 28 Sep 2026 03:30:01 GMT",
+      "publishedAt": "Mon, 28 Sep 2026 05:49:46 GMT",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-rabia-jovenes",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -572,8 +614,8 @@
       "publishedAt": "Mon, 28 Sep 2026 00:10:57 -0300",
       "politicalScore": 5,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-politica-movilidad",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -589,25 +631,8 @@
       "publishedAt": "Mon, 28 Sep 2026 00:10:55 -0300",
       "politicalScore": 5,
       "eventKey": "uruguay-seguridad-uruguay-seguridad-dejar-llegar",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fe2360bac40eef65",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "&#8220;Yo estoy abriendo camino&#8221;, dijo Claudia Macero, del equipo de María Corina, al llegar a Venezuela",
-      "summary": "\"María Corina está aquí con nosotros\" comentó Macero al mismo tiempo que aseguró que la Premio Nobel de la Paz regreserá \"pronto\",",
-      "url": "https://efectococuyo.com/politica/claudia-macero-jefe-de-prensa-de-maria-corina-machado-llego-a-venezuela/",
-      "publishedAt": "Mon, 28 Sep 2026 01:15:11 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-8220-estoy",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -623,25 +648,8 @@
       "publishedAt": "Sun, 27 Sep 2026 22:34:35 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cepeda-donara",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2b0192e7f88dd413",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Denuncian detención de Fernando Torrealba activista de Vente en el Zulia",
-      "summary": "Fernando Torrealba se encontraba en una calle \"cuando se lo llevaron\" y \"desde entonces, se desconoce su paradero\"",
-      "url": "https://efectococuyo.com/politica/denuncian-detencion-de-fernando-torrealba-activista-de-vente-en-el-zulia/",
-      "publishedAt": "Sun, 27 Sep 2026 21:17:26 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-denuncian-detencion",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -657,59 +665,8 @@
       "publishedAt": "Sun, 27 Sep 2026 21:09:23 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-familia-ricardo",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3a3970a575195be7",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "The Washington Post publicó un perfil de Cerimedo: “Impulsó MAGA en América Latina y ahora está acusado de ordenar un asesinato”",
-      "summary": "El diario estadounidense publicó un extenso artículo sobre el consultor político detenido en Bolivia y acusado de femicidio en grado de tentativa contra Nadia Beller, su expareja; reconstruyó su ascenso como estratega de la derecha regional, sus vínculos con e",
-      "url": "https://www.lanacion.com.ar/politica/the-washington-post-publico-un-perfil-de-cerimedo-impulso-maga-en-america-latina-y-ahora-esta-nid27092026/",
-      "publishedAt": "Sun, 27 Sep 2026 18:09:35 +0000",
-      "politicalScore": 5,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-washington",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8972f606d7794595",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "MinTransporte: se invertirá 1 billón en vías y aeropuerto de Chocó",
-      "summary": "El gobierno anunció que hará una inversión de 1 billón de pesos para estructurar la conectividad en Chocó tras el terremoto. The post MinTransporte: se invertirá 1 billón en vías y aeropuerto de Chocó appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/mintransporte-se-invertira-1-billon-en-vias-y-aeropuerto-de-choco/",
-      "publishedAt": "Sun, 27 Sep 2026 17:59:17 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-mintransporte-invertira",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "774f61efb73a74f3",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "La indignación por la vivienda desemboca en un 15-M para Sánchez: \"O cae el rentismo, o cae el Gobierno\"",
-      "summary": "500 personas han amanecido este domingo en la Puerta del Sol de Madrid tras pasar la noche en un centenar de tiendas de campaña&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/27/6ab82f12e4d4d8f14a8b4574.html",
-      "publishedAt": "Sun, 27 Sep 2026 09:29:42 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-elecciones-espana-elecciones-indignacion-vivienda",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -725,25 +682,8 @@
       "publishedAt": "Sun, 27 Sep 2026 07:00:14 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-sistema",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7489b9609db56309",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Moncloa desdeña a Sumar y ve en Junts un \"movimiento tectónico\" para revivir su mayoría",
-      "summary": "Junts y Podemos regresan a la mesa de negociación sobre vivienda con el Gobierno, tras el desahucio de una mujer de 87 años inquilina de un fondo buitre. El 'decreto Maricarmen' podría ser aprobado el martes&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/09/27/6ab7ee63e4d4d8e7248b4597.html",
-      "publishedAt": "Sun, 27 Sep 2026 00:03:03 +0200",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-moncloa-desdena",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -759,8 +699,8 @@
       "publishedAt": "Sat, 26 Sep 2026 13:50:13 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-periodista-luis",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -776,8 +716,8 @@
       "publishedAt": "Fri, 25 Sep 2026 12:49:18 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-misma-datos",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -793,8 +733,8 @@
       "publishedAt": "Thu, 24 Sep 2026 22:20:20 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-bots-trolls",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -807,28 +747,62 @@
       "title": "Milei negó que haya una recesión y dijo: “Los indicadores están arrojando cualquier cosa”",
       "summary": "El mandatario atribuyó la volatilidad de las estadísticas a las transformaciones que atraviesa la economía; aseguró que el país se encuentra en niveles máximos de consumo, exportaciones y PBI",
       "url": "https://www.lanacion.com.ar/politica/milei-nego-que-haya-una-recesion-y-dijo-los-indicadores-estan-arrojando-cualquier-cosa-nid27092026/",
-      "publishedAt": "Mon, 28 Sep 2026 03:14:11 +0000",
+      "publishedAt": "Mon, 28 Sep 2026 12:46:15 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
-      "id": "ae4860913aa8c1cb",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "12a4c47fefb11a11",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Keiko Fujimori anuncia que recibió invitación de Nayib Bukele para visitar El Salvador en octubre",
-      "summary": "La presidenta Keiko Fujimori anunció que recibió la invitación de su homólogo de El Salvador, Nayib Bukele, para realizar una visita oficial a ese país a finales de octubre próximo.",
-      "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-anuncia-que-recibio-invitacion-de-nayib-bukele-para-visitar-el-salvador-en-octubre-carlos-espa-ultimas-noticia/",
-      "publishedAt": "Mon, 28 Sep 2026 02:52:54 +0000",
+      "title": "El Estado sabe mucho, pero todavía decide con información fragmentada",
+      "summary": "La entrada El Estado sabe mucho, pero todavía decide con información fragmentada se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/09/28/el-estado-sabe-mucho-pero-todavia-decide-con-informacion-fragmentada/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-estado-sabe-mucho-pero-todavia-decide-con-informacion-fragmentada",
+      "publishedAt": "Mon, 28 Sep 2026 12:33:27 +0000",
       "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-keiko-fujimori",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "eventKey": "chile-probidad-chile-probidad-estado-sabe",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9735ca47792f96f5",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El régimen cubano sigue en su empeño de reformar la economía sin hacer cambios políticos",
+      "summary": "Pedro Monreal sostiene que la liberalización quedará limitada mientras el Estado mantenga el control sobre las reglas de acceso y decisión",
+      "url": "https://www.14ymedio.com/cuba/regimen-cubano-sigue-empeno-reformar_1_1131275.html",
+      "publishedAt": "Mon, 28 Sep 2026 11:04:09 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-economia-politica-cuba-economia-politica-regimen",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
+      "seenCount": 1
+    },
+    {
+      "id": "281d892897d18fee",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La política “tóxica” le ayuda a los enemigos de la democracia",
+      "summary": "Hay que resistir y revertir tres enemigos de la democracia: la trivialización de la política, la fe en la especulación en lugar del realismo de lo posible, y la tendencia a la especulación y la información vacía de contenido. El desaprendizaje de estas costumb",
+      "url": "https://confidencial.digital/opinion/la-politica-toxica-le-ayuda-a-los-enemigos-de-la-democracia/",
+      "publishedAt": "Mon, 28 Sep 2026 07:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-politica-toxica",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -844,8 +818,8 @@
       "publishedAt": "Mon, 28 Sep 2026 02:05:29 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-abelardo",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -861,8 +835,8 @@
       "publishedAt": "Sun, 27 Sep 2026 21:08:43 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-cardenal",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -878,42 +852,42 @@
       "publishedAt": "Sat, 26 Sep 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-anos-carta",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
-      "id": "fb0afa7f230ecd71",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "id": "719133a48271c189",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "Solicitan apoyo para evitar deportación del padre de Gerald Vásquez, el universitario asesinado en la Divina Misericordia",
-      "summary": "Yader Vásquez, padre del joven Gerald José Vásquez López, asesinado durante el ataque contra estudiantes refugiados en la iglesia Divina Misericordia en julio de 2018, permanece bajo custodia migratoria de Estados Unidos después de ser detenido por agentes del",
-      "url": "https://confidencial.digital/noticias/solicitan-apoyo-para-evitar-deportacion-del-padre-de-gerald-vasquez-el-universitario-asesinado-en-la-divina-misericordia/",
-      "publishedAt": "Fri, 25 Sep 2026 19:55:52 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-solicitan-apoyo",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "title": "En una economía informal, las exenciones del IVA cuestan más",
+      "summary": "Las exenciones al IVA le cuestan a Colombia 5,8 % del PIB. Revisar estos beneficios daría más recursos que recortar gasto o crear nuevos impuestos. The post En una economía informal, las exenciones del IVA cuestan más appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/en-una-economia-informal-las-exenciones-del-iva-cuestan-mas/",
+      "publishedAt": "Mon, 28 Sep 2026 12:00:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-informal",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
-      "id": "d620ef219172e8ee",
+      "id": "76e12b9e7ddb34cb",
       "country": "Cuba",
       "source": "14ymedio",
       "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "topic": "Seguridad",
       "priority": "Media",
-      "title": "Más de 200 barcos procedentes de Estados Unidos han entregado mercancía a Cuba este año",
-      "summary": "La paradoja de las sanciones hace que casi todo el tráfico marítimo de la Isla y la mayoría de sus importaciones procedan ahora de Florida, Texas y Luisiana",
-      "url": "https://www.14ymedio.com/cuba/200-barcos-procedentes-ee-uu_1_1131194.html",
-      "publishedAt": "Fri, 25 Sep 2026 17:46:13 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-diplomacia-cuba-diplomacia-barcos-procedentes",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "title": "El feminicidio de Diddiany Barreto eleva a 50 las víctimas de violencia machista este año",
+      "summary": "El crimen tuvo lugar en Ceballos, Ciego de Ávila, el pasado 25 de septiembre y ha sido confirmado este lunes por el observatorio feminista Alas Tensas",
+      "url": "https://www.14ymedio.com/cuba/feminicidio-diddiany-barreto-eleva-medio_1_1131270.html",
+      "publishedAt": "Mon, 28 Sep 2026 09:59:01 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-seguridad-cuba-seguridad-feminicidio-diddiany",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -929,8 +903,8 @@
       "publishedAt": "Sun, 27 Sep 2026 19:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-rompen-estado",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -946,8 +920,8 @@
       "publishedAt": "Sun, 27 Sep 2026 17:06:01 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-falacia-just",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -963,8 +937,8 @@
       "publishedAt": "Sun, 27 Sep 2026 12:18:42 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-ministerio-interior",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -980,8 +954,8 @@
       "publishedAt": "Sun, 27 Sep 2026 07:00:28 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-matiah-chinaski",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -997,8 +971,8 @@
       "publishedAt": "Sun, 27 Sep 2026 06:04:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-incrementan-mujeres",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +988,8 @@
       "publishedAt": "Sun, 27 Sep 2026 02:30:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sotavento",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1031,8 +1005,8 @@
       "publishedAt": "Sat, 26 Sep 2026 18:42:04 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-trump-enfria",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1048,8 +1022,8 @@
       "publishedAt": "Sat, 26 Sep 2026 18:29:09 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-latinoamericanos-buscan",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1065,8 +1039,8 @@
       "publishedAt": "Sat, 26 Sep 2026 15:49:11 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-sanciones-comercio",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1082,8 +1056,8 @@
       "publishedAt": "Sat, 26 Sep 2026 07:00:22 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-escudo-mano",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1099,25 +1073,8 @@
       "publishedAt": "Sat, 26 Sep 2026 02:42:56 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-dijeron-escudo",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0d879432141b1444",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "AI Video Lab: 20 medios desarrollan proyectos de video e IA gracias a la alianza de Google y la SIP",
-      "summary": "Veinte medios de América Latina comenzarán a implementar proyectos innovadores que combinan video digital e inteligencia artificial para fortalecer sus contenidos, ampliar audiencias y explorar nuevas oportunidades de sostenibilidad. La iniciativa marca una nu",
-      "url": "https://confidencial.digital/noticias/ai-video-lab-20-medios-desarrollan-proyectos-de-video-e-ia-gracias-a-la-alianza-de-google-y-la-sip/",
-      "publishedAt": "Fri, 25 Sep 2026 19:28:40 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-video-medios",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1133,8 +1090,8 @@
       "publishedAt": "Thu, 24 Sep 2026 21:37:46 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-expediente",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     },
     {
@@ -1150,42 +1107,8 @@
       "publishedAt": "Thu, 24 Sep 2026 21:31:50 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-escudo-pone",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d7f92d6b373b0195",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Entre enero y agosto se detectaron 286 extranjeros cruzando ilegalmente la frontera norte: 93% menos que en igual periodo de 2025",
-      "summary": "La entrada Entre enero y agosto se detectaron 286 extranjeros cruzando ilegalmente la frontera norte: 93% menos que en igual periodo de 2025 se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/09/23/entre-enero-y-agosto-se-detectaron-286-extranjeros-cruzando-ilegalmente-la-frontera-norte-93-menos-que-en-igual-periodo-de-2025/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=entre-enero-y-agosto-se-detectaron-286-extranjeros-cruzando-ilegalmente-la-frontera-norte-93-menos-que-en-igual-periodo-de-2025",
-      "publishedAt": "Wed, 23 Sep 2026 19:57:32 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-diplomacia-chile-diplomacia-enero-agosto",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e4fe4b40ff546f9c",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Cuando los terroristas atacaron en el corazón de Washington, D.C.",
-      "summary": "La entrada Cuando los terroristas atacaron en el corazón de Washington, D.C. se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/09/22/cuando-los-terroristas-atacaron-en-el-corazon-de-washington-d-c/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cuando-los-terroristas-atacaron-en-el-corazon-de-washington-d-c",
-      "publishedAt": "Wed, 23 Sep 2026 01:54:35 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-cuando-terroristas",
-      "firstSeenAt": "2026-09-28T04:41:10.059Z",
-      "lastSeenAt": "2026-09-28T04:41:10.059Z",
+      "firstSeenAt": "2026-09-28T13:24:19.105Z",
+      "lastSeenAt": "2026-09-28T13:24:19.105Z",
       "seenCount": 1
     }
   ]
