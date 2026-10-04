@@ -1,60 +1,40 @@
 {
-  "generatedAt": "2026-10-04T05:12:49.273Z",
-  "count": 80,
-  "failures": [],
+  "generatedAt": "2026-10-04T12:03:42.890Z",
+  "count": 58,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    },
+    {
+      "source": "ladiaria-uruguay",
+      "error": "502 Bad Gateway"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-10-04T05:12:49.273Z",
-    "activeSignals": 80,
-    "archiveSignals": 138,
-    "countriesCovered": 9,
-    "highPrioritySignals": 38,
-    "averagePoliticalScore": 7.7
+    "generatedAt": "2026-10-04T12:03:42.890Z",
+    "activeSignals": 58,
+    "archiveSignals": 116,
+    "countriesCovered": 7,
+    "highPrioritySignals": 19,
+    "averagePoliticalScore": 5.64
   },
   "briefings": [
     {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Ayacucho",
-      "leadUrl": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-ayacucho-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 15,
-      "summary": "Foco en Elecciones. Vigilar El Comercio y El Comercio."
-    },
-    {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "leadUrl": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
+      "leadTitle": "La nueva vida que Milei le da al peronismo",
+      "leadUrl": "https://www.lanacion.com.ar/politica/la-nueva-vida-que-milei-le-da-al-peronismo-nid03102026/",
       "focusTopics": [
+        "Economia politica",
         "Elecciones",
-        "Economia politica"
+        "Instituciones"
       ],
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 14,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
-    },
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Una prueba para la democracia polarizada de Brasil",
-      "leadUrl": "https://confidencial.digital/opinion/una-prueba-para-la-democracia-polarizada-de-brasil/",
-      "focusTopics": [
-        "Elecciones",
-        "Seguridad",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
       "signalCount": 13,
-      "summary": "Foco en Elecciones, Seguridad, Diplomacia. Vigilar Confidencial y Confidencial."
+      "summary": "Foco en Economia politica, Elecciones, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Chile",
@@ -68,8 +48,24 @@
       "topSources": [
         "CIPER"
       ],
-      "signalCount": 11,
+      "signalCount": 13,
       "summary": "Foco en Economia politica, Probidad. Vigilar CIPER y CIPER."
+    },
+    {
+      "country": "Nicaragua",
+      "priority": "Alta",
+      "leadTitle": "Una prueba para la democracia polarizada de Brasil",
+      "leadUrl": "https://confidencial.digital/opinion/una-prueba-para-la-democracia-polarizada-de-brasil/",
+      "focusTopics": [
+        "Elecciones",
+        "Seguridad",
+        "Instituciones"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 11,
+      "summary": "Foco en Elecciones, Seguridad, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Colombia",
@@ -78,29 +74,14 @@
       "leadUrl": "https://www.lasillavacia.com/opinion/hay-una-politica-de-seguridad-en-el-gobierno-de-la-espriella-o-una-estrategia-de-comunicaciones/",
       "focusTopics": [
         "Seguridad",
+        "Elecciones",
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
       "signalCount": 8,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Departamento de Estado ratifica que desconoce a Maduro como presidente de la República",
-      "leadUrl": "https://efectococuyo.com/politica/departamento-de-estado-ratifica-ante-la-fiscalia-que-desconoce-a-maduro-como-presidente-de-la-republica/",
-      "focusTopics": [
-        "Economia politica",
-        "Diplomacia",
-        "Elecciones"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Economia politica, Diplomacia, Elecciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Seguridad, Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -130,348 +111,25 @@
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 5,
+      "signalCount": 6,
       "summary": "Foco en Economia politica, Instituciones, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
-      "country": "Uruguay",
+      "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "El MPP afirma que la reelección de Lula en Brasil “frenaría la intervención directa de Estados Unidos en la región”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/el-mpp-afirma-que-la-reeleccion-de-lula-en-brasil-frenaria-la-intervencion-directa-de-estados-unidos-en-la-region/",
+      "leadTitle": "Flávio Bolsonaro vota en las elecciones presidenciales y dice que “Brasil necesita cambio”",
+      "leadUrl": "https://elcomercio.pe/mundo/latinoamerica/flavio-bolsonaro-vota-en-las-elecciones-presidenciales-de-brasil-y-dice-que-liberara-al-pueblo-brasileno-lula-da-silva-noticia/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
-        "La Diaria"
+        "El Comercio"
       ],
       "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar La Diaria."
+      "summary": "Foco en Elecciones. Vigilar El Comercio."
     }
   ],
   "signals": [
-    {
-      "id": "bde72d3e4eacc748",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "¿Cuándo se vota presidente en la Argentina? Todo sobre las elecciones 2027",
-      "summary": "La convocatoria electoral del año próximo define los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; los detalles en la nota",
-      "url": "https://www.lanacion.com.ar/politica/cuando-se-vota-presidente-en-la-argentina-todo-sobre-las-elecciones-2027-nid01092026/",
-      "publishedAt": "Sat, 03 Oct 2026 16:33:01 +0000",
-      "politicalScore": 19,
-      "eventKey": "argentina-elecciones-argentina-elecciones-cuando-vota",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "eb96e260001000e9",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones 2027: cuándo se vota para presidente en la Argentina",
-      "summary": "Los comicios del año próximo definirán los principales cargos del Poder Ejecutivo y la renovación de bancas en el Congreso; qué se elige según la jurisdicción; descubrí los detalles",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-para-presidente-en-la-argentina-nid03082026/",
-      "publishedAt": "Sat, 03 Oct 2026 16:32:48 +0000",
-      "politicalScore": 16,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "34e2ec24130fe737",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Ayacucho",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-ayacucho-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:59 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "84def061fb1c89a5",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Amazonas",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-amazonas-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:59 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a06b31b1a6c9646a",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Arequipa",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-arequipa-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:59 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c266d63ededa3198",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Ancash",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-ancash-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:59 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f0970c192f5d5c34",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Huancavelica",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-huancavelica-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:58 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6044b2b658189bdb",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Cusco",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-cusco-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:31 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8c9ac5e75421e08e",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Ucayali",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-ucayali-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:31 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "00ea675ab040b042",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Huanuco",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-huanuco-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:31 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "40670a8c340d090c",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Cajamarca",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-cajamarca-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:31 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "52ccb5452f0c6c58",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Apurimac",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-apurimac-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:31 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e770751aaa3f87b4",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Puno",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-puno-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:03 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e3911c566813e6a7",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Callao",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-callao-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:03 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "21f55141139cedb3",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Tacna",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-tacna-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:03 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a66eedc85a591b6b",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de San Martin",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-san-martin-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:03 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "434907dfa53d83a3",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones Regionales y Municipales 2026: Aquí podrás conocer los resultados oficiales de ONPE en la región de Tumbes",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/elecciones/elecciones-regionales-y-municipales-2026-aqui-podras-conocer-los-resultados-oficiales-de-onpe-en-la-region-de-tumbes-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 05:01:03 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-elecciones-peru-elecciones-regionales-municipales",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "498a3591b7483b20",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Departamento de Estado ratifica que desconoce a Maduro como presidente de la República",
-      "summary": "La Fiscalía se negó a desestimar el caso por inmunidad por lo tanto el proceso continúa",
-      "url": "https://efectococuyo.com/politica/departamento-de-estado-ratifica-ante-la-fiscalia-que-desconoce-a-maduro-como-presidente-de-la-republica/",
-      "publishedAt": "Sun, 04 Oct 2026 01:06:57 +0000",
-      "politicalScore": 13,
-      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-departamento",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5bd1adf5bd7172db",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El MPP afirma que la reelección de Lula en Brasil “frenaría la intervención directa de Estados Unidos en la región”",
-      "summary": "El sector mayoritario del FA sostiene que el proceso electoral que tendrá su primera vuelta este domingo “es el más relevante desde el punto de vista geopolítico para nuestros países”. A través de una declaración, la Dirección Nacional del Movimiento de Partic",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/el-mpp-afirma-que-la-reeleccion-de-lula-en-brasil-frenaria-la-intervencion-directa-de-estados-unidos-en-la-region/",
-      "publishedAt": "Sat, 03 Oct 2026 17:06:13 -0300",
-      "politicalScore": 13,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-afirma-reeleccion",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
     {
       "id": "394e5f5de652d7f1",
       "country": "Nicaragua",
@@ -485,8 +143,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:30:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-prueba-democracia",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -502,8 +160,8 @@
       "publishedAt": "Sat, 03 Oct 2026 23:30:00 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-nueva",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -519,8 +177,8 @@
       "publishedAt": "Sat, 03 Oct 2026 21:13:46 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-elecciones-argentina-elecciones-asaltaron-esteban",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -536,8 +194,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 11,
       "eventKey": "espana-elecciones-espana-elecciones-mayoria-psoe",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -553,8 +211,8 @@
       "publishedAt": "Sat, 03 Oct 2026 21:49:27 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-instituciones-argentina-instituciones-nahuel-sotelo",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -570,8 +228,8 @@
       "publishedAt": "Sat, 03 Oct 2026 21:43:13 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-dirigentes-todas",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -587,25 +245,42 @@
       "publishedAt": "Sat, 03 Oct 2026 16:33:10 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-2027-fechas",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
-      "id": "a73db009fa31033c",
+      "id": "5bff073cae079ab3",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Elecciones 2027: ¿cuándo son las próximas elecciones presidenciales en la Argentina?",
-      "summary": "A continuación, conocé las fechas para emitir el sufragio; cuáles son las fechas clave y qué provincias eligen gobernador; descubrí los detalles",
-      "url": "https://www.lanacion.com.ar/politica/elecciones-2027-cuando-se-vota-en-la-argentina-y-que-se-elige-nid25082026/",
-      "publishedAt": "Sat, 03 Oct 2026 16:33:07 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-2027-cuando",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "title": "Tras la distensión del clima en París, llegó el momento de transformar los gestos de los gobernadores en votos",
+      "summary": "Es el Jefe de Gabinete quien iniciará una nueva ronda de contactos en busca de acuerdos para el DNU 70, el presupuesto y la reforma política",
+      "url": "https://www.lanacion.com.ar/politica/tras-la-distencion-del-clima-en-paris-llego-el-momento-de-transformar-los-gestos-de-los-gobernadores-nid04102026/",
+      "publishedAt": "Sun, 04 Oct 2026 10:30:18 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-elecciones-argentina-elecciones-distension-clima",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "02e6f5ad89a53d0e",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Flávio Bolsonaro vota en las elecciones presidenciales y dice que “Brasil necesita cambio”",
+      "summary": "Flávio Bolsonaro vaticinó que puede logar una victoria en la primera vuelta de las elecciones en Brasil, viendo el “movimiento muy claro” de ascenso en las encuestas de intención de voto",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/flavio-bolsonaro-vota-en-las-elecciones-presidenciales-de-brasil-y-dice-que-liberara-al-pueblo-brasileno-lula-da-silva-noticia/",
+      "publishedAt": "Sun, 04 Oct 2026 11:55:15 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-elecciones-peru-elecciones-flavio-bolsonaro",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -621,8 +296,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-posible-adelanto",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -638,8 +313,42 @@
       "publishedAt": "Sat, 03 Oct 2026 21:03:00 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-seguridad-colombia-seguridad-politica-gobierno",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9ea7bbef215a0f44",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "La red abelardista cercana a Carlos Suárez que ataca a La Silla",
+      "summary": "En retaliación a una investigación sobre el presidente de la junta de Ecopetrol, 8 influenciadores abelardistas atacaron con desinformación a La Silla. Todos estuvieron en el corazón de la campaña. The post La red abelardista cercana a Carlos Suárez que ataca ",
+      "url": "https://www.lasillavacia.com/silla-nacional/la-red-abelardista-cercana-a-carlos-suarez-que-ataca-a-la-silla/",
+      "publishedAt": "Sun, 04 Oct 2026 07:44:45 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-elecciones-colombia-elecciones-abelardista-cercana",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "577bb56a7a8a2445",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Pese a la euforia por la gira en París, el Gobierno busca blindarse ante la turbulencia económica",
+      "summary": "Milei celebró las inversiones, pero Santilli y Caputo necesitan acelerar el acuerdo con los aliados para lograr estabilidad de cara a 2027; los movimientos de Karina Milei y el juego de Bullrich, “al fleje”",
+      "url": "https://www.lanacion.com.ar/politica/pese-a-la-euforia-por-la-gira-en-paris-el-gobierno-busca-blindarse-ante-la-turbulencia-economica-nid04102026/",
+      "publishedAt": "Sun, 04 Oct 2026 05:52:14 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-pese",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -655,25 +364,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 7,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-paisaje-despues",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "507e584e6f0a419d",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Juan Francisco Contreras: “Detención de exfuncionarios en España es señal del deterioro de la diplomacia venezolana”",
-      "summary": "Contreras manifiesta que ante este incidente tiene que haber responsables, “más allá” de los exfuncionarios detenidos",
-      "url": "https://efectococuyo.com/politica/juan-francisco-contreras-detencion-de-exfuncionarios-en-espana-es-senal-del-deterioro-de-la-diplomacia-venezolana/",
-      "publishedAt": "Sat, 03 Oct 2026 19:40:14 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-juan-francisco",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -689,8 +381,8 @@
       "publishedAt": "Sat, 03 Oct 2026 17:50:38 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-factores",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -706,25 +398,8 @@
       "publishedAt": "Sat, 03 Oct 2026 17:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-menos-muertos",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ce57bb81fcd1f2c7",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Islas Malvinas: el gobierno británico anunció que las nuevas licencias petroleras requerirán su consentimiento",
-      "summary": "Lo confirmó ayer, ante la Cámara de los Comunes, en medio de la renovada tensión con la Argentina por la explotación de recursos en las aguas cercanas al archipiélago",
-      "url": "https://www.lanacion.com.ar/politica/islas-malvinas-el-gobierno-britanico-anuncio-que-las-nuevas-licencias-petroleras-requeriran-de-su-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 15:44:43 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-islas",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -740,25 +415,8 @@
       "publishedAt": "Sat, 03 Oct 2026 00:52:31 +0200",
       "politicalScore": 7,
       "eventKey": "espana-elecciones-espana-elecciones-espanoles-teme",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c7d4332ed03ec692",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Dictadura rechaza a Natasha Franceschi como embajadora de EE. UU. en Managua",
-      "summary": "Horas después que el Senado de Estados Unidos confirmó a Natasha Franceschi como embajadora en Nicaragua, el régimen de Daniel Ortega y Rosario Murillo le negó el beneplácito a la diplomática estadounidense. El rechazo de la dictadura a Franceschi fue confirma",
-      "url": "https://confidencial.digital/noticias/dictadura-rechaza-a-natasha-franceschi-como-embajadora-de-ee-uu-en-managua/",
-      "publishedAt": "Fri, 02 Oct 2026 17:33:23 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-dictadura-rechaza",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -774,8 +432,8 @@
       "publishedAt": "Fri, 02 Oct 2026 15:39:08 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -791,8 +449,25 @@
       "publishedAt": "Fri, 02 Oct 2026 09:45:54 +0000",
       "politicalScore": 7,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-fiscalia",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "21aca055e3631b9d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Nuevo mensaje de García Cuerva para Milei en la misa de cierre de la peregrinación a Luján: pidió terminar con “las heridas de la descalificación”",
+      "summary": "El arzobispo de Buenos Aires llamó a dejar de lado la descalificación, la violencia y la indiferencia; el lema del evento de este año fue “Madre, en tu abrazo nos reconocemos hermanos”",
+      "url": "https://www.lanacion.com.ar/politica/nuevo-mensaje-de-garcia-cuerva-para-milei-en-la-misa-central-de-cierre-de-la-peregrinacion-a-lujan-nid04102026/",
+      "publishedAt": "Sun, 04 Oct 2026 11:42:05 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-seguridad-argentina-seguridad-nuevo-mensaje",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -808,8 +483,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-casa-kilometro",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -825,8 +500,8 @@
       "publishedAt": "Sat, 03 Oct 2026 23:07:15 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-elecciones-argentina-elecciones-despues-diez",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -842,8 +517,8 @@
       "publishedAt": "Sun, 04 Oct 2026 00:01:07 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-toja-tempestad",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -859,8 +534,8 @@
       "publishedAt": "Sat, 03 Oct 2026 21:50:01 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-juan",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -876,25 +551,8 @@
       "publishedAt": "Sat, 03 Oct 2026 18:30:28 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-realidades-milagros",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ead2034477479a41",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Ley de tierras: con los DNU no hay caso",
-      "summary": "Ultima actualizacion de La Nacion.",
-      "url": "https://www.lanacion.com.ar/politica/ley-de-tierras-con-los-dnu-no-hay-caso-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 15:18:11 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-tierras",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -910,42 +568,8 @@
       "publishedAt": "Sat, 03 Oct 2026 15:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-condenan-cuba",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ed5e701e3b96c439",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Lula y Bolsonaro finalizan campaña con baño de multitudes en Sao Paulo",
-      "summary": "Encuestas dan a Lula, el 45% de la intención de votos y a Bolsonaro (hijo), 40%",
-      "url": "https://efectococuyo.com/internacionales/lula-y-bolsonaro-finalizan-la-campana-con-un-bano-de-multitudes-en-sao-paulo/",
-      "publishedAt": "Sun, 04 Oct 2026 02:06:10 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-lula-bolsonaro",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "115b89ba98bf22fe",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Juristas: Consejo de Revisión de Credenciales para el TSJ busca garantías, pero no es vinculante",
-      "summary": "Chitty La Roche y Manzo señalan que la instancia que buscar ser garantía para un TSJ independiente forma parte de la excepcionalidad que vive el país",
-      "url": "https://efectococuyo.com/politica/juristas-consejo-de-revision-de-credenciales-para-el-tsj-busca-garantias-y-balance-pero-no-es-vinculante/",
-      "publishedAt": "Sat, 03 Oct 2026 22:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-juristas-consejo",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -961,8 +585,8 @@
       "publishedAt": "Sat, 03 Oct 2026 21:45:31 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-revive",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -978,8 +602,8 @@
       "publishedAt": "Sat, 03 Oct 2026 18:31:37 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cambiarle-desenlace",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -995,42 +619,8 @@
       "publishedAt": "Sat, 03 Oct 2026 17:11:36 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-reversa",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "802acf76c878065a",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Mesa de diálogo “se queda corta” en segundo ciclo y Jorge Rodríguez sube vara de negociaciones",
-      "summary": "Para Ricardo Ríos y Miguel Barone, la mesa avanza muy lento en el tema de la reinstitucionalización y garantías políticas",
-      "url": "https://efectococuyo.com/politica/mesa-de-dialogo-se-queda-corta-en-segundo-ciclo-mientras-jorge-rodriguez-sube-vara-de-negociaciones/",
-      "publishedAt": "Sat, 03 Oct 2026 16:35:33 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-mesa-dialogo",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "281e233a28ebce95",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Alto comisionado de ACNUR habló con Delcy Rodríguez sobre retorno de migrantes y terremotos",
-      "summary": "&#160;El alto comisionado de las Naciones Unidas para los Refugiados (ACNUR), Barham Salih, aseguró este viernes que conversó sobre el retorno voluntario de los migrantes venezolanos y las consecuencias de los terremotos del pasado 24 de junio con la president",
-      "url": "https://efectococuyo.com/politica/alto-comisionado-de-acnur-hablo-con-delcy-rodriguez-sobre-retorno-de-migrantes-y-terremotos/",
-      "publishedAt": "Sat, 03 Oct 2026 16:19:01 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-alto-comisionado",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1046,8 +636,8 @@
       "publishedAt": "Sat, 03 Oct 2026 16:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-naza-premio",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1063,8 +653,8 @@
       "publishedAt": "Sat, 03 Oct 2026 13:02:58 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-instituciones-cuba-instituciones-trasladan-villa",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1080,8 +670,42 @@
       "publishedAt": "Thu, 01 Oct 2026 07:32:01 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-sistema",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c263e3bd7504a5c3",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Los manejos de la AFA: “Chiqui” Tapia cambió el esquema de cobros y puso a una sociedad de Dubai como “agente de recaudación”",
+      "summary": "Luego de que LA NACION reveló la existencia de una investigación criminal en EEUU, la nueva intermediaria operaría en reemplazo de TourProdEnter LLC, la empresa de Javier Faroni",
+      "url": "https://www.lanacion.com.ar/politica/los-manejos-de-la-afa-chiqui-tapia-cambio-el-esquema-de-cobros-y-puso-a-una-sociedad-de-dubai-como-nid04102026/",
+      "publishedAt": "Sun, 04 Oct 2026 10:12:53 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-manejos",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "07c2678b2b1f8334",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Inteligencia Artificial o de cómo de permanecer Homo Sapiens",
+      "summary": "En las últimas semanas nuestras pantallas han sido inundadas con información (y desinformación) sobre los riesgos de la IA. Las controversias sobre la IA y las corporaciones a la cabeza de la nueva tecnocracia, se intensificaron luego de las revelaciones de un",
+      "url": "https://confidencial.digital/opinion/inteligencia-artificial-o-de-como-de-permanecer-homo-sapiens/",
+      "publishedAt": "Sun, 04 Oct 2026 07:05:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-inteligencia-artificial",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1097,8 +721,8 @@
       "publishedAt": "Sun, 04 Oct 2026 01:50:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-advertencia",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1114,8 +738,8 @@
       "publishedAt": "Sat, 03 Oct 2026 21:16:46 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-diplomacia-colombia-diplomacia-puede-llegar",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1131,8 +755,8 @@
       "publishedAt": "Sat, 03 Oct 2026 20:56:03 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-estado-puede",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1148,25 +772,8 @@
       "publishedAt": "Sat, 03 Oct 2026 20:33:28 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "79a55c0f9a66f612",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Con una vigilia venezolanos rindieron homenaje a las víctimas tras 100 días del doble terremoto",
-      "summary": "Según el último informe del Gobierno del pasado 24 de agosto, los terremotos dejaron 6.509 muertos. Se desconoce la cifra de desaparecidos",
-      "url": "https://efectococuyo.com/la-humanidad/con-una-vigilia-venezolanos-rindieron-homenaje-a-las-victimas-tras-100-dias-del-doble-terremoto/",
-      "publishedAt": "Sat, 03 Oct 2026 15:50:05 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-vigilia-venezolanos",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1182,8 +789,8 @@
       "publishedAt": "Sat, 03 Oct 2026 13:46:28 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-libera",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1199,8 +806,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dialogos-democraticos",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1216,42 +823,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:59:41 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reitera-ortega",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a0cf11f3df79b66b",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "OEA aprueba creación de Grupo Ministerial que buscará “diálogo” en Nicaragua",
-      "summary": "La Organización de Estados Americanos (OEA) estableció por consenso un Grupo Ministerial de Seguimiento sobre Nicaragua, de “composición voluntaria”, que buscará entablar un diálogo “rápido y directo” con la dictadura de Daniel Ortega y Rosario Murillo y los s",
-      "url": "https://confidencial.digital/noticias/oea-aprueba-creacion-de-grupo-ministerial-que-buscara-dialogo-en-nicaragua/",
-      "publishedAt": "Fri, 02 Oct 2026 17:08:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-aprueba-creacion",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c9a805e3ad3ba5c5",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Encarcelan en La Modelo al opositor Jeffrey Jarquín tras ser deportado por EE. UU.",
-      "summary": "El exreo político Jeffrey Isaac Jarquín, conocido popularmente como “El Nene”, fue nuevamente encarcelado en el Sistema Penitenciario Nacional Jorge Navarro, conocido como La Modelo, en Tipitapa, tras ser deportado desde Estados Unidos hacia Nicaragua el jueve",
-      "url": "https://confidencial.digital/noticias/encarcelan-en-la-modelo-al-opositor-jeffrey-jarquin-tras-ser-deportado-por-ee-uu/",
-      "publishedAt": "Fri, 02 Oct 2026 16:35:55 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-encarcelan-modelo",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1267,25 +840,8 @@
       "publishedAt": "Sat, 03 Oct 2026 15:57:33 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-lugar-ideal",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
-      "seenCount": 1
-    },
-    {
-      "id": "30d477e414fe7a06",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Lo público y lo privado",
-      "summary": "La separación de poderes tiene una razón de fondo: evitar la arbitrariedad The post Lo público y lo privado appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/lo-publico-y-lo-privado/",
-      "publishedAt": "Sat, 03 Oct 2026 15:54:31 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-publico-privado",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1301,8 +857,8 @@
       "publishedAt": "Sat, 03 Oct 2026 14:47:03 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-sigue-millones",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1318,8 +874,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-santiago",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1335,8 +891,8 @@
       "publishedAt": "Fri, 02 Oct 2026 23:22:32 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-familiares-denuncian",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1352,8 +908,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:56:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-universidades-construyen",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1369,8 +925,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:38:26 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-portabilidad-numerica",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1386,8 +942,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:32:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cierre-beca",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1403,8 +959,8 @@
       "publishedAt": "Fri, 02 Oct 2026 20:23:29 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-autoridad-like",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1420,8 +976,8 @@
       "publishedAt": "Fri, 02 Oct 2026 18:16:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-republica-dominicana",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1437,8 +993,8 @@
       "publishedAt": "Fri, 02 Oct 2026 14:27:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-vigilancia-censura",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1454,8 +1010,8 @@
       "publishedAt": "Fri, 02 Oct 2026 13:02:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-hermosilla-mecanismo",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1471,8 +1027,8 @@
       "publishedAt": "Fri, 02 Oct 2026 12:57:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-hermosilla",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1488,8 +1044,8 @@
       "publishedAt": "Thu, 01 Oct 2026 23:38:19 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-mineria-arrastra",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     },
     {
@@ -1505,8 +1061,59 @@
       "publishedAt": "Thu, 01 Oct 2026 22:16:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-error-informatico",
-      "firstSeenAt": "2026-10-04T05:12:49.273Z",
-      "lastSeenAt": "2026-10-04T05:12:49.273Z",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8c265170efacfb96",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Los documentos internos del Primer Comando de la Capital que muestran cómo operaba la célula que trató de instalar en Chile",
+      "summary": "La entrada Los documentos internos del Primer Comando de la Capital que muestran cómo operaba la célula que trató de instalar en Chile se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/01/los-documentos-internos-del-primer-comando-de-la-capital-que-muestran-como-operaba-la-celula-que-trato-de-instalar-en-chile/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=los-documentos-internos-del-primer-comando-de-la-capital-que-muestran-como-operaba-la-celula-que-trato-de-instalar-en-chile",
+      "publishedAt": "Thu, 01 Oct 2026 18:59:59 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-documentos-internos",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "321e5b05ab9e5591",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Sin brújula ni hoja de ruta: la política exterior de Chile a la deriva",
+      "summary": "La entrada Sin brújula ni hoja de ruta: la política exterior de Chile a la deriva se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/01/sin-brujula-ni-hoja-de-ruta-la-politica-exterior-de-chile-a-la-deriva/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sin-brujula-ni-hoja-de-ruta-la-politica-exterior-de-chile-a-la-deriva",
+      "publishedAt": "Thu, 01 Oct 2026 13:02:09 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-brujula-hoja",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
+      "seenCount": 1
+    },
+    {
+      "id": "75d5e03f93ed1884",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Anna Bensi y su madre, condenadas a dos años de \"limitación de libertad\"",
+      "summary": "\"No estamos de acuerdo con el sistema político de nuestro país, y eso no es delito\", había clamado la 'influencer' ante la prensa extranjera antes de entrar al tribunal",
+      "url": "https://www.14ymedio.com/cuba/operativos-policiales-horas-previas-juicio_1_1131415.html",
+      "publishedAt": "Thu, 01 Oct 2026 13:00:49 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-instituciones-cuba-instituciones-anna-bensi",
+      "firstSeenAt": "2026-10-04T12:03:42.890Z",
+      "lastSeenAt": "2026-10-04T12:03:42.890Z",
       "seenCount": 1
     }
   ]
