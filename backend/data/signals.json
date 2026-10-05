@@ -1,32 +1,16 @@
 {
-  "generatedAt": "2026-10-04T21:05:25.754Z",
-  "count": 65,
+  "generatedAt": "2026-10-05T04:56:34.586Z",
+  "count": 66,
   "failures": [],
   "stats": {
-    "generatedAt": "2026-10-04T21:05:25.754Z",
-    "activeSignals": 65,
-    "archiveSignals": 123,
+    "generatedAt": "2026-10-05T04:56:34.586Z",
+    "activeSignals": 66,
+    "archiveSignals": 124,
     "countriesCovered": 9,
-    "highPrioritySignals": 23,
-    "averagePoliticalScore": 6.08
+    "highPrioritySignals": 22,
+    "averagePoliticalScore": 5.88
   },
   "briefings": [
-    {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "Entrevista exclusiva a Jack Ford desde Malvinas: “Estamos decepcionados; a principios de año Milei habló de los deseos de autodeterminación”",
-      "leadUrl": "https://www.lanacion.com.ar/politica/entrevista-exclusiva-a-jack-ford-desde-malvinas-estamos-decepcionados-a-principios-de-ano-milei-nid04102026/",
-      "focusTopics": [
-        "Diplomacia",
-        "Economia politica",
-        "Instituciones"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Diplomacia, Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -34,13 +18,30 @@
       "leadUrl": "https://www.ciperchile.cl/2026/10/02/presupuesto-2027-gobierno-recorta-un-253-del-programa-sitios-de-memoria/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=presupuesto-2027-gobierno-recorta-un-253-del-programa-sitios-de-memoria",
       "focusTopics": [
         "Economia politica",
+        "Seguridad",
         "Probidad"
       ],
       "topSources": [
         "CIPER"
       ],
       "signalCount": 13,
-      "summary": "Foco en Economia politica, Probidad. Vigilar CIPER y CIPER."
+      "summary": "Foco en Economia politica, Seguridad, Probidad. Vigilar CIPER y CIPER."
+    },
+    {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Entrevista exclusiva a Jack Ford desde Malvinas: “Estamos decepcionados; a principios de año Milei habló de los deseos de autodeterminación”",
+      "leadUrl": "https://www.lanacion.com.ar/politica/entrevista-exclusiva-a-jack-ford-desde-malvinas-estamos-decepcionados-a-principios-de-ano-milei-nid04102026/",
+      "focusTopics": [
+        "Diplomacia",
+        "Elecciones",
+        "Instituciones"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Diplomacia, Elecciones, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -49,14 +50,14 @@
       "leadUrl": "https://confidencial.digital/opinion/una-prueba-para-la-democracia-polarizada-de-brasil/",
       "focusTopics": [
         "Elecciones",
-        "Seguridad",
-        "Instituciones"
+        "Instituciones",
+        "Seguridad"
       ],
       "topSources": [
         "Confidencial"
       ],
       "signalCount": 11,
-      "summary": "Foco en Elecciones, Seguridad, Instituciones. Vigilar Confidencial y Confidencial."
+      "summary": "Foco en Elecciones, Instituciones, Seguridad. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Espana",
@@ -68,69 +69,70 @@
         "Elecciones"
       ],
       "topSources": [
-        "El Pais"
+        "El Pais",
+        "El Mundo"
       ],
       "signalCount": 9,
-      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Pais y El Pais."
+      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar El Pais y El Mundo."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Abelardo señala de corrupto a Yahir Acuña; el alcalde lo acusa de intimidarlo",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/abelardo-senala-de-corrupto-a-yahir-acuna-el-alcalde-lo-acusa-de-intimidarlo/",
+      "leadTitle": "Elecciones Brasil: Bolsonaro y Lula irán a segunda vuelta presidencial",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/elecciones-brasil-bolsonaro-y-lula-iran-a-segunda-vuelta-presidencial/",
       "focusTopics": [
-        "Instituciones",
         "Elecciones",
-        "Gobernabilidad"
+        "Instituciones"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
       "signalCount": 7,
-      "summary": "Foco en Instituciones, Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Elecciones, Instituciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "La agenda legislativa pendiente: tutelaje y diálogo marcan la dinámica",
-      "leadUrl": "https://efectococuyo.com/politica/la-agenda-legislativa-pendiente-tutelaje-y-dialogo-marcan-la-dinamica/",
+      "leadTitle": "Lula reconoce que el resultado en primera vuelta es &#8220;inesperado&#8221;",
+      "leadUrl": "https://efectococuyo.com/internacionales/lula-reconoce-que-el-resultado-en-primera-vuelta-es-inesperado/",
       "focusTopics": [
-        "Diplomacia",
-        "Elecciones"
+        "Elecciones",
+        "Diplomacia"
       ],
       "topSources": [
         "Efecto Cocuyo"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Diplomacia, Elecciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 6,
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Alcaldía de Lima: sigue aquí los resultados del conteo rápido de Datum tras las elecciones de este domingo",
+      "leadUrl": "https://elcomercio.pe/politica/conteo-rapido-de-datum-la-alcaldia-de-lima-de-las-elecciones-regionales-municipales-2026-sigue-aqui-los-resultados-hoy-04-de-octubre-apuesplan-noticia-2/",
+      "focusTopics": [
+        "Elecciones",
+        "Economia politica"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Elecciones, Economia politica. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Menoni dijo que se proyecta una “buena” temporada turística, pese a menor “disponibilidad de efectivo de los argentinos”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/menoni-dijo-que-se-proyecta-una-buena-temporada-turistica-pese-a-menor-disponibilidad-de-efectivo-de-los-argentinos/",
+      "leadTitle": "22 de noviembre, elecciones de directores del BPS",
+      "leadUrl": "https://ladiaria.com.uy/opinion/articulo/2026/10/22-de-noviembre-elecciones-de-directores-del-bps/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 3,
+      "signalCount": 2,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Alcaldía de Lima: sigue aquí los resultados del conteo rápido de Datum tras la votación de este domingo",
-      "leadUrl": "https://elcomercio.pe/politica/conteo-rapido-de-datum-la-alcaldia-de-lima-de-las-elecciones-regionales-municipales-2026-sigue-aqui-los-resultados-hoy-04-de-octubre-apuesplan-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
     },
     {
       "country": "Cuba",
@@ -151,54 +153,37 @@
   ],
   "signals": [
     {
-      "id": "3d02a072d9380199",
-      "country": "Uruguay",
-      "source": "La Diaria",
+      "id": "4b8a75a48b424754",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Menoni dijo que se proyecta una “buena” temporada turística, pese a menor “disponibilidad de efectivo de los argentinos”",
-      "summary": "El ministro respondió en el Parlamento que la cartera no tiene ninguna estimación sobre una eventual variación del real brasileño tras las elecciones de octubre. El ministro de Turismo, Pablo Menoni, concurrió al Parlamento para informar sobre varios asuntos v",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/menoni-dijo-que-se-proyecta-una-buena-temporada-turistica-pese-a-menor-disponibilidad-de-efectivo-de-los-argentinos/",
-      "publishedAt": "Sun, 04 Oct 2026 17:19:07 -0300",
-      "politicalScore": 14,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-menoni-dijo",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "title": "Elecciones Brasil: Bolsonaro y Lula irán a segunda vuelta presidencial",
+      "summary": "Será el 25 de octubre. El senador de derecha obvtuvo el 48% de los votos, mientras el actual presidente de izquierda llegó al 44%. The post Elecciones Brasil: Bolsonaro y Lula irán a segunda vuelta presidencial appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/elecciones-brasil-bolsonaro-y-lula-iran-a-segunda-vuelta-presidencial/",
+      "publishedAt": "Sun, 04 Oct 2026 23:14:26 +0000",
+      "politicalScore": 18,
+      "eventKey": "colombia-elecciones-colombia-elecciones-brasil-bolsonaro",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
-      "id": "f8d321c65f86e08c",
+      "id": "73e8e99a15880e77",
       "country": "Peru",
       "source": "El Comercio",
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Alcaldía de Lima: sigue aquí los resultados del conteo rápido de Datum tras la votación de este domingo",
+      "title": "Alcaldía de Lima: sigue aquí los resultados del conteo rápido de Datum tras las elecciones de este domingo",
       "summary": "Las Elecciones Regionales Municipales electoral de este domingo 4 de octubre será clave para definir a las próximas autoridades municipales de Lima Metropolitana para el periodo 2027-2030.",
-      "url": "https://elcomercio.pe/politica/conteo-rapido-de-datum-la-alcaldia-de-lima-de-las-elecciones-regionales-municipales-2026-sigue-aqui-los-resultados-hoy-04-de-octubre-apuesplan-noticia/",
-      "publishedAt": "Sun, 04 Oct 2026 20:33:41 +0000",
+      "url": "https://elcomercio.pe/politica/conteo-rapido-de-datum-la-alcaldia-de-lima-de-las-elecciones-regionales-municipales-2026-sigue-aqui-los-resultados-hoy-04-de-octubre-apuesplan-noticia-2/",
+      "publishedAt": "Mon, 05 Oct 2026 04:10:56 +0000",
       "politicalScore": 13,
       "eventKey": "peru-elecciones-peru-elecciones-alcaldia-lima",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5bd1adf5bd7172db",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El MPP afirma que la reelección de Lula en Brasil “frenaría la intervención directa de Estados Unidos en la región”",
-      "summary": "El sector mayoritario del FA sostuvo que se trata del proceso electoral “más relevante desde el punto de vista geopolítico para nuestros países”; Fuerza Renovadora destacó “el camino político y social que Lula representa”. A través de una declaración, la Direc",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/el-mpp-afirma-que-la-reeleccion-de-lula-en-brasil-frenaria-la-intervencion-directa-de-estados-unidos-en-la-region/",
-      "publishedAt": "Sat, 03 Oct 2026 17:06:13 -0300",
-      "politicalScore": 13,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-afirma-reeleccion",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -214,8 +199,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:30:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-prueba-democracia",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -228,45 +213,45 @@
       "title": "Entrevista exclusiva a Jack Ford desde Malvinas: “Estamos decepcionados; a principios de año Milei habló de los deseos de autodeterminación”",
       "summary": "El presidente de la Asamblea de las islas habló con LA NACION; calificó de “amenazas” a las sanciones del gobierno argentino contra las empresas que operen en el proyecto Sea Lion",
       "url": "https://www.lanacion.com.ar/politica/entrevista-exclusiva-a-jack-ford-desde-malvinas-estamos-decepcionados-a-principios-de-ano-milei-nid04102026/",
-      "publishedAt": "Sun, 04 Oct 2026 20:58:25 +0000",
+      "publishedAt": "Sun, 04 Oct 2026 21:44:43 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-entrevista-exclusiva",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
-      "id": "3e8e9c8ba56e89fb",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Uruguay llamó a elecciones en Nicaragua, pero no compartió que la situación represente una amenaza para la paz regional",
-      "summary": "El representante ante la OEA, Edison Lanza, dijo que una calificación de este tipo “podría dar lugar a medidas que vulneren el principio de no intervención, incluida la amenaza o el uso de la fuerza”. “Aquí no volverá a haber elecciones”, fueron las palabras q",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/uruguay-llamo-a-elecciones-en-nicaragua-pero-no-compartio-que-la-situacion-represente-una-amenaza-para-la-paz-regional/",
-      "publishedAt": "Sun, 04 Oct 2026 16:58:29 -0300",
-      "politicalScore": 12,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-llamo-nicaragua",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "bf7b1e9182a77007",
+      "id": "fc0b867213e77209",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "La nueva vida que Milei le da al peronismo",
-      "summary": "Una oposición sin programa claro y con rencores irresueltos activa desafíos legislativos y teje alianzas para debilitar al Gobierno; la trampa de la que el Presidente elige no salir",
-      "url": "https://www.lanacion.com.ar/politica/la-nueva-vida-que-milei-le-da-al-peronismo-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 23:30:00 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-nueva",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "title": "Qué dijo Javier Milei de los resultados de las elecciones de Brasil 2026",
+      "summary": "Tras el cierre de los comicios, el jefe de Estado se valió de las redes sociales para celebrar la victoria de Flavio Bolsonaro frente a Lula da Silva; los dos candidatos volverán a verse las caras en el balotaje del 25 de octubre",
+      "url": "https://www.lanacion.com.ar/politica/que-dijo-javier-milei-de-los-resultados-de-las-elecciones-de-brasil-2026-nid04102026/",
+      "publishedAt": "Mon, 05 Oct 2026 02:37:53 +0000",
+      "politicalScore": 11,
+      "eventKey": "argentina-elecciones-argentina-elecciones-dijo-javier",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "233c9357482f455a",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en balotaje",
+      "summary": "El mandatario brasileño, Luiz Inácio Lula da Silva, y el senador Flávio Bolsonaro disputarán la Presidencia en una segunda vuelta electoral el 25 de octubre de 2026, según los resultados oficiales de los comicios celebrados el domingo 4 de octubre, con el 98.3",
+      "url": "https://confidencial.digital/mundo/lula-y-flavio-bolsonaro-disputaran-la-presidencia-de-brasil-en-balotaje/",
+      "publishedAt": "Mon, 05 Oct 2026 00:33:58 +0000",
+      "politicalScore": 11,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-lula-flavio",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -282,8 +267,8 @@
       "publishedAt": "Sun, 04 Oct 2026 20:19:16 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-instituciones-argentina-instituciones-javier-milei",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -299,59 +284,76 @@
       "publishedAt": "Sun, 04 Oct 2026 19:22:32 GMT",
       "politicalScore": 11,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-todo-listo",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
-      "id": "c6a03541a6f96ad0",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
+      "id": "16ab8dad3b410b8c",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "La mayoría del PSOE y del Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”",
-      "summary": "El adelanto es la opción más probable, pero algunos creen que antes aún habría que intentar sacar otros decretos",
-      "url": "https://elpais.com/espana/2026-10-04/la-mayoria-del-psoe-y-el-gobierno-anima-a-sanchez-a-convocar-elecciones-ya-ahora-hay-una-oportunidad.html",
-      "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
-      "politicalScore": 11,
-      "eventKey": "espana-elecciones-espana-elecciones-mayoria-psoe",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e6bc8ecf17153df1",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Nahuel Sotelo: “Nosotros practicamos la justicia social; no veo una diferencia con el Papa en ese punto”",
-      "summary": "El diputado libertario y exsecretario de Culto relativiza las tensiones entre el gobierno de Milei y la Iglesia; “No nos preocupa mucho el mensaje de León”, dice",
-      "url": "https://www.lanacion.com.ar/politica/nahuel-sotelo-nosotros-practicamos-la-justicia-social-no-veo-una-diferencia-con-el-papa-en-ese-punto-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 21:49:27 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-instituciones-argentina-instituciones-nahuel-sotelo",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5f18069d451f4626",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Dirigentes de todas las ramas del PJ viajaron a Brasil para respaldar a Lula en las elecciones",
-      "summary": "Legisladores nacionales y bonaerenses se reparten entre San Pablo y Río de Janeiro; “Wado” de Pedro encabeza la comitiva; descartan que el resultado influya en las presidenciales de 2027",
-      "url": "https://www.lanacion.com.ar/politica/dirigentes-de-todas-las-ramas-del-pj-viajaron-a-brasil-para-respaldar-a-lula-en-las-elecciones-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 21:43:13 +0000",
+      "title": "Lula reconoce que el resultado en primera vuelta es &#8220;inesperado&#8221;",
+      "summary": "\"Estaba convencido de que iba a ganar las elecciones en primera vuelta\", dijo el presidente progresista que intenta hacerse por cuarta vez con la presidencia de Brasil",
+      "url": "https://efectococuyo.com/internacionales/lula-reconoce-que-el-resultado-en-primera-vuelta-es-inesperado/",
+      "publishedAt": "Mon, 05 Oct 2026 01:42:58 +0000",
       "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-dirigentes-todas",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-lula-reconoce",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "73f2c1881a42ab51",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno celebra el triunfo de Flavio Bolsonaro y es optimista de cara al balotaje en Brasil",
+      "summary": "El presidente Milei felicitó al candidato liberal y expresó su deseo de “trabajar juntos” luego de la segunda vuelta, el 25 de este mes; también habló el canciller Quirno",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-celebro-el-triunfo-de-bolsonaro-y-es-optimista-de-cara-al-balotaje-en-brasil-nid04102026/",
+      "publishedAt": "Mon, 05 Oct 2026 00:35:58 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e47957fa4819ec1f",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "22 de noviembre, elecciones de directores del BPS",
+      "summary": "En las elecciones de directores sociales del Banco de Previsión Social (BPS) votan más o menos 1,5 millones de personas: trabajadoras, jubiladas y pensionistas, personas con discapacidad, representantes de empresas; todos quienes estén afiliados o registrados ",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/22-de-noviembre-elecciones-de-directores-del-bps/",
+      "publishedAt": "Mon, 05 Oct 2026 00:12:54 -0300",
+      "politicalScore": 9,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-noviembre-directores",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fe4c05ffad330e4f",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Milei brinda con caipirinha",
+      "summary": "El resultado de la elección en Brasil tiene una carga simbólica que el oficialismo potenciará: la nueva derecha internacional, de la que Milei es un exponente, sigue ganando terreno",
+      "url": "https://www.lanacion.com.ar/politica/milei-brinda-con-caipirinha-nid04102026/",
+      "publishedAt": "Mon, 05 Oct 2026 01:17:41 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-elecciones-argentina-elecciones-milei-brinda",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -367,8 +369,8 @@
       "publishedAt": "Sun, 04 Oct 2026 15:50:00 +0000",
       "politicalScore": 9,
       "eventKey": "venezuela-diplomacia-venezuela-diplomacia-agenda-legislativa",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -384,25 +386,25 @@
       "publishedAt": "Sun, 04 Oct 2026 10:30:18 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-distension-clima",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
-      "id": "a0fdf3894ce4798c",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "id": "a9b4276eda250fe0",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Ley contra el Odio: la propuesta de reforma contra la demanda de derogación",
-      "summary": "La politóloga y defensora de DDHH, Nastassja Roja, observa que chavismo quiere mantener a la sociedad con miedo. La diputada Amelia Belisario dice que exigirá derogación de la norma",
-      "url": "https://efectococuyo.com/politica/ley-contra-el-odio-la-propuesta-de-reforma-contra-la-demanda-de-derogacion/",
-      "publishedAt": "Sun, 04 Oct 2026 06:45:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-odio-propuesta",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "title": "El PP ve el órdago de Sánchez con el adelanto de las elecciones y no teme una campaña que pivote sobre vivienda",
+      "summary": "Los 'populares' quieren \"potenciar ese debate\", \"pase lo que pase\": \"Es un marco que nos beneficia\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/10/05/6ac11ec8fdddff4e1a8b45ae.html",
+      "publishedAt": "Mon, 05 Oct 2026 00:01:43 +0200",
+      "politicalScore": 8,
+      "eventKey": "espana-elecciones-espana-elecciones-ordago-sanchez",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -418,59 +420,25 @@
       "publishedAt": "Sun, 04 Oct 2026 20:50:41 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-instituciones-colombia-instituciones-abelardo-senala",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
-      "id": "03db997b93baa3c2",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "El posible adelanto electoral fuerza a la izquierda alternativa a acelerar",
-      "summary": "Enrique Santiago, portavoz parlamentario de IU, reclama la convocatoria de las generales mientras Podemos aboga por llevar antes un nuevo decreto al Congreso",
-      "url": "https://elpais.com/espana/2026-10-04/el-posible-adelanto-electoral-fuerza-a-la-izquierda-alternativa-a-acelerar.html",
-      "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
-      "politicalScore": 8,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-posible-adelanto",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "756c1f33a99dd302",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Dilema en el PSOE mientras Sánchez ultima su decisión: \"Calentar más calle\" o convocar y \"hacérselo pagar ya al PP\"",
-      "summary": "División de opiniones entre los partidarios de adelantar elecciones y quienes piensan que es mejor dar tiempo a que la izquierda se organice. Las protestas de ayer no arrojan un veredicto claro&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac14a90e4d4d8a9708b45b9.html",
-      "publishedAt": "Sun, 04 Oct 2026 01:51:13 +0200",
-      "politicalScore": 8,
-      "eventKey": "espana-elecciones-espana-elecciones-dilema-psoe",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "577bb56a7a8a2445",
+      "id": "8cda36c36ce477f3",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Pese a la euforia por la gira en París, el Gobierno busca blindarse ante la turbulencia económica",
-      "summary": "Milei celebró las inversiones, pero Santilli y Caputo necesitan acelerar el acuerdo con los aliados para lograr estabilidad de cara a 2027; los movimientos de Karina Milei y el juego de Bullrich, “al fleje”",
-      "url": "https://www.lanacion.com.ar/politica/pese-a-la-euforia-por-la-gira-en-paris-el-gobierno-busca-blindarse-ante-la-turbulencia-economica-nid04102026/",
-      "publishedAt": "Sun, 04 Oct 2026 05:52:14 +0000",
+      "title": "Solo en Off | El puntano Abdala cumplió el sueño de ser Presidente y “superar” a Rodríguez Saá",
+      "summary": "De Narváez, lejos de Massa en París; Jaldo, el gobernador ausente con aviso y Ravier, en la mira de Karina Milei",
+      "url": "https://www.lanacion.com.ar/politica/solo-en-off-el-puntano-abdala-cumplio-el-sueno-de-ser-presidente-y-superar-a-rodriguez-saa-nid05102026/",
+      "publishedAt": "Mon, 05 Oct 2026 03:01:00 +0000",
       "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-pese",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-solo",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -486,8 +454,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 7,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-paisaje-despues",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -503,8 +471,8 @@
       "publishedAt": "Sat, 03 Oct 2026 17:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-menos-muertos",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -520,8 +488,25 @@
       "publishedAt": "Fri, 02 Oct 2026 15:39:08 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "71eb1246cf37cc2f",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Barones del PSOE presionan para que Sánchez convoque ya las elecciones: \"Hay una ventana de oportunidad ahora que la ciudadanía ha despertado\"",
+      "summary": "Los líderes en Castilla y León, Castilla-La Mancha, País Vasco y Extremadura han pedido en público lo que otros solicitan también en privado&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac23f6dfdddff33668b4597.html",
+      "publishedAt": "Sun, 04 Oct 2026 14:16:17 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-elecciones-espana-elecciones-barones-psoe",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -537,8 +522,42 @@
       "publishedAt": "Sun, 04 Oct 2026 11:50:49 +0200",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-juanma-moreno",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9f8687a30d8d1cc0",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Flávio Bolsonaro dice que su victoria en primera vuelta muestra que Brasil quiere cambio",
+      "summary": "El senador dijo estar feliz por el resultado de la primera vuelta, pese a no alcanzar el porcentaje necesario para evitar el balotaje",
+      "url": "https://efectococuyo.com/internacionales/flavio-bolsonaro-dice-que-su-victoria-en-primera-vuelta-muestra-que-brasil-quiere-cambio/",
+      "publishedAt": "Mon, 05 Oct 2026 01:27:13 +0000",
+      "politicalScore": 6,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-flavio-bolsonaro",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1fcaa25201937b0a",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Bolsonaro y Lula se medirán en segunda vuelta",
+      "summary": "Con 96,60% de los votos contados, Flavio Bolsonaro alcanzó 47,45 % y el actual presidente, Luiz Inacio Lula Da Silva, 44,66 %",
+      "url": "https://efectococuyo.com/internacionales/bolsonaro-y-lula-se-mediran-en-segunda-vuelta/",
+      "publishedAt": "Mon, 05 Oct 2026 00:17:02 +0000",
+      "politicalScore": 6,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-bolsonaro-lula",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -554,8 +573,8 @@
       "publishedAt": "Sun, 04 Oct 2026 16:15:55 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-elecciones-colombia-elecciones-abelardo-busca",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -571,8 +590,8 @@
       "publishedAt": "Sun, 04 Oct 2026 11:42:05 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-seguridad-argentina-seguridad-nuevo-mensaje",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -588,59 +607,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-casa-kilometro",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "41ca8d142647d447",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Después de diez meses, aún no se definió quién debe investigar la causa sobre la quinta de Pilar",
-      "summary": "El caso se inició en diciembre de 2025; por ahora, está donde quieren los acusados, en el juzgado federal de Campana; la mansión está valuada en 25 millones de dólares y se apunta a Claudio Tapia y Pablo Toviggino",
-      "url": "https://www.lanacion.com.ar/politica/despues-de-diez-meses-aun-no-se-definio-quien-debe-investigar-la-causa-sobre-la-quinta-de-pilar-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 23:07:15 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-elecciones-argentina-elecciones-despues-diez",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5da129f39b03de58",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Sol en La Toja, tempestad en Madrid, caos en general",
-      "summary": "La dinámica desatada por el desahucio de Maricarmen ha llegado tan lejos como para que Sánchez reflexione sobre un adelanto electoral. El presidente deposita en manos de los manifestantes la disolución anticipada&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/10/04/6ac0e180e85ece97428b45ae.html",
-      "publishedAt": "Sun, 04 Oct 2026 00:01:07 +0200",
-      "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-toja-tempestad",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ad01e542ad4530aa",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Juan Grabois: “Milei representa valores que no son cristianos, pero no es el anticristo”",
-      "summary": "El diputado kirchnerista y dirigente social espera que el papa León XIV “sea una voz que defienda los intereses” de los jubilados y discapacitados; la reunión con Peter Thiel y el frustrado regreso de Francisco",
-      "url": "https://www.lanacion.com.ar/politica/juan-grabois-milei-representa-valores-que-no-son-cristianos-pero-no-es-el-anticristo-nid03102026/",
-      "publishedAt": "Sat, 03 Oct 2026 21:50:01 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-juan",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -656,25 +624,76 @@
       "publishedAt": "Sat, 03 Oct 2026 15:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-condenan-cuba",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
-      "id": "3b6f5f97efc5f024",
+      "id": "a706a315012e6aa1",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Cambio de ONP a AFP y viceversa en el 2027: ¿desde cuándo se habilitará?",
+      "summary": "En el marco de la implementación de la Ley N.° 32123, Ley de Modernización del Sistema Previsional Peruano, la Oficina de Normalización Previsional (ONP), entidad adscrita al Ministerio de Economía y Finanzas (MEF), publicó el Reglamento Operativo de Traslados",
+      "url": "https://elcomercio.pe/economia/afiliados-podran-cambiarse-de-afp-a-onp-y-viceversa-desde-el-1-de-junio-de-2027-l-ultimas-noticia/",
+      "publishedAt": "Mon, 05 Oct 2026 04:46:49 +0000",
+      "politicalScore": 5,
+      "eventKey": "peru-economia-politica-peru-economia-politica-cambio",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3790e9e896b9354b",
       "country": "Espana",
       "source": "El Pais",
       "sourceType": "Generalista",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales",
-      "summary": "IU, Comuns, Más Madrid y Movimiento Sumar deciden oficializar la candidatura haya o no adelanto electoral tras una reunión este domingo con sus ministros",
-      "url": "https://elpais.com/espana/2026-10-04/la-izquierda-alternativa-gana-tiempo-y-fija-para-el-17-de-octubre-el-lanzamiento-del-frente-amplio-y-su-lider-para-las-generales.html",
-      "publishedAt": "Sun, 04 Oct 2026 14:26:01 GMT",
+      "title": "Dos años de Perelló al frente del Poder Judicial: sin comparecer en el Congreso y con una brecha entre los dos sectores",
+      "summary": "La presidenta del CGPJ, que no ha acudido a la cámara baja desde que llegó a la presidencia como marca la ley, se enfrenta a nuevas negociaciones para nombramientos en las cúpulas judiciales",
+      "url": "https://elpais.com/espana/2026-10-05/dos-anos-de-perello-al-frente-del-poder-judicial-sin-comparecer-en-el-congreso-y-con-una-brecha-entre-los-dos-sectores.html",
+      "publishedAt": "Mon, 05 Oct 2026 03:30:01 GMT",
       "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-izquierda-alternativa",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-anos-perello",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "466f9c0024d4a86e",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Maduro Guerra asegura que no descansará hasta volver a ver a su padre y a Cilia Flores",
+      "summary": "Nicolás Maduro y Cilia Flores cumplen nueve meses detenidos en el Centro Metropolitano de Brooklyn en Nueva York",
+      "url": "https://efectococuyo.com/politica/maduro-guerra-asegura-que-no-descansara-hasta-volver-a-ver-a-su-padre-y-a-cilia-flores/",
+      "publishedAt": "Mon, 05 Oct 2026 00:19:28 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-maduro-guerra",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "531f038b9ce069e2",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "El PSOE espera el adelanto electoral inminente con un objetivo realista: evitar el batacazo aunque gobiernen PP y Vox",
+      "summary": "Entre las opciones que se contemplan estaría convalidar medidas de vivienda en al Diputación Permanente, donde tiene mayoría sin Junts, aunque se disuelvan las Cortes&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/10/04/6ac26bb0fdddffe9668b45a4.html",
+      "publishedAt": "Sun, 04 Oct 2026 22:22:15 +0200",
+      "politicalScore": 5,
+      "eventKey": "espana-instituciones-espana-instituciones-psoe-espera",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -690,25 +709,8 @@
       "publishedAt": "Sun, 04 Oct 2026 14:13:52 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-comience-domingo",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "351e0b6038d82b86",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Rafael Núñez y la ¿primera? Regeneración",
-      "summary": "Hoy en el pódcast Deja Vu Alejandro y Luis Guillermo, revisan el periodo histórico de la Regeneración y sus similitudes con el gobierno De la Espriella. The post Rafael Núñez y la ¿primera? Regeneración appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/podcasts/rafael-nunez-y-la-primera-regeneracion/",
-      "publishedAt": "Sun, 04 Oct 2026 13:21:54 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-rafael-nunez",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -724,8 +726,8 @@
       "publishedAt": "Sat, 03 Oct 2026 16:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-naza-premio",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -741,8 +743,59 @@
       "publishedAt": "Sat, 03 Oct 2026 13:02:58 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-instituciones-cuba-instituciones-trasladan-villa",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1e3583f15830589b",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "El tirón de Vox mantiene al bloque de la derecha en el 50% en plena conmoción por Maricarmen",
+      "summary": "El barómetro de 40dB. sitúa al PP en cabeza, con el 31,6% del voto, tras caer ocho décimas. El PSOE sigue segundo y solo Vox crece con fuerza en la encuesta, previa al fiasco de los decretos del viernes",
+      "url": "https://elpais.com/espana/2026-10-05/el-tiron-de-vox-mantiene-al-bloque-de-la-derecha-en-el-50-en-plena-conmocion-por-maricarmen.html",
+      "publishedAt": "Mon, 05 Oct 2026 03:30:01 GMT",
+      "politicalScore": 4,
+      "eventKey": "espana-elecciones-espana-elecciones-tiron-mantiene",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e1850f480fec45ab",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Massa compartió una foto con Lula y otros dirigentes peronistas fueron a apoyar al candidato del PT",
+      "summary": "Quienes también dijeron presente en Brasil fueron los legisladores peronistas Eduardo de Pedro y Victoria Tolosa Paz",
+      "url": "https://www.lanacion.com.ar/politica/massa-compartio-una-foto-con-lula-y-otros-dirigentes-peronistas-fueron-a-apoyar-al-candidato-del-pt-nid04102026/",
+      "publishedAt": "Mon, 05 Oct 2026 01:45:36 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-massa",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "97f0d13b7e0a1492",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La soberanía de Malvinas y Magallanes, ejes del regreso de la tensión bilateral entre Argentina y Chile",
+      "summary": "A pesar de la sintonía personal entre Kast y Milei, distintas declaraciones reavivaron la desconfianza histórica entre los vecinos",
+      "url": "https://www.lanacion.com.ar/politica/la-soberania-de-malvinas-y-magallanes-ejes-del-regreso-de-la-tension-bilateral-entre-argentina-y-nid04102026/",
+      "publishedAt": "Sun, 04 Oct 2026 22:04:33 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-soberania",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -755,11 +808,11 @@
       "title": "La AFA fijó sede en Pilar para esquivar controles, pero ante sus socios del exterior sigue declarando Viamonte como domicilio registrado",
       "summary": "Chiqui Tapia reafirmó la sede histórica de la entidad en un comunicado que envió a sus contrapartes comerciales de todo el mundo",
       "url": "https://www.lanacion.com.ar/politica/la-afa-fijo-sede-en-pilar-para-esquivar-controles-pero-ante-sus-socios-del-exterior-sigue-declarando-nid04102026/",
-      "publishedAt": "Sun, 04 Oct 2026 20:21:12 +0000",
+      "publishedAt": "Sun, 04 Oct 2026 21:28:40 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fijo",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -775,8 +828,8 @@
       "publishedAt": "Sun, 04 Oct 2026 18:10:46 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-innovacion-publica",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -792,8 +845,8 @@
       "publishedAt": "Sun, 04 Oct 2026 14:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-instituciones-colombia-instituciones-transicion-energetica",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -809,8 +862,8 @@
       "publishedAt": "Sun, 04 Oct 2026 10:12:53 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-manejos",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -826,25 +879,8 @@
       "publishedAt": "Sun, 04 Oct 2026 07:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-inteligencia-artificial",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "91942a21e5e3b000",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Una advertencia que retumbó en la medianoche de París",
-      "summary": "Caputo trazó ante los gobernadores un diagnóstico crudo del momento económico y les pidió un rápido acuerdo político; el efecto búmeran de la polarización anticipada; novedades en la base social",
-      "url": "https://www.lanacion.com.ar/politica/una-advertencia-que-retumbo-en-la-medianoche-de-paris-nid03102026/",
-      "publishedAt": "Sun, 04 Oct 2026 01:50:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-advertencia",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -860,8 +896,8 @@
       "publishedAt": "Sat, 03 Oct 2026 20:33:28 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -877,8 +913,8 @@
       "publishedAt": "Sat, 03 Oct 2026 13:46:28 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-libera",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -894,8 +930,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dialogos-democraticos",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -911,8 +947,42 @@
       "publishedAt": "Fri, 02 Oct 2026 22:59:41 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reitera-ortega",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "95acff6fc01f4a31",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "El caso Maricarmen en Madrid: una alternativa habitacional no se improvisa el día del desalojo",
+      "summary": "Estas semanas, España entera y buena parte de quienes la miramos desde lejos aprendimos el nombre de María del Carmen Abascal. Maricarmen tiene 87 años y vivió 71 en el mismo piso del barrio del Retiro, en Madrid. Llegó con sus padres cuando tenía 17, heredó e",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/el-caso-maricarmen-en-madrid-una-alternativa-habitacional-no-se-improvisa-el-dia-del-desalojo/",
+      "publishedAt": "Mon, 05 Oct 2026 00:12:54 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-caso-maricarmen",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
+      "seenCount": 1
+    },
+    {
+      "id": "31b4efcfb03b1859",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "50 años del crimen Letelier-Moffitt: el significado para el mundo",
+      "summary": "La entrada 50 años del crimen Letelier-Moffitt: el significado para el mundo se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/04/50-anos-del-crimen-letelier-moffitt-el-significado-para-el-mundo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=50-anos-del-crimen-letelier-moffitt-el-significado-para-el-mundo",
+      "publishedAt": "Sun, 04 Oct 2026 21:33:14 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-seguridad-chile-seguridad-anos-crimen",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -928,8 +998,8 @@
       "publishedAt": "Sun, 04 Oct 2026 18:53:55 +0000",
       "politicalScore": 3,
       "eventKey": "venezuela-elecciones-venezuela-elecciones-quien-votar",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -945,8 +1015,8 @@
       "publishedAt": "Sun, 04 Oct 2026 16:47:22 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-carro-limpio",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -962,8 +1032,8 @@
       "publishedAt": "Sun, 04 Oct 2026 15:37:43 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-murillo-ortega",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -979,8 +1049,8 @@
       "publishedAt": "Sun, 04 Oct 2026 12:35:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-lucho-hernandez",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -996,25 +1066,8 @@
       "publishedAt": "Sun, 04 Oct 2026 07:00:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-acceso",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "084f824001afc898",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Seis presos políticos con penas cumplidas siguen tras las rejas, cinco son militares",
-      "summary": "Cumplieron sentencias de hasta siete años y medio de cárcel, pero tribunales y autoridades penitenciarias bloquean sus excarcelaciones.",
-      "url": "https://efectococuyo.com/la-humanidad/seis-presos-politicos-con-condena-cumplida-siguen-tras-las-rejas/",
-      "publishedAt": "Sun, 04 Oct 2026 06:50:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-seguridad-venezuela-seguridad-seis-presos",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1030,8 +1083,8 @@
       "publishedAt": "Sat, 03 Oct 2026 15:57:33 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-lugar-ideal",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1047,8 +1100,8 @@
       "publishedAt": "Sat, 03 Oct 2026 14:47:03 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-sigue-millones",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1064,8 +1117,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-santiago",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1081,8 +1134,8 @@
       "publishedAt": "Fri, 02 Oct 2026 23:22:32 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-familiares-denuncian",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1098,25 +1151,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:56:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-universidades-construyen",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c7777b897a37e589",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Portabilidad numérica en Nicaragua: ¿libertad para el usuario o negocio de la dictadura?",
-      "summary": "El Instituto Nicaragüense de Telecomunicaciones y Correos (Telcor) dio el paso que había evitado durante muchos años: iniciar el proceso para que en Nicaragua exista la portabilidad numérica, que consiste en permitir a los usuarios cambiar de empresa de telefo",
-      "url": "https://confidencial.digital/analisis/portabilidad-numerica-en-nicaragua-libertad-para-el-usuario-o-negocio-de-la-dictadura/",
-      "publishedAt": "Fri, 02 Oct 2026 22:38:26 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-portabilidad-numerica",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1132,8 +1168,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:32:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cierre-beca",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1149,8 +1185,8 @@
       "publishedAt": "Fri, 02 Oct 2026 20:23:29 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-autoridad-like",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1166,8 +1202,8 @@
       "publishedAt": "Fri, 02 Oct 2026 14:27:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-vigilancia-censura",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1183,8 +1219,8 @@
       "publishedAt": "Fri, 02 Oct 2026 13:02:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-hermosilla-mecanismo",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1200,8 +1236,8 @@
       "publishedAt": "Fri, 02 Oct 2026 12:57:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-hermosilla",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1217,8 +1253,8 @@
       "publishedAt": "Thu, 01 Oct 2026 23:38:19 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-mineria-arrastra",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     },
     {
@@ -1234,25 +1270,8 @@
       "publishedAt": "Thu, 01 Oct 2026 22:16:45 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-error-informatico",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8c265170efacfb96",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Los documentos internos del Primer Comando de la Capital que muestran cómo operaba la célula que trató de instalar en Chile",
-      "summary": "La entrada Los documentos internos del Primer Comando de la Capital que muestran cómo operaba la célula que trató de instalar en Chile se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/01/los-documentos-internos-del-primer-comando-de-la-capital-que-muestran-como-operaba-la-celula-que-trato-de-instalar-en-chile/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=los-documentos-internos-del-primer-comando-de-la-capital-que-muestran-como-operaba-la-celula-que-trato-de-instalar-en-chile",
-      "publishedAt": "Thu, 01 Oct 2026 18:59:59 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-documentos-internos",
-      "firstSeenAt": "2026-10-04T21:05:25.754Z",
-      "lastSeenAt": "2026-10-04T21:05:25.754Z",
+      "firstSeenAt": "2026-10-05T04:56:34.586Z",
+      "lastSeenAt": "2026-10-05T04:56:34.586Z",
       "seenCount": 1
     }
   ]
