@@ -1,18 +1,13 @@
 {
-  "generatedAt": "2026-10-05T23:54:31.393Z",
-  "count": 57,
-  "failures": [
-    {
-      "source": "efecto-cocuyo-venezuela",
-      "error": "403 Forbidden"
-    }
-  ],
+  "generatedAt": "2026-10-06T05:44:12.939Z",
+  "count": 66,
+  "failures": [],
   "stats": {
-    "generatedAt": "2026-10-05T23:54:31.393Z",
-    "activeSignals": 57,
-    "archiveSignals": 115,
+    "generatedAt": "2026-10-06T05:44:12.939Z",
+    "activeSignals": 66,
+    "archiveSignals": 124,
     "countriesCovered": 8,
-    "highPrioritySignals": 25,
+    "highPrioritySignals": 27,
     "averagePoliticalScore": 6.42
   },
   "briefings": [
@@ -47,6 +42,20 @@
       "summary": "Foco en Instituciones, Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "Diputados: la oposición está todavía lejos del número para activar la sesión en rechazo del DNU 70/23",
+      "leadUrl": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-esta-aun-lejos-del-numero-para-activar-la-sesion-en-rechazo-del-dnu-7023-nid05102026/",
+      "focusTopics": [
+        "Economia politica"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 11,
+      "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
+    },
+    {
       "country": "Espana",
       "priority": "Alta",
       "leadTitle": "Aznar: \"Si Pedro Sánchez puede formar gobierno tras las elecciones del 29 de noviembre, la Monarquía se terminaría\"",
@@ -59,22 +68,22 @@
         "El Pais"
       ],
       "signalCount": 10,
-      "summary": "Foco en Elecciones. Vigilar El Mundo y El Mundo."
+      "summary": "Foco en Elecciones. Vigilar El Mundo y El Pais."
     },
     {
-      "country": "Argentina",
+      "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "Diputados: la oposición está todavía lejos del número para activar la sesión en rechazo del DNU 70/23",
-      "leadUrl": "https://www.lanacion.com.ar/politica/diputados-la-oposicion-esta-aun-lejos-del-numero-para-activar-la-sesion-en-rechazo-del-dnu-7023-nid05102026/",
+      "leadTitle": "Díaz-Balart: 24 de julio de 2027 es una buena fecha para elecciones en Venezuela",
+      "leadUrl": "https://efectococuyo.com/internacionales/diaz-balart-24-de-julio-de-2027-es-una-buena-fecha-para-elecciones-en-venezuela/",
       "focusTopics": [
-        "Economia politica",
-        "Instituciones"
+        "Elecciones",
+        "Diplomacia"
       ],
       "topSources": [
-        "La Nacion"
+        "Efecto Cocuyo"
       ],
-      "signalCount": 10,
-      "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
+      "signalCount": 8,
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Cuba",
@@ -93,48 +102,33 @@
       "summary": "Foco en Sociedad, Instituciones, Seguridad. Vigilar 14ymedio y 14ymedio."
     },
     {
-      "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Caída en delitos que destacó Abelardo es real, pero omite contexto",
-      "leadUrl": "https://www.lasillavacia.com/detector-de-mentiras/caida-en-delitos-que-destaco-abelardo-es-real-pero-omite-contexto/",
-      "focusTopics": [
-        "Seguridad",
-        "Gobernabilidad",
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Seguridad, Gobernabilidad, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Francis Allison: “Estamos en una posición que podemos revertir esto [las cifras]” |Entrevista",
-      "leadUrl": "https://elcomercio.pe/politica/entrevista-francis-allison-estamos-en-una-posicion-que-podemos-revertir-esto-alcaldia-de-lima-rafael-lopez-aliaga-avanza-pais-apuesplan-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones. Vigilar El Comercio y El Comercio."
-    },
-    {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Presidente de OSE tras críticas por licitación de Casupá: “No vamos a adjudicar hasta tener la autorización ambiental previa”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/presidente-de-ose-tras-criticas-por-licitacion-de-casupa-no-vamos-a-adjudicar-hasta-tener-la-autorizacion-ambiental-previa/",
+      "leadTitle": "Rafael Michelini en homenaje a Zelmar: “Capaz algún día no ganamos elecciones, pero tenemos que ser fieles a nuestros principios”",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/rafael-michelini-en-homenaje-a-zelmar-capaz-algun-dia-no-ganamos-elecciones-pero-tenemos-que-ser-fieles-a-nuestros-principios/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 2,
+      "signalCount": 4,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Caída en delitos que destacó Abelardo es real, pero omite contexto",
+      "leadUrl": "https://www.lasillavacia.com/detector-de-mentiras/caida-en-delitos-que-destaco-abelardo-es-real-pero-omite-contexto/",
+      "focusTopics": [
+        "Seguridad",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     }
   ],
   "signals": [
@@ -151,8 +145,25 @@
       "publishedAt": "Mon, 05 Oct 2026 22:08:40 +0200",
       "politicalScore": 17,
       "eventKey": "espana-elecciones-espana-elecciones-aznar-pedro",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4f1b1b29edc84b2f",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”",
+      "summary": "El presidente y su núcleo duro ya hablaban de elecciones el jueves por la tarde, cuando empezaron a conocer que Junts iba al ‘no’. Las dudas eran por cómo está la izquierda, pero nunca se vio otra opción más que convocar ya",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html",
+      "publishedAt": "Tue, 06 Oct 2026 03:30:01 GMT",
+      "politicalScore": 15,
+      "eventKey": "espana-elecciones-espana-elecciones-gesto-sanchez",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -168,8 +179,59 @@
       "publishedAt": "Mon, 05 Oct 2026 15:47:16 +0200",
       "politicalScore": 15,
       "eventKey": "espana-elecciones-espana-elecciones-nietos-supremo",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "832ae918b66b3622",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Rafael Michelini en homenaje a Zelmar: “Capaz algún día no ganamos elecciones, pero tenemos que ser fieles a nuestros principios”",
+      "summary": "En un evento organizado por el FA, el dirigente afirmó que “hay que pedir más” en la búsqueda de verdad y justicia, pero “sin denostar y sin desmerecer que nosotros le fuimos ganando, paso a paso, esta lucha contra la impunidad”. En La Huella de Seregni, y con",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/rafael-michelini-en-homenaje-a-zelmar-capaz-algun-dia-no-ganamos-elecciones-pero-tenemos-que-ser-fieles-a-nuestros-principios/",
+      "publishedAt": "Tue, 06 Oct 2026 00:06:10 -0300",
+      "politicalScore": 14,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-rafael-michelini",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "78df9ba20766d640",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Todos los proyectos que caen con las nuevas elecciones tras una legislatura con 22 leyes y 43 decretos",
+      "summary": "El Gobierno intentará aprobar en la diputación permanente dos decretos de vivienda, otro de la dana y el de las medidas por la guerra de Irán",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-06/todos-los-proyectos-que-caen-con-las-nuevas-elecciones-tras-una-legislatura-con-22-leyes-y-43-decretos.html",
+      "publishedAt": "Tue, 06 Oct 2026 03:30:01 GMT",
+      "politicalScore": 13,
+      "eventKey": "espana-elecciones-espana-elecciones-todos-proyectos",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "22ed35f4c2eae984",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "La última batalla de un viejo guerrero",
+      "summary": "Los resultados de las elecciones brasileñas realizadas el domingo tuvieron, sin duda, un fuerte impacto político en Uruguay, tanto en el oficialismo frenteamplista como en la oposición. El desempeño de las fuerzas alineadas tras Flávio Bolsonaro le aseguró una",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/la-ultima-batalla-de-un-viejo-guerrero/",
+      "publishedAt": "Tue, 06 Oct 2026 00:26:50 -0300",
+      "politicalScore": 13,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-ultima-batalla",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -185,8 +247,8 @@
       "publishedAt": "Mon, 05 Oct 2026 08:14:18 GMT",
       "politicalScore": 12,
       "eventKey": "espana-elecciones-espana-elecciones-sanchez-adelanta",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -202,8 +264,8 @@
       "publishedAt": "Mon, 05 Oct 2026 23:36:14 +0000",
       "politicalScore": 11,
       "eventKey": "chile-economia-politica-chile-economia-politica-gobierno",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -219,25 +281,8 @@
       "publishedAt": "Mon, 05 Oct 2026 00:33:58 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-lula-flavio",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c033f59602404931",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Un precedente que divide a los juristas: ¿es constitucional aprobar los decretos de vivienda tras la disolución de las Cortes?",
-      "summary": "El Gobierno de Pedro Sánchez ya recurrió a la vía de la Diputación Permanente del Congreso para aprobar una norma sobre vivienda rechazada por el Pleno, pero en circunstancias distintas",
-      "url": "https://elpais.com/espana/2026-10-05/un-precedente-con-muchas-y-radicales-dudas-es-constitucional-aprobar-los-decretos-de-vivienda-tras-la-disolucion-de-las-cortes.html",
-      "publishedAt": "Mon, 05 Oct 2026 18:05:03 GMT",
-      "politicalScore": 10,
-      "eventKey": "espana-instituciones-espana-instituciones-precedente-divide",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -253,8 +298,8 @@
       "publishedAt": "Mon, 05 Oct 2026 16:44:21 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diputados",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -270,25 +315,8 @@
       "publishedAt": "Mon, 05 Oct 2026 15:41:05 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
-      "seenCount": 1
-    },
-    {
-      "id": "57cb61c26b06cb26",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Uno de los gremios estatales activa un paro de media jornada para sumarse a la protesta contra la Corte Suprema",
-      "summary": "La ATE dispuso para este martes un cese de actividades a partir de las 12 para garantizar que sus militantes concurran a la marcha al Palacio de Justicia en rechazo al fallo que libera la venta de tierras a extranjeros",
-      "url": "https://www.lanacion.com.ar/politica/uno-de-los-gremios-estatales-activa-un-paro-de-media-jornada-para-sumarse-a-la-protesta-contra-la-nid05102026/",
-      "publishedAt": "Mon, 05 Oct 2026 15:14:55 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-instituciones-argentina-instituciones-gremios-estatales",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -304,25 +332,8 @@
       "publishedAt": "Mon, 05 Oct 2026 07:15:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-impacto-hemisferico",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3b6cbda1e29168e5",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Francis Allison: “Estamos en una posición que podemos revertir esto [las cifras]” |Entrevista",
-      "summary": "El candidato de Avanza País para la alcaldía de Lima, Francis Allison, dice ahora que peleará “hasta el último voto”, luego de que en el conteo rápido de Datum y las cifras de la Oficina Nacional de Procesos Electorales (ONPE), lo ubican a poco más de 44 mil v",
-      "url": "https://elcomercio.pe/politica/entrevista-francis-allison-estamos-en-una-posicion-que-podemos-revertir-esto-alcaldia-de-lima-rafael-lopez-aliaga-avanza-pais-apuesplan-noticia/",
-      "publishedAt": "Mon, 05 Oct 2026 23:23:57 +0000",
-      "politicalScore": 9,
-      "eventKey": "peru-elecciones-peru-elecciones-francis-allison",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -338,59 +349,8 @@
       "publishedAt": "Mon, 05 Oct 2026 18:50:52 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a2cb1bf29f9b0180",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Presidente de OSE tras críticas por licitación de Casupá: “No vamos a adjudicar hasta tener la autorización ambiental previa”",
-      "summary": "Pablo Ferreri dijo que haber hecho “primero una cosa y después la otra” hubiese implicado “perder aproximadamente un año”, mientras que las obras “tienen un cierto grado de urgencia”. Este lunes, Panorama informativo de la diaria Radio recibió al presidente de",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/presidente-de-ose-tras-criticas-por-licitacion-de-casupa-no-vamos-a-adjudicar-hasta-tener-la-autorizacion-ambiental-previa/",
-      "publishedAt": "Mon, 05 Oct 2026 14:58:30 -0300",
-      "politicalScore": 9,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-presidente-criticas",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
-      "seenCount": 1
-    },
-    {
-      "id": "54e8dd68e38cc5fb",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "El radical Cornejo negocia con Karina Milei y busca correr a Petri de la carrera por su sucesión en Mendoza",
-      "summary": "El gobernador confía en que La Libertad Avanza no presente un candidato competitivo a cambio de apoyo a leyes clave en el Congreso",
-      "url": "https://www.lanacion.com.ar/politica/el-radical-cornejo-negocia-con-karina-milei-y-busca-correr-a-petri-de-la-carrera-por-su-sucesion-en-nid05102026/",
-      "publishedAt": "Mon, 05 Oct 2026 14:08:38 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-radical",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ac943a34277f9db9",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "El Consejo de Ministros aprobará mañana unos decretos de vivienda similares a los que cayeron para que los vote la Diputación Permanente",
-      "summary": "Con las Cortes disueltas, el apoyo de Junts resulta irrelevante en dicho órgano del Congreso",
-      "url": "https://elpais.com/espana/2026-10-05/el-consejo-de-ministros-aprobara-manana-los-decretos-de-vivienda-para-que-los-vote-la-diputacion-permanente.html",
-      "publishedAt": "Mon, 05 Oct 2026 09:44:52 GMT",
-      "politicalScore": 9,
-      "eventKey": "espana-instituciones-espana-instituciones-consejo-ministros",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -406,25 +366,25 @@
       "publishedAt": "Mon, 05 Oct 2026 10:04:09 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-ayuso-celebra",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
-      "id": "abdc764fcced2e08",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
+      "id": "9d70baac40b5ea84",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "MVOT e INAU firmaron convenio para el subsidio completo de hasta 200 alquileres por parte de familias a cargo de menores de edad",
-      "summary": "La medida comprende también el acceso a oportunidades laborales y de capacitación, y pretende garantizar la continuidad de las capacidades de cuidado. Este lunes, el Ministerio de Vivienda y Ordenamiento Territorial (MVOT) y el Instituto del Niño y Adolescente",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/mvot-e-inau-firmaron-convenio-para-el-subsidio-completo-de-hasta-200-alquileres-por-parte-de-familias-a-cargo-de-menores-de-edad/",
-      "publishedAt": "Mon, 05 Oct 2026 20:07:11 -0300",
+      "title": "Feijóo no teme otra remontada de Sánchez y niega el paralelismo con las elecciones de 2023",
+      "summary": "Ayuso arranca la precampaña marcando el paso a Génova con el fantasma del pucherazo",
+      "url": "https://elpais.com/espana/2026-10-06/feijoo-no-teme-otra-remontada-de-sanchez-y-niega-el-paralelismo-con-las-elecciones-de-2023.html",
+      "publishedAt": "Tue, 06 Oct 2026 03:30:01 GMT",
       "politicalScore": 8,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-mvot-inau",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "eventKey": "espana-elecciones-espana-elecciones-feijoo-teme",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -440,8 +400,8 @@
       "publishedAt": "Mon, 05 Oct 2026 21:03:34 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-camara",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -457,8 +417,25 @@
       "publishedAt": "Mon, 05 Oct 2026 17:37:21 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-promete",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7e2fd09959c21c6d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Milei vuelve a mirar al interior del país y proyecta un raid de visitas a nueve provincias hasta fin de año",
+      "summary": "El presidente tiene planeado visitar proyectos involucrados con el RIGI; este martes habrá una avanzada hacia Salta, con Karina Milei y Diego Santilli; los recibirán los aliados Sáenz y Jalil",
+      "url": "https://www.lanacion.com.ar/politica/milei-vuelve-a-mirar-al-interior-del-pais-y-proyecta-un-raid-de-visitas-a-nueve-provincias-hasta-fin-nid05102026/",
+      "publishedAt": "Tue, 06 Oct 2026 01:21:13 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -474,8 +451,76 @@
       "publishedAt": "Mon, 05 Oct 2026 22:39:35 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-caida-delitos",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "800f4a9fa7672752",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Díaz-Balart: 24 de julio de 2027 es una buena fecha para elecciones en Venezuela",
+      "summary": "El congresista republicano no tiene dudas de que las elecciones presidenciales de Venezuela deben realizarse durante la permanencia de Donald Trump en la Casa Blanca",
+      "url": "https://efectococuyo.com/internacionales/diaz-balart-24-de-julio-de-2027-es-una-buena-fecha-para-elecciones-en-venezuela/",
+      "publishedAt": "Mon, 05 Oct 2026 19:27:18 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-diaz-balart",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4c9d38d6487cd523",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Cabello defiende Ley contra el Odio: Fue una necesidad para frenar desvaríos",
+      "summary": "Cabello convocó a movilizaciones del Psuv el 7 y 12 de octubre en Caracas",
+      "url": "https://efectococuyo.com/politica/cabello-defiende-ley-contra-el-odio-fue-una-necesidad-para-frenar-desvarios/",
+      "publishedAt": "Mon, 05 Oct 2026 19:17:55 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-cabello-defiende",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6cbea2890eb3c8ca",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Comisión especial anuncia cambio de nombre de Ley contra el Odio y revisión de casos de “mala aplicación”",
+      "summary": "Sobre propuesta Machado de reunirse con interina, Infante dijo: \"Que cada quien haga lo que tenga que hacer en función del diálogo\"",
+      "url": "https://efectococuyo.com/politica/comision-especial-anuncia-cambio-de-nombre-de-ley-contra-el-odio-y-revision-de-casos-de-mala-aplicacion/",
+      "publishedAt": "Mon, 05 Oct 2026 17:10:16 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-comision-especial",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ca81d2814d4a4147",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Pedro Sánchez convoca elecciones anticipadas el 29 de noviembre",
+      "summary": "Justificó el adelanto por la necesidad de movilizar a la izquierda y lograr en el Parlamento \"una mayoría mucho más amplia\"",
+      "url": "https://efectococuyo.com/internacionales/pedro-sanchez-convoca-elecciones-anticipadas-el-29-de-noviembre/",
+      "publishedAt": "Mon, 05 Oct 2026 16:43:02 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-pedro-sanchez",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -491,8 +536,8 @@
       "publishedAt": "Mon, 05 Oct 2026 07:20:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-rosario-murillo",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -508,8 +553,8 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 7,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-paisaje-despues",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -525,8 +570,8 @@
       "publishedAt": "Sat, 03 Oct 2026 17:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-menos-muertos",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -542,25 +587,42 @@
       "publishedAt": "Fri, 02 Oct 2026 15:39:08 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
-      "id": "c367176e70bb4c0c",
-      "country": "Espana",
-      "source": "El Pais",
+      "id": "1079b83f304c7287",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Aznar, sobre si Sánchez vuelve a formar Gobierno el 29-N: “La monarquía que hemos conocido se terminaría”",
-      "summary": "El expresidente cree que la huelga general de las próximas semanas se hace contra el PP: “Es lo que faltaba por ver en España”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-05/aznar-sobre-si-sanchez-vuelve-a-formar-gobierno-el-29-n-la-monarquia-que-hemos-conocido-se-terminaria.html",
-      "publishedAt": "Mon, 05 Oct 2026 19:02:42 GMT",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Lamelas recibió en la Argentina a una delegación del Exim Bank y DFC",
+      "summary": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-celebro-el-resultado-en-brasil-y-dijo-que-el-nid05102026/",
+      "publishedAt": "Tue, 06 Oct 2026 04:54:46 +0000",
       "politicalScore": 6,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-aznar-sanchez",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-lamelas",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9c858f82fdd0ef56",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Reunión del Cari. Ante el embajador británico, el canciller Quirno fustigó la “ocupación” de las Islas Malvinas",
+      "summary": "El responsable de la diplomacia nacional también cuestionó a quienes “contribuyan” con el proyecto Sea Lion de explotación petrolera en aguas argentinas",
+      "url": "https://www.lanacion.com.ar/politica/reunion-del-cari-ante-el-embajador-britanico-el-canciller-quirno-fustigo-la-ocupacion-de-las-islas-nid06102026/",
+      "publishedAt": "Tue, 06 Oct 2026 03:25:24 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-diplomacia-argentina-diplomacia-reunion-cari",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -576,8 +638,8 @@
       "publishedAt": "Mon, 05 Oct 2026 17:22:01 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-elias-chevez",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -593,8 +655,8 @@
       "publishedAt": "Mon, 05 Oct 2026 16:01:36 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-parlacen-analizara",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -610,8 +672,8 @@
       "publishedAt": "Mon, 05 Oct 2026 11:53:18 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-deberia-aprender",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -627,25 +689,25 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-casa-kilometro",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
-      "id": "f071641bb3aa6eb4",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "id": "b8400d3b5c49b3a2",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Flávio Bolsonaro vs. Lula: ¿qué necesita cada uno para ganar la segunda vuelta en Brasil?",
-      "summary": "Flávio Bolsonaro tiene una estrecha ventaja, pero necesita consolidar el voto de la derecha y captar apoyos de los candidatos que quedaron fuera. En cambio, Lula deberá apostar por movilizar a los abstencionistas y recuperar terreno, en una elección que los an",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/segunda-vuelta-en-brasil-que-necesita-flavio-bolsonaro-y-lula-da-silva-para-ganar-las-elecciones-presidenciales-noticia/",
-      "publishedAt": "Mon, 05 Oct 2026 23:33:04 +0000",
+      "title": "Duerma informado con las movidas de este 5 de octubre de 2026",
+      "summary": "El presidente revive las Fuerzas de Tarea Conjunta y la Flip defiende la libertad de prensa. Esto dejó la tarde. The post Duerma informado con las movidas de este 5 de octubre de 2026 appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/duerma-informado-con-las-movidas-de-este-5-de-octubre-de-2026/",
+      "publishedAt": "Tue, 06 Oct 2026 00:28:47 +0000",
       "politicalScore": 5,
-      "eventKey": "peru-elecciones-peru-elecciones-flavio-bolsonaro",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -661,8 +723,8 @@
       "publishedAt": "Mon, 05 Oct 2026 22:16:55 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-silla-responde",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -678,8 +740,8 @@
       "publishedAt": "Mon, 05 Oct 2026 21:47:06 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-procuraduria",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -695,8 +757,8 @@
       "publishedAt": "Mon, 05 Oct 2026 21:41:33 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-aunque-trabajo",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -712,8 +774,25 @@
       "publishedAt": "Mon, 05 Oct 2026 23:12:56 +0200",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-fraude-constitucional",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4ca4ee32a26a35ac",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "La Causa R propone un fondo de regalías petroleras para &#8220;rescatar el salario digno&#8221;",
+      "summary": "Andrea Tavares alertó sobre la desestabilización y el alza constante de las tasas cambiarias",
+      "url": "https://efectococuyo.com/politica/la-causa-r-propone-un-fondo-de-regalias-petroleras-para-rescatar-el-salario-digno/",
+      "publishedAt": "Mon, 05 Oct 2026 18:01:26 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-causa-propone",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -729,8 +808,8 @@
       "publishedAt": "Sat, 03 Oct 2026 16:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-naza-premio",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -746,8 +825,25 @@
       "publishedAt": "Sat, 03 Oct 2026 13:02:58 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-instituciones-cuba-instituciones-trasladan-villa",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "65fea40a6987dba6",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Uruguay: entre lo necesario y lo probable",
+      "summary": "Uruguay parece tener bastante claro cuáles son algunos de los cambios que necesita. Hay diagnósticos que se repiten: un Estado que debe mejorar su capacidad de respuesta, un sistema tributario que requiere ajustes, regulaciones laborales que dialoguen mejor co",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/uruguay-entre-lo-necesario-y-lo-probable/",
+      "publishedAt": "Tue, 06 Oct 2026 00:26:43 -0300",
+      "politicalScore": 4,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-necesario-probable",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -763,25 +859,25 @@
       "publishedAt": "Mon, 05 Oct 2026 22:41:26 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sumo",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
-      "id": "0abe3f3886ece0e3",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "id": "e4d39e8a0ebae6da",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
       "priority": "Media",
-      "title": "Juez levanta medida cautelar sobre vía Calamar-Miraflores en Guaviare",
-      "summary": "Un juez ordenó levantar la medida cautelar que restringía la intervención de la vía ilegal que comunica los municipios de Calamar y Miraflores, Guaviare. The post Juez levanta medida cautelar sobre vía Calamar-Miraflores en Guaviare appeared first on La Silla ",
-      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/juez-levanta-medida-cautelar-sobre-via-calamar-miraflores-en-guaviare/",
-      "publishedAt": "Mon, 05 Oct 2026 20:05:00 +0000",
+      "title": "Pragmatismo con Venezuela mientras llega la democracia: lo que se espera de un nuevo gobierno en Brasil",
+      "summary": "Juan Francisco Contreras dice que cercanía de Bolsonaro con Trump facilitaría relaciones con Venezuela. Luis Daniel Álvarez estima que prevalecerán relaciones comerciales",
+      "url": "https://efectococuyo.com/internacionales/pragmatismo-con-venezuela-mientras-llega-la-democracia-lo-que-se-espera-de-un-nuevo-gobierno-en-brasil/",
+      "publishedAt": "Mon, 05 Oct 2026 22:10:20 +0000",
       "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-juez-levanta",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-pragmatismo-mientras",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -797,8 +893,8 @@
       "publishedAt": "Mon, 05 Oct 2026 20:00:15 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-seguridad-argentina-seguridad-emerenciano-sena",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -814,8 +910,8 @@
       "publishedAt": "Mon, 05 Oct 2026 19:37:19 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-hizo",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -831,8 +927,8 @@
       "publishedAt": "Mon, 05 Oct 2026 17:54:20 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-estado-cita",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -848,8 +944,8 @@
       "publishedAt": "Mon, 05 Oct 2026 16:30:44 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-advertencia",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -865,8 +961,8 @@
       "publishedAt": "Mon, 05 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-evangelizar-civilizar",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -882,8 +978,8 @@
       "publishedAt": "Sun, 04 Oct 2026 07:05:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-inteligencia-artificial",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -899,8 +995,25 @@
       "publishedAt": "Sat, 03 Oct 2026 20:33:28 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ed436d2a0acada84",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "El caso de Brasil: las coaliciones sociales en los territorios importan",
+      "summary": "El bolsonarismo brasileño es mucho más potente que el mileísmo argentino. Mientras el bolsonarismo organiza una coalición social, el mileísmo es una fuerza fluida que marcha hacia su descomposición dentro de una nueva reorganización pendular de la derecha arge",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/10/el-caso-de-brasil-las-coaliciones-sociales-en-los-territorios-importan/",
+      "publishedAt": "Tue, 06 Oct 2026 00:26:45 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-caso-brasil",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -916,8 +1029,42 @@
       "publishedAt": "Mon, 05 Oct 2026 20:02:37 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-acusan-propaganda",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bde115904b108534",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Abogados de sindicalista Orlando Ramírez introducirán habeas corpus para conocer su paradero",
+      "summary": "Se encuentra desaparecido tras una protesta el 8 de septiembre",
+      "url": "https://efectococuyo.com/la-humanidad/abogados-de-sindicalista-orlando-ramirez-introduciran-habeas-corpus-para-conocer-su-paradero/",
+      "publishedAt": "Mon, 05 Oct 2026 19:47:52 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-abogados-sindicalista",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ad50722c29acc3fb",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Fiscales de EEUU argumentan que el silencio del interinato debilita las pretensiones de inmunidad de Maduro",
+      "summary": "El escrito subraya que Maduro y su esposa, Cilia Flores, son “exfuncionarios de un régimen ilegítimo\"",
+      "url": "https://efectococuyo.com/internacionales/fiscales-de-eeuu-argumentan-que-el-silencio-del-interinato-debilita-las-pretensiones-de-inmunidad-de-maduro/",
+      "publishedAt": "Mon, 05 Oct 2026 18:24:40 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-fiscales",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -933,8 +1080,8 @@
       "publishedAt": "Mon, 05 Oct 2026 12:35:24 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-justicia-espanola",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -950,8 +1097,8 @@
       "publishedAt": "Sun, 04 Oct 2026 21:33:14 +0000",
       "politicalScore": 3,
       "eventKey": "chile-seguridad-chile-seguridad-anos-crimen",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -967,8 +1114,8 @@
       "publishedAt": "Sun, 04 Oct 2026 15:37:43 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-murillo-ortega",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -984,8 +1131,8 @@
       "publishedAt": "Sun, 04 Oct 2026 12:35:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-lucho-hernandez",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1001,8 +1148,8 @@
       "publishedAt": "Sun, 04 Oct 2026 07:00:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-becas-acceso",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1018,8 +1165,8 @@
       "publishedAt": "Sat, 03 Oct 2026 07:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-alla-santiago",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1035,8 +1182,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:56:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-universidades-construyen",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1052,8 +1199,8 @@
       "publishedAt": "Fri, 02 Oct 2026 22:32:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cierre-beca",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1069,8 +1216,8 @@
       "publishedAt": "Fri, 02 Oct 2026 20:23:29 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-autoridad-like",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1086,8 +1233,8 @@
       "publishedAt": "Fri, 02 Oct 2026 14:27:52 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-vigilancia-censura",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     },
     {
@@ -1103,8 +1250,8 @@
       "publishedAt": "Fri, 02 Oct 2026 13:02:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-hermosilla-mecanismo",
-      "firstSeenAt": "2026-10-05T23:54:31.393Z",
-      "lastSeenAt": "2026-10-05T23:54:31.393Z",
+      "firstSeenAt": "2026-10-06T05:44:12.939Z",
+      "lastSeenAt": "2026-10-06T05:44:12.939Z",
       "seenCount": 1
     }
   ]
