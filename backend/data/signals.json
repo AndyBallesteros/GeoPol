@@ -1,32 +1,21 @@
 {
-  "generatedAt": "2026-10-21T04:03:32.865Z",
-  "count": 65,
-  "failures": [],
+  "generatedAt": "2026-10-21T11:28:07.398Z",
+  "count": 61,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-10-21T04:03:32.865Z",
-    "activeSignals": 65,
-    "archiveSignals": 123,
-    "countriesCovered": 9,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 6.11
+    "generatedAt": "2026-10-21T11:28:07.398Z",
+    "activeSignals": 61,
+    "archiveSignals": 119,
+    "countriesCovered": 8,
+    "highPrioritySignals": 28,
+    "averagePoliticalScore": 6.43
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "Michelle Bolsonaro, de primera dama a senadora",
-      "leadUrl": "https://confidencial.digital/opinion/michelle-bolsonaro-de-primera-dama-a-senadora/",
-      "focusTopics": [
-        "Instituciones",
-        "Economia politica",
-        "Elecciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 13,
-      "summary": "Foco en Instituciones, Economia politica, Elecciones. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -58,19 +47,35 @@
       "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
-      "country": "Colombia",
+      "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "Con 23 votos, Danilo Rojas es el nuevo presidente de la JEP",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/con-23-votos-danilo-rojas-es-el-nuevo-presidente-de-la-jep/",
+      "leadTitle": "Brasil ante el espejo de Milei: ¿un modelo o una advertencia?",
+      "leadUrl": "https://confidencial.digital/opinion/brasil-ante-el-espejo-de-milei-un-modelo-o-una-advertencia/",
       "focusTopics": [
         "Elecciones",
+        "Instituciones",
         "Economia politica"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Por un error en el trámite, el presupuesto de 2027 podría salir por decreto",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/por-un-error-en-el-tramite-el-presupuesto-de-2027-podria-salir-por-decreto/",
+      "focusTopics": [
+        "Economia politica",
+        "Elecciones"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
       "signalCount": 7,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -78,15 +83,29 @@
       "leadTitle": "¿Se puede impedir votar a un español?",
       "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
+        "Elecciones"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Mundo."
+      "signalCount": 7,
+      "summary": "Foco en Elecciones. Vigilar El Pais y El Mundo."
+    },
+    {
+      "country": "Cuba",
+      "priority": "Alta",
+      "leadTitle": "La Fiscalía Provincial pide hasta 13 años de cárcel para los 19 acusados por las protestas de Morón",
+      "leadUrl": "https://www.14ymedio.com/cuba/fiscalia-provincial-pide-13-anos_1_1132177.html",
+      "focusTopics": [
+        "Economia politica",
+        "Sociedad"
+      ],
+      "topSources": [
+        "14ymedio"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Economia politica, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Uruguay",
@@ -104,50 +123,18 @@
       "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Cuba",
-      "priority": "Alta",
-      "leadTitle": "La Fiscalía Provincial pide hasta 13 años de cárcel para los 19 acusados por las protestas de Morón",
-      "leadUrl": "https://www.14ymedio.com/cuba/fiscalia-provincial-pide-13-anos_1_1132177.html",
-      "focusTopics": [
-        "Economia politica",
-        "Sociedad"
-      ],
-      "topSources": [
-        "14ymedio"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Economia politica, Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
       "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Chantal Toledo, hija de Alejandro Toledo, visitó a su padre por primera vez en el penal Barbadillo",
-      "leadUrl": "https://elcomercio.pe/politica/actualidad/chantal-toledo-hija-de-alejandro-toledo-visito-a-su-padre-por-primera-vez-en-el-penal-barbadillo-ultimas-noticia/",
+      "priority": "Media",
+      "leadTitle": "“Se ha vuelto casi imposible en Latinoamérica adoptar medidas beneficiosas a largo plazo por la polarización”",
+      "leadUrl": "https://elcomercio.pe/mundo/latinoamerica/mauricio-cardenas-se-ha-vuelto-casi-imposible-en-latinoamerica-adoptar-de-medidas-beneficiosas-a-largo-por-la-polarizacion-noticia/",
       "focusTopics": [
-        "Gobernabilidad",
-        "Instituciones",
-        "Elecciones"
+        "Gobernabilidad"
       ],
       "topSources": [
         "El Comercio"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Gobernabilidad, Instituciones, Elecciones. Vigilar El Comercio y El Comercio."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Media",
-      "leadTitle": "MPV reitera ante el TSJ solicitud para designar una nueva directiva del BCV",
-      "leadUrl": "https://efectococuyo.com/politica/mpv-reitera-ante-el-tsj-solicitud-para-designar-una-nueva-directiva-del-bcv/",
-      "focusTopics": [
-        "Diplomacia",
-        "Instituciones"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 3,
-      "summary": "Foco en Diplomacia, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
     }
   ],
   "signals": [
@@ -164,8 +151,8 @@
       "publishedAt": "Wed, 21 Oct 2026 02:46:09 +0000",
       "politicalScore": 18,
       "eventKey": "argentina-elecciones-argentina-elecciones-patricia-bullrich",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -181,8 +168,42 @@
       "publishedAt": "Tue, 20 Oct 2026 21:34:04 -0300",
       "politicalScore": 17,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-orsi",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "582da81aabd59c43",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Milei trató de “impresentable dictador” y “delincuente ladrón” a Pedro Sánchez en su nueva visita a España",
+      "summary": "El Presidente participa de un evento económico en la capital, en el que llamó a “sacar a patadas a los socialistas” en las elecciones del mes que viene",
+      "url": "https://www.lanacion.com.ar/politica/milei-volvio-a-atacar-a-pedro-sanchez-en-su-visita-a-espana-es-un-impresentable-dictador-nid21102026/",
+      "publishedAt": "Wed, 21 Oct 2026 09:57:03 +0000",
+      "politicalScore": 13,
+      "eventKey": "argentina-elecciones-argentina-elecciones-milei-trato",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "525318c7c0175a24",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Brasil ante el espejo de Milei: ¿un modelo o una advertencia?",
+      "summary": "Las elecciones presidenciales de Brasil van rumbo a una segunda vuelta: Flávio Bolsonaro –hijo del desacreditado expresidente Jair Bolsonaro– superó en la primera vuelta al actual presidente, Luiz Inácio Lula da Silva, pero ninguno de ellos obtuvo la mayoría n",
+      "url": "https://confidencial.digital/opinion/brasil-ante-el-espejo-de-milei-un-modelo-o-una-advertencia/",
+      "publishedAt": "Wed, 21 Oct 2026 07:20:00 +0000",
+      "politicalScore": 13,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-brasil-espejo",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -198,25 +219,8 @@
       "publishedAt": "Tue, 20 Oct 2026 20:39:16 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-cancilleria",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "303ba481e762e97f",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "En la mesa política admitieron que el proyecto de ley sobre discapacidad genera divisiones internas",
-      "summary": "La mesa chica del oficialismo se reunió por más de dos horas en la Casa Rosada y analizó la iniciativa consensuada con Pro y la UCR que se debatirá mañana en Diputados",
-      "url": "https://www.lanacion.com.ar/politica/en-la-mesa-politica-admitieron-que-el-proyecto-de-ley-sobre-discapacidad-genera-divisiones-internas-nid20102026/",
-      "publishedAt": "Tue, 20 Oct 2026 19:26:36 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-mesa",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -232,8 +236,25 @@
       "publishedAt": "Tue, 20 Oct 2026 07:10:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-michelle-bolsonaro",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6faeacd8cf03b09e",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Por un error en el trámite, el presupuesto de 2027 podría salir por decreto",
+      "summary": "Senado y Cámara aprobaron versiones distintas del artículo 65 y no las conciliaron. Regiría el proyecto original, sin los cambios en salud ni el recorte al pago de deuda. The post Por un error en el trámite, el presupuesto de 2027 podría salir por decreto appe",
+      "url": "https://www.lasillavacia.com/en-vivo/por-un-error-en-el-tramite-el-presupuesto-de-2027-podria-salir-por-decreto/",
+      "publishedAt": "Wed, 21 Oct 2026 04:46:13 +0000",
+      "politicalScore": 11,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-error",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -249,8 +270,8 @@
       "publishedAt": "Tue, 20 Oct 2026 23:29:28 +0000",
       "politicalScore": 11,
       "eventKey": "colombia-elecciones-colombia-elecciones-votos-danilo",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -266,25 +287,8 @@
       "publishedAt": "Wed, 21 Oct 2026 00:07:29 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-otra",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5b7edf65228e55dd",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Florida emite una orden de arresto contra Raúl Castro por el derribo de avionetas de EE. UU.",
-      "summary": "La Fiscalía de Florida obtuvo una orden de arresto estatal contra el expresidente cubano Raúl Castro por conspiración para cometer asesinato en primer grado por el derribo en 1996 de dos avionetas de EE. UU. de la organización humanitaria Hermanos al Rescate, ",
-      "url": "https://confidencial.digital/mundo/florida-emite-una-orden-de-arresto-contra-raul-castro-por-el-derribo-de-avionetas-de-ee-uu/",
-      "publishedAt": "Mon, 19 Oct 2026 17:21:17 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-florida",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -300,8 +304,59 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6d9ce9511adb11dc",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "En España, Milei trató de “impresentable dictador” y “delincuente ladrón” a Pedro Sánchez",
+      "summary": "Lo hizo al iniciar su visita en un discurso que se cruza con la campaña electoral española; dijo que su viaje era para luchar contra “los enemigos de la libertad”",
+      "url": "https://www.lanacion.com.ar/politica/en-espana-milei-trato-de-impresentable-dictador-y-delincuente-ladron-a-pedro-sanchez-nid21102026/",
+      "publishedAt": "Wed, 21 Oct 2026 09:59:26 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-elecciones-argentina-elecciones-espana-milei",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7ed49f574cc4b587",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Universidades públicas de Nicaragua no recibirán el 6% completo en 2027",
+      "summary": "El régimen orteguista se quedará en 2027 con 1493 millones de córdobas que le corresponden por ley a las 12 universidad públicas de Nicaragua que reciben fondos del 6% constitucional. Según informó el presidente del Banco Central de Nicaragua, Ovidio Reyes, a ",
+      "url": "https://confidencial.digital/principal/universidades-publicas-de-nicaragua-no-recibiran-el-6-completo-en-2027/",
+      "publishedAt": "Wed, 21 Oct 2026 06:08:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-universidades",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "37e3412db8c68364",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "La respuesta de Oscar Zago ante un pedido de “acuerdo político” de Bullrich",
+      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+      "publishedAt": "Wed, 21 Oct 2026 05:40:58 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-respuesta",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -317,8 +372,8 @@
       "publishedAt": "Tue, 20 Oct 2026 22:32:19 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-colectoras-salen",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -334,8 +389,8 @@
       "publishedAt": "Tue, 20 Oct 2026 23:56:10 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-agosto",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -351,25 +406,8 @@
       "publishedAt": "Wed, 21 Oct 2026 00:02:03 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-censo-adulterado",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b068d1568f1cea37",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "El Tribunal del Mar tratará en noviembre el reclamo argentino por la explotación de hidrocarburos en las Islas Malvinas",
-      "summary": "El organismo de la ONU fijó las audiencias para el 10 y 11 del mes próximo; el gobierno de Milei reclama la suspensión de los trabajos del proyecto británico-israelí Sea Lion",
-      "url": "https://www.lanacion.com.ar/politica/el-tribunal-del-mar-tratara-en-noviembre-el-reclamo-argentino-por-la-explotacion-de-hidrocarburos-en-nid20102026/",
-      "publishedAt": "Tue, 20 Oct 2026 17:14:10 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-instituciones-argentina-instituciones-tribunal-tratara",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -385,42 +423,42 @@
       "publishedAt": "Tue, 20 Oct 2026 17:00:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-futuro-climatico",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "d70db95b7bcdb43d",
+      "id": "e582cce5c2153fdf",
       "country": "Espana",
       "source": "El Pais",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Una Cámara territorial reconvertida en la Cámara de oposición al Gobierno",
-      "summary": "El PP ha transformado los tres últimos años al Senado en su punta de lanza institucional contra el Ejecutivo retrasando la amnistía, con siete comisiones de investigación y sesiones de alto voltaje",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/una-camara-territorial-reconvertida-en-la-camara-de-oposicion-al-gobierno.html",
-      "publishedAt": "Wed, 21 Oct 2026 03:30:01 GMT",
+      "title": "Milei llama en Madrid “impresentable dictador” a Sánchez y pide “sacar a patadas a los socialistas”",
+      "summary": "El presidente argentino se reconoce amigo de Abascal y Ayuso y asegura que visita España para apoyarles en plena precampaña electoral",
+      "url": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html",
+      "publishedAt": "Wed, 21 Oct 2026 09:29:59 GMT",
       "politicalScore": 8,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-camara-territorial",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "eventKey": "espana-elecciones-espana-elecciones-milei-llama",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "57ff14f5406e1a14",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "01dd83acac9ff9f0",
+      "country": "Espana",
+      "source": "El Pais",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Chantal Toledo, hija de Alejandro Toledo, visitó a su padre por primera vez en el penal Barbadillo",
-      "summary": "Chantal Toledo, hija del expresidente Alejandro Toledo (2001-2006), visitó a su padre por primera vez en el penal Barbadillo de Ate, donde se encuentra cumpliendo dos condenas tras ser extraditado por Estados Unidos.",
-      "url": "https://elcomercio.pe/politica/actualidad/chantal-toledo-hija-de-alejandro-toledo-visito-a-su-padre-por-primera-vez-en-el-penal-barbadillo-ultimas-noticia/",
-      "publishedAt": "Wed, 21 Oct 2026 03:23:17 +0000",
+      "title": "Sánchez da la bienvenida a Milei con una lona en Ferraz y un vídeo: “Orgullosos de ser zurdos”",
+      "summary": "El PSOE aprovecha la visita del presidente argentino a Madrid para visibilizar la incomodidad de la derecha y reivindicar las políticas del Gobierno de España frente a los recortes del líder ultraderechista",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-10-21/sanchez-da-la-bienvenida-a-milei-con-una-lona-en-ferraz-y-un-video-orgullosos-de-ser-zurdos.html",
+      "publishedAt": "Wed, 21 Oct 2026 07:34:11 GMT",
       "politicalScore": 8,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-chantal-toledo",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "eventKey": "espana-instituciones-espana-instituciones-sanchez-bienvenida",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -436,8 +474,8 @@
       "publishedAt": "Wed, 21 Oct 2026 01:38:29 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-testimonio-gonzalo",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -453,8 +491,8 @@
       "publishedAt": "Wed, 21 Oct 2026 00:07:21 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-duerma",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -470,42 +508,25 @@
       "publishedAt": "Tue, 20 Oct 2026 22:41:13 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-votara-cambios",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "35b3ccdba8fb0bb8",
+      "id": "9a51a00ff58648fe",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Instituciones",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "La Justicia ordenó unificar los juicios de Hotesur y Los Sauces contra Cristina y Máximo Kirchner",
-      "summary": "Lo resolvió la Casación, a contramano de lo dispuesto por el Tribunal Oral; el juicio inicia este viernes e investiga posibles maniobras de lavado",
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-ordeno-unificar-los-juicios-de-hotesur-y-los-sauces-contra-cristina-y-maximo-kirchner-nid20102026/",
-      "publishedAt": "Tue, 20 Oct 2026 19:43:25 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-ordeno",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "13addf038a292382",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La calle juega en campaña: Ayuso se lanza contra las protestas mientras el Gobierno abraza incluso la huelga general",
-      "summary": "La derecha intenta comparar España con Francia pero el Ejecutivo cree que una movilización de la izquierda puede ayudar",
-      "url": "https://elpais.com/espana/2026-10-21/la-calle-juega-en-campana-ayuso-se-lanza-contra-las-protestas-mientras-el-gobierno-abraza-incluso-la-huelga-general.html",
-      "publishedAt": "Wed, 21 Oct 2026 03:30:01 GMT",
+      "title": "La chicana de Pedro Sánchez a Milei en su visita a España: publicó una imagen de “Fanático” de Lali",
+      "summary": "El gesto del español fue poco después de que el Presidente lo tildara de “impresentable dictador”",
+      "url": "https://www.lanacion.com.ar/politica/en-medio-de-la-visita-de-milei-pedro-sanchez-publico-un-spot-de-campana-zurdo-y-orgulloso-nid21102026/",
+      "publishedAt": "Wed, 21 Oct 2026 10:58:28 +0000",
       "politicalScore": 7,
-      "eventKey": "espana-elecciones-espana-elecciones-calle-juega",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-chicana",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -521,8 +542,8 @@
       "publishedAt": "Tue, 20 Oct 2026 22:16:45 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-chicana",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -538,8 +559,8 @@
       "publishedAt": "Tue, 20 Oct 2026 11:40:55 +0000",
       "politicalScore": 7,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-fiscalia",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -555,8 +576,8 @@
       "publishedAt": "Mon, 19 Oct 2026 22:57:35 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-caso",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -572,25 +593,42 @@
       "publishedAt": "Fri, 16 Oct 2026 18:18:41 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-estudio",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "4a420457164a7186",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
+      "id": "1bac02b4f134440a",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "La traición de Trump a Ucrania",
-      "summary": "La indignación que ha producido el boicot militar cometido por Trump a Ucrania no ha podido ser más grande. No solo colabora Trump con el imperio más agresor del mundo al haber suspendido todas las sanciones e iniciar un intercambio comercial. No solo ha roto ",
-      "url": "https://confidencial.digital/opinion/la-traicion-de-trump-a-ucrania/",
-      "publishedAt": "Mon, 19 Oct 2026 07:20:00 +0000",
+      "title": "Sánchez mima a los universitarios ante las elecciones: derecho a huelga, a conciliar, al psicólogo y a la desconexión digital",
+      "summary": "Los alumnos podrán ignorar las notificaciones de los campus salvo que sean urgencias académicas o alertas meteorológicas&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/10/21/6ad77811e9cf4aaf268b45b7.html",
+      "publishedAt": "Wed, 21 Oct 2026 01:27:44 +0200",
       "politicalScore": 6,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-traicion-trump",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "eventKey": "espana-elecciones-espana-elecciones-sanchez-mima",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "393a769ecd53dc1d",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "La Ertzaintza dejó libres el 26 de septiembre a los dos presuntos terroristas de Jardun \"porque no podían ser detenidos in fraganti\"",
+      "summary": "El consejero de Seguridad recalca que la Policía vasca \"ha respetado el derecho de todas las personas\" y responsabiliza al fiscal y al juez del encarcelamiento de los dos radicales vascos&nbsp; Leer",
+      "url": "https://www.elmundo.es/pais-vasco/2026/10/21/6ad8757ae4d4d82e648b45aa.html",
+      "publishedAt": "Wed, 21 Oct 2026 10:20:09 +0200",
+      "politicalScore": 6,
+      "eventKey": "espana-seguridad-espana-seguridad-ertzaintza-dejo",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -601,47 +639,13 @@
       "topic": "Economia politica",
       "priority": "Media",
       "title": "Reuniones de última hora, diferencias y presión de la Iglesia: el oficialismo espera el aval de la Casa Rosada",
-      "summary": "A horas de la megasesión, el oficialismo busca cerrar un acuerdo con sus aliados, persisten las dudas en la Casa Rosada; el Episcopado sumó sus reclamos",
+      "summary": "El oficialismo busca cerrar un acuerdo con sus aliados, persisten las dudas en la Casa Rosada; el Episcopado sumó sus reclamos",
       "url": "https://www.lanacion.com.ar/politica/reuniones-de-ultima-hora-diferencias-y-presion-de-la-iglesia-el-oficialismo-espera-el-aval-de-la-nid20102026/",
-      "publishedAt": "Wed, 21 Oct 2026 02:50:13 +0000",
+      "publishedAt": "Wed, 21 Oct 2026 04:46:41 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-reuniones",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "30f8da6f41881948",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "MPV reitera ante el TSJ solicitud para designar una nueva directiva del BCV",
-      "summary": "Simón enfatizó la necesidad indispensable de robustecer los órganos de control del Estado",
-      "url": "https://efectococuyo.com/politica/mpv-reitera-ante-el-tsj-solicitud-para-designar-una-nueva-directiva-del-bcv/",
-      "publishedAt": "Tue, 20 Oct 2026 20:02:43 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-reitera-solicitud",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c63ba069e9e2d17a",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Prisión por terrorismo para los dos detenidos en Irún: planos de zulos, imágenes de ETA y de entrenamientos, teléfonos satelitales, listas de guardias civiles y el móvil clonado de un policía",
-      "summary": "El juez de la Audiencia Nacional Antonio Piña accede a la cautelar reclamada por la Fiscalía, que ve indicios de pertenenencia a banda terrorista, tenencia de armas y explosivos, atentado contra la autoridad y desórdenes públicos&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/10/20/6ad76306fc6c837b168b45c4.html",
-      "publishedAt": "Tue, 20 Oct 2026 17:53:30 +0200",
-      "politicalScore": 6,
-      "eventKey": "espana-economia-politica-espana-economia-politica-prision",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -657,25 +661,25 @@
       "publishedAt": "Sun, 04 Oct 2026 03:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-casa-kilometro",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "610e76190ff65c5c",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "id": "258a8b0d2c388c88",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Conformación del Comité de Postulaciones Judiciales en la AN continúa en suspenso",
-      "summary": "Directiva de la AN no convocó a sesión este martes 20 de octubre",
-      "url": "https://efectococuyo.com/politica/conformacion-del-comite-de-postulaciones-judiciales-en-la-an-continua-en-suspenso/",
-      "publishedAt": "Tue, 20 Oct 2026 22:06:48 +0000",
+      "title": "“Se ha vuelto casi imposible en Latinoamérica adoptar medidas beneficiosas a largo plazo por la polarización”",
+      "summary": "El último año ha tenido una agenda electoral sin pausa en la región, que no solo ha reconfigurado el mapa político de América Latina, sino que ha confirmado cuánto puede condicionar la división ideológica. En entrevista con este Diario, el exministro colombian",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/mauricio-cardenas-se-ha-vuelto-casi-imposible-en-latinoamerica-adoptar-de-medidas-beneficiosas-a-largo-por-la-polarizacion-noticia/",
+      "publishedAt": "Wed, 21 Oct 2026 11:00:01 +0000",
       "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-conformacion-comite",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-vuelto-casi",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -691,42 +695,8 @@
       "publishedAt": "Tue, 20 Oct 2026 20:52:03 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-semanas-poder",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "83df3fbc6cc2c973",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Angie Rodríguez y Benedetti, a indagación por “Pacto de Valledupar”",
-      "summary": "La lidera la Procuraduría. Es por el presunto intento en el anterior gobierno de que exparas hablen en contra de Álvaro Uribe, Germán Vargas y Abelardo de la Espriella. The post Angie Rodríguez y Benedetti, a indagación por “Pacto de Valledupar” appeared first",
-      "url": "https://www.lasillavacia.com/en-vivo/angie-rodriguez-y-benedetti-a-indagacion-por-pacto-de-valledupar/",
-      "publishedAt": "Tue, 20 Oct 2026 20:28:01 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-angie-rodriguez",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ca96245349b4ec01",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "¿Qué está pasando con la apelación del capitán Juan Carlos Caguaripano?",
-      "summary": "El juez titular de la causa ya había consignado un proyecto de resolución para esta apelación el 16 de septiembre de 2026, cumpliendo con los lapsos legales de la corte.",
-      "url": "https://efectococuyo.com/la-humanidad/que-esta-pasando-con-la-apelacion-del-capitan-juan-carlos-caguaripano/",
-      "publishedAt": "Tue, 20 Oct 2026 18:33:52 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-instituciones-venezuela-instituciones-pasando-apelacion",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -742,76 +712,59 @@
       "publishedAt": "Tue, 20 Oct 2026 15:30:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-francia-espana",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "b3eb37724942a490",
+      "id": "4be6d50c10772ff3",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "En España Milei volvió a negar que haya argentinos que no llegan a fin de mes: “Es un slogan barato”",
+      "summary": "Ultima actualizacion de La Nacion.",
+      "url": "https://www.lanacion.com.ar/politica/en-espana-milei-volvio-a-hablar-sobre-los-argentinos-no-lleguen-a-fin-de-mes-es-un-slogan-barato-nid21102026/",
+      "publishedAt": "Wed, 21 Oct 2026 11:20:09 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-espana",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "325de8f3d9c0f6ea",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "China, Rusia e Irán cierran filas con Raúl Castro, \"líder revolucionario de gran prestigio\"",
+      "summary": "Teherán califica de \"criminal\" la orden de arresto contra el ex presidente por el derribo de las avionetas de Hermanos al Rescate; Moscú señala una \"venganza del lobby anticubano de Miami\" y Pekín ofrece su \"apoyo firme\"",
+      "url": "https://www.14ymedio.com/cuba/china-rusia-e-iran-cierran_1_1132202.html",
+      "publishedAt": "Wed, 21 Oct 2026 10:39:23 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-sociedad-cuba-sociedad-china-rusia",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5008e9654952d99b",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
       "topic": "Instituciones",
       "priority": "Media",
-      "title": "Colombia definirá por decreto sus líneas marítimas, pese a fallo de La Haya que beneficia a Nicaragua",
-      "summary": "Colombia publicará el 30 de noviembre de 2026 un decreto que por primera vez va a definir con coordenadas lo que el país considera como sus aguas territoriales nacionales en torno al archipiélago de San Andrés, Providencia y Santa Catalina, en el Caribe. El an",
-      "url": "https://confidencial.digital/noticias/colombia-definira-por-decreto-sus-lineas-maritimas-pese-a-fallo-de-la-haya-que-beneficia-a-nicaragua/",
-      "publishedAt": "Mon, 19 Oct 2026 19:23:42 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-colombia-definira",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0d2c670ea7fecf3a",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Florida hace oficial la orden de arresto contra Raúl Castro por el derribo de las avionetas de Hermanos al Rescate",
-      "summary": "“No fue un accidente, fue un asesinato”, sostuvo el fiscal general de Florida y prometió llevar al responsable ante la justicia",
-      "url": "https://www.14ymedio.com/cuba/migracion/florida-oficial-orden-arresto-raul_1_1132152.html",
-      "publishedAt": "Mon, 19 Oct 2026 16:19:09 +0000",
-      "politicalScore": 5,
-      "eventKey": "cuba-economia-politica-cuba-economia-politica-florida",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1d347f159f6f8ef1",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Raúl Castro: “No existe una posibilidad jurídica inmediata” de llevarlo ante la justicia de EE.UU.",
-      "summary": "La justicia de Florida busca llevar a Raúl Castro ante los tribunales por la muerte de cuatro personas en el derribo de dos avionetas de Hermanos al Rescate. Para el embajador Juan Álvarez Vita, no existe una vía jurídica inmediata para detenerlo y juzgarlo en",
-      "url": "https://elcomercio.pe/mundo/eeuu/raul-castro-por-que-florida-ordeno-su-arresto-y-si-puede-llevarlo-a-juicio-en-estados-unidos-hermanos-al-rescate-cuba-noticia/",
-      "publishedAt": "Wed, 21 Oct 2026 11:15:00 +0000",
+      "title": "Las derechas en Argentina y Brasil: tan semejantes como diferentes",
+      "summary": "Cómo comprender la fuerza social y política que han conquistado las derechas en Argentina y Brasil, dos países que siguieron trayectorias tan distintas tras las dictaduras? Milei y Bolsonaro son figuras centrales de este proceso, pero tomarlos como punto de pa",
+      "url": "https://confidencial.digital/opinion/las-derechas-en-argentina-y-brasil-tan-semejantes-como-diferentes/",
+      "publishedAt": "Wed, 21 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
-      "eventKey": "peru-instituciones-peru-instituciones-raul-castro",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c97df5f276d865b6",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Trump elogia a Le Pen como la “voz conservadora” en medio de la agitación en Francia",
-      "summary": "El presidente de Estados Unidos, Donald Trump, elogió el martes a Marine Le Pen como la “voz conservadora” de Francia tras los disturbios generalizados, pero se abstuvo de respaldar a la líder de extrema derecha, favorita en las encuestas para las presidencial",
-      "url": "https://elcomercio.pe/mundo/europa/francia-donald-trump-elogia-a-marine-le-pen-como-la-voz-conservadora-en-medio-de-la-agitacion-emmanuel-macron-estados-unidos-ultimas-noticia/",
-      "publishedAt": "Wed, 21 Oct 2026 03:26:59 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-elecciones-peru-elecciones-trump-elogia",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-derechas-argentina",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -827,8 +780,8 @@
       "publishedAt": "Wed, 21 Oct 2026 00:44:12 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-consejo",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -844,8 +797,8 @@
       "publishedAt": "Tue, 20 Oct 2026 23:59:06 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-mejoria",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -861,8 +814,8 @@
       "publishedAt": "Tue, 20 Oct 2026 22:54:07 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-espriella",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -878,42 +831,25 @@
       "publishedAt": "Tue, 20 Oct 2026 21:31:01 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gran-hombre",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
-      "id": "83682a44219730e4",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "id": "4d411790d5e7d4a9",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
       "priority": "Media",
-      "title": "Identifican los restos de la hija de un exintendente de Cipolletti secuestrada en 1976",
-      "summary": "Se trata de María Luis Salto Segovia, según confirmó el Equipo de Antropología Forense; había sido secuestrada en Córdoba y sus restos aparecieron en el centro clandestino “La Perla”",
-      "url": "https://www.lanacion.com.ar/politica/identifican-los-restos-de-la-hija-de-un-exintendente-de-cipolletti-secuestrada-en-1976-nid20102026/",
-      "publishedAt": "Tue, 20 Oct 2026 20:23:29 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-identifican",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f049b95b66e17080",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Kicillof enfrenta el jueves un nuevo paro docente en la provincia de Buenos Aires",
-      "summary": "Está convocado por uno de los cinco gremios que integra el Frente de Unidad Docente, por lo que el alcance no será masivo",
-      "url": "https://www.lanacion.com.ar/politica/kicillof-enfrenta-el-jueves-un-nuevo-paro-docente-en-la-provincia-de-buenos-aires-nid20102026/",
-      "publishedAt": "Tue, 20 Oct 2026 17:26:14 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "title": "María Corina Machado reitera el llamado a protestar para exigir la fecha de presidenciales",
+      "summary": "El pacto petrolero de EE UU blinda a sus socios, pero no garantiza los ingresos a Venezuela, dice una investigación de ProPublica",
+      "url": "https://www.14ymedio.com/internacional/maria-corina-machado-reitera-llamado_1_1132204.html",
+      "publishedAt": "Wed, 21 Oct 2026 11:03:09 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-sociedad-cuba-sociedad-maria-corina",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -929,8 +865,8 @@
       "publishedAt": "Wed, 21 Oct 2026 00:08:19 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-julio-castro",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -946,8 +882,8 @@
       "publishedAt": "Wed, 21 Oct 2026 00:08:19 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-comision-abierta",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -963,8 +899,8 @@
       "publishedAt": "Tue, 20 Oct 2026 23:02:01 +0000",
       "politicalScore": 3,
       "eventKey": "chile-diplomacia-chile-diplomacia-inician-proceso",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -980,8 +916,8 @@
       "publishedAt": "Tue, 20 Oct 2026 21:25:02 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-daniel-ortega",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -997,8 +933,8 @@
       "publishedAt": "Tue, 20 Oct 2026 19:11:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-expediente-monica",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +950,8 @@
       "publishedAt": "Tue, 20 Oct 2026 19:08:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-estallido-social",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1031,8 +967,8 @@
       "publishedAt": "Tue, 20 Oct 2026 16:36:20 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-denuncian-asesinato",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1048,8 +984,8 @@
       "publishedAt": "Tue, 20 Oct 2026 13:04:23 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-tomar-cuartel",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1065,8 +1001,8 @@
       "publishedAt": "Tue, 20 Oct 2026 09:49:18 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-inseguridad-aduena",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1082,8 +1018,8 @@
       "publishedAt": "Tue, 20 Oct 2026 06:28:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-oscar-perez",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1099,8 +1035,8 @@
       "publishedAt": "Tue, 20 Oct 2026 01:09:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-diplomacia-chile-diplomacia-cuando-carcel",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1116,8 +1052,8 @@
       "publishedAt": "Mon, 19 Oct 2026 23:42:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tramitan-expulsiones",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1133,8 +1069,8 @@
       "publishedAt": "Mon, 19 Oct 2026 21:55:11 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-costa-rica",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1150,25 +1086,8 @@
       "publishedAt": "Mon, 19 Oct 2026 19:50:41 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-republica-dominicana",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4335bb7380e74ae3",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "¿Por qué Google muestra a Nicaragua como una dictadura en su ficha informativa?",
-      "summary": "Los motores de búsqueda de Google clasifican a Nicaragua como una “dictadura”. La ficha informativa también define al país como una república donde impera el “autoritarismo”, lo que coincide con las denuncias de organismos de derechos humanos sobre la concentr",
-      "url": "https://confidencial.digital/noticias/por-que-google-muestra-a-nicaragua-como-una-dictadura-en-su-ficha-informativa/",
-      "publishedAt": "Mon, 19 Oct 2026 17:31:45 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-google-muestra",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1184,8 +1103,8 @@
       "publishedAt": "Sun, 18 Oct 2026 20:14:09 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-tumba-libres",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1201,8 +1120,8 @@
       "publishedAt": "Sun, 18 Oct 2026 20:12:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-hacer-atractiva",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1218,8 +1137,8 @@
       "publishedAt": "Sat, 17 Oct 2026 07:00:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-huacos-familia",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1235,8 +1154,8 @@
       "publishedAt": "Sat, 17 Oct 2026 00:25:13 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-vivanco-delatada",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     },
     {
@@ -1252,8 +1171,8 @@
       "publishedAt": "Fri, 16 Oct 2026 15:20:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-vivanco",
-      "firstSeenAt": "2026-10-21T04:03:32.865Z",
-      "lastSeenAt": "2026-10-21T04:03:32.865Z",
+      "firstSeenAt": "2026-10-21T11:28:07.398Z",
+      "lastSeenAt": "2026-10-21T11:28:07.398Z",
       "seenCount": 1
     }
   ]
