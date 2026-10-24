@@ -1,39 +1,35 @@
 {
-  "generatedAt": "2026-10-24T04:00:27.949Z",
-  "count": 64,
+  "generatedAt": "2026-10-24T10:37:53.798Z",
+  "count": 67,
   "failures": [
-    {
-      "source": "efecto-cocuyo-venezuela",
-      "error": "403 Forbidden"
-    },
     {
       "source": "primicias-ecuador",
       "error": "Maximum nested tags exceeded"
     }
   ],
   "stats": {
-    "generatedAt": "2026-10-24T04:00:27.949Z",
-    "activeSignals": 64,
-    "archiveSignals": 122,
+    "generatedAt": "2026-10-24T10:37:53.798Z",
+    "activeSignals": 67,
+    "archiveSignals": 125,
     "countriesCovered": 8,
-    "highPrioritySignals": 35,
-    "averagePoliticalScore": 7.19
+    "highPrioritySignals": 34,
+    "averagePoliticalScore": 6.82
   },
   "briefings": [
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "El enriquecimiento de Trump les da munición a los demócratas",
-      "leadUrl": "https://confidencial.digital/opinion/el-enriquecimiento-de-trump-les-da-municion-a-los-democratas/",
+      "leadTitle": "Decreto de Colombia sería un “desacato” a la sentencia de La Haya a favor de Nicaragua",
+      "leadUrl": "https://confidencial.digital/analisis/decreto-de-colombia-seria-un-desacato-a-la-sentencia-de-la-haya-a-favor-de-nicaragua/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Instituciones",
+        "Elecciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 15,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
+      "signalCount": 14,
+      "summary": "Foco en Instituciones, Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -63,7 +59,7 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 13,
+      "signalCount": 12,
       "summary": "Foco en Economia politica, Instituciones. Vigilar La Nacion y La Nacion."
     },
     {
@@ -94,21 +90,36 @@
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 6,
+      "signalCount": 7,
       "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Venezuela",
+      "priority": "Alta",
+      "leadTitle": "EEUU celebra cierre de tercera ronda de diálogo en Venezuela y destaca &#8220;avances&#8221; hacia elecciones libres",
+      "leadUrl": "https://efectococuyo.com/politica/eeuu-celebra-cierre-de-tercera-ronda-de-dialogo/",
+      "focusTopics": [
+        "Elecciones",
+        "Diplomacia"
+      ],
+      "topSources": [
+        "Efecto Cocuyo"
+      ],
+      "signalCount": 6,
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "“Se rompió” negociación en Senado, venció tiempo para cubrir cargo en TCA y asumirá ministra “bloqueada” dos veces por Parlamento",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/se-rompio-negociacion-en-senado-vencio-tiempo-para-cubrir-cargo-en-tca-y-asumira-ministra-bloqueada-dos-veces-por-parlamento/",
+      "leadTitle": "Los escenarios para Uruguay ante un posible cambio de gobierno en Brasil: flexibilización del Mercosur, Focem y vínculo con EEUU",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/los-escenarios-para-uruguay-ante-un-posible-cambio-de-gobierno-en-brasil-flexibilizacion-del-mercosur-focem-y-vinculo-con-eeuu/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 3,
+      "signalCount": 2,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
@@ -124,40 +135,9 @@
       ],
       "signalCount": 4,
       "summary": "Foco en Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Peru",
-      "priority": "Media",
-      "leadTitle": "PCM designa a Juan Villarán como secretario técnico de comisión para recuperar la seguridad y el orden público",
-      "leadUrl": "https://elcomercio.pe/politica/gobierno/pcm-designa-a-juan-villaran-como-secretario-tecnico-de-comision-para-recuperar-la-seguridad-y-el-orden-publico-ultimas-noticia/",
-      "focusTopics": [
-        "Seguridad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Seguridad. Vigilar El Comercio."
     }
   ],
   "signals": [
-    {
-      "id": "870caf22bb1c4b80",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El enriquecimiento de Trump les da munición a los demócratas",
-      "summary": "En la recta final hacia las elecciones legislativas del 3 de noviembre, los candidatos demócratas están sacando una carta peligrosa contra el presidente Donald Trump: las denuncias de corrupción contra su gobierno. Y, según las encuestas, la estrategia les est",
-      "url": "https://confidencial.digital/opinion/el-enriquecimiento-de-trump-les-da-municion-a-los-democratas/",
-      "publishedAt": "Thu, 22 Oct 2026 07:20:00 +0000",
-      "politicalScore": 19,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-enriquecimiento-trump",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
-      "seenCount": 1
-    },
     {
       "id": "cae4b3c34afa32ef",
       "country": "Argentina",
@@ -171,25 +151,8 @@
       "publishedAt": "Fri, 23 Oct 2026 22:01:54 +0000",
       "politicalScore": 15,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-semana",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b05fb7ea9938c853",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "“Se rompió” negociación en Senado, venció tiempo para cubrir cargo en TCA y asumirá ministra “bloqueada” dos veces por Parlamento",
-      "summary": "Desacuerdo en negociación de cargos en organismos de contralor llevó a que el viernes venciera el plazo de 90 días para designar nuevo ministro del TCA, y asumiría jueza de Apelaciones de Familia. El viernes venció el plazo para que el Parlamento lograra un ac",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/se-rompio-negociacion-en-senado-vencio-tiempo-para-cubrir-cargo-en-tca-y-asumira-ministra-bloqueada-dos-veces-por-parlamento/",
-      "publishedAt": "Sat, 24 Oct 2026 00:10:08 -0300",
-      "politicalScore": 13,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-rompio-negociacion",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -205,8 +168,8 @@
       "publishedAt": "Sat, 24 Oct 2026 03:01:00 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-instituciones-argentina-instituciones-caso-libra",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -222,8 +185,25 @@
       "publishedAt": "Fri, 23 Oct 2026 21:24:08 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-trabaja",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3775d4434b3d5b0e",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "EEUU celebra cierre de tercera ronda de diálogo en Venezuela y destaca &#8220;avances&#8221; hacia elecciones libres",
+      "summary": "Según un comunicado oficial del Departamento de Estado, hubo muchos resultados",
+      "url": "https://efectococuyo.com/politica/eeuu-celebra-cierre-de-tercera-ronda-de-dialogo/",
+      "publishedAt": "Fri, 23 Oct 2026 14:17:55 +0000",
+      "politicalScore": 12,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-eeuu-celebra",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -239,8 +219,8 @@
       "publishedAt": "Fri, 23 Oct 2026 14:29:47 +0200",
       "politicalScore": 12,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -256,8 +236,8 @@
       "publishedAt": "Fri, 23 Oct 2026 06:18:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-decreto-colombia",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -273,8 +253,8 @@
       "publishedAt": "Fri, 23 Oct 2026 02:34:49 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-amazonia-tambien",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -287,11 +267,11 @@
       "title": "La Justicia sobreseyó al Presidente y a Karina Milei en el caso $LIBRA",
       "summary": "Fue dispuesto por el juez Martínez de Giorgi; lo resolvió sin haber llamado a indagatoria a los acusados; el fallo también favoreció a los otros involucrados",
       "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-contesto-al-fiscal-del-caso-libra-que-no-tenia-registro-del-presunto-acuerdo-nid20032026/",
-      "publishedAt": "Fri, 23 Oct 2026 22:15:43 +0000",
+      "publishedAt": "Sat, 24 Oct 2026 06:39:30 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-instituciones-argentina-instituciones-justicia-sobreseyo",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -307,8 +287,8 @@
       "publishedAt": "Fri, 23 Oct 2026 21:59:51 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-instituciones-argentina-instituciones-justicia-sobreseyo",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -324,8 +304,8 @@
       "publishedAt": "Fri, 23 Oct 2026 07:20:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-panchitos-podemos",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -341,8 +321,8 @@
       "publishedAt": "Wed, 21 Oct 2026 14:06:58 +0000",
       "politicalScore": 10,
       "eventKey": "chile-probidad-chile-probidad-gobierno-propone",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -358,8 +338,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -375,8 +355,8 @@
       "publishedAt": "Sat, 24 Oct 2026 00:10:15 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-escenarios-posible",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -392,8 +372,8 @@
       "publishedAt": "Fri, 23 Oct 2026 23:29:09 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -409,8 +389,8 @@
       "publishedAt": "Fri, 23 Oct 2026 22:11:11 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-denuncian",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -426,25 +406,8 @@
       "publishedAt": "Fri, 23 Oct 2026 21:42:27 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-fiscalia-salvador",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "884ba205adce0c20",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Juicio a Cristina Kirchner: comenzó el proceso por Hotesur y Los Sauces donde investigan la corrupción K",
-      "summary": "La Cámara de Casación decidió unificar en un solo juicio oral las causas; el Tribunal Oral Federal N°5, encargado de juzgar a la expresidenta y Máximo Kirchner, entre otros, permitió que los imputados participen de manera virtual durante la primera etapa del p",
-      "url": "https://www.lanacion.com.ar/politica/juicio-a-cristina-kirchner-en-vivo-arranca-el-proceso-por-hotesur-y-los-sauces-donde-investigan-la-nid23102026/",
-      "publishedAt": "Fri, 23 Oct 2026 20:50:10 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-instituciones-argentina-instituciones-juicio-cristina",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -460,8 +423,8 @@
       "publishedAt": "Fri, 23 Oct 2026 21:15:37 +0200",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-felipe-recuerda",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -477,8 +440,8 @@
       "publishedAt": "Fri, 23 Oct 2026 10:31:47 GMT",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-supremo-exige",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -494,8 +457,25 @@
       "publishedAt": "Thu, 22 Oct 2026 18:17:52 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-exjuez",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c5dbd23bc230620f",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "¿Quedará margen para la última reinvención de Lula?",
+      "summary": "La victoria del candidato de ultraderecha Flavio Bolsonaro en la primera ronda tomó por sorpresa a Lula, quien esperaba ganar la elección en primera vuelta. Todavía es difícil comprender cuál fue el sustento de estas expectativas. Las encuestadoras reflejaban ",
+      "url": "https://confidencial.digital/opinion/quedara-margen-para-la-ultima-reinvencion-de-lula/",
+      "publishedAt": "Sat, 24 Oct 2026 07:10:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-quedara-margen",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -511,8 +491,8 @@
       "publishedAt": "Sat, 24 Oct 2026 03:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -528,8 +508,8 @@
       "publishedAt": "Sat, 24 Oct 2026 00:56:15 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-instituciones-argentina-instituciones-milei-celebro",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -545,8 +525,8 @@
       "publishedAt": "Sat, 24 Oct 2026 00:33:54 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-elecciones-colombia-elecciones-riesgo-toda",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -562,8 +542,8 @@
       "publishedAt": "Fri, 23 Oct 2026 22:58:09 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-reacciones",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -579,8 +559,25 @@
       "publishedAt": "Fri, 23 Oct 2026 22:50:51 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-marca",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4290442bf01f07d2",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Expresidentes iberoamericanos premiarán a María Corina Machado en un foro en Miami",
+      "summary": "Será premiada con el galardón creado en honor al expresidente chileno Sebastián Piñera",
+      "url": "https://efectococuyo.com/politica/expresidentes-iberoamericanos-premiaran-a-maria-corina-machado-en-un-foro-en-miami/",
+      "publishedAt": "Fri, 23 Oct 2026 18:33:09 +0000",
+      "politicalScore": 8,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-expresidentes-iberoamericanos",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -596,8 +593,8 @@
       "publishedAt": "Fri, 23 Oct 2026 15:32:36 +0000",
       "politicalScore": 8,
       "eventKey": "chile-instituciones-chile-instituciones-argumento-gobierno",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -613,25 +610,8 @@
       "publishedAt": "Fri, 23 Oct 2026 15:00:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-brasil-lula",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e453ee3383613fad",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Ortega y Murillo eliminan figura de vicepresidente y en su lugar nombrarán “designados presidenciales”",
-      "summary": "El régimen de Daniel Ortega y Rosario Murillo ordenó a la Asamblea Nacional aprobar una nueva reforma constitucional para elevar a rango constitucional la nueva figura de los “designados presidenciales”, eliminando el cargo de vicepresidente. La reforma modifi",
-      "url": "https://confidencial.digital/noticias/ortega-y-murillo-eliminan-figura-de-vicepresidente-y-en-su-lugar-nombraran-designados-presidenciales/",
-      "publishedAt": "Thu, 22 Oct 2026 17:54:17 +0000",
-      "politicalScore": 8,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -647,8 +627,8 @@
       "publishedAt": "Wed, 21 Oct 2026 23:41:35 +0000",
       "politicalScore": 8,
       "eventKey": "chile-economia-politica-chile-economia-politica-detecta",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -664,8 +644,8 @@
       "publishedAt": "Wed, 21 Oct 2026 01:38:29 +0000",
       "politicalScore": 8,
       "eventKey": "chile-probidad-chile-probidad-testimonio-gonzalo",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -675,14 +655,14 @@
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "El 80% de los casos están concentrados en 16 oficinas consulares y sin expediente digital: el reto de cumplir la orden del Supremo",
-      "summary": "El Gobierno alega que para conocer el nombre de los afectados por la suspensión del voto de la ‘ley de nietos’ hay que revisar caso a caso",
+      "title": "El 80% de los casos de la ‘ley de nietos’ están concentrados en 16 oficinas consulares y sin expediente digital",
+      "summary": "El Gobierno alega que para conocer el nombre de los afectados por la suspensión del voto hay que revisar caso a caso",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-24/el-80-de-los-casos-estan-concentrados-en-16-oficinas-consulares-y-sin-expediente-digital-el-reto-de-cumplir-la-orden-del-supremo.html",
       "publishedAt": "Sat, 24 Oct 2026 03:30:01 GMT",
       "politicalScore": 7,
-      "eventKey": "espana-elecciones-espana-elecciones-casos-estan",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "eventKey": "espana-elecciones-espana-elecciones-casos-nietos",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -698,8 +678,25 @@
       "publishedAt": "Fri, 23 Oct 2026 21:52:54 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-apoye-durante",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "48b67da506c1ac67",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "CEV exige elecciones libres y transparentes con un CNE imparcial y TSJ independiente",
+      "summary": "Obispos advierten agravamiento del clima político durante cierre de su reciente asamblea",
+      "url": "https://efectococuyo.com/la-humanidad/cev-exige-elecciones-libres-y-transparentes-con-un-cne-imparcial-y-tsj-independiente/",
+      "publishedAt": "Fri, 23 Oct 2026 17:04:36 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-exige-libres",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -715,25 +712,25 @@
       "publishedAt": "Fri, 23 Oct 2026 14:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-putin-dice",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
-      "id": "1713f92419fd8b13",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
+      "id": "03d6e793747edfc8",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
       "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Tiempos difíciles para el periodismo",
-      "summary": "Lo que era una constante en regímenes totalitarios se ha vuelto relativamente habitual en sistemas democráticos: los medios de comunicación son intervenidos por los gobiernos, los periodistas son sometidos a procesos judiciales, las fuentes son amenazadas con ",
-      "url": "https://confidencial.digital/opinion/tiempos-dificiles-para-el-periodismo/",
-      "publishedAt": "Thu, 22 Oct 2026 07:10:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tiempos-dificiles",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "priority": "Media",
+      "title": "El proyecto de sometimiento recicla la JEP y Justicia y Paz, pero puede ser poco eficaz",
+      "summary": "El proyecto de ley de sometimiento recicla fórmulas de Justicia y Paz y la JEP, pero impone condiciones que dificultan el desmantelamiento criminal. The post El proyecto de sometimiento recicla la JEP y Justicia y Paz, pero puede ser poco eficaz appeared first",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/el-proyecto-de-sometimiento-recicla-la-jep-y-justicia-y-paz-pero-puede-ser-poco-eficaz/",
+      "publishedAt": "Sat, 24 Oct 2026 05:05:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-instituciones-colombia-instituciones-proyecto-sometimiento",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -749,25 +746,8 @@
       "publishedAt": "Sat, 24 Oct 2026 00:10:20 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-transnacional-lobby",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b0a184ef2b1403ae",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "PCM designa a Juan Villarán como secretario técnico de comisión para recuperar la seguridad y el orden público",
-      "summary": "La PCM oficializó la designación de Juan Villarán Escardó como secretario técnico de la comisión multisectorial encargada de impulsar medidas contra la criminalidad. Entre sus funciones estarán coordinar con instituciones públicas y privadas y supervisar el cu",
-      "url": "https://elcomercio.pe/politica/gobierno/pcm-designa-a-juan-villaran-como-secretario-tecnico-de-comision-para-recuperar-la-seguridad-y-el-orden-publico-ultimas-noticia/",
-      "publishedAt": "Sat, 24 Oct 2026 02:48:52 +0000",
-      "politicalScore": 6,
-      "eventKey": "peru-seguridad-peru-seguridad-designa-juan",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -783,8 +763,8 @@
       "publishedAt": "Fri, 23 Oct 2026 23:53:58 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-duerma",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -800,8 +780,8 @@
       "publishedAt": "Fri, 23 Oct 2026 16:51:23 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espana-concede",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -817,8 +797,25 @@
       "publishedAt": "Fri, 23 Oct 2026 14:05:28 GMT",
       "politicalScore": 6,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-feijoo-dispuesto",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d7f8463279fc2d52",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "El debate presidencial brasileño",
+      "summary": "El formato del debate entre los candidatos presidenciales en Brasil, Lula da Silva y Flávio Bolsonaro, se parece al que con frecuencia se usa en Estados Unidos. Los dos candidatos se mueven por el foro, en busca de la cámara, y se atacan mutuamente a la vez qu",
+      "url": "https://confidencial.digital/opinion/el-debate-presidencial-brasileno/",
+      "publishedAt": "Sat, 24 Oct 2026 07:20:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-debate-presidencial",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -834,8 +831,25 @@
       "publishedAt": "Sat, 24 Oct 2026 01:07:26 +0000",
       "politicalScore": 5,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bef2f9210f196356",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Comité de Postulaciones comienza trabajo para evaluar perfil de futuros magistrados",
+      "summary": "En este primer encuentro fue aprobado por unanimidad el reglamento de funcionamiento interno y el cronograma de actividades.",
+      "url": "https://efectococuyo.com/politica/comite-de-postulaciones-comienza-trabajo-para-evaluar-perfil-de-futuros-magistrados/",
+      "publishedAt": "Fri, 23 Oct 2026 21:43:57 +0000",
+      "politicalScore": 5,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-comite-postulaciones",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -851,8 +865,8 @@
       "publishedAt": "Thu, 22 Oct 2026 23:03:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-suprema-tuvo",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -868,8 +882,8 @@
       "publishedAt": "Thu, 22 Oct 2026 22:13:57 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-traspasan-gaceta",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -885,8 +899,8 @@
       "publishedAt": "Sat, 24 Oct 2026 03:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-instituciones-espana-instituciones-cinco-dias",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -902,8 +916,8 @@
       "publishedAt": "Fri, 23 Oct 2026 23:12:20 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-dirigentes",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -919,8 +933,8 @@
       "publishedAt": "Fri, 23 Oct 2026 23:07:49 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-precedentes",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -936,8 +950,25 @@
       "publishedAt": "Fri, 23 Oct 2026 22:49:33 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-denuncia-tacticas",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e938d71b7c327f49",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Gobierno de España concede la nacionalidad a 46 exiliados nicaragüenses",
+      "summary": "En la lista hay figuras relevantes de la disidencia nicaragüense, como el líder del movimiento campesino Medardo Mairena",
+      "url": "https://efectococuyo.com/internacionales/gobierno-de-espana-concede-la-nacionalidad-a-46-exiliados-nicaraguenses/",
+      "publishedAt": "Fri, 23 Oct 2026 22:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-espana",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -953,8 +984,8 @@
       "publishedAt": "Fri, 23 Oct 2026 21:06:47 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobernar-interlocutores",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -970,8 +1001,8 @@
       "publishedAt": "Fri, 23 Oct 2026 20:56:27 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-trump-dice",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -987,8 +1018,8 @@
       "publishedAt": "Fri, 23 Oct 2026 17:59:54 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-fundacion",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1004,8 +1035,8 @@
       "publishedAt": "Fri, 23 Oct 2026 17:01:50 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-cubano",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1021,8 +1052,8 @@
       "publishedAt": "Fri, 23 Oct 2026 16:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-furor-adolescente",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1038,8 +1069,25 @@
       "publishedAt": "Fri, 23 Oct 2026 15:15:25 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-estados-unidos",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "72edbd8635bcfe2a",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Un empresario es el nuevo embajador de Colombia en Venezuela",
+      "summary": "El gobierno interino le otorgó el plácet al representante de De la Espriella",
+      "url": "https://efectococuyo.com/internacionales/un-empresario-es-el-nuevo-embajador-de-colombia-en-venezuela/",
+      "publishedAt": "Fri, 23 Oct 2026 13:16:30 +0000",
+      "politicalScore": 4,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-empresario-nuevo",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1055,8 +1103,8 @@
       "publishedAt": "Fri, 23 Oct 2026 10:12:29 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-provisional",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1072,8 +1120,8 @@
       "publishedAt": "Fri, 23 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nacimos-pueblos",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1089,8 +1137,25 @@
       "publishedAt": "Thu, 22 Oct 2026 17:14:43 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-dispara-numero",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
+      "seenCount": 1
+    },
+    {
+      "id": "84adaba25224b905",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "“Prefiero atenderme por mi cuenta”: Pacientes se quejan ante masivos contagios de chikungunya",
+      "summary": "La crisis de salud causada por el contagio masivo de chikungunya y otras enfermedades como dengue y zika ha desnudado una carencia fundamental del sistema de Salud de Nicaragua: la falta de confianza por parte de la población. Tres ciudadanos identificados con",
+      "url": "https://confidencial.digital/noticias/prefiero-atenderme-por-mi-cuenta-pacientes-se-quejan-ante-masivos-contagios-de-chikungunya/",
+      "publishedAt": "Sat, 24 Oct 2026 06:20:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-prefiero-atenderme",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1106,8 +1171,8 @@
       "publishedAt": "Sat, 24 Oct 2026 01:38:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-rebaja",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1123,8 +1188,8 @@
       "publishedAt": "Sat, 24 Oct 2026 01:36:07 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-rebaja-condenas",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1140,25 +1205,8 @@
       "publishedAt": "Sat, 24 Oct 2026 00:30:33 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-historia",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1bf775b76a6e1dde",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "¿Por qué todos los carteles hechos con IA son iguales?",
-      "summary": "Instituciones, asociaciones vecinales, comisiones de fiestas y pequeños negocios presentan carteles para anunciar sus actividades. Algo está llamando la atención: muchos parecen pertenecer a un mismo universo visual. No importa si se trata de una verbena, un f",
-      "url": "https://confidencial.digital/revista-niu/por-que-todos-los-carteles-hechos-con-ia-son-iguales/",
-      "publishedAt": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-todos-carteles",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1174,8 +1222,8 @@
       "publishedAt": "Thu, 22 Oct 2026 11:28:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-catastrofe-fondo",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1191,8 +1239,8 @@
       "publishedAt": "Wed, 21 Oct 2026 19:32:23 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-responden-mantendran",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1208,8 +1256,8 @@
       "publishedAt": "Wed, 21 Oct 2026 19:05:15 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-operacion-sitio",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     },
     {
@@ -1225,8 +1273,8 @@
       "publishedAt": "Tue, 20 Oct 2026 23:02:01 +0000",
       "politicalScore": 3,
       "eventKey": "chile-diplomacia-chile-diplomacia-inician-proceso",
-      "firstSeenAt": "2026-10-24T04:00:27.949Z",
-      "lastSeenAt": "2026-10-24T04:00:27.949Z",
+      "firstSeenAt": "2026-10-24T10:37:53.798Z",
+      "lastSeenAt": "2026-10-24T10:37:53.798Z",
       "seenCount": 1
     }
   ]
