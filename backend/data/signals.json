@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T11:01:32.697Z",
-  "count": 49,
+  "generatedAt": "2026-10-25T15:50:29.897Z",
+  "count": 56,
   "failures": [
     {
       "source": "efecto-cocuyo-venezuela",
@@ -9,19 +9,15 @@
     {
       "source": "primicias-ecuador",
       "error": "Maximum nested tags exceeded"
-    },
-    {
-      "source": "ciper-chile",
-      "error": "The operation was aborted due to timeout"
     }
   ],
   "stats": {
-    "generatedAt": "2026-10-25T11:01:32.697Z",
-    "activeSignals": 49,
-    "archiveSignals": 107,
-    "countriesCovered": 7,
-    "highPrioritySignals": 24,
-    "averagePoliticalScore": 6.49
+    "generatedAt": "2026-10-25T15:50:29.897Z",
+    "activeSignals": 56,
+    "archiveSignals": 114,
+    "countriesCovered": 8,
+    "highPrioritySignals": 27,
+    "averagePoliticalScore": 6.3
   },
   "briefings": [
     {
@@ -41,6 +37,22 @@
       "summary": "Foco en Economia politica, Elecciones, Diplomacia. Vigilar La Nacion y La Nacion."
     },
     {
+      "country": "Chile",
+      "priority": "Alta",
+      "leadTitle": "Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó",
+      "leadUrl": "https://www.ciperchile.cl/2026/10/21/gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo",
+      "focusTopics": [
+        "Probidad",
+        "Economia politica",
+        "Instituciones"
+      ],
+      "topSources": [
+        "CIPER"
+      ],
+      "signalCount": 14,
+      "summary": "Foco en Probidad, Economia politica, Instituciones. Vigilar CIPER y CIPER."
+    },
+    {
       "country": "Nicaragua",
       "priority": "Alta",
       "leadTitle": "Fiscalía de El Salvador pide cadena perpetua para 564 líderes de la pandilla Barrio 18",
@@ -58,31 +70,18 @@
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Elecciones 2026: Brasil enfrenta el riesgo de debilitar su Constitución",
-      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-2026-brasil-enfrenta-el-riesgo-de-debilitar-su-constitucion/",
+      "leadTitle": "El recorte al presupuesto será de “casi $70 billones”: Restrepo",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/nuevo-recorte-al-presupuesto-sera-de-casi-70-billones-vicepresidente-restrepo/",
       "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad"
+        "Economia politica",
+        "Gobernabilidad",
+        "Elecciones"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Las grietas del nuevo Congreso bicameral: constitucionalistas analizan el trámite de las facultades",
-      "leadUrl": "https://elcomercio.pe/politica/las-grietas-del-nuevo-congreso-bicameral-constitucionalistas-analizan-el-tramite-de-las-facultades-senado-diputados-keiko-fujimori-apuesplan-noticia/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "signalCount": 5,
+      "summary": "Foco en Economia politica, Gobernabilidad, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -115,38 +114,36 @@
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Carlos y la silla vacía, una crónica de Fernando Vivas sobre el presidente de la Comisión de Constitución del Senado",
+      "leadUrl": "https://elcomercio.pe/politica/actualidad/carlos-y-la-silla-vacia-una-cronica-de-fernando-vivas-sobre-el-senador-mesia-presidente-de-la-comision-de-constitucion-apuesplan-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
+    },
+    {
       "country": "Cuba",
       "priority": "Media",
-      "leadTitle": "EE UU reconoce que el régimen cubano desvía combustible destinado al sector privado",
-      "leadUrl": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
+      "leadTitle": "Abren los colegios electorales en Brasil para la segunda vuelta de las presidenciales",
+      "leadUrl": "https://www.14ymedio.com/internacional/abren-colegios-electorales-brasil-segunda_1_1132377.html",
       "focusTopics": [
+        "Elecciones",
         "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Sociedad. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
     }
   ],
   "signals": [
-    {
-      "id": "5eeea451bec23100",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Las grietas del nuevo Congreso bicameral: constitucionalistas analizan el trámite de las facultades",
-      "summary": "Natale Amprimo, Víctor García Toma, Enrique Ghersi y Delia Muñoz analizan las tensiones entre Diputados y el Senado por las facultades del Ejecutivo y los ajustes que requiere el Congreso bicameral.",
-      "url": "https://elcomercio.pe/politica/las-grietas-del-nuevo-congreso-bicameral-constitucionalistas-analizan-el-tramite-de-las-facultades-senado-diputados-keiko-fujimori-apuesplan-noticia/",
-      "publishedAt": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "politicalScore": 14,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-grietas-nuevo",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
     {
       "id": "ea822cdb0f597e09",
       "country": "Argentina",
@@ -160,8 +157,25 @@
       "publishedAt": "Sun, 25 Oct 2026 10:27:37 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f9a2bfce601658fc",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Carlos y la silla vacía, una crónica de Fernando Vivas sobre el presidente de la Comisión de Constitución del Senado",
+      "summary": "Carlos Mesía, presidente de la Comisión de Constitución del Senado, celebró cantando y con autocríticas la aprobación de los 7 puntos adicionales de la delegación de facultades.",
+      "url": "https://elcomercio.pe/politica/actualidad/carlos-y-la-silla-vacia-una-cronica-de-fernando-vivas-sobre-el-senador-mesia-presidente-de-la-comision-de-constitucion-apuesplan-noticia/",
+      "publishedAt": "Sun, 25 Oct 2026 15:40:00 +0000",
+      "politicalScore": 10,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-carlos-silla",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -177,8 +191,8 @@
       "publishedAt": "Sun, 25 Oct 2026 02:03:54 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-sergio-massa",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -194,8 +208,8 @@
       "publishedAt": "Sun, 25 Oct 2026 01:19:47 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-reclamos-estados",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -211,25 +225,25 @@
       "publishedAt": "Sat, 24 Oct 2026 22:39:12 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
-      "id": "1acfed67147cee55",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "id": "3d2c373bd32b3923",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Alta",
-      "title": "Elecciones 2026: Brasil enfrenta el riesgo de debilitar su Constitución",
-      "summary": "Propuestas de reforma en Brasil buscan alterar los pesos y contrapesos constitucionales, reducir el control judicial y extender los mandatos ejecutivos. The post Elecciones 2026: Brasil enfrenta el riesgo de debilitar su Constitución appeared first on La Silla",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/elecciones-2026-brasil-enfrenta-el-riesgo-de-debilitar-su-constitucion/",
-      "publishedAt": "Sat, 24 Oct 2026 17:00:00 +0000",
+      "title": "Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó",
+      "summary": "La entrada Gobierno propone que las AFP puedan administrar nuevo ahorro para la vivienda y Comisión de Hacienda de diputados lo aprobó se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/21/gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gobierno-propone-que-las-afp-puedan-administrar-nuevo-ahorro-para-la-vivienda-y-comision-de-hacienda-de-diputados-lo-aprobo",
+      "publishedAt": "Wed, 21 Oct 2026 14:06:58 +0000",
       "politicalScore": 10,
-      "eventKey": "colombia-elecciones-colombia-elecciones-2026-brasil",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "eventKey": "chile-probidad-chile-probidad-gobierno-propone",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -245,8 +259,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -262,8 +276,8 @@
       "publishedAt": "Sun, 25 Oct 2026 04:30:01 GMT",
       "politicalScore": 9,
       "eventKey": "espana-instituciones-espana-instituciones-pedro-sanchez",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -279,8 +293,8 @@
       "publishedAt": "Sun, 25 Oct 2026 01:50:00 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-momento",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -296,25 +310,8 @@
       "publishedAt": "Sat, 24 Oct 2026 23:53:22 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-primer",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0688fcc3de783a0f",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "En el mundo se repiten los debates colombianos: ¿quién ganará?",
-      "summary": "Juanita León y Héctor Riveros analizan la reconfiguración del mapa político con las elecciones en Brasil, EE.UU. y España. The post En el mundo se repiten los debates colombianos: ¿quién ganará? appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/en-el-mundo-se-repiten-los-debates-colombianos-quien-ganara/",
-      "publishedAt": "Sat, 24 Oct 2026 20:03:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "colombia-elecciones-colombia-elecciones-mundo-repiten",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -330,8 +327,8 @@
       "publishedAt": "Sat, 24 Oct 2026 16:55:32 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-fernando-pereira",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -347,8 +344,42 @@
       "publishedAt": "Fri, 23 Oct 2026 21:42:27 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-fiscalia-salvador",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fb45aebdd2fff971",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
+      "summary": "La entrada Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos” se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
+      "publishedAt": "Thu, 22 Oct 2026 18:17:52 +0000",
+      "politicalScore": 9,
+      "eventKey": "chile-economia-politica-chile-economia-politica-exjuez",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "21f5103907eed035",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El recorte al presupuesto será de “casi $70 billones”: Restrepo",
+      "summary": "De la tijera al presupuesto anunciada por el gobierno De la Espriella ya recortaron 13 billones de pesos. The post El recorte al presupuesto será de “casi $70 billones”: Restrepo appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/nuevo-recorte-al-presupuesto-sera-de-casi-70-billones-vicepresidente-restrepo/",
+      "publishedAt": "Sun, 25 Oct 2026 14:07:56 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-recorte",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -364,8 +395,8 @@
       "publishedAt": "Sun, 25 Oct 2026 05:45:33 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ordonez-abelardo",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -378,11 +409,11 @@
       "title": "Ceuta, ‘ley de nietos’ y vivienda: la entrevista con Pedro Sánchez en 10 titulares",
       "summary": "El presidente del Gobierno asegura en entrevista con EL PAÍS que “muchos de los que hoy vaticinan que va a ganar el PP con Vox son los que aseguraron que Podemos iba a sobrepasar al PSOE”",
       "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/ceuta-ley-de-nietos-y-vivienda-la-entrevista-con-pedro-sanchez-en-10-titulares.html",
-      "publishedAt": "Sun, 25 Oct 2026 04:06:00 GMT",
+      "publishedAt": "Sun, 25 Oct 2026 04:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ceuta-nietos",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -398,8 +429,25 @@
       "publishedAt": "Sat, 24 Oct 2026 07:10:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-quedara-margen",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "268394637efd1a7c",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños",
+      "summary": "La entrada Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos",
+      "publishedAt": "Fri, 23 Oct 2026 15:32:36 +0000",
+      "politicalScore": 8,
+      "eventKey": "chile-instituciones-chile-instituciones-argumento-gobierno",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -415,8 +463,25 @@
       "publishedAt": "Fri, 23 Oct 2026 15:00:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-brasil-lula",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "26072793ccd0e64d",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal",
+      "summary": "La entrada SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/21/radar-21-10-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-21-10-26",
+      "publishedAt": "Wed, 21 Oct 2026 23:41:35 +0000",
+      "politicalScore": 8,
+      "eventKey": "chile-economia-politica-chile-economia-politica-detecta",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -432,8 +497,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:15:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-mejora",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -449,8 +514,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-contratista-imputado",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -466,8 +531,8 @@
       "publishedAt": "Sun, 25 Oct 2026 03:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-visita",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -483,8 +548,25 @@
       "publishedAt": "Sat, 24 Oct 2026 21:24:29 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c0ec887e349cc9b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Alta",
+      "title": "Detención por ofensas a policías: una ley mordaza para la protesta y la prensa",
+      "summary": "La entrada Detención por ofensas a policías: una ley mordaza para la protesta y la prensa se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa",
+      "publishedAt": "Sat, 24 Oct 2026 14:26:44 +0000",
+      "politicalScore": 7,
+      "eventKey": "chile-probidad-chile-probidad-detencion-ofensas",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -500,25 +582,8 @@
       "publishedAt": "Fri, 23 Oct 2026 14:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-putin-dice",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6b033cd52936090c",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Seguridad: cuando el control militar y punitivo ignora la vida de las mujeres",
-      "summary": "La seguridad de las mujeres exige superar el enfoque militar y punitivo y priorizar la prevención de las violencias, la protección efectiva de derechos y una respuesta estatal articulada que garantice la vida The post Seguridad: cuando el control militar y pun",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/seguridad-cuando-el-control-militar-y-punitivo-ignora-la-vida-de-las-mujeres/",
-      "publishedAt": "Sat, 24 Oct 2026 20:00:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-seguridad-colombia-seguridad-cuando-control",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -534,8 +599,59 @@
       "publishedAt": "Sat, 24 Oct 2026 20:50:51 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-alcance-campana",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fd34e72f6c371f25",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Denuncian a hermanas Guerrero por injerencia en recursos de MinIgualdad",
+      "summary": "La documentación con las presuntas irregularidades ya está en manos de la Fiscalía. The post Denuncian a hermanas Guerrero por injerencia en recursos de MinIgualdad appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/denuncian-a-hermanas-guerrero-por-injerencia-en-recursos-de-minigualdad/",
+      "publishedAt": "Sun, 25 Oct 2026 14:56:03 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-denuncian",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fa630844a99651a9",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Minjusticia niega cercanía de De la Espriella con señalado lavador pedido por EE.UU",
+      "summary": "El ministro Iván Cancino dijo que la foto con Orfale fue en un evento público en el que \"más de 300 personas\" se acercaron a De la Espriella. The post Minjusticia niega cercanía de De la Espriella con señalado lavador pedido por EE.UU appeared first on La Sill",
+      "url": "https://www.lasillavacia.com/en-vivo/minjusticia-niega-cercania-de-de-la-espriella-con-senalado-narco-requerido-por-ee-uu/",
+      "publishedAt": "Sun, 25 Oct 2026 14:00:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-instituciones-colombia-instituciones-minjusticia-niega",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "643f447b14aba51b",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Abren los colegios electorales en Brasil para la segunda vuelta de las presidenciales",
+      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas con marchas multitudinarias en Río y São Paulo",
+      "url": "https://www.14ymedio.com/internacional/abren-colegios-electorales-brasil-segunda_1_1132377.html",
+      "publishedAt": "Sun, 25 Oct 2026 12:57:18 +0000",
+      "politicalScore": 6,
+      "eventKey": "cuba-elecciones-cuba-elecciones-abren-colegios",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -551,8 +667,8 @@
       "publishedAt": "Sun, 25 Oct 2026 05:09:05 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-lorenzetti-justifico",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -563,30 +679,13 @@
       "topic": "Economia politica",
       "priority": "Media",
       "title": "Caso $LIBRA. Jueces, fiscales y vínculos con el poder: el derrotero de una causa destinada al archivo",
-      "summary": "Los sobreseimientos de Javier y Karina Milei ya no tienen quién los apele; cómo fue la ingeniería judicial y política que fulminó la causa; las dificultades de un último recurso pendiente",
+      "summary": "Los sobreseimientos de Javier y Karina Milei ya no tienen quién los apele; cómo fue la ingeniería judicial y política que fulminó la causa; el camino cuesta arriba que afronta el último recurso pendiente",
       "url": "https://www.lanacion.com.ar/politica/caso-libra-jueces-fiscales-y-vinculos-con-el-poder-el-derrotero-de-una-causa-destinada-al-archivo-nid24102026/",
       "publishedAt": "Sun, 25 Oct 2026 01:33:18 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-caso",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2c64fa6ce70d7b13",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Nombran nuevo viceministro de Energía",
-      "summary": "Álex Cañas Rengifo es economista y tiene experiencia como asesor en el Ministerio de Minas y Energía y en Ecopetrol. The post Nombran nuevo viceministro de Energía appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/nombran-nuevo-viceministro-de-energia/",
-      "publishedAt": "Sat, 24 Oct 2026 17:28:11 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-nombran",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -602,8 +701,8 @@
       "publishedAt": "Sat, 24 Oct 2026 00:10:20 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-transnacional-lobby",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -619,8 +718,8 @@
       "publishedAt": "Fri, 23 Oct 2026 16:51:23 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espana-concede",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -636,25 +735,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-desvisados-estan",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a3d411c47a93c11d",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Exdirectoras de la Biblioteca Nacional cuestionan gestión de MinCultura",
-      "summary": "La carta está firmada por las cuatro exdirectoras de los últimos cinco gobiernos. The post Exdirectoras de la Biblioteca Nacional cuestionan gestión de MinCultura appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/exdirectoras-de-la-biblioteca-nacional-cuestionan-gestion-de-mincultura/",
-      "publishedAt": "Sat, 24 Oct 2026 18:22:39 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-exdirectoras-biblioteca",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -670,8 +752,8 @@
       "publishedAt": "Sat, 24 Oct 2026 15:46:31 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-sociedad-cuba-sociedad-reconoce-regimen",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -687,59 +769,25 @@
       "publishedAt": "Sat, 24 Oct 2026 07:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-debate-presidencial",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
-      "id": "be974899647cf613",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "7ef9d58695ab3b33",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Al menos seis alcaldes electos tienen vínculos con el Reinfo",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/al-menos-seis-alcaldes-electos-tienen-vinculos-con-el-reinfo-tras-elecciones-regionales-y-municipales-2026-noticia/",
-      "publishedAt": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-menos-seis",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dd556e22082b604e",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Manos a Obras, una crónica de Fernando Vivas sobres las facultades para el Ejecutivo",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/manos-a-obras-una-cronica-de-fernando-vivas-sobres-las-facultades-para-el-ejecutivo-apuesplan-noticia/",
-      "publishedAt": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-manos-obras",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "14377c812e9b1fa6",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Rafael López Aliaga “He coordinado de manera informal con Reggiardo para que nos permita trabajar” | ENTREVISTA",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-he-coordinado-de-manera-informal-con-reggiardo-para-que-nos-permita-trabajar-entrevista-noticia/",
-      "publishedAt": "Sun, 25 Oct 2026 11:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-rafael-lopez",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "title": "Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF",
+      "summary": "La entrada Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/22/radar-22-10-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-22-10-2026",
+      "publishedAt": "Thu, 22 Oct 2026 23:03:21 +0000",
+      "politicalScore": 5,
+      "eventKey": "chile-probidad-chile-probidad-suprema-tuvo",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -755,8 +803,8 @@
       "publishedAt": "Sun, 25 Oct 2026 10:22:31 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fallos",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -772,8 +820,8 @@
       "publishedAt": "Sun, 25 Oct 2026 10:17:12 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-hotesur",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -789,8 +837,8 @@
       "publishedAt": "Sun, 25 Oct 2026 03:06:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-hogueras",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -806,8 +854,8 @@
       "publishedAt": "Sun, 25 Oct 2026 01:46:26 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-idea",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -823,42 +871,25 @@
       "publishedAt": "Fri, 23 Oct 2026 22:49:33 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-china-chocan",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
-      "id": "afc7e856d24b1118",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
+      "id": "2a352ec2ff58831e",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "Trump dice que los barcos de EE UU harán \"una pequeña escala\" en Cuba al regresar de Irán",
-      "summary": "El presidente volvió a decir que enviará a Marco Rubio \"ahí, y él lo resolverá\"",
-      "url": "https://www.14ymedio.com/internacional/trump-dice-barcos-ee-uu_1_1132340.html",
-      "publishedAt": "Fri, 23 Oct 2026 20:56:27 +0000",
+      "title": "Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones",
+      "summary": "La entrada Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones",
+      "publishedAt": "Fri, 23 Oct 2026 17:59:54 +0000",
       "politicalScore": 4,
-      "eventKey": "cuba-sociedad-cuba-sociedad-trump-dice",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5cafe5990cddb9d5",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "El Gobierno cubano intenta atraer a los jóvenes desocupados con cursos pagados a cuatro dólares al mes",
-      "summary": "La formación durará entre uno y seis meses, exigirá una asistencia mínima del 85% y quienes incumplan las condiciones tendrían que devolver el dinero",
-      "url": "https://www.14ymedio.com/cuba/gobierno-cubano-atraer-jovenes-desocupados_1_1132327.html",
-      "publishedAt": "Fri, 23 Oct 2026 17:01:50 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-cubano",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "eventKey": "chile-economia-politica-chile-economia-politica-fundacion",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -874,25 +905,25 @@
       "publishedAt": "Fri, 23 Oct 2026 16:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-furor-adolescente",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
-      "id": "6ba711a4820f487b",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
+      "id": "67384482d07f7221",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "“Un gobierno provisional de transición”, exigen 146 ex presos políticos cubanos",
-      "summary": "Los firmantes del documento piden en prioridad la “total liberación de todos los presos políticos y la despenalización del disenso”",
-      "url": "https://www.14ymedio.com/cuba/gobierno-provisional-transicion-exigen-146_1_1132294.html",
-      "publishedAt": "Fri, 23 Oct 2026 10:12:29 +0000",
+      "title": "Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil",
+      "summary": "La entrada Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil",
+      "publishedAt": "Fri, 23 Oct 2026 15:15:25 +0000",
       "politicalScore": 4,
-      "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-provisional",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "eventKey": "chile-probidad-chile-probidad-estados-unidos",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -908,8 +939,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-procesiones-regresan",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -925,8 +956,8 @@
       "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tantas-maneras",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -942,8 +973,8 @@
       "publishedAt": "Sat, 24 Oct 2026 11:40:03 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-penas-anos",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     },
     {
@@ -959,8 +990,110 @@
       "publishedAt": "Sat, 24 Oct 2026 06:20:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-prefiero-atenderme",
-      "firstSeenAt": "2026-10-25T11:01:32.697Z",
-      "lastSeenAt": "2026-10-25T11:01:32.697Z",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1c1e048384a4674e",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Podcast &#124; Rebaja de condenas: ¿Chile cuida a los niños?",
+      "summary": "La entrada Podcast | Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/podcast-rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=podcast-rebaja-de-condenas-chile-cuida-a-los-ninos",
+      "publishedAt": "Sat, 24 Oct 2026 01:38:48 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-podcast-rebaja",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8de610525b8a5bf0",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Rebaja de condenas: ¿Chile cuida a los niños?",
+      "summary": "La entrada Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rebaja-de-condenas-chile-cuida-a-los-ninos",
+      "publishedAt": "Sat, 24 Oct 2026 01:36:07 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-rebaja-condenas",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f391059e9dca2b65",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH",
+      "summary": "La entrada Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh",
+      "publishedAt": "Fri, 23 Oct 2026 11:00:57 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-fortalecer-neutralizar",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2ffc7c9cf3eab495",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio",
+      "summary": "La entrada Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/22/catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio",
+      "publishedAt": "Thu, 22 Oct 2026 11:28:51 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-catastrofe-fondo",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1d06f81ecfbf9f4f",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E",
+      "summary": "La entrada Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/21/las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e",
+      "publishedAt": "Wed, 21 Oct 2026 19:32:23 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-responden-mantendran",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
+      "seenCount": 1
+    },
+    {
+      "id": "99c33bd0159315e4",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva",
+      "summary": "La entrada ¿Operación Sitio 2.0? El riesgo de volver a la «Operación Tiza» de Frei Montalva se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/21/operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=operacion-sitio-2-0-el-riesgo-de-volver-a-la-operacion-tiza-de-frei-montalva",
+      "publishedAt": "Wed, 21 Oct 2026 19:05:15 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-operacion-sitio",
+      "firstSeenAt": "2026-10-25T15:50:29.897Z",
+      "lastSeenAt": "2026-10-25T15:50:29.897Z",
       "seenCount": 1
     }
   ]
