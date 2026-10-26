@@ -1,39 +1,35 @@
 {
-  "generatedAt": "2026-10-26T04:05:59.865Z",
-  "count": 42,
+  "generatedAt": "2026-10-26T12:34:43.947Z",
+  "count": 52,
   "failures": [
     {
       "source": "efecto-cocuyo-venezuela",
       "error": "403 Forbidden"
-    },
-    {
-      "source": "ciper-chile",
-      "error": "The operation was aborted due to timeout"
     }
   ],
   "stats": {
-    "generatedAt": "2026-10-26T04:05:59.865Z",
-    "activeSignals": 42,
-    "archiveSignals": 100,
-    "countriesCovered": 7,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 8.05
+    "generatedAt": "2026-10-26T12:34:43.947Z",
+    "activeSignals": 52,
+    "archiveSignals": 110,
+    "countriesCovered": 8,
+    "highPrioritySignals": 29,
+    "averagePoliticalScore": 6.9
   },
   "briefings": [
     {
-      "country": "Nicaragua",
+      "country": "Chile",
       "priority": "Alta",
-      "leadTitle": "Lula gana las elecciones presidenciales tras una remontada inédita ante Flávio Bolsonaro",
-      "leadUrl": "https://confidencial.digital/mundo/lula-gana-las-elecciones-presidenciales-tras-una-remontada-inedita-ante-flavio-bolsonaro/",
+      "leadTitle": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
+      "leadUrl": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
       "focusTopics": [
-        "Elecciones",
-        "Seguridad"
+        "Economia politica",
+        "Instituciones"
       ],
       "topSources": [
-        "Confidencial"
+        "CIPER"
       ],
-      "signalCount": 12,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar Confidencial y Confidencial."
+      "signalCount": 14,
+      "summary": "Foco en Economia politica, Instituciones. Vigilar CIPER y CIPER."
     },
     {
       "country": "Argentina",
@@ -50,19 +46,34 @@
       "summary": "Foco en Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
-      "country": "Espana",
+      "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "¿Se puede impedir votar a un español?",
-      "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
+      "leadTitle": "Lula gana las elecciones presidenciales tras una remontada inédita ante Flávio Bolsonaro",
+      "leadUrl": "https://confidencial.digital/mundo/lula-gana-las-elecciones-presidenciales-tras-una-remontada-inedita-ante-flavio-bolsonaro/",
       "focusTopics": [
         "Elecciones",
-        "Instituciones"
+        "Diplomacia"
       ],
       "topSources": [
-        "El Pais"
+        "Confidencial"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar El Pais y El Pais."
+      "signalCount": 10,
+      "summary": "Foco en Elecciones, Diplomacia. Vigilar Confidencial y Confidencial."
+    },
+    {
+      "country": "Cuba",
+      "priority": "Alta",
+      "leadTitle": "Miles de personas reciben en Caracas a María Corina Machado y exigen elecciones",
+      "leadUrl": "https://www.14ymedio.com/internacional/miles-reciben-caracas-maria-corina-machado_1_1132415.html",
+      "focusTopics": [
+        "Elecciones",
+        "Sociedad"
+      ],
+      "topSources": [
+        "14ymedio"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Uruguay",
@@ -79,18 +90,19 @@
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Peru",
+      "country": "Espana",
       "priority": "Alta",
-      "leadTitle": "Brasil: los líderes del Congreso reconocen la victoria de Lula frente al rechazo de Bolsonaro",
-      "leadUrl": "https://elcomercio.pe/mundo/latinoamerica/brasil-los-lideres-del-congreso-reconocen-la-victoria-de-lula-frente-al-rechazo-de-bolsonaro-apuesplan-noticia/",
+      "leadTitle": "¿Se puede impedir votar a un español?",
+      "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
-        "Elecciones"
+        "Elecciones",
+        "Instituciones"
       ],
       "topSources": [
-        "El Comercio"
+        "El Pais"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Elecciones. Vigilar El Comercio y El Comercio."
+      "signalCount": 4,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar El Pais y El Pais."
     },
     {
       "country": "Colombia",
@@ -109,19 +121,18 @@
       "summary": "Foco en Elecciones, Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Cuba",
-      "priority": "Media",
-      "leadTitle": "Abren los colegios electorales en Brasil para la segunda vuelta de las presidenciales",
-      "leadUrl": "https://www.14ymedio.com/internacional/abren-colegios-electorales-brasil-segunda_1_1132377.html",
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Reinfo, Ley Mape y más: La agenda minera que se alista en el Congreso",
+      "leadUrl": "https://elcomercio.pe/politica/comision-de-energia-y-minas-pieza-debate-de-la-nueva-ley-de-la-pequena-mineria-y-mineria-artesanal-ley-mape-juntos-por-el-peru-congreso-diputados-apuesplan-noticia/",
       "focusTopics": [
-        "Elecciones",
-        "Sociedad"
+        "Economia politica"
       ],
       "topSources": [
-        "14ymedio"
+        "El Comercio"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 1,
+      "summary": "Foco en Economia politica. Vigilar El Comercio."
     }
   ],
   "signals": [
@@ -138,25 +149,8 @@
       "publishedAt": "Sun, 25 Oct 2026 22:52:18 +0000",
       "politicalScore": 20,
       "eventKey": "argentina-elecciones-argentina-elecciones-cruzo-limite",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "de344463cfa87cc7",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Brasil: los líderes del Congreso reconocen la victoria de Lula frente al rechazo de Bolsonaro",
-      "summary": "Los presidentes del Senado y de la Cámara de Diputados de Brasil felicitaron a Lula da Silva por su reelección y defendieron la transparencia del proceso electoral, luego de que Flávio Bolsonaro se negara a reconocer su derrota",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/brasil-los-lideres-del-congreso-reconocen-la-victoria-de-lula-frente-al-rechazo-de-bolsonaro-apuesplan-noticia/",
-      "publishedAt": "Mon, 26 Oct 2026 03:30:28 +0000",
-      "politicalScore": 19,
-      "eventKey": "peru-elecciones-peru-elecciones-brasil-lideres",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -172,8 +166,8 @@
       "publishedAt": "Mon, 26 Oct 2026 00:33:08 +0000",
       "politicalScore": 19,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-lula-gana",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -186,28 +180,11 @@
       "title": "Reacciones de las elecciones en Brasil 2026: mensajes, tuits y declaraciones",
       "summary": "El arco político se expresa mientras avanza el conteo de votos que definirá si el próximo presidente brasileño será Lula da Silva o Flavio Bolsonaro",
       "url": "https://www.lanacion.com.ar/politica/reacciones-de-las-elecciones-en-brasil-2026-mensajes-tuits-y-declaraciones-nid25102026/",
-      "publishedAt": "Mon, 26 Oct 2026 00:15:44 +0000",
+      "publishedAt": "Mon, 26 Oct 2026 12:20:31 +0000",
       "politicalScore": 15,
       "eventKey": "argentina-elecciones-argentina-elecciones-reacciones-brasil",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f0d9279f2e0b7bdb",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Flávio Bolsonaro no reconoce el resultado de las elecciones en Brasil y dice que pedirá su anulación",
-      "summary": "Flávio Bolsonaro cuestionó la legitimidad del triunfo de Lula da Silva y aseguró que no puede reconocer los resultados de la segunda vuelta en Brasil, luego de que un juez autorizara extender por dos horas la jornada electoral a pedido de la campaña del mandat",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/flavio-bolsonaro-no-reconoce-el-resultado-de-las-elecciones-en-brasil-y-dice-que-pedira-su-anulacion-lula-da-silva-apuesplan-noticia/",
-      "publishedAt": "Mon, 26 Oct 2026 02:39:48 +0000",
-      "politicalScore": 13,
-      "eventKey": "peru-elecciones-peru-elecciones-flavio-bolsonaro",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -223,25 +200,25 @@
       "publishedAt": "Sun, 25 Oct 2026 23:10:41 -0300",
       "politicalScore": 13,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-oposicion-uruguaya",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
-      "id": "25aace78679735e7",
+      "id": "a090807f33b96e15",
       "country": "Uruguay",
       "source": "La Diaria",
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Orsi felicitó a Lula por su triunfo en Brasil y “por la fiesta democrática que representa un proceso electoral”",
-      "summary": "El canciller Mario Lubetkin señaló que Orsi fue el primer presidente en llamar a Lula, “cosa que no es una simbología menor”. Próximo a cumplir los 81 años de edad, Luiz Inácio Lula da Silva fue reelecto este domingo presidente de Brasil . De acuerdo con el es",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/orsi-felicito-a-lula-por-su-triunfo-en-brasil-y-por-la-fiesta-democratica-que-representa-un-proceso-electoral/",
-      "publishedAt": "Sun, 25 Oct 2026 21:37:03 -0300",
+      "title": "Fernando Pereira confirmó que Lula vendrá a Uruguay antes de fin de año",
+      "summary": "En comunicación con la diaria Radio desde Brasil, el presidente del Frente Amplio agregó que, tras el triunfo, el mandatario le dijo que quiere “mucho a Uruguay” y que le mandara un abrazo a Lucía Topolansky. Tras la reelección de Lula da Silva como presidente",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/fernando-pereira-confirmo-que-lula-vendra-a-uruguay-antes-de-fin-de-ano/",
+      "publishedAt": "Mon, 26 Oct 2026 08:23:03 -0300",
       "politicalScore": 12,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-orsi-felicito",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-fernando-pereira",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -251,14 +228,14 @@
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Diego Guelar analizó el triunfo de Lula: un “cambio de reglas”, la relación con Milei y el posible indulto a Bolsonaro",
+      "title": "Diego Guelar analizó el triunfo de Lula: “cambio de reglas”, la relación con Milei y el posible indulto a Bolsonaro",
       "summary": "El exembajador argentino en Brasil habló sobre la reelección del presidente y planteó cómo el jefe de Estado debe abordar su cuarto mandato",
       "url": "https://www.lanacion.com.ar/politica/diego-guelar-analizo-el-triunfo-de-lula-un-cambio-de-reglas-la-relacion-con-milei-y-el-posible-nid25102026/",
-      "publishedAt": "Mon, 26 Oct 2026 03:07:37 +0000",
+      "publishedAt": "Mon, 26 Oct 2026 11:48:20 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-elecciones-argentina-elecciones-diego-guelar",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -274,8 +251,25 @@
       "publishedAt": "Sun, 25 Oct 2026 23:55:59 -0300",
       "politicalScore": 11,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-festejos-lula",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1a3ca7ec1618b404",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Reinfo, Ley Mape y más: La agenda minera que se alista en el Congreso",
+      "summary": "El Congreso debate nuevas propuestas sobre la Ley MAPE, la formalización minera, la minería ilegal y los cambios en las regalías e impuestos del sector.",
+      "url": "https://elcomercio.pe/politica/comision-de-energia-y-minas-pieza-debate-de-la-nueva-ley-de-la-pequena-mineria-y-mineria-artesanal-ley-mape-juntos-por-el-peru-congreso-diputados-apuesplan-noticia/",
+      "publishedAt": "Mon, 26 Oct 2026 12:19:40 +0000",
+      "politicalScore": 10,
+      "eventKey": "peru-economia-politica-peru-economia-politica-reinfo",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -291,8 +285,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -308,8 +302,8 @@
       "publishedAt": "Mon, 26 Oct 2026 00:24:24 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-crisis-disputa",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -325,59 +319,42 @@
       "publishedAt": "Sun, 25 Oct 2026 16:30:42 GMT",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-delegado-gobierno",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
-      "id": "52b1f90d55fbb93d",
+      "id": "fb45aebdd2fff971",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos”",
+      "summary": "La entrada Exjuez Simpértigue afirmó ante fiscalía que el abogado Vargas le compró pasajes en crucero para “juntar puntos” se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/22/exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=exjuez-simpertigue-afirmo-ante-fiscalia-que-el-abogado-vargas-le-compro-pasajes-en-crucero-para-juntar-puntos",
+      "publishedAt": "Thu, 22 Oct 2026 18:17:52 +0000",
+      "politicalScore": 9,
+      "eventKey": "chile-economia-politica-chile-economia-politica-exjuez",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "008e701cc97d7101",
       "country": "Espana",
       "source": "El Pais",
       "sourceType": "Generalista",
       "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
-      "summary": "En entrevista con EL PAÍS, el presidente del Gobierno y candidato del PSOE confía en lograr una mayoría “más amplia” el 29-N y afirma que su mayor error fue “no haber visto la corrupción de Ábalos”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html",
-      "publishedAt": "Sun, 25 Oct 2026 04:30:01 GMT",
-      "politicalScore": 9,
-      "eventKey": "espana-instituciones-espana-instituciones-pedro-sanchez",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dccfa42c5403a212",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Fiscalía de El Salvador pide cadena perpetua para 564 líderes de la pandilla Barrio 18",
-      "summary": "La Fiscalía General de El Salvador pidió a una corte contra el crimen organizado la cadena perpetua para un grupo de al menos 564 cabecillas de la pandilla Barrio 18, entre ellos “líderes históricos” de las facciones Sureños y Revolucionarios, por más de 14 40",
-      "url": "https://confidencial.digital/mundo/fiscalia-de-el-salvador-pide-cadena-perpetua-para-564-lideres-de-la-pandilla-barrio-18/",
-      "publishedAt": "Fri, 23 Oct 2026 21:42:27 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-fiscalia-salvador",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8c1b234dafc5e99f",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Ceuta, ‘ley de nietos’ y vivienda: la entrevista con Pedro Sánchez en 10 titulares",
-      "summary": "El presidente del Gobierno asegura en entrevista con EL PAÍS que “muchos de los que hoy vaticinan que va a ganar el PP con Vox son los que aseguraron que Podemos iba a sobrepasar al PSOE”",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-10-25/ceuta-ley-de-nietos-y-vivienda-la-entrevista-con-pedro-sanchez-en-10-titulares.html",
-      "publishedAt": "Sun, 25 Oct 2026 04:30:01 GMT",
+      "title": "El Congreso retira los retratos de los presidentes de las Cortes franquistas",
+      "summary": "Este paso se da en cumplimiento de un acuerdo de la Mesa del Congreso que contó con el apoyo del PSOE y Sumar y la abstención del PP",
+      "url": "https://elpais.com/espana/2026-10-26/el-congreso-retira-los-retratos-de-los-presidentes-de-las-cortes-franquistas.html",
+      "publishedAt": "Mon, 26 Oct 2026 09:50:34 GMT",
       "politicalScore": 8,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-ceuta-nietos",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "eventKey": "espana-instituciones-espana-instituciones-congreso-retira",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -393,8 +370,76 @@
       "publishedAt": "Sat, 24 Oct 2026 07:10:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-quedara-margen",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "268394637efd1a7c",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños",
+      "summary": "La entrada Este es el argumento con que el gobierno anterior se opuso en tribunales a rebajar las condenas de agresores sexuales de niños se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=este-es-el-argumento-con-que-el-gobierno-anterior-se-opuso-en-tribunales-a-rebajar-las-condenas-de-agresores-sexuales-de-ninos",
+      "publishedAt": "Fri, 23 Oct 2026 15:32:36 +0000",
+      "politicalScore": 8,
+      "eventKey": "chile-instituciones-chile-instituciones-argumento-gobierno",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "26072793ccd0e64d",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal",
+      "summary": "La entrada SII detecta más de US$3.200 millones en el exterior sin declarar; gobierno rebaja 56 condenas por delitos sexuales contra menores, y Hermosilla solicita por segunda vez inhabilidad de fiscal se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/21/radar-21-10-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-21-10-26",
+      "publishedAt": "Wed, 21 Oct 2026 23:41:35 +0000",
+      "politicalScore": 8,
+      "eventKey": "chile-economia-politica-chile-economia-politica-detecta",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c318f9ed1c1c10cc",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Miles de personas reciben en Caracas a María Corina Machado y exigen elecciones",
+      "summary": "La líder opositora regresó para “acelerar la transición”, asegura su entorno",
+      "url": "https://www.14ymedio.com/internacional/miles-reciben-caracas-maria-corina-machado_1_1132415.html",
+      "publishedAt": "Mon, 26 Oct 2026 08:55:42 +0000",
+      "politicalScore": 7,
+      "eventKey": "cuba-elecciones-cuba-elecciones-miles-personas",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7b4da2de5e8a92cd",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "“Estados Unidos está decidido a romper el status quo que existe en Nicaragua”",
+      "summary": "Kevin Sullivan, el último embajador de Estados Unidos en Nicaragua, entre 2018 y 2023, hoy está retirado del servicio diplomático y es vicepresidente del organismo privado Consejo de las Américas en Washington, desde donde sigue monitoreando la crisis de la re",
+      "url": "https://confidencial.digital/entrevistas/estados-unidos-esta-decidido-a-romper-el-status-quo-que-existe-en-nicaragua/",
+      "publishedAt": "Mon, 26 Oct 2026 06:30:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-estados-unidos",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -410,8 +455,8 @@
       "publishedAt": "Mon, 26 Oct 2026 03:01:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-juicio",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -427,8 +472,8 @@
       "publishedAt": "Mon, 26 Oct 2026 02:39:36 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-visita",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -444,8 +489,8 @@
       "publishedAt": "Mon, 26 Oct 2026 01:48:37 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-sorpresa",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -461,8 +506,8 @@
       "publishedAt": "Mon, 26 Oct 2026 01:08:13 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-dirigentes",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -478,8 +523,8 @@
       "publishedAt": "Mon, 26 Oct 2026 00:27:34 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-elecciones-colombia-elecciones-lula-silva",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -495,8 +540,8 @@
       "publishedAt": "Mon, 26 Oct 2026 00:26:46 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-peronismo",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -512,8 +557,8 @@
       "publishedAt": "Sun, 25 Oct 2026 22:58:29 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-patricia",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -529,8 +574,8 @@
       "publishedAt": "Sun, 25 Oct 2026 19:00:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-mujeres-debe",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -546,8 +591,25 @@
       "publishedAt": "Sun, 25 Oct 2026 06:15:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-mejora",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3c0ec887e349cc9b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Alta",
+      "title": "Detención por ofensas a policías: una ley mordaza para la protesta y la prensa",
+      "summary": "La entrada Detención por ofensas a policías: una ley mordaza para la protesta y la prensa se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/24/detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=detencion-por-ofensas-a-policias-una-ley-mordaza-para-la-protesta-y-la-prensa",
+      "publishedAt": "Sat, 24 Oct 2026 14:26:44 +0000",
+      "politicalScore": 7,
+      "eventKey": "chile-probidad-chile-probidad-detencion-ofensas",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -563,25 +625,8 @@
       "publishedAt": "Sat, 24 Oct 2026 20:50:51 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-alcance-campana",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "06740835e79206c6",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Correa afirma que Lula obtuvo una “victoria fundamental para el progresismo en América Latina”",
-      "summary": "Rafael Correa destacó la remontada electoral de Lula da Silva frente a Flávio Bolsonaro y calificó su reelección como una “victoria fundamental para el progresismo en América Latina”",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-en-brasil-correa-afirma-que-lula-obtuvo-victoria-fundamental-para-el-progresismo-en-america-latina-noticia/",
-      "publishedAt": "Mon, 26 Oct 2026 03:19:07 +0000",
-      "politicalScore": 6,
-      "eventKey": "peru-elecciones-peru-elecciones-correa-afirma",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -597,25 +642,8 @@
       "publishedAt": "Sun, 25 Oct 2026 20:51:19 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-viraje-peronismo",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "643f447b14aba51b",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Abren los colegios electorales en Brasil para la segunda vuelta de las presidenciales",
-      "summary": "Lula y Flávio Bolsonaro cerraron sus campañas con marchas multitudinarias en Río y São Paulo",
-      "url": "https://www.14ymedio.com/internacional/abren-colegios-electorales-brasil-segunda_1_1132377.html",
-      "publishedAt": "Sun, 25 Oct 2026 12:57:18 +0000",
-      "politicalScore": 6,
-      "eventKey": "cuba-elecciones-cuba-elecciones-abren-colegios",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -631,25 +659,8 @@
       "publishedAt": "Sun, 25 Oct 2026 01:27:30 +0200",
       "politicalScore": 6,
       "eventKey": "espana-economia-politica-espana-economia-politica-tribunal",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d13f3199ac93c16c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "España concede la nacionalidad a 46 nicaragüenses desterrados",
-      "summary": "El Gobierno español concedió la nacionalidad por carta de naturaleza a 46 nicaragüenses exiliados o despojados de su nacionalidad por el régimen de Daniel Ortega y Rosario Murillo. Entre los nacionalizados españoles hay líderes campesinos, defensores de derech",
-      "url": "https://confidencial.digital/noticias/espana-concede-la-nacionalidad-a-46-nicaraguenses-desterrados/",
-      "publishedAt": "Fri, 23 Oct 2026 16:51:23 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espana-concede",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -665,8 +676,8 @@
       "publishedAt": "Sun, 25 Oct 2026 21:52:32 +0000",
       "politicalScore": 5,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-polemica",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -682,8 +693,8 @@
       "publishedAt": "Sun, 25 Oct 2026 16:57:14 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-indaga-contratos",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -699,8 +710,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-desvisados-estan",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -716,8 +727,8 @@
       "publishedAt": "Sat, 24 Oct 2026 15:46:31 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-sociedad-cuba-sociedad-reconoce-regimen",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -733,42 +744,144 @@
       "publishedAt": "Sat, 24 Oct 2026 07:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-debate-presidencial",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
-      "id": "a3d8f632e0285533",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "7ef9d58695ab3b33",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Sánchez recorta distancia a Feijóo pero la suma de la derecha sigue muy cerca de los 200 escaños",
-      "summary": "El PP pierde ocho diputados en una semana, mientras PSOE y Frente Amplio movilizan a su electorado y se anotan tres asientos cada uno, con aún muchos indecisos&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/encuestas/2026/10/26/6addf8c4fdddfff23d8b4581.html",
-      "publishedAt": "Mon, 26 Oct 2026 01:09:19 +0100",
-      "politicalScore": 4,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sanchez-recorta",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "title": "Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF",
+      "summary": "La entrada Suprema sí tuvo fallos en contra de rebajas a abusadores sexuales; ministro Rau llama a afiliados a postergar jubilación por caída del Fondo E, y TC declara inadmisible requerimiento contra las RUF se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/22/radar-22-10-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-22-10-2026",
+      "publishedAt": "Thu, 22 Oct 2026 23:03:21 +0000",
+      "politicalScore": 5,
+      "eventKey": "chile-probidad-chile-probidad-suprema-tuvo",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
-      "id": "dbd16eb64ae257c4",
+      "id": "038fd80af6421c5a",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
-      "topic": "Diplomacia",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "China y EE. UU. chocan por minería ilegal cerca de la frontera entre Nicaragua y Costa Rica",
-      "summary": "China rechazó este 24 de octubre de 2026 las acusaciones de la Embajada de Estados Unidos en Costa Rica sobre supuestas prácticas coercitivas de mineras chinas en Nicaragua y su vínculo con el aumento de la minería ilegal en territorio costarricense. Aseguró q",
-      "url": "https://confidencial.digital/noticias/ee-uu-denuncia-tacticas-abusivas-de-mineras-chinas-en-nicaragua-y-su-costo-para-costa-rica/",
-      "publishedAt": "Fri, 23 Oct 2026 22:49:33 +0000",
+      "title": "El largo brazo represivo de Daniel Ortega",
+      "summary": "Los ataques y amenazas contra opositores nicaragüenses en Costa Rica evidencian el alcance transnacional de la represión de la dictadura Ortega y Murillo. Los casos en nuestro país son graves y abundantes. El país debe revisar sus mecanismos de protección y re",
+      "url": "https://confidencial.digital/opinion/el-largo-brazo-represivo-de-daniel-ortega/",
+      "publishedAt": "Mon, 26 Oct 2026 06:20:00 +0000",
       "politicalScore": 4,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-china-chocan",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-largo-brazo",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2a352ec2ff58831e",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones",
+      "summary": "La entrada Fundación Horizonte Ciudadano: Presupuesto 2027 elimina 18 programas sociales por un monto de $50 mil millones se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fundacion-horizonte-ciudadano-presupuesto-2027-elimina-18-programas-sociales-por-un-monto-de-50-mil-millones",
+      "publishedAt": "Fri, 23 Oct 2026 17:59:54 +0000",
+      "politicalScore": 4,
+      "eventKey": "chile-economia-politica-chile-economia-politica-fundacion",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "67384482d07f7221",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil",
+      "summary": "La entrada Estados Unidos permite que permanezca en Florida un exjefe de inteligencia de Bolsonaro ya condenado en Brasil se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=estados-unidos-permite-que-permanezca-en-florida-un-exjefe-de-inteligencia-de-bolsonaro-ya-condenado-en-brasil",
+      "publishedAt": "Fri, 23 Oct 2026 15:15:25 +0000",
+      "politicalScore": 4,
+      "eventKey": "chile-probidad-chile-probidad-estados-unidos",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fa3c501b445d885b",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "República Dominicana gestiona retorno al país de grupo reclutado por Rusia",
+      "summary": "Cuatro dominicanos decidieron no suscribir el contrato con el Ministerio de Defensa ruso y el pasado viernes contactaron con la embajada dominicana en Moscú",
+      "url": "https://www.14ymedio.com/internacional/republica-dominicana-gestiona-retorno-pais_1_1132428.html",
+      "publishedAt": "Mon, 26 Oct 2026 12:13:19 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-sociedad-cuba-sociedad-republica-dominicana",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fae5106d8e5d32dd",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Gana Lula con casi el 52% de los votos, Bolsonaro impugna, Trump cuestiona y China lo celebra",
+      "summary": "La izquierda seguirá gobernando en Brasil, único país de América del Sur, con Uruguay, que no ha girado a la derecha",
+      "url": "https://www.14ymedio.com/internacional/gana-lula-52-votos-bolsonaro_1_1132417.html",
+      "publishedAt": "Mon, 26 Oct 2026 09:58:41 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-elecciones-cuba-elecciones-gana-lula",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bb498f22bd6aedf9",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara”",
+      "summary": "La entrada José Alfredo Fuentes: “Hubiese sido un honor grabar con Víctor Jara” se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/25/jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=jose-alfredo-fuentes-hubiese-sido-un-honor-grabar-con-victor-jara",
+      "publishedAt": "Sun, 25 Oct 2026 17:15:02 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-jose-alfredo",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8112e92eb71a42b6",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Cesantes y sin finiquito: el cierre de la ex Fuente Lastarria",
+      "summary": "La entrada Cesantes y sin finiquito: el cierre de la ex Fuente Lastarria se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/25/cesantes-y-sin-finiquito-el-cierre-de-la-ex-fuente-lastarria/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=cesantes-y-sin-finiquito-el-cierre-de-la-ex-fuente-lastarria",
+      "publishedAt": "Sun, 25 Oct 2026 12:15:44 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-cesantes-finiquito",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -784,8 +897,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-procesiones-regresan",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -801,8 +914,8 @@
       "publishedAt": "Sat, 24 Oct 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tantas-maneras",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
@@ -818,25 +931,93 @@
       "publishedAt": "Sat, 24 Oct 2026 11:40:03 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-penas-anos",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     },
     {
-      "id": "84adaba25224b905",
-      "country": "Nicaragua",
-      "source": "Confidencial",
+      "id": "1c1e048384a4674e",
+      "country": "Chile",
+      "source": "CIPER",
       "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "“Prefiero atenderme por mi cuenta”: Pacientes se quejan ante masivos contagios de chikungunya",
-      "summary": "La crisis de salud causada por el contagio masivo de chikungunya y otras enfermedades como dengue y zika ha desnudado una carencia fundamental del sistema de Salud de Nicaragua: la falta de confianza por parte de la población. Tres ciudadanos identificados con",
-      "url": "https://confidencial.digital/noticias/prefiero-atenderme-por-mi-cuenta-pacientes-se-quejan-ante-masivos-contagios-de-chikungunya/",
-      "publishedAt": "Sat, 24 Oct 2026 06:20:00 +0000",
+      "title": "Podcast &#124; Rebaja de condenas: ¿Chile cuida a los niños?",
+      "summary": "La entrada Podcast | Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/podcast-rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=podcast-rebaja-de-condenas-chile-cuida-a-los-ninos",
+      "publishedAt": "Sat, 24 Oct 2026 01:38:48 +0000",
       "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-prefiero-atenderme",
-      "firstSeenAt": "2026-10-26T04:05:59.865Z",
-      "lastSeenAt": "2026-10-26T04:05:59.865Z",
+      "eventKey": "chile-probidad-chile-probidad-podcast-rebaja",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8de610525b8a5bf0",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Rebaja de condenas: ¿Chile cuida a los niños?",
+      "summary": "La entrada Rebaja de condenas: ¿Chile cuida a los niños? se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/rebaja-de-condenas-chile-cuida-a-los-ninos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rebaja-de-condenas-chile-cuida-a-los-ninos",
+      "publishedAt": "Sat, 24 Oct 2026 01:36:07 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-rebaja-condenas",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f391059e9dca2b65",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH",
+      "summary": "La entrada Fortalecer o neutralizar: el proyecto del Ejecutivo sobre el INDH se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/23/fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fortalecer-o-neutralizar-el-proyecto-del-ejecutivo-sobre-el-indh",
+      "publishedAt": "Fri, 23 Oct 2026 11:00:57 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-fortalecer-neutralizar",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "2ffc7c9cf3eab495",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio",
+      "summary": "La entrada Catástrofe en el Fondo E: siguiendo a la manada hacia el precipicio se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/22/catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=catastrofe-en-el-fondo-e-siguiendo-a-la-manada-hacia-el-precipicio",
+      "publishedAt": "Thu, 22 Oct 2026 11:28:51 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-catastrofe-fondo",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1d06f81ecfbf9f4f",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E",
+      "summary": "La entrada Las AFP no responden si mantendrán en sus cargos a gerentes responsables de la multimillonaria pérdida del fondo E se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/21/las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=las-afp-no-responden-si-mantendran-en-sus-cargos-a-gerentes-responsables-de-la-multimillonaria-perdida-del-fondo-e",
+      "publishedAt": "Wed, 21 Oct 2026 19:32:23 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-responden-mantendran",
+      "firstSeenAt": "2026-10-26T12:34:43.947Z",
+      "lastSeenAt": "2026-10-26T12:34:43.947Z",
       "seenCount": 1
     }
   ]
