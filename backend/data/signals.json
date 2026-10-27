@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-10-27T04:25:44.963Z",
-  "count": 57,
-  "failures": [],
+  "generatedAt": "2026-10-27T11:52:05.556Z",
+  "count": 56,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-10-27T04:25:44.963Z",
-    "activeSignals": 57,
-    "archiveSignals": 115,
-    "countriesCovered": 9,
-    "highPrioritySignals": 27,
-    "averagePoliticalScore": 7
+    "generatedAt": "2026-10-27T11:52:05.556Z",
+    "activeSignals": 56,
+    "archiveSignals": 114,
+    "countriesCovered": 8,
+    "highPrioritySignals": 31,
+    "averagePoliticalScore": 7.52
   },
   "briefings": [
     {
@@ -49,29 +54,13 @@
       "leadTitle": "Lula gana las elecciones presidenciales tras una remontada inédita ante Flávio Bolsonaro",
       "leadUrl": "https://confidencial.digital/mundo/lula-gana-las-elecciones-presidenciales-tras-una-remontada-inedita-ante-flavio-bolsonaro/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Elecciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 10,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "EEUU espera que Delcy Rodríguez deje vacante la presidencia de Venezuela en 2027",
-      "leadUrl": "https://efectococuyo.com/internacionales/eeuu-espera-que-delcy-rodriguez-deje-vacante-la-presidencia-de-venezuela-en-2027/",
-      "focusTopics": [
-        "Diplomacia",
-        "Elecciones"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Diplomacia, Elecciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 8,
+      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Colombia",
@@ -80,27 +69,58 @@
       "leadUrl": "https://www.lasillavacia.com/en-vivo/autoridades-investigan-amenazas-de-muerte-al-registrador-penagos/",
       "focusTopics": [
         "Seguridad",
+        "Instituciones",
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 7,
+      "summary": "Foco en Seguridad, Instituciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Cuba",
+      "priority": "Alta",
+      "leadTitle": "Israel vota en unas elecciones planteadas como un plebiscito sobre Netanyahu",
+      "leadUrl": "https://www.14ymedio.com/internacional/israel-vota-elecciones-planteadas-plebiscito_1_1132472.html",
+      "focusTopics": [
+        "Elecciones",
+        "Sociedad"
+      ],
+      "topSources": [
+        "14ymedio"
+      ],
+      "signalCount": 5,
+      "summary": "Foco en Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Orsi se reunió con compañía tecnológica que se instalará en +Colonia: se prevé una inversión de más de 40 millones de dólares",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/orsi-se-reunio-con-compania-tecnologica-que-se-instalara-en-colonia-se-preve-una-inversion-de-mas-de-40-millones-de-dolares/",
+      "leadTitle": "“El triunfo del presidente Lula nos ayuda a reforzar fuertemente la región”, afirmó Lubetkin",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/10/el-triunfo-del-presidente-lula-nos-ayuda-a-reforzar-fuertemente-la-region-afirmo-lubetkin/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 3,
+      "signalCount": 4,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Benjamin Netanyahu, el primer ministro de Israel que lucha por su supervivencia política",
+      "leadUrl": "https://elcomercio.pe/mundo/oriente-medio/benjamin-netanyahu-el-primer-ministro-de-israel-que-lucha-por-su-supervivencia-politica-noticia/",
+      "focusTopics": [
+        "Seguridad",
+        "Elecciones"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Seguridad, Elecciones. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Espana",
@@ -108,43 +128,15 @@
       "leadTitle": "¿Se puede impedir votar a un español?",
       "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
-        "Elecciones"
+        "Elecciones",
+        "Gobernabilidad"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones. Vigilar El Pais y El Mundo."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Vicepresidente brasileño dice que Trump está “totalmente equivocado” acerca de elecciones",
-      "leadUrl": "https://elcomercio.pe/mundo/latinoamerica/elecciones-brasil-2026-vicepresidente-geraldo-alckmin-dice-que-donald-trump-esta-totalmente-equivocado-acerca-de-los-comicios-luiz-inacio-lula-da-silva-ultimas-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
-    },
-    {
-      "country": "Cuba",
-      "priority": "Media",
-      "leadTitle": "EE UU reconoce que el régimen cubano desvía combustible destinado al sector privado",
-      "leadUrl": "https://www.14ymedio.com/cuba/ee-uu-reconoce-regimen-cubano_1_1132362.html",
-      "focusTopics": [
-        "Sociedad",
-        "Seguridad"
-      ],
-      "topSources": [
-        "14ymedio"
-      ],
       "signalCount": 3,
-      "summary": "Foco en Sociedad, Seguridad. Vigilar 14ymedio y 14ymedio."
+      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Pais."
     }
   ],
   "signals": [
@@ -161,8 +153,8 @@
       "publishedAt": "Mon, 26 Oct 2026 00:33:08 +0000",
       "politicalScore": 19,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-lula-gana",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -178,8 +170,8 @@
       "publishedAt": "Tue, 27 Oct 2026 00:03:57 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-malvinas",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -195,8 +187,8 @@
       "publishedAt": "Mon, 26 Oct 2026 21:41:13 +0000",
       "politicalScore": 15,
       "eventKey": "colombia-seguridad-colombia-seguridad-autoridades-investigan",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -212,8 +204,8 @@
       "publishedAt": "Mon, 26 Oct 2026 22:46:05 +0000",
       "politicalScore": 14,
       "eventKey": "argentina-instituciones-argentina-instituciones-gobierno-impulsa",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -229,8 +221,8 @@
       "publishedAt": "Tue, 27 Oct 2026 00:01:13 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-milei-sigue",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -246,8 +238,42 @@
       "publishedAt": "Mon, 26 Oct 2026 21:27:54 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-detras",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "dec10d7d4293b26c",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Israel vota en unas elecciones planteadas como un plebiscito sobre Netanyahu",
+      "summary": "Más de 7,3 millones de israelíes están llamados a las urnas para elegir a los 120 diputados del Parlamento",
+      "url": "https://www.14ymedio.com/internacional/israel-vota-elecciones-planteadas-plebiscito_1_1132472.html",
+      "publishedAt": "Tue, 27 Oct 2026 10:43:33 +0000",
+      "politicalScore": 11,
+      "eventKey": "cuba-elecciones-cuba-elecciones-israel-vota",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "cc4d76f60366a741",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Petro se enfrenta a su peor denuncia de corrupción y al “aniquilamiento moral” desde el gobierno",
+      "summary": "Una trabajadora sexual confiesa que durante años recibió contratos del expresidente a cambio de sexo. El gobierno de Abelardo impulsa las denuncias. The post Petro se enfrenta a su peor denuncia de corrupción y al “aniquilamiento moral” desde el gobierno appea",
+      "url": "https://www.lasillavacia.com/silla-nacional/petro-enfrenta-su-peor-denuncia-de-corrupcion-alentada-por-el-gobierno/",
+      "publishedAt": "Tue, 27 Oct 2026 06:00:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "colombia-instituciones-colombia-instituciones-petro-enfrenta",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -263,8 +289,25 @@
       "publishedAt": "Tue, 27 Oct 2026 02:22:31 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-caso",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "cd6f6495d3d35aa4",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "“El triunfo del presidente Lula nos ayuda a reforzar fuertemente la región”, afirmó Lubetkin",
+      "summary": "El canciller uruguayo aseguró que la agenda bilateral con Brasil “es muy intensa” y remarcó que, en los próximos meses, se comenzará “a trabajar con el nuevo gabinete” de Lula, que asumirá el 5 de enero. El ministro de Relaciones Exteriores, Mario Lubetkin, se",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/el-triunfo-del-presidente-lula-nos-ayuda-a-reforzar-fuertemente-la-region-afirmo-lubetkin/",
+      "publishedAt": "Mon, 26 Oct 2026 20:41:12 -0300",
+      "politicalScore": 11,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-triunfo-presidente",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -280,25 +323,42 @@
       "publishedAt": "Mon, 26 Oct 2026 21:53:59 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-elecciones-argentina-elecciones-diego-guelar",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
-      "id": "396b2bf95447c465",
+      "id": "170449a77cf1fe1a",
       "country": "Peru",
       "source": "El Comercio",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Vicepresidente brasileño dice que Trump está “totalmente equivocado” acerca de elecciones",
-      "summary": "El vicepresidente brasileño, Geraldo Alckmin, rechazó este lunes la declaración “totalmente equivocada” del mandatario de Estados Unidos, Donald Trump, en la que sugirió que las elecciones del país sudamericano fueron “fraudulentas”.",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-brasil-2026-vicepresidente-geraldo-alckmin-dice-que-donald-trump-esta-totalmente-equivocado-acerca-de-los-comicios-luiz-inacio-lula-da-silva-ultimas-noticia/",
-      "publishedAt": "Tue, 27 Oct 2026 03:30:52 +0000",
+      "title": "Benjamin Netanyahu, el primer ministro de Israel que lucha por su supervivencia política",
+      "summary": "A sus 77 años y tras casi dos décadas en el poder, Benjamin Netanyahu afronta una de las elecciones más difíciles de su carrera política. Cuestionado por los fallos de seguridad que permitieron los ataques de Hamás de 2023, perseguido por acusaciones de corrup",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/benjamin-netanyahu-el-primer-ministro-de-israel-que-lucha-por-su-supervivencia-politica-noticia/",
+      "publishedAt": "Tue, 27 Oct 2026 11:35:39 +0000",
       "politicalScore": 10,
-      "eventKey": "peru-elecciones-peru-elecciones-vicepresidente-brasileno",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "eventKey": "peru-seguridad-peru-seguridad-benjamin-netanyahu",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ae52e0f95d66a633",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Kicillof apuntó contra Milei por no pronunciarse tras la victoria de Lula",
+      "summary": "El mandatario de la provincia de Buenos Aires cuestionó la postura que tomó el Presidente luego del resultado electoral; “Es una irresponsabilidad”, remarcó",
+      "url": "https://www.lanacion.com.ar/politica/kicillof-apunto-contra-milei-por-no-pronunciarse-tras-la-victoria-de-lula-nid27102026/",
+      "publishedAt": "Tue, 27 Oct 2026 06:01:54 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -314,8 +374,8 @@
       "publishedAt": "Mon, 26 Oct 2026 13:53:54 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trump-tropieza",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -331,8 +391,25 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c8207a23f8ba7090",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Las claves de la histórica victoria de Lula en Brasil",
+      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, obtuvo un cuarto mandato tras revertir la ventaja de Flávio Bolsonaro en la primera vuelta y ganar el balotaje con 64 millones 256 mil 232 votos, equivalentes al 51.79% de los sufragios válidos, frente a los ",
+      "url": "https://confidencial.digital/opinion/las-claves-de-la-historica-victoria-de-lula-en-brasil/",
+      "publishedAt": "Tue, 27 Oct 2026 07:10:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-claves-historica",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -348,8 +425,8 @@
       "publishedAt": "Tue, 27 Oct 2026 00:25:42 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-orsi-reunio",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -365,8 +442,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:49:59 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ordena-gobierno",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -382,8 +459,8 @@
       "publishedAt": "Mon, 26 Oct 2026 21:28:26 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cunado-deluque",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -399,8 +476,76 @@
       "publishedAt": "Thu, 22 Oct 2026 18:17:52 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-exjuez",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e54fb598605ec8c5",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
+      "summary": "El excomandante supone la mayor amenaza política para el primer ministro Benjamin Netanyahu en las próximas elecciones generales.",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/quien-es-gadi-eisenkot-el-general-retirado-que-perdio-un-hijo-en-gaza-y-desafia-a-netanyahu-en-las-primeras-elecciones-en-israel-desde-el-ataque-del-7-de-octubre-noticia/",
+      "publishedAt": "Tue, 27 Oct 2026 11:45:36 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-elecciones-peru-elecciones-quien-gadi",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a5a5bdf700a56a1e",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones Israel 2026: Netanyahu vota en Jerusalén y anima a los israelíes a acudir a las urnas",
+      "summary": "El primer ministro de Israel, Benjamin Netanyahu, acudió a votar en Jerusalén acompañado de su esposa, Sara, e instó a los ciudadanos a participar en unas elecciones decisivas para su continuidad en el poder",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/benjamin-netanyahu-vota-en-jerusalen-y-anima-a-los-israelies-a-acudir-a-las-urnas-elecciones-israel-2026-noticia/",
+      "publishedAt": "Tue, 27 Oct 2026 11:43:29 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-elecciones-peru-elecciones-israel-2026",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1cdd5cfac9590fb3",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Israel vota en unas elecciones decisivas para el futuro de Netanyahu tras tres años de guerras",
+      "summary": "Israel celebra sus primeras elecciones desde los ataques de Hamás del 7 de octubre de 2023, en medio de una profunda división política y tras tres años de guerras en Medio Oriente. El primer ministro Benjamin Netanyahu y el exjefe militar Gadi Eisenkot son los",
+      "url": "https://elcomercio.pe/mundo/oriente-medio/israel-vota-en-unas-elecciones-decisivas-para-el-futuro-de-netanyahu-tras-tres-anos-de-guerras-en-gaza-e-iran-gadi-eisenkot-noticia/",
+      "publishedAt": "Tue, 27 Oct 2026 11:23:18 +0000",
+      "politicalScore": 8,
+      "eventKey": "peru-seguridad-peru-seguridad-israel-vota",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ae004da7fbeee140",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Un sombrero ‘cowboy’ para Aznar, un ladrillo de una cárcel para Zapatero y un boli bala para Rajoy: los sorprendentes regalos a los presidentes",
+      "summary": "Consulte el listado oficial completo de obsequios a los tres ex jefes del Gobierno tras pedir el juez Calama a Patrimonio Nacional los que recibió el mandatario socialista",
+      "url": "https://elpais.com/espana/2026-10-27/un-sombrero-cowboy-para-aznar-un-ladrillo-de-una-carcel-para-zapatero-y-un-boli-bala-para-rajoy-los-sorprendentes-regalos-a-los-presidentes.html",
+      "publishedAt": "Tue, 27 Oct 2026 04:30:01 GMT",
+      "politicalScore": 8,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-sombrero-cowboy",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -416,25 +561,8 @@
       "publishedAt": "Mon, 26 Oct 2026 22:28:25 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-majida-masri",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "37a627b9dcc2dde9",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "EEUU espera que Delcy Rodríguez deje vacante la presidencia de Venezuela en 2027",
-      "summary": "El Gobierno del presidente estadounidense, Donald Trump, apoya una hoja de ruta para lograr la renovación de organismos clave",
-      "url": "https://efectococuyo.com/internacionales/eeuu-espera-que-delcy-rodriguez-deje-vacante-la-presidencia-de-venezuela-en-2027/",
-      "publishedAt": "Mon, 26 Oct 2026 20:27:08 +0000",
-      "politicalScore": 8,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-eeuu-espera",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -450,8 +578,8 @@
       "publishedAt": "Fri, 23 Oct 2026 15:32:36 +0000",
       "politicalScore": 8,
       "eventKey": "chile-instituciones-chile-instituciones-argumento-gobierno",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -464,28 +592,11 @@
       "title": "Milei en la hoguera de la incertidumbre creciente",
       "summary": "¿Lo que le pasó a la derecha de los Bolsonaro en Brasil le puede pasar a la derecha de Milei en la Argentina? La gestión suma nuevas capas de dudas en la economía, donde se suele jugar el resultado electoral",
       "url": "https://www.lanacion.com.ar/politica/milei-en-la-hoguera-de-la-incertidumbre-creciente-nid27102026/",
-      "publishedAt": "Tue, 27 Oct 2026 03:01:00 +0000",
+      "publishedAt": "Tue, 27 Oct 2026 06:55:54 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8eb210b7aa76f5a9",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Rubio exige reemplazar la infraestructura electoral de Venezuela antes de cualquier comicio",
-      "summary": "Según dijo, el gobierno de Delcy Rodríguez respondió que Machado podía entrar por vía aérea si así lo deseaba",
-      "url": "https://efectococuyo.com/internacionales/rubio-exige-reemplazar-la-infraestructura-electoral-de-venezuela-antes-de-cualquier-comicio/",
-      "publishedAt": "Mon, 26 Oct 2026 22:12:15 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-rubio-exige",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -501,8 +612,8 @@
       "publishedAt": "Mon, 26 Oct 2026 20:40:23 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estados-unidos",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -518,25 +629,8 @@
       "publishedAt": "Mon, 26 Oct 2026 20:07:18 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-indice",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c2db89dc92b0b89d",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "UE pide aprovechar regreso de Machado para diálogo que lleve a elecciones libres",
-      "summary": "Confía en \"que las autoridades venezolanas y todos los actores políticos aprovechen esta oportunidad para impulsar un diálogo inclusivo\"",
-      "url": "https://efectococuyo.com/internacionales/ue-pide-aprovechar-regreso-de-machado-para-dialogo-que-lleve-a-elecciones-libres/",
-      "publishedAt": "Mon, 26 Oct 2026 15:01:56 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-pide-aprovechar",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -552,25 +646,8 @@
       "publishedAt": "Mon, 26 Oct 2026 06:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-estados-unidos",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ae61d1ab0deadcdb",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "La democracia mejora en el Latinobarómetro",
-      "summary": "El apoyo democrático repunta en América Latina, pero convive con baja satisfacción gubernamental, tolerancia a Ejecutivos sin contrapesos y un giro electoral a la derecha que todavía no constituye una transformación ideológica profunda. El Barómetro de las Amé",
-      "url": "https://confidencial.digital/opinion/la-democracia-mejora-en-el-latinobarometro/",
-      "publishedAt": "Sun, 25 Oct 2026 06:15:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-democracia-mejora",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -586,25 +663,25 @@
       "publishedAt": "Sat, 24 Oct 2026 14:26:44 +0000",
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-detencion-ofensas",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
-      "id": "db399151c9b8eea2",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Alcance de la campaña militar de El Salvador, una incógnita en la crisis haitiana",
-      "summary": "La campaña militar de El Salvador en Haití para encontrar a cuatro de sus soldados integrantes de la Fuerza de Supresión de Pandillas (GSF, sigla en inglés), desaparecidos tras sufrir una emboscada el 18 de octubre de 2026, es una incógnita por el hermetismo q",
-      "url": "https://confidencial.digital/mundo/el-alcance-de-la-campana-militar-de-el-salvador-una-incognita-en-la-crisis-haitiana/",
-      "publishedAt": "Sat, 24 Oct 2026 20:50:51 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-alcance-campana",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "id": "4ef3103af343dfa4",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Amnistía Internacional denunciará a Milei ante la ONU por sus insultos a periodistas",
+      "summary": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
+      "publishedAt": "Tue, 27 Oct 2026 05:41:31 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-amnistia",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -620,25 +697,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:03:03 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-semana-inauguraron",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4ef3103af343dfa4",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Kicillof apuntó contra Milei por no pronunciarse tras la victoria de Lula",
-      "summary": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-acuso-a-lula-de-querer-robar-las-elecciones-en-nid26102026/",
-      "publishedAt": "Tue, 27 Oct 2026 02:00:33 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-kicillof",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -654,8 +714,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:36:40 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ghren-practicamente",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -671,8 +731,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:31:23 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-elecciones-colombia-elecciones-radiografia-victoria",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -688,25 +748,8 @@
       "publishedAt": "Mon, 26 Oct 2026 22:47:49 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-fiscalia",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5c4af2daf012582c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Los fiscales aseguran que a Los Sauces, de la familia Kirchner, “entraban más fondos ilícitos que lícitos”",
-      "summary": "En el juicio contra Cristina y Máximo Kirchner se sigue desarrollando la primera etapa de la acusación; la lectura de los cargos se retomará el 2 de noviembre y promete estirarse temporalmente",
-      "url": "https://www.lanacion.com.ar/politica/los-fiscales-aseguran-que-a-los-sauces-de-la-familia-kirchner-entraban-mas-fondos-ilicitos-que-nid26102026/",
-      "publishedAt": "Mon, 26 Oct 2026 19:32:47 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscales",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -722,25 +765,8 @@
       "publishedAt": "Mon, 26 Oct 2026 19:28:02 +0100",
       "politicalScore": 6,
       "eventKey": "espana-elecciones-espana-elecciones-hazte-pide",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8a836cdfb7a354b4",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Cidh exige al interinato garantizar la vida de María Corina Machado tras su retorno a Venezuela",
-      "summary": "Recordó al Estado venezolano que la líder goza de medidas cautelares",
-      "url": "https://efectococuyo.com/politica/cidh-exige-al-interinato-garantizar-la-vida-de-maria-corina-machado-tras-su-retorno-a-venezuela/",
-      "publishedAt": "Mon, 26 Oct 2026 16:14:32 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-cidh-exige",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -756,8 +782,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:19:46 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-kast-reconoce",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -773,8 +799,8 @@
       "publishedAt": "Mon, 26 Oct 2026 22:26:51 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-chat-hermosilla",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -790,76 +816,8 @@
       "publishedAt": "Mon, 26 Oct 2026 20:58:59 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-choco",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4710c270a0d71963",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "El regreso de Machado o la prueba de fuego para el plan de EEUU y las negociaciones: analistas",
-      "summary": "Piero Trepiccione no ve el retorno divorciado del plan de tres fases de EEUU. Tony Frangie Mawad espera presión hacia mesa de diálogo pero tambien coordinación",
-      "url": "https://efectococuyo.com/politica/el-regreso-de-machado-o-la-prueba-de-fuego-para-el-plan-de-eeuu-y-las-negociaciones/",
-      "publishedAt": "Mon, 26 Oct 2026 20:28:27 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-regreso-machado",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c752d5e78a7ecc08",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Cabello sobre regreso de Machado: Quienes vengan con el juego de la desestabilización se van a estrellar",
-      "summary": "“El que se quiera venir que se venga, no hay persecución para nada. Dejen el show\", dijo Cabello en rueda de prensa",
-      "url": "https://efectococuyo.com/politica/cabello-sobre-regreso-de-machado-quienes-vengan-con-el-juego-de-la-desestabilizacion-se-van-a-estrellar/",
-      "publishedAt": "Mon, 26 Oct 2026 20:08:53 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-cabello-regreso",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d7801ab537edbce1",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Delcy Rodríguez califica como “show” regreso de Machado y asegura que no hay persecución política",
-      "summary": "Pidió abandonar la \"política de choque\" y que Venezuela es mucho más grande que \"dos o tres personas\"",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-show-regreso-de-machado-y-no-hay-persecucion-politica/",
-      "publishedAt": "Mon, 26 Oct 2026 19:59:14 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
-      "seenCount": 1
-    },
-    {
-      "id": "71e9768a8d0bcd5a",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Los “desvisados” están de vuelta",
-      "summary": "Hace veinte años, cuando servía en la Embajada de Estados Unidos en Nicaragua, empezamos a utilizar con particular intensidad una herramienta de política exterior que, a primera vista, podía parecer menor: la cancelación de visas. Entre nosotros incluso surgió",
-      "url": "https://confidencial.digital/opinion/los-desvisados-estan-de-vuelta/",
-      "publishedAt": "Sun, 25 Oct 2026 06:10:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-desvisados-estan",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -875,8 +833,8 @@
       "publishedAt": "Sat, 24 Oct 2026 15:46:31 +0000",
       "politicalScore": 5,
       "eventKey": "cuba-sociedad-cuba-sociedad-reconoce-regimen",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -892,8 +850,25 @@
       "publishedAt": "Thu, 22 Oct 2026 23:03:21 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-suprema-tuvo",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
+      "seenCount": 1
+    },
+    {
+      "id": "48151b1fd1f3cf5a",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "EE UU espera que Delcy Rodríguez renuncie en 2027 y se inicie el proceso electoral",
+      "summary": "Marco Rubio asegura que las autoridades venezolanas le dijeron que María Corina Machado \"podía regresar y que no la molestarían\"",
+      "url": "https://www.14ymedio.com/internacional/ee-uu-espera-delcy-rodriguez_1_1132466.html",
+      "publishedAt": "Tue, 27 Oct 2026 09:51:25 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-sociedad-cuba-sociedad-espera-delcy",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -909,8 +884,8 @@
       "publishedAt": "Mon, 26 Oct 2026 21:37:02 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-soberana",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -926,8 +901,8 @@
       "publishedAt": "Mon, 26 Oct 2026 06:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-largo-brazo",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -943,8 +918,8 @@
       "publishedAt": "Fri, 23 Oct 2026 17:59:54 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-fundacion",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -960,8 +935,8 @@
       "publishedAt": "Fri, 23 Oct 2026 15:15:25 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-estados-unidos",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -977,8 +952,8 @@
       "publishedAt": "Mon, 26 Oct 2026 18:08:45 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-asesinato-extrema",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -994,8 +969,8 @@
       "publishedAt": "Sun, 25 Oct 2026 17:15:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-jose-alfredo",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1011,8 +986,8 @@
       "publishedAt": "Sun, 25 Oct 2026 12:15:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cesantes-finiquito",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1028,8 +1003,8 @@
       "publishedAt": "Sun, 25 Oct 2026 06:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-procesiones-regresan",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1045,8 +1020,8 @@
       "publishedAt": "Sat, 24 Oct 2026 11:40:03 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-penas-anos",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1062,8 +1037,8 @@
       "publishedAt": "Sat, 24 Oct 2026 01:38:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-rebaja",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1079,8 +1054,8 @@
       "publishedAt": "Sat, 24 Oct 2026 01:36:07 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-rebaja-condenas",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1096,8 +1071,8 @@
       "publishedAt": "Fri, 23 Oct 2026 11:00:57 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fortalecer-neutralizar",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     },
     {
@@ -1113,8 +1088,8 @@
       "publishedAt": "Thu, 22 Oct 2026 11:28:51 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-catastrofe-fondo",
-      "firstSeenAt": "2026-10-27T04:25:44.963Z",
-      "lastSeenAt": "2026-10-27T04:25:44.963Z",
+      "firstSeenAt": "2026-10-27T11:52:05.556Z",
+      "lastSeenAt": "2026-10-27T11:52:05.556Z",
       "seenCount": 1
     }
   ]
