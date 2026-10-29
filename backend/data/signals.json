@@ -1,19 +1,23 @@
 {
-  "generatedAt": "2026-10-29T05:08:17.518Z",
-  "count": 69,
+  "generatedAt": "2026-10-29T12:37:53.043Z",
+  "count": 63,
   "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    },
     {
       "source": "primicias-ecuador",
       "error": "Maximum nested tags exceeded"
     }
   ],
   "stats": {
-    "generatedAt": "2026-10-29T05:08:17.518Z",
-    "activeSignals": 69,
-    "archiveSignals": 127,
-    "countriesCovered": 9,
-    "highPrioritySignals": 26,
-    "averagePoliticalScore": 6.51
+    "generatedAt": "2026-10-29T12:37:53.043Z",
+    "activeSignals": 63,
+    "archiveSignals": 121,
+    "countriesCovered": 8,
+    "highPrioritySignals": 27,
+    "averagePoliticalScore": 6.65
   },
   "briefings": [
     {
@@ -22,14 +26,13 @@
       "leadTitle": "Flávio Bolsonaro huye a EE. UU. tras su derrota electoral ante Lula",
       "leadUrl": "https://confidencial.digital/mundo/flavio-bolsonaro-huye-a-ee-uu-tras-su-derrota-electoral-ante-lula/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Elecciones"
       ],
       "topSources": [
         "Confidencial"
       ],
       "signalCount": 14,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
+      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -60,19 +63,19 @@
       "summary": "Foco en Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
-      "country": "Venezuela",
+      "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Pese a fuerte represión, sindicalistas llegan cerca de Miraflores para exigir elecciones y junta de gobierno",
-      "leadUrl": "https://efectococuyo.com/la-humanidad/pese-a-fuerte-represion-sindicalistas-llegan-cerca-de-miraflores-para-exigir-elecciones-y-junta-de-gobierno/",
+      "leadTitle": "Congresistas de gobierno y de oposición se unen para proteger la Amazonía",
+      "leadUrl": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/congresistas-de-gobierno-y-de-oposicion-se-unen-para-proteger-la-amazonia/",
       "focusTopics": [
-        "Elecciones",
-        "Diplomacia"
+        "Gobernabilidad",
+        "Elecciones"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "La Silla Vacia"
       ],
       "signalCount": 7,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Gobernabilidad, Elecciones. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Uruguay",
@@ -94,15 +97,14 @@
       "leadTitle": "¿Se puede impedir votar a un español?",
       "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Elecciones"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar El Pais y El Pais."
+      "summary": "Foco en Elecciones. Vigilar El Pais y El Pais."
     },
     {
       "country": "Peru",
@@ -120,33 +122,19 @@
       "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Comercio y El Comercio."
     },
     {
-      "country": "Colombia",
-      "priority": "Media",
-      "leadTitle": "Coosalud: pagos denunciados no salen de plata de salud, dice exsupersolidaria",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/coosalud-pagos-denunciados-no-salen-de-plata-de-salud-dice-exsupersolidaria/",
-      "focusTopics": [
-        "Economia politica",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
       "country": "Cuba",
       "priority": "Media",
-      "leadTitle": "El régimen cubano pierde 35 apoyos en la ONU respecto a 2025",
-      "leadUrl": "https://www.14ymedio.com/cuba/regimen-cubano-pierde-35-apoyos_1_1132533.html",
+      "leadTitle": "Cuauhtémoc Cárdenas, líder histórico de la izquierda mexicana, muere a los 92 años",
+      "leadUrl": "https://www.14ymedio.com/internacional/cuauhtemoc-cardenas-lider-historico-izquierda_1_1132550.html",
       "focusTopics": [
+        "Sociedad",
         "Elecciones"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar 14ymedio."
+      "signalCount": 2,
+      "summary": "Foco en Sociedad, Elecciones. Vigilar 14ymedio y 14ymedio."
     }
   ],
   "signals": [
@@ -163,8 +151,8 @@
       "publishedAt": "Tue, 27 Oct 2026 22:20:25 +0000",
       "politicalScore": 21,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-flavio-bolsonaro",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -180,8 +168,8 @@
       "publishedAt": "Wed, 28 Oct 2026 22:50:53 +0000",
       "politicalScore": 17,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-senado",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -197,8 +185,8 @@
       "publishedAt": "Wed, 28 Oct 2026 21:20:59 -0300",
       "politicalScore": 14,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-ojeda-extrano",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -214,8 +202,8 @@
       "publishedAt": "Thu, 29 Oct 2026 03:38:36 +0000",
       "politicalScore": 13,
       "eventKey": "peru-elecciones-peru-elecciones-trump-pide",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -231,8 +219,8 @@
       "publishedAt": "Thu, 29 Oct 2026 11:22:00 +0000",
       "politicalScore": 12,
       "eventKey": "peru-elecciones-peru-elecciones-estados-unidos",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -248,8 +236,8 @@
       "publishedAt": "Wed, 28 Oct 2026 23:04:19 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-presentan",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -265,8 +253,8 @@
       "publishedAt": "Wed, 28 Oct 2026 21:47:02 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-banco",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -282,8 +270,8 @@
       "publishedAt": "Wed, 28 Oct 2026 19:22:21 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-diego",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -299,25 +287,25 @@
       "publishedAt": "Wed, 28 Oct 2026 14:30:00 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-sondeos-netanyahu",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
-      "id": "f2db28142a524a8b",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
+      "id": "acca0ddc03c862c7",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Pese a fuerte represión, sindicalistas llegan cerca de Miraflores para exigir elecciones y junta de gobierno",
-      "summary": "Una comisión logró entregar un documento en el palacio presidencial",
-      "url": "https://efectococuyo.com/la-humanidad/pese-a-fuerte-represion-sindicalistas-llegan-cerca-de-miraflores-para-exigir-elecciones-y-junta-de-gobierno/",
-      "publishedAt": "Wed, 28 Oct 2026 18:13:38 +0000",
+      "title": "Brasil: La bala pasó cerca",
+      "summary": "Me congratulo de haber escrito aquí hace poco tiempo que si fuera brasileño hubiera votado por Lula en la primera y segunda vuelta de las elecciones concluidas ayer (25 de octubre). Asimismo, me tranquiliza haber firmado una petición apenas esta última semana ",
+      "url": "https://confidencial.digital/opinion/brasil-la-bala-paso-cerca/",
+      "publishedAt": "Thu, 29 Oct 2026 07:10:00 +0000",
       "politicalScore": 10,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-pese-fuerte",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-brasil-bala",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -333,8 +321,25 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "098135d0eb4d3caf",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Congresistas de gobierno y de oposición se unen para proteger la Amazonía",
+      "summary": "La conforman 15 congresistas, la mayoría de la región amazónica. Buscan promover leyes y hacer control político para proteger el ecosistema. The post Congresistas de gobierno y de oposición se unen para proteger la Amazonía appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/congresistas-de-gobierno-y-de-oposicion-se-unen-para-proteger-la-amazonia/",
+      "publishedAt": "Thu, 29 Oct 2026 06:00:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-congresistas-gobierno",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -350,8 +355,8 @@
       "publishedAt": "Thu, 29 Oct 2026 04:26:03 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-foro",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -367,8 +372,8 @@
       "publishedAt": "Thu, 29 Oct 2026 00:12:07 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-brasil-alivio",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -384,8 +389,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:47:38 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-aprobacion-orsi",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -401,8 +406,8 @@
       "publishedAt": "Wed, 28 Oct 2026 22:27:04 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscal",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -418,8 +423,8 @@
       "publishedAt": "Wed, 28 Oct 2026 22:11:26 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-instituciones-argentina-instituciones-causa-libra",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -435,8 +440,8 @@
       "publishedAt": "Tue, 27 Oct 2026 23:13:10 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-diputados",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -447,13 +452,30 @@
       "topic": "Elecciones",
       "priority": "Alta",
       "title": "La tragedia da un vuelco al guion de la campaña",
-      "summary": "El Gobierno está en ‘shock’ por un accidente que se le sitúa en el peor escenario político posible en plena contienda electoral; Sánchez mantiene de momento la confianza en Puente. Feijóo adopta un tono institucional con un PP muy a la contra, mientras el Fren",
+      "summary": "El Gobierno está en ‘shock’ por un accidente que se le sitúa en el peor escenario político posible en plena contienda electoral; Sánchez mantiene de momento la confianza en Puente. Feijóo adopta un tono institucional con un PP muy a la contra, mientras Frente ",
       "url": "https://elpais.com/espana/2026-10-29/la-tragedia-da-un-vuelco-al-guion-de-la-campana.html",
-      "publishedAt": "Thu, 29 Oct 2026 04:30:01 GMT",
+      "publishedAt": "Thu, 29 Oct 2026 09:47:58 GMT",
       "politicalScore": 8,
       "eventKey": "espana-elecciones-espana-elecciones-tragedia-vuelco",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "06ded1b94af132b9",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Profesionales del Instituto de Investigación Agropecuaria consideran “impertinente e inadecuado” el proyecto de competitividad",
+      "summary": "La asociación consideró que los cambios a la ley de creación del INIA, entre otras cosas, acentúan “la injerencia política sobre el destino de los recursos” y alteran la relación con el Poder Ejecutivo. La Asociación de Profesionales Universitarios del Institu",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/profesionales-del-instituto-de-investigacion-agropecuaria-consideran-impertinente-e-inadecuado-el-proyecto-de-competitividad/",
+      "publishedAt": "Wed, 28 Oct 2026 20:25:32 -0300",
+      "politicalScore": 8,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-profesionales-instituto",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -469,59 +491,8 @@
       "publishedAt": "Wed, 28 Oct 2026 21:37:51 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-justicia",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a79863eb2bab954e",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Dictadura proyecta una “fachada” de libertad religiosa",
-      "summary": "Organizaciones de la sociedad civil y la oposición nicaragüense denunciaron el lunes 26 de octubre de 2026 ante la Comisión Interamericana de Derechos Humanos (CIDH) la persistencia de restricciones a la libertad religiosa en Nicaragua, mientras el Gobierno de",
-      "url": "https://confidencial.digital/noticias/dictadura-proyecta-una-fachada-de-libertad-religiosa-en-nicaragua/",
-      "publishedAt": "Tue, 27 Oct 2026 14:01:30 +0000",
-      "politicalScore": 8,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dictadura-proyecta",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e057c3801bcd9c6d",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "El populismo y la corrupción degradan España",
-      "summary": "La resistencia del Gobierno de Sánchez a asumir responsabilidades y la patrimonialización de las instituciones y empresas públicas que ha hecho el PSOE empujan al país al tercer mundo y a una crisis de Estado&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/10/29/6ae23004fdddffef4b8b4577.html",
-      "publishedAt": "Thu, 29 Oct 2026 00:00:19 +0100",
-      "politicalScore": 7,
-      "eventKey": "espana-instituciones-espana-instituciones-populismo-corrupcion",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b18e2de59a9d6d08",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Flávio Bolsonaro se declara &#8220;verdadero presidente electo de Brasil&#8221;",
-      "summary": "Denunció, sin presentar ningún tipo de prueba, que hubo \"fraude electoral\"",
-      "url": "https://efectococuyo.com/internacionales/flavio-bolsonaro-se-declara-verdadero-presidente-electo-de-brasil/",
-      "publishedAt": "Wed, 28 Oct 2026 21:58:06 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-flavio-bolsonaro",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -537,8 +508,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:48:30 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-mauricio",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -554,8 +525,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:44:27 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-entra-etapa",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -571,8 +542,8 @@
       "publishedAt": "Tue, 27 Oct 2026 23:33:44 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-defensa",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -588,8 +559,42 @@
       "publishedAt": "Sat, 24 Oct 2026 14:26:44 +0000",
       "politicalScore": 7,
       "eventKey": "chile-probidad-chile-probidad-detencion-ofensas",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "61291d99c639071a",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Los Reyes visitan hoy en Toledo a los heridos y familiares de desaparecidos en el trágico accidente ferroviario de Urda",
+      "summary": "Milagros Tolón actuará como ministra de jornada, fue alcaldesa de Toledo y es número uno del PSOE por la ciudad en las próximas elecciones&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/10/29/6ae30ca121efa00f4b8b45a7.html",
+      "publishedAt": "Thu, 29 Oct 2026 11:04:39 +0100",
+      "politicalScore": 6,
+      "eventKey": "espana-elecciones-espana-elecciones-reyes-visitan",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8df7eeb9185072e1",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "El Gobierno de Moreno carga contra el Ejecutivo central tras el segundo accidente mortal en la alta velocidad andaluza",
+      "summary": "El consejero andaluz de Presidencia considera “mezquino” que se culpe a un trabajador del siniestro y alerta de sistema de seguridad entre Sevilla y Madrid sea el “único antiguo”",
+      "url": "https://elpais.com/espana/2026-10-29/el-gobierno-de-moreno-carga-contra-el-ejecutivo-central-tras-el-segundo-accidente-mortal-en-la-alta-velocidad-andaluza.html",
+      "publishedAt": "Thu, 29 Oct 2026 12:31:16 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-seguridad-espana-seguridad-gobierno-moreno",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -605,25 +610,8 @@
       "publishedAt": "Thu, 29 Oct 2026 03:58:30 +0000",
       "politicalScore": 6,
       "eventKey": "peru-gobernabilidad-peru-gobernabilidad-jose-chlimper",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "30f93172f292a28f",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Edil del FA cuestionó acuerdos propuestos para +Colonia y denunció que la información que se dispone es “muy poca”",
-      "summary": "Pedro Leizagoyen afirmó que las inversiones se resumen en “temas políticos que impactan directamente en el departamento” y que, por lo tanto, la Junta Departamental “tiene que tener una opinión”. El edil del Frente Amplio (FA) por Colonia Pedro Leizagoyen cues",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/edil-del-fa-cuestiono-acuerdos-propuestos-para-colonia-y-denuncio-que-la-informacion-que-se-dispone-es-muy-poca/",
-      "publishedAt": "Wed, 28 Oct 2026 22:47:47 -0300",
-      "politicalScore": 6,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-edil-cuestiono",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -639,42 +627,8 @@
       "publishedAt": "Wed, 28 Oct 2026 21:49:21 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-camaras-empresariales",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "87c339c4d2746ebb",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Sólo 901 de los 163.355 nacionalizados por la 'ley de nietos' han acreditado descender del exilio y podrán votar",
-      "summary": "Los ministros Bolaños y Albares entregan en plazo la información reclamada por el Alto Tribunal.&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/10/28/6ae21162e9cf4afb618b456d.html",
-      "publishedAt": "Wed, 28 Oct 2026 18:38:26 +0100",
-      "politicalScore": 6,
-      "eventKey": "espana-instituciones-espana-instituciones-solo-nacionalizados",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ad327f87a682952b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Coosalud: pagos denunciados no salen de plata de salud, dice exsupersolidaria",
-      "summary": "María José Navarro dijo que los pagos son de una empresa de confecciones vinculada a Coosalud. Y que los hechos ya los había denunciado en la Fiscalía. The post Coosalud: pagos denunciados no salen de plata de salud, dice exsupersolidaria appeared first on La ",
-      "url": "https://www.lasillavacia.com/en-vivo/coosalud-pagos-denunciados-no-salen-de-plata-de-salud-dice-exsupersolidaria/",
-      "publishedAt": "Tue, 27 Oct 2026 22:59:26 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-coosalud",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -690,8 +644,25 @@
       "publishedAt": "Tue, 27 Oct 2026 21:00:21 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-familia-pide",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "692928df848242aa",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "El gerente de campaña endeudado que prestó $767 millones a De la Espriella",
+      "summary": "Las declaraciones de renta y conflictos de interés de Carlos Ríos, director de Presidencia y exgerente de la campaña, muestran que debe lo que tiene y que no tenía liquidez. The post El gerente de campaña endeudado que prestó $767 millones a De la Espriella ap",
+      "url": "https://www.lasillavacia.com/silla-nacional/el-gerente-de-campana-endeudado-que-presto-767-millones-a-de-la-espriella/",
+      "publishedAt": "Thu, 29 Oct 2026 06:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-elecciones-colombia-elecciones-gerente-campana",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -707,8 +678,8 @@
       "publishedAt": "Thu, 29 Oct 2026 00:12:49 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-corte-ordena",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -724,76 +695,8 @@
       "publishedAt": "Wed, 28 Oct 2026 23:32:49 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-oposicion-confirma",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b2860cd942c73d90",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Este video muestra incautación en España y no tiene relación con Petro ni Alcocer",
-      "summary": "El video muestra un operativo de la Policía Nacional de España en 2023. Ninguna autoridad vinculó esa droga con Alcocer ni el expresidente. The post Este video muestra incautación en España y no tiene relación con Petro ni Alcocer appeared first on La Silla Va",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/este-video-muestra-incautacion-en-espana-y-no-tiene-relacion-con-petro-ni-alcocer/",
-      "publishedAt": "Wed, 28 Oct 2026 23:14:20 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-video-muestra",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e08a68db2bc40b58",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Comité de Postulaciones recibe 20 nominaciones en primer día del proceso para renovar el TSJ",
-      "summary": "Alessandrello destacó que el proceso “comenzó con buen pie” y anticipó que la cifra de postulados se incrementará",
-      "url": "https://efectococuyo.com/politica/comite-de-postulaciones-recibe-20-nominaciones-en-primer-dia-del-proceso-para-renovar-el-tsj/",
-      "publishedAt": "Wed, 28 Oct 2026 22:31:33 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-comite-postulaciones",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3515f2b52e5145ce",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "CIDH exige derogar la Ley contra el Odio y cuestionan opacidad en su reforma",
-      "summary": "La norma se usa de forma selectiva para procesar a opositores y periodistas, generando miedo y autocensura en el debate público venezolano.",
-      "url": "https://efectococuyo.com/la-humanidad/cidh-exige-derogar-la-ley-contra-el-odio-y-cuestionan-opacidad-en-su-reforma/",
-      "publishedAt": "Wed, 28 Oct 2026 21:29:43 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-cidh-exige",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0d796d183ce3f9d6",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Delcy Rodríguez exige al Banco de Inglaterra la devolución del oro venezolano",
-      "summary": "Se trata de aproximadamente 31 toneladas de lingotes valoradas en torno a 1.900 millones de dólares",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-exige-al-banco-de-inglaterra-la-devolucion-del-oro-venezolano/",
-      "publishedAt": "Wed, 28 Oct 2026 19:44:15 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-delcy-rodriguez",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -809,8 +712,8 @@
       "publishedAt": "Wed, 28 Oct 2026 14:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-reed-brody",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -826,25 +729,8 @@
       "publishedAt": "Wed, 28 Oct 2026 00:00:35 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1fab7fbd20e7e4c5",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Gobierno vuelve a Thomas Greg y firman contrato de pasaportes",
-      "summary": "Es bajo la figura de urgencia manifiesta y tuvo acompañamiento de la Procuraduría. El valor es de $240 mil millones y termina en diciembre de 2027. The post Gobierno vuelve a Thomas Greg y firman contrato de pasaportes appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/gobierno-vuelve-a-thomas-greg-y-firman-contrato-de-pasaportes/",
-      "publishedAt": "Tue, 27 Oct 2026 23:38:04 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-vuelve",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -860,25 +746,8 @@
       "publishedAt": "Tue, 27 Oct 2026 22:35:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-procuraduria-toma",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b006212cab90ca98",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Tres imágenes de Dios en las urnas de Brasil",
-      "summary": "La disputa electoral en Brasil revela cómo la fe y los símbolos religiosos dividen la contienda política entre la mercancía algorítmica y la liberación social. The post Tres imágenes de Dios en las urnas de Brasil appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/tres-imagenes-de-dios-en-las-urnas-de-brasil/",
-      "publishedAt": "Tue, 27 Oct 2026 22:12:38 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-tres-imagenes",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -894,8 +763,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:19:46 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-kast-reconoce",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -911,8 +780,59 @@
       "publishedAt": "Mon, 26 Oct 2026 22:26:51 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-chat-hermosilla",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "690b1987bfbbad6c",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Santiago Caputo fue identificado por un control policial tras el operativo de huida de Bolsonaro",
+      "summary": "Fue a las 2.50 de la madrugada, cuando viajaba en vehículos del Ente Binacional Yacyretá; el asesor lo desmiente",
+      "url": "https://www.lanacion.com.ar/politica/santiago-caputo-fue-identificado-por-un-control-policial-tras-el-operativo-de-huida-de-bolsonaro-nid28102026/",
+      "publishedAt": "Thu, 29 Oct 2026 12:26:25 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-santiago",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "016e9404126ba1dd",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Desayune informado con las movidas de este 29 de octubre de 2026",
+      "summary": "Tras apagar nuestra página por un día, abrimos con la investigación del préstamo de Carlos Ríos a la campaña De la Espriella. The post Desayune informado con las movidas de este 29 de octubre de 2026 appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-movidas-de-este-29-de-octubre-de-2026/",
+      "publishedAt": "Thu, 29 Oct 2026 12:21:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-desayune-informado",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d057c5b1d51f5714",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Ríos, Jaramillo y lo que no cuadra en las cuentas de campaña de Abelardo",
+      "summary": "Hoy en el pódcast Huevos Revueltos con Política revisamos que papel jugaron Carlos Ríos y Mauricio Jaramillo en la campaña De la Espriella. The post Ríos, Jaramillo y lo que no cuadra en las cuentas de campaña de Abelardo appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/rios-jaramillo-y-lo-que-no-cuadra-en-las-cuentas-de-campana-de-abelardo/",
+      "publishedAt": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-rios-jaramillo",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -925,11 +845,45 @@
       "title": "La crisis con Brasil pasa de la retórica a la acción",
       "summary": "Las autoridades argentinas no se limitaron a dejar pasar a Bolsonaro, sino que lo ayudaron a escaparse; la polarización brasileña potencia la polarización criolla",
       "url": "https://www.lanacion.com.ar/politica/la-crisis-con-brasil-para-de-la-retorica-a-la-accion-nid28102026/",
-      "publishedAt": "Thu, 29 Oct 2026 01:32:44 +0000",
+      "publishedAt": "Thu, 29 Oct 2026 11:17:15 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-crisis",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "37ef8c517493b917",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "Cuauhtémoc Cárdenas, líder histórico de la izquierda mexicana, muere a los 92 años",
+      "summary": "Cuauhtémoc Cárdenas, el líder histórico de la izquierda mexicana que nunca fue presidente",
+      "url": "https://www.14ymedio.com/internacional/cuauhtemoc-cardenas-lider-historico-izquierda_1_1132550.html",
+      "publishedAt": "Thu, 29 Oct 2026 10:45:07 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-sociedad-cuba-sociedad-cuauhtemoc-cardenas",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1bac3d624560e53c",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "María Corina en Venezuela",
+      "summary": "Para María Corina Machado la vencida no fue la tercera, sino la octava. Siete veces antes quiso regresar a Venezuela, pero decisiones opacas o averías sorpresivas frustraron vuelos y arreglos logísticos. Este domingo terminó su exilio de diez meses entre manif",
+      "url": "https://confidencial.digital/opinion/maria-corina-en-venezuela/",
+      "publishedAt": "Thu, 29 Oct 2026 07:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-maria-corina",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -945,25 +899,8 @@
       "publishedAt": "Thu, 29 Oct 2026 01:17:25 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-descarto",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "690b1987bfbbad6c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Santiago Caputo fue identificado por un control policial tras el operativo de huida de Bolsonaro",
-      "summary": "Fue a las 2.50 de la madrugada, cuando viajaba en vehículos del Ente Binacional Yacyretá; el asesor lo desmiente",
-      "url": "https://www.lanacion.com.ar/politica/santiago-caputo-fue-identificado-por-un-control-policial-tras-el-operativo-de-huida-de-bolsonaro-nid28102026/",
-      "publishedAt": "Wed, 28 Oct 2026 23:13:55 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-santiago",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -979,8 +916,8 @@
       "publishedAt": "Wed, 28 Oct 2026 21:59:39 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-alimentaria-tambien",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -996,8 +933,8 @@
       "publishedAt": "Wed, 28 Oct 2026 21:50:12 +0100",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-guardia-civil",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1013,8 +950,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:08:33 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-consejo",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1030,8 +967,8 @@
       "publishedAt": "Wed, 28 Oct 2026 19:44:34 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-salida",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1047,8 +984,8 @@
       "publishedAt": "Wed, 28 Oct 2026 16:32:53 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-elecciones-cuba-elecciones-regimen-cubano",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1064,8 +1001,8 @@
       "publishedAt": "Wed, 28 Oct 2026 15:30:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-celac-exige",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1081,8 +1018,8 @@
       "publishedAt": "Wed, 28 Oct 2026 14:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-protagonizara-espectaculo",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1098,8 +1035,8 @@
       "publishedAt": "Wed, 28 Oct 2026 07:30:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-puede-romper",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1115,8 +1052,8 @@
       "publishedAt": "Wed, 28 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-exilio-cambio",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1132,42 +1069,8 @@
       "publishedAt": "Wed, 28 Oct 2026 22:46:41 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-futuro-trabajo",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cb4702d56aeeafaa",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Caso judicial contra Nicolás Maduro en EEUU pasa a manos de la jueza Analisa Torres",
-      "summary": "Cuenta con más de dos décadas de experiencia dentro del sistema judicial",
-      "url": "https://efectococuyo.com/internacionales/caso-judicial-contra-nicolas-maduro-en-eeuu-pasa-a-manos-de-la-jueza-analisa-torres/",
-      "publishedAt": "Wed, 28 Oct 2026 21:41:06 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-caso-judicial",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ad461f114d04aef7",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Qué pasa ahora tras la muerte del juez Alvin Hellerstein y cómo queda el caso Maduro-Flores",
-      "summary": "Abogado Nizar El Fakih aclara que el juicio continuará con normalidad una vez se asigne un nuevo juez",
-      "url": "https://efectococuyo.com/internacionales/que-pasa-ahora-tras-la-muerte-del-juez-alvin-hellerstein-y-como-queda-el-caso-maduro-flores/",
-      "publishedAt": "Wed, 28 Oct 2026 19:01:20 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-pasa-ahora",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1183,8 +1086,8 @@
       "publishedAt": "Wed, 28 Oct 2026 15:42:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nueva-norma",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1200,8 +1103,8 @@
       "publishedAt": "Wed, 28 Oct 2026 13:51:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-menos-muertos",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1217,25 +1120,8 @@
       "publishedAt": "Tue, 27 Oct 2026 18:01:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-brasil-lula",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
-      "seenCount": 1
-    },
-    {
-      "id": "59a2a9e6ffdec431",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "ONU alerta sobre riesgo de “limpieza étnica” de Israel en Hebrón",
-      "summary": "El Alto Comisionado de la ONU para los Derechos Humanos, Volker Türk, alertó este lunes (26.10.2026) sobre el riesgo de una “limpieza étnica” en Hebrón, en Cisjordania ocupada, donde el ejército de Israel lanzó una amplia operación tras la muerte de dos soldad",
-      "url": "https://confidencial.digital/mundo/onu-alerta-sobre-riesgo-de-limpieza-etnica-de-israel-en-hebron/",
-      "publishedAt": "Tue, 27 Oct 2026 16:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-alerta-riesgo",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1251,8 +1137,8 @@
       "publishedAt": "Mon, 26 Oct 2026 18:52:58 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fondos-generacionales",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1268,8 +1154,8 @@
       "publishedAt": "Sun, 25 Oct 2026 17:15:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-jose-alfredo",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1285,8 +1171,8 @@
       "publishedAt": "Sun, 25 Oct 2026 12:15:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-cesantes-finiquito",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1302,8 +1188,8 @@
       "publishedAt": "Sat, 24 Oct 2026 01:38:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-podcast-rebaja",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     },
     {
@@ -1319,8 +1205,8 @@
       "publishedAt": "Sat, 24 Oct 2026 01:36:07 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-rebaja-condenas",
-      "firstSeenAt": "2026-10-29T05:08:17.518Z",
-      "lastSeenAt": "2026-10-29T05:08:17.518Z",
+      "firstSeenAt": "2026-10-29T12:37:53.043Z",
+      "lastSeenAt": "2026-10-29T12:37:53.043Z",
       "seenCount": 1
     }
   ]
