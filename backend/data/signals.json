@@ -1,19 +1,23 @@
 {
-  "generatedAt": "2026-10-31T04:53:54.079Z",
-  "count": 62,
+  "generatedAt": "2026-10-31T11:56:55.811Z",
+  "count": 55,
   "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    },
     {
       "source": "primicias-ecuador",
       "error": "Maximum nested tags exceeded"
     }
   ],
   "stats": {
-    "generatedAt": "2026-10-31T04:53:54.079Z",
-    "activeSignals": 62,
-    "archiveSignals": 120,
-    "countriesCovered": 9,
-    "highPrioritySignals": 27,
-    "averagePoliticalScore": 6.37
+    "generatedAt": "2026-10-31T11:56:55.811Z",
+    "activeSignals": 55,
+    "archiveSignals": 113,
+    "countriesCovered": 7,
+    "highPrioritySignals": 25,
+    "averagePoliticalScore": 6.35
   },
   "briefings": [
     {
@@ -37,13 +41,14 @@
       "leadTitle": "Lula remonta conectando WhatsApp con la calle, pero tendrá que pactar para gobernar",
       "leadUrl": "https://confidencial.digital/mundo/lula-remonta-conectando-whatsapp-con-la-calle-pero-tendra-que-pactar-para-gobernar/",
       "focusTopics": [
-        "Elecciones"
+        "Elecciones",
+        "Instituciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 14,
-      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
+      "signalCount": 13,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -76,19 +81,18 @@
       "summary": "Foco en Elecciones. Vigilar El Mundo y El Mundo."
     },
     {
-      "country": "Venezuela",
+      "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "León XIV votó por correo para los comicios de mitad de mandato en Estados Unidos",
-      "leadUrl": "https://efectococuyo.com/internacionales/leon-xiv-voto-por-correo-para-los-comicios-de-mitad-de-mandato-en-estados-unidos/",
+      "leadTitle": "La Biblia no necesita un decreto, sino lectores y practicantes",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Gobernabilidad"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "La Silla Vacia"
       ],
       "signalCount": 6,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Uruguay",
@@ -104,35 +108,6 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Elecciones, Seguridad. Vigilar La Diaria y La Diaria."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Municipalidad de Lima: estos son los resultados de la ONPE al 99.989% de actas contabilizadas",
-      "leadUrl": "https://elcomercio.pe/politica/elecciones/alcaldia-de-lima-resultados-onpe-100-de-elecciones-regionales-y-municipales-2026-rafael-lopez-aliaga-de-renovacion-popular-y-francis-allison-de-avanza-pais-ultimas-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
-    },
-    {
-      "country": "Colombia",
-      "priority": "Media",
-      "leadTitle": "Detector: Subsidio del Icetex terminó con Petro, no con De la Espriella",
-      "leadUrl": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-subsidio-del-icetex-termino-con-petro-no-con-de-la-espriella/",
-      "focusTopics": [
-        "Gobernabilidad",
-        "Economia politica"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 5,
-      "summary": "Foco en Gobernabilidad, Economia politica. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -163,25 +138,8 @@
       "publishedAt": "Fri, 30 Oct 2026 20:10:28 +0000",
       "politicalScore": 21,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-congreso",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4e07937483b1e5e8",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Municipalidad de Lima: estos son los resultados de la ONPE al 99.989% de actas contabilizadas",
-      "summary": "A casi un mes de las elecciones del 4 de octubre, la Oficina Nacional de Procesos Electorales (ONPE) registra un avance de 99.989% de actas contabilizadas para la Municipalidad de Lima. A las 3:15 p.m. de este viernes 30 solo faltaban 3 actas del Jurado Electo",
-      "url": "https://elcomercio.pe/politica/elecciones/alcaldia-de-lima-resultados-onpe-100-de-elecciones-regionales-y-municipales-2026-rafael-lopez-aliaga-de-renovacion-popular-y-francis-allison-de-avanza-pais-ultimas-noticia/",
-      "publishedAt": "Sat, 31 Oct 2026 02:53:49 +0000",
-      "politicalScore": 17,
-      "eventKey": "peru-elecciones-peru-elecciones-municipalidad-lima",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -194,11 +152,11 @@
       "title": "Milei expuso ante estudiantes: dos horas de charla, críticas a los políticos que solo quieren “ganar elecciones” y guiño a Karina: “Es tan ortodoxa como yo”",
       "summary": "Además, el presidente volvió a cargar contra los periodistas, a quienes llamó “seres cargados de maldad” y le respondió a Domingo Cavallo",
       "url": "https://www.lanacion.com.ar/politica/seres-cargados-de-maldad-milei-comenzo-su-exposicion-en-una-universidad-con-otro-ataque-al-nid30102026/",
-      "publishedAt": "Sat, 31 Oct 2026 00:24:36 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 06:36:13 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-milei-expuso",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -211,11 +169,11 @@
       "title": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV",
       "summary": "El Presidente y su hermana participaron de la celebración del Día de las Iglesias Evangélicas en el Museo de la Casa Rosada y hoy inaugurarán un templo cuyo pastor es el padre de una senadora libertaria",
       "url": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
-      "publishedAt": "Sat, 31 Oct 2026 04:00:00 +0000",
+      "publishedAt": "Sat, 31 Oct 2026 11:37:43 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -231,8 +189,8 @@
       "publishedAt": "Fri, 30 Oct 2026 15:00:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-lula-remonta",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -248,8 +206,8 @@
       "publishedAt": "Sat, 31 Oct 2026 03:22:08 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-bullrich",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -265,8 +223,8 @@
       "publishedAt": "Fri, 30 Oct 2026 20:55:22 +0100",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-bildu-ganaria",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -282,25 +240,8 @@
       "publishedAt": "Fri, 30 Oct 2026 16:00:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-intermedias-saber",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "187cff9ccf96b331",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "León XIV votó por correo para los comicios de mitad de mandato en Estados Unidos",
-      "summary": "Se trata de la primera vez que se conoce y confirma que un pontífice ejerce el derecho al voto en unas elecciones",
-      "url": "https://efectococuyo.com/internacionales/leon-xiv-voto-por-correo-para-los-comicios-de-mitad-de-mandato-en-estados-unidos/",
-      "publishedAt": "Fri, 30 Oct 2026 15:04:02 +0000",
-      "politicalScore": 10,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-leon-voto",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -316,25 +257,8 @@
       "publishedAt": "Fri, 30 Oct 2026 00:02:18 +0100",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-amortizado-puente",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "acca0ddc03c862c7",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Brasil: La bala pasó cerca",
-      "summary": "Me congratulo de haber escrito aquí hace poco tiempo que si fuera brasileño hubiera votado por Lula en la primera y segunda vuelta de las elecciones concluidas ayer (25 de octubre). Asimismo, me tranquiliza haber firmado una petición apenas esta última semana ",
-      "url": "https://confidencial.digital/opinion/brasil-la-bala-paso-cerca/",
-      "publishedAt": "Thu, 29 Oct 2026 07:10:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-brasil-bala",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -350,8 +274,42 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4e699b8c08768e55",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Bukele: ¿Juez, jurado, libertador?",
+      "summary": "El 13 de octubre, el hombre fuerte favorito de América Latina hizo una sorprendente admisión. Preguntado por la revisión de los casos de los presos, Nayib Bukele afirmó que su Gobierno estaba estudiando la posibilidad de excarcelar anticipadamente a aproximada",
+      "url": "https://confidencial.digital/opinion/bukele-juez-jurado-libertador/",
+      "publishedAt": "Sat, 31 Oct 2026 07:20:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bukele-juez",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5fa61d3e64dfa082",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "De excepción a regla: cómo la segunda vuelta está cambiando la democracia",
+      "summary": "El domingo 25 de octubre, Brasil resumió en una sola elección hacia dónde van las democracias latinoamericanas. Lula da Silva ganó la segunda vuelta con el 51.76% de los votos frente al 48.24% de Flávio Bolsonaro, una diferencia de 3.52 puntos. Esta es la prim",
+      "url": "https://confidencial.digital/opinion/de-excepcion-a-regla-como-la-segunda-vuelta-esta-cambiando-la-democracia/",
+      "publishedAt": "Sat, 31 Oct 2026 07:10:00 +0000",
+      "politicalScore": 9,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excepcion-regla",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -367,8 +325,8 @@
       "publishedAt": "Tue, 27 Oct 2026 23:13:10 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-diputados",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -384,8 +342,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:29:45 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-aprendio-brasil",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -401,8 +359,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:24:23 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-seguridad-uruguay-seguridad-aquel-nino",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -418,8 +376,8 @@
       "publishedAt": "Fri, 30 Oct 2026 13:51:41 +0100",
       "politicalScore": 8,
       "eventKey": "espana-instituciones-espana-instituciones-viceministro-chavista",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -435,8 +393,25 @@
       "publishedAt": "Thu, 29 Oct 2026 23:09:32 +0000",
       "politicalScore": 8,
       "eventKey": "chile-instituciones-chile-instituciones-desempleo-sube",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e3641d0a4d5c803d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La Biblia no necesita un decreto, sino lectores y practicantes",
+      "summary": "El gabinete de De la Espriella busca impulsar un día de la Biblia. Un Estado laico no necesita decretar una fecha para respetar el libro que muchos ya leemos sin ley de por medio. The post La Biblia no necesita un decreto, sino lectores y practicantes appeared",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
+      "publishedAt": "Sat, 31 Oct 2026 06:00:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-biblia-necesita",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -452,8 +427,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:16:58 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-funcionaria",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -469,8 +444,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:36:09 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -486,8 +461,8 @@
       "publishedAt": "Fri, 30 Oct 2026 20:52:06 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-instituciones-argentina-instituciones-dueno-drogueria",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -503,8 +478,8 @@
       "publishedAt": "Fri, 30 Oct 2026 19:49:16 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -520,42 +495,8 @@
       "publishedAt": "Fri, 30 Oct 2026 19:11:10 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-pedido",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3a7c575d3919c918",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones intermedias en EEUU: lo que hay que saber",
-      "summary": "Todos los escaños de la Cámara de Representantes de EE. UU. se someten a elección",
-      "url": "https://efectococuyo.com/internacionales/elecciones-intermedias-en-eeuu-lo-que-hay-que-saber/",
-      "publishedAt": "Fri, 30 Oct 2026 19:06:39 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-intermedias-eeuu",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8e33ec8785f9656b",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Comité registra 83 postulaciones para 32 cargos de magistrados del TSJ",
-      "summary": "13 personas se han postulado para la función de inspector general de tribunales y 4 para la Dirección de la Escuela de la Magistratura",
-      "url": "https://efectococuyo.com/politica/comite-registra-83-postulaciones-para-32-cargos-de-magistrados-del-tsj/",
-      "publishedAt": "Fri, 30 Oct 2026 17:56:14 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-instituciones-venezuela-instituciones-comite-registra",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -571,8 +512,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:48:30 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-mauricio",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -588,8 +529,8 @@
       "publishedAt": "Tue, 27 Oct 2026 23:33:44 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-defensa",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -605,8 +546,8 @@
       "publishedAt": "Fri, 30 Oct 2026 14:30:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-salvador-envia",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -622,25 +563,8 @@
       "publishedAt": "Fri, 30 Oct 2026 21:29:34 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-julio",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ea7f792997062772",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Migración Colombia detiene en Cúcuta a coronel de la Fuerza Aérea Venezolana buscado por Interpol",
-      "summary": "Fue presidente de Hidrocapital y ocupó otros altos cargos en el chavismo.",
-      "url": "https://efectococuyo.com/internacionales/migracion-colombia-detiene-en-cucuta-a-coronel-de-la-fuerza-aerea-venezolana-buscado-por-interpol/",
-      "publishedAt": "Fri, 30 Oct 2026 19:36:38 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-migracion-colombia",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -656,8 +580,8 @@
       "publishedAt": "Sat, 31 Oct 2026 01:10:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-detector-subsidio",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -673,8 +597,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:31:25 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-video-soldados",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -690,25 +614,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:21:45 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-impacto",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "544e82595f6eb41b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Caracol Radio no publicó que Petro se desmarcó de ataques a Alcocer",
-      "summary": "Se trata de un montaje que suplanta al medio. El expresidente defendió a la exprimera dama en X y anunció acciones penales por los señalamientos de Eva Ferrer. The post Caracol Radio no publicó que Petro se desmarcó de ataques a Alcocer appeared first on La Si",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/caracol-radio-no-publico-que-petro-se-desmarco-de-ataques-a-alcocer/",
-      "publishedAt": "Sat, 31 Oct 2026 00:04:52 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-caracol-radio",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -724,8 +631,8 @@
       "publishedAt": "Fri, 30 Oct 2026 19:18:54 +0000",
       "politicalScore": 5,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -741,8 +648,8 @@
       "publishedAt": "Fri, 30 Oct 2026 10:03:02 +0100",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-martin-tecnico",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -758,8 +665,8 @@
       "publishedAt": "Thu, 29 Oct 2026 16:42:48 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-venezuela-migrantes",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -775,8 +682,8 @@
       "publishedAt": "Wed, 28 Oct 2026 23:32:49 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-oposicion-confirma",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -792,8 +699,8 @@
       "publishedAt": "Mon, 26 Oct 2026 23:19:46 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-kast-reconoce",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -809,8 +716,25 @@
       "publishedAt": "Mon, 26 Oct 2026 22:26:51 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-chat-hermosilla",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "seenCount": 1
+    },
+    {
+      "id": "395cf4d504f654c7",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El ajuste fiscal es necesario, pero necesita correcciones",
+      "summary": "El ajuste fiscal es urgente, pero pedir sacrificios a los hogares mientras se otorgan exenciones a grandes fortunas y evasores destruye su legitimidad. The post El ajuste fiscal es necesario, pero necesita correcciones appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-ajuste-fiscal-es-necesario-pero-necesita-correcciones/",
+      "publishedAt": "Sat, 31 Oct 2026 05:05:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-ajuste",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -826,8 +750,8 @@
       "publishedAt": "Sat, 31 Oct 2026 04:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-elecciones-espana-elecciones-supremo-admite",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -843,8 +767,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:55:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-instituciones-colombia-instituciones-falso-nunca",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -860,8 +784,8 @@
       "publishedAt": "Fri, 30 Oct 2026 23:54:53 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-maximo",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -877,8 +801,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:30:34 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-renuncio",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -894,8 +818,8 @@
       "publishedAt": "Fri, 30 Oct 2026 18:28:46 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-subsidios",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -911,8 +835,8 @@
       "publishedAt": "Fri, 30 Oct 2026 12:08:43 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-telefonos-moviles",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -928,8 +852,8 @@
       "publishedAt": "Fri, 30 Oct 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-momentos-discurso",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -945,25 +869,25 @@
       "publishedAt": "Fri, 30 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-brasil-rescata",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
-      "id": "1bac3d624560e53c",
+      "id": "3c94bb99867526d8",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
       "topic": "Instituciones",
       "priority": "Media",
-      "title": "María Corina en Venezuela",
-      "summary": "Para María Corina Machado la vencida no fue la tercera, sino la octava. Siete veces antes quiso regresar a Venezuela, pero decisiones opacas o averías sorpresivas frustraron vuelos y arreglos logísticos. Este domingo terminó su exilio de diez meses entre manif",
-      "url": "https://confidencial.digital/opinion/maria-corina-en-venezuela/",
-      "publishedAt": "Thu, 29 Oct 2026 07:20:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-maria-corina",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "title": "Cafetaleros echan mano de TikTok para hallar cortadores en Nicaragua",
+      "summary": "Los cafetaleros nicaragüenses están usando todos los medios posibles para encontrar cortadores que quieran trabajar en sus fincas en el norte y sur del país. Las redes sociales, TikTok y Facebook, son las más mencionadas, pero también están recurriendo a poner",
+      "url": "https://confidencial.digital/analisis/cafetaleros-echan-mano-de-tiktok-para-hallar-cortadores/",
+      "publishedAt": "Sat, 31 Oct 2026 07:25:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cafetaleros-echan",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -979,25 +903,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:13:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fallos-contradicen",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "edc36e9bec598041",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "El dólar BCV sigue indetenible: cotiza en 889,26 bolívares este viernes y sube a 889,58 para el lunes",
-      "summary": "El alza de la moneda estadounidense no se estanca a pocas semanas de la llegada de diciembre",
-      "url": "https://efectococuyo.com/economia/el-dolar-bcv-sigue-indetenible-cotiza-en-88926-bolivares-este-viernes-y-sube-a-88958-para-el-lunes/",
-      "publishedAt": "Fri, 30 Oct 2026 22:16:11 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-dolar-sigue",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1013,8 +920,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:11:04 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1030,25 +937,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:03:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-presion-washington",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "da5f920421f06f36",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Jueza Analisa Torres confirma vigencia del expediente y cronograma de juicio contra Maduro",
-      "summary": "Jurista toma su primera decisión en el caso y mantiene el inicio del juicio para 2027",
-      "url": "https://efectococuyo.com/internacionales/jueza-analisa-torres-confirma-vigencia-del-expediente-y-cronograma-de-juicio-contra-maduro/",
-      "publishedAt": "Fri, 30 Oct 2026 16:19:11 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-jueza-analisa",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1064,8 +954,8 @@
       "publishedAt": "Thu, 29 Oct 2026 22:06:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fifa-autonomia",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1081,8 +971,8 @@
       "publishedAt": "Thu, 29 Oct 2026 21:24:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-muere-patrick",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1098,8 +988,8 @@
       "publishedAt": "Thu, 29 Oct 2026 21:05:41 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-grifos-secos",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1115,42 +1005,8 @@
       "publishedAt": "Thu, 29 Oct 2026 18:41:14 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cidh-otorga",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "215bb59e1c19b652",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Por qué sale a la calle la generación Z",
-      "summary": "Entre quienes conforman la generación Z –nacidos entre 1997 y 2010– hoy, los mayores cumplirán 30 años en 2027 y la fracción más joven va a cumplir los 18 años pronto. Hablamos de la cohorte más joven del mercado laboral, que vive inmersa, desde sus primeros a",
-      "url": "https://confidencial.digital/revista-niu/por-que-sale-a-la-calle-la-generacion-z/",
-      "publishedAt": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-sale-calle",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fe21ab52fbebf1fc",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Muere Cuauhtémoc Cárdenas, líder histórico de la izquierda mexicana",
-      "summary": "El ingeniero Cuauhtémoc Cárdenas Solórzano, referente histórico de la izquierda mexicana e impulsor fundamental de la lucha por la democracia en el país, falleció el 28 de octubre de 2026, a los 92 años de edad. Fuentes cercanas al político michoacano, informa",
-      "url": "https://confidencial.digital/noticias/muere-cuauhtemoc-cardenas-lider-historico-de-la-izquierda-mexicana/",
-      "publishedAt": "Thu, 29 Oct 2026 14:55:31 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-muere-cuauhtemoc",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1166,8 +1022,8 @@
       "publishedAt": "Wed, 28 Oct 2026 15:42:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nueva-norma",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1183,8 +1039,8 @@
       "publishedAt": "Tue, 27 Oct 2026 18:01:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-brasil-lula",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     },
     {
@@ -1200,8 +1056,8 @@
       "publishedAt": "Mon, 26 Oct 2026 18:52:58 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fondos-generacionales",
-      "firstSeenAt": "2026-10-31T04:53:54.079Z",
-      "lastSeenAt": "2026-10-31T04:53:54.079Z",
+      "firstSeenAt": "2026-10-31T11:56:55.811Z",
+      "lastSeenAt": "2026-10-31T11:56:55.811Z",
       "seenCount": 1
     }
   ]
