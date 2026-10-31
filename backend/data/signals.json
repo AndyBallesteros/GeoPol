@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-10-31T11:56:55.811Z",
-  "count": 55,
+  "generatedAt": "2026-10-31T17:10:36.193Z",
+  "count": 64,
   "failures": [
-    {
-      "source": "efecto-cocuyo-venezuela",
-      "error": "403 Forbidden"
-    },
     {
       "source": "primicias-ecuador",
       "error": "Maximum nested tags exceeded"
     }
   ],
   "stats": {
-    "generatedAt": "2026-10-31T11:56:55.811Z",
-    "activeSignals": 55,
-    "archiveSignals": 113,
-    "countriesCovered": 7,
-    "highPrioritySignals": 25,
-    "averagePoliticalScore": 6.35
+    "generatedAt": "2026-10-31T17:10:36.193Z",
+    "activeSignals": 64,
+    "archiveSignals": 122,
+    "countriesCovered": 9,
+    "highPrioritySignals": 30,
+    "averagePoliticalScore": 6.28
   },
   "briefings": [
     {
@@ -66,33 +62,52 @@
       "summary": "Foco en Economia politica, Instituciones. Vigilar CIPER y CIPER."
     },
     {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "EH Bildu ganaría las elecciones generales en Euskadi al lograr 7 diputados gracias al desplome total de Sumar y de Podemos",
-      "leadUrl": "https://www.elmundo.es/pais-vasco/2026/10/30/6ae46b1afc6c8349608b4578.html",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Mundo",
-        "El Pais"
-      ],
-      "signalCount": 6,
-      "summary": "Foco en Elecciones. Vigilar El Mundo y El Mundo."
-    },
-    {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "La Biblia no necesita un decreto, sino lectores y practicantes",
-      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
+      "leadTitle": "Arrancó otra campaña política: se viene la elección de alcaldes y gobernadores",
+      "leadUrl": "https://www.lasillavacia.com/opinion/arranca-otra-campana-politica-las-elecciones-regionales-2027/",
       "focusTopics": [
+        "Elecciones",
+        "Seguridad",
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 8,
+      "summary": "Foco en Elecciones, Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Venezuela",
+      "priority": "Alta",
+      "leadTitle": "&#8220;Queremos elecciones con instituciones fortalecidas&#8221;: expectativas de opositores tras regreso de Machado",
+      "leadUrl": "https://efectococuyo.com/politica/queremos-elecciones-con-instituciones-fortalecidas-expectativas-de-opositores-tras-regreso-de-machado/",
+      "focusTopics": [
+        "Elecciones",
+        "Instituciones"
+      ],
+      "topSources": [
+        "Efecto Cocuyo"
+      ],
+      "signalCount": 8,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "¿Se puede impedir votar a un español?",
+      "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
+      "focusTopics": [
+        "Elecciones",
+        "Instituciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Pais",
+        "El Mundo"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Elecciones, Instituciones, Gobernabilidad. Vigilar El Pais y El Mundo."
     },
     {
       "country": "Uruguay",
@@ -108,6 +123,20 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Elecciones, Seguridad. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Trump augura cambios en el Gobierno de Cuba en menos de dos años y medio",
+      "leadUrl": "https://elcomercio.pe/mundo/eeuu/donald-trump-augura-cambios-en-el-gobierno-de-cuba-en-menos-de-dos-anos-y-medio-estados-unidos-raul-castro-miguel-diaz-canel-ultimas-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
     },
     {
       "country": "Cuba",
@@ -138,8 +167,8 @@
       "publishedAt": "Fri, 30 Oct 2026 20:10:28 +0000",
       "politicalScore": 21,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-congreso",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -155,8 +184,8 @@
       "publishedAt": "Sat, 31 Oct 2026 06:36:13 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-milei-expuso",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -172,8 +201,8 @@
       "publishedAt": "Sat, 31 Oct 2026 11:37:43 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -189,8 +218,76 @@
       "publishedAt": "Fri, 30 Oct 2026 15:00:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-lula-remonta",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b8261d31de44da47",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Arrancó otra campaña política: se viene la elección de alcaldes y gobernadores",
+      "summary": "Juanita León y Héctor Riveros abren la conversación sobre las elecciones regionales y hacen balance de los actuales mandatarios. The post Arrancó otra campaña política: se viene la elección de alcaldes y gobernadores appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/arranca-otra-campana-politica-las-elecciones-regionales-2027/",
+      "publishedAt": "Sat, 31 Oct 2026 16:37:35 +0000",
+      "politicalScore": 11,
+      "eventKey": "colombia-elecciones-colombia-elecciones-arranco-otra",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e88d14cc9e8cffe5",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "&#8220;Queremos elecciones con instituciones fortalecidas&#8221;: expectativas de opositores tras regreso de Machado",
+      "summary": "Pidieron presionar por la habilitación de Machado sin dejarle toda la carga del cambio a la dirigente política",
+      "url": "https://efectococuyo.com/politica/queremos-elecciones-con-instituciones-fortalecidas-expectativas-de-opositores-tras-regreso-de-machado/",
+      "publishedAt": "Sat, 31 Oct 2026 13:30:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-8220-queremos",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a5e0b1be3e1d96bf",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "Reuniones en casas fueron por temas de seguridad, dijo abogado de Petro",
+      "summary": "El Tiempo reveló que durante su gobierno se usaron casas ocultas para reuniones privadas donde asistían mujeres. El abogado del expresidente lo desmiente. The post Reuniones en casas fueron por temas de seguridad, dijo abogado de Petro appeared first on La Sil",
+      "url": "https://www.lasillavacia.com/en-vivo/reuniones-en-casas-fueron-por-temas-de-seguridad-dijo-abogado-de-petro/",
+      "publishedAt": "Sat, 31 Oct 2026 16:53:10 +0000",
+      "politicalScore": 10,
+      "eventKey": "colombia-seguridad-colombia-seguridad-reuniones-casas",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "20fd594c8afe0547",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La gaveta de Hacienda",
+      "summary": "\"En Colombia las reformas tributarias no las escriben los gobiernos. Las escribe un ministerio con memoria larga para gobiernos con memoria corta\". The post La gaveta de Hacienda appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/la-gaveta-de-hacienda/",
+      "publishedAt": "Sat, 31 Oct 2026 12:55:00 +0000",
+      "politicalScore": 10,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gaveta-hacienda",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -206,25 +303,8 @@
       "publishedAt": "Sat, 31 Oct 2026 03:22:08 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-bullrich",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b1e74ee78c03b9f4",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "EH Bildu ganaría las elecciones generales en Euskadi al lograr 7 diputados gracias al desplome total de Sumar y de Podemos",
-      "summary": "La coalición 'abertzale' superaría al PNV en Bizkaia y en Gipuzkoa mientras que los socialistas vascos mantendrían sus 5 escaños, en un sondeo previo al accidente de Urda. El PP no capitaliza el desgaste de Sánchez en Euskadi y se quedaría en dos escaños&nbsp;",
-      "url": "https://www.elmundo.es/pais-vasco/2026/10/30/6ae46b1afc6c8349608b4578.html",
-      "publishedAt": "Fri, 30 Oct 2026 20:55:22 +0100",
-      "politicalScore": 10,
-      "eventKey": "espana-elecciones-espana-elecciones-bildu-ganaria",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -240,25 +320,8 @@
       "publishedAt": "Fri, 30 Oct 2026 16:00:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-intermedias-saber",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "91febb8cfd6fbe7e",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El PP da por amortizado a Puente y se prepara ya para una campaña volcada en la gestión ferroviaria: \"La clave es quién nombra al siguiente ministro\"",
-      "summary": "Feijóo apunta al presidente del Gobierno como máximo responsable de que las infraestructuras no funcionen bien&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/10/30/6ae3c075fc6c83244f8b459f.html",
-      "publishedAt": "Fri, 30 Oct 2026 00:02:18 +0100",
-      "politicalScore": 10,
-      "eventKey": "espana-elecciones-espana-elecciones-amortizado-puente",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -274,8 +337,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -291,8 +354,8 @@
       "publishedAt": "Sat, 31 Oct 2026 07:20:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bukele-juez",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -308,8 +371,8 @@
       "publishedAt": "Sat, 31 Oct 2026 07:10:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excepcion-regla",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -325,8 +388,25 @@
       "publishedAt": "Tue, 27 Oct 2026 23:13:10 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-diputados",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0b9eaf8fbc7554ad",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Por segunda vez, el gobierno deja quieto el precio de los combustibles",
+      "summary": "La gasolina, en promedio, costará $15.886. El Estado asumirá un costo fiscal de $15.500 millones a través del Fepc. The post Por segunda vez, el gobierno deja quieto el precio de los combustibles appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/por-segunda-vez-el-gobierno-deja-quieto-el-precio-de-los-combustibles/",
+      "publishedAt": "Sat, 31 Oct 2026 14:15:37 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-segunda",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -342,8 +422,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:29:45 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-aprendio-brasil",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -359,8 +439,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:24:23 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-seguridad-uruguay-seguridad-aquel-nino",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -376,8 +456,8 @@
       "publishedAt": "Fri, 30 Oct 2026 13:51:41 +0100",
       "politicalScore": 8,
       "eventKey": "espana-instituciones-espana-instituciones-viceministro-chavista",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -393,25 +473,25 @@
       "publishedAt": "Thu, 29 Oct 2026 23:09:32 +0000",
       "politicalScore": 8,
       "eventKey": "chile-instituciones-chile-instituciones-desempleo-sube",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
-      "id": "e3641d0a4d5c803d",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
+      "id": "0639a0163610eea6",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
       "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "La Biblia no necesita un decreto, sino lectores y practicantes",
-      "summary": "El gabinete de De la Espriella busca impulsar un día de la Biblia. Un Estado laico no necesita decretar una fecha para respetar el libro que muchos ya leemos sin ley de por medio. The post La Biblia no necesita un decreto, sino lectores y practicantes appeared",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/la-biblia-no-necesita-un-decreto-sino-lectores-y-practicantes/",
-      "publishedAt": "Sat, 31 Oct 2026 06:00:00 +0000",
+      "title": "Trump augura cambios en el Gobierno de Cuba en menos de dos años y medio",
+      "summary": "El presidente de Estados Unidos, Donald Trump, afirmó que Gobierno de Cuba “no va a durar mucho más”, y que se verán resultados en el país caribeño “dentro de estos dos años y medio, incluso antes de eso”.",
+      "url": "https://elcomercio.pe/mundo/eeuu/donald-trump-augura-cambios-en-el-gobierno-de-cuba-en-menos-de-dos-anos-y-medio-estados-unidos-raul-castro-miguel-diaz-canel-ultimas-noticia/",
+      "publishedAt": "Sat, 31 Oct 2026 16:51:35 +0000",
       "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-biblia-necesita",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-trump-augura",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -427,8 +507,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:16:58 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-funcionaria",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -444,8 +524,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:36:09 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-villarruel",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -461,8 +541,8 @@
       "publishedAt": "Fri, 30 Oct 2026 20:52:06 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-instituciones-argentina-instituciones-dueno-drogueria",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -478,8 +558,8 @@
       "publishedAt": "Fri, 30 Oct 2026 19:49:16 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -495,8 +575,42 @@
       "publishedAt": "Fri, 30 Oct 2026 19:11:10 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-pedido",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3a7c575d3919c918",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Elecciones intermedias en EEUU: lo que hay que saber",
+      "summary": "Todos los escaños de la Cámara de Representantes de EE. UU. se someten a elección",
+      "url": "https://efectococuyo.com/internacionales/elecciones-intermedias-en-eeuu-lo-que-hay-que-saber/",
+      "publishedAt": "Fri, 30 Oct 2026 19:06:39 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-elecciones-venezuela-elecciones-intermedias-eeuu",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8e33ec8785f9656b",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Comité registra 83 postulaciones para 32 cargos de magistrados del TSJ",
+      "summary": "13 personas se han postulado para la función de inspector general de tribunales y 4 para la Dirección de la Escuela de la Magistratura",
+      "url": "https://efectococuyo.com/politica/comite-registra-83-postulaciones-para-32-cargos-de-magistrados-del-tsj/",
+      "publishedAt": "Fri, 30 Oct 2026 17:56:14 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-instituciones-venezuela-instituciones-comite-registra",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -512,8 +626,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:48:30 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-mauricio",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -529,8 +643,8 @@
       "publishedAt": "Tue, 27 Oct 2026 23:33:44 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-defensa",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -546,8 +660,25 @@
       "publishedAt": "Fri, 30 Oct 2026 14:30:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-salvador-envia",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b328fb6f29b8c86d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "El gobierno De la Espriella desprecia el patrimonio nacional",
+      "summary": "\"Lo que sucedió con la biblioteca de Cancillería muestra el nulo respeto que tiene este gobierno por la memoria institucional de este país\". The post El gobierno De la Espriella desprecia el patrimonio nacional appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/el-gobierno-de-la-espriella-desprecia-el-patrimonio-nacional/",
+      "publishedAt": "Sat, 31 Oct 2026 14:54:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-espriella",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -563,59 +694,42 @@
       "publishedAt": "Fri, 30 Oct 2026 21:29:34 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-julio",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
-      "id": "90a5ebc85b8ac08d",
+      "id": "ea7f792997062772",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Migración Colombia detiene en Cúcuta a coronel de la Fuerza Aérea Venezolana buscado por Interpol",
+      "summary": "Fue presidente de Hidrocapital y ocupó otros altos cargos en el chavismo.",
+      "url": "https://efectococuyo.com/internacionales/migracion-colombia-detiene-en-cucuta-a-coronel-de-la-fuerza-aerea-venezolana-buscado-por-interpol/",
+      "publishedAt": "Fri, 30 Oct 2026 19:36:38 +0000",
+      "politicalScore": 6,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-migracion-colombia",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a86ae26960c5218a",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Detector: Subsidio del Icetex terminó con Petro, no con De la Espriella",
-      "summary": "El subsidio terminó formalmente en febrero de 2025, durante el gobierno Petro, y desde entonces sólo hubo apoyos temporales. The post Detector: Subsidio del Icetex terminó con Petro, no con De la Espriella appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/detector-subsidio-del-icetex-termino-con-petro-no-con-de-la-espriella/",
-      "publishedAt": "Sat, 31 Oct 2026 01:10:00 +0000",
+      "title": "MinAmbiente revoca resolución que declaraba la Amazonía libre de combustibles fósiles y otras noticias",
+      "summary": "La ley de rescate impacta negativamente al sector ambiente, el memorando de entendimiento con Estados Unidos les da ventajas y otras noticias. The post MinAmbiente revoca resolución que declaraba la Amazonía libre de combustibles fósiles y otras noticias appea",
+      "url": "https://www.lasillavacia.com/en-vivo/minambiente-revoca-resolucion-que-declaraba-la-amazonia-libre-de-combustibles-fosiles-y-otras-noticias/",
+      "publishedAt": "Sat, 31 Oct 2026 13:00:00 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-detector-subsidio",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "79cf81ec67b87707",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Este video de soldados acusados de un falso positivo es de 2024, no de 2026",
-      "summary": "El video es de noviembre de 2024 y fue grabado en zona rural de Sevilla, Valle del Cauca, cuando Gustavo Petro todavía era presidente. The post Este video de soldados acusados de un falso positivo es de 2024, no de 2026 appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/este-video-de-soldados-acusados-de-un-falso-positivo-es-de-2024-no-de-2026/",
-      "publishedAt": "Sat, 31 Oct 2026 00:31:25 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-video-soldados",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b921d89bb82a59d0",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "El impacto en el sector Ambiente de la Ley de Rescate",
-      "summary": "Los impactos para el sector incluyen: cambios en el impuesto al carbono y la eliminación del impuesto a los plásticos de un solo uso. The post El impacto en el sector Ambiente de la Ley de Rescate appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/el-impacto-en-el-sector-ambiente-de-la-ley-de-rescate/",
-      "publishedAt": "Sat, 31 Oct 2026 00:21:45 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-impacto",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-minambiente-revoca",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -631,8 +745,8 @@
       "publishedAt": "Fri, 30 Oct 2026 19:18:54 +0000",
       "politicalScore": 5,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -648,8 +762,8 @@
       "publishedAt": "Fri, 30 Oct 2026 10:03:02 +0100",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-martin-tecnico",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -665,8 +779,8 @@
       "publishedAt": "Thu, 29 Oct 2026 16:42:48 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-venezuela-migrantes",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -682,59 +796,42 @@
       "publishedAt": "Wed, 28 Oct 2026 23:32:49 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-oposicion-confirma",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
-      "id": "47efe4cedc38f298",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Kast reconoce error en rebajas de condena pero descarta salida de Rabat; Chadwick es mencionado en nueva formalización de Hermosilla, y Corte sobresee a asesino de Ámbar por otros dos homicidios",
-      "summary": "La entrada Kast reconoce error en rebajas de condena pero descarta salida de Rabat; Chadwick es mencionado en nueva formalización de Hermosilla, y Corte sobresee a asesino de Ámbar por otros dos homicidios se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/26/radar-26-10-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-26-10-26",
-      "publishedAt": "Mon, 26 Oct 2026 23:19:46 +0000",
-      "politicalScore": 5,
-      "eventKey": "chile-instituciones-chile-instituciones-kast-reconoce",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d767c418eb6514c2",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "El chat en que Hermosilla y Donoso intentan anular el nombramiento de un juez: “Me encanta sacar la pelota de adentro del arco”",
-      "summary": "La entrada El chat en que Hermosilla y Donoso intentan anular el nombramiento de un juez: “Me encanta sacar la pelota de adentro del arco” se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/26/el-chat-en-que-hermosilla-y-donoso-intentan-anular-el-nombramiento-de-un-juez-me-encanta-sacar-la-pelota-de-adentro-del-arco/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-chat-en-que-hermosilla-y-donoso-intentan-anular-el-nombramiento-de-un-juez-me-encanta-sacar-la-pelota-de-adentro-del-arco",
-      "publishedAt": "Mon, 26 Oct 2026 22:26:51 +0000",
-      "politicalScore": 5,
-      "eventKey": "chile-probidad-chile-probidad-chat-hermosilla",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "395cf4d504f654c7",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
+      "id": "bcd56dea19f1fd69",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Media",
-      "title": "El ajuste fiscal es necesario, pero necesita correcciones",
-      "summary": "El ajuste fiscal es urgente, pero pedir sacrificios a los hogares mientras se otorgan exenciones a grandes fortunas y evasores destruye su legitimidad. The post El ajuste fiscal es necesario, pero necesita correcciones appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-ajuste-fiscal-es-necesario-pero-necesita-correcciones/",
-      "publishedAt": "Sat, 31 Oct 2026 05:05:00 +0000",
+      "title": "Axel Kicillof rechaza que Cristina Kirchner designe a un candidato y pide ir a unas PASO",
+      "summary": "El gobernador desafía a Massa y a la expresidenta; envió un mensaje a sus aliados: no aceptará un postulante puesto a dedo como ocurrió con Alberto Fernández",
+      "url": "https://www.lanacion.com.ar/politica/axel-kicillof-rechaza-que-cristina-kirchner-designe-a-dedo-a-un-candidato-como-ocurrio-con-alberto-nid31102026/",
+      "publishedAt": "Sat, 31 Oct 2026 16:44:49 +0000",
       "politicalScore": 4,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-ajuste",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-axel",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4cb52874a6bd2113",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Trump se juega el control del Congreso y su poder en los últimos años en la Casa Blanca",
+      "summary": "Aunque Trump no figura en la papeleta, los comicios del martes se han convertido en la práctica en un referéndum sobre su gestión.",
+      "url": "https://efectococuyo.com/internacionales/trump-juega-control-congreso-poder-casa-blanca/",
+      "publishedAt": "Sat, 31 Oct 2026 14:50:01 +0000",
+      "politicalScore": 4,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-trump-juega",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -750,25 +847,8 @@
       "publishedAt": "Sat, 31 Oct 2026 04:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-elecciones-espana-elecciones-supremo-admite",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ee9f95db9a4184b3",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Es falso que la JEP nunca haya condenado a “ningún criminal” de la guerrilla",
-      "summary": "El tribunal de paz ha proferido cuatro sentencias contra 21 comparecientes y ha identificado a 367 máximos responsables en los 11 macrocasos que investiga. The post Es falso que la JEP nunca haya condenado a “ningún criminal” de la guerrilla appeared first on ",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/es-falso-que-la-jep-nunca-haya-condenado-a-ningun-criminal-de-la-guerrilla/",
-      "publishedAt": "Sat, 31 Oct 2026 00:55:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-instituciones-colombia-instituciones-falso-nunca",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -784,8 +864,8 @@
       "publishedAt": "Fri, 30 Oct 2026 23:54:53 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-maximo",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -801,25 +881,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:30:34 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-renuncio",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3da0547fff3a01ee",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Subsidios al transporte. Los intendentes de ciudades del interior vuelven a la carga por la “discriminación”",
-      "summary": "El cordobés Daniel Passerini señaló que la administración libertaria “hace populismo selectivo”",
-      "url": "https://www.lanacion.com.ar/politica/subsidios-al-transporte-los-intendentes-de-ciudades-del-interior-vuelven-a-la-carga-por-la-nid30102026/",
-      "publishedAt": "Fri, 30 Oct 2026 18:28:46 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-subsidios",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -835,8 +898,8 @@
       "publishedAt": "Fri, 30 Oct 2026 12:08:43 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-telefonos-moviles",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -852,8 +915,8 @@
       "publishedAt": "Fri, 30 Oct 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-momentos-discurso",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -869,8 +932,93 @@
       "publishedAt": "Fri, 30 Oct 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-brasil-rescata",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a4ae9f2ce80469aa",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Un fallo del Centro de Control centra las pesquisas del accidente ferroviario en España",
+      "summary": "El error del Centro de Control se produjo después de que se hubiera caído el sistema de seguridad conocido como LZB.",
+      "url": "https://efectococuyo.com/internacionales/fallo-centro-control-centra-pesquisas-accidente-ferroviario/",
+      "publishedAt": "Sat, 31 Oct 2026 14:57:46 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-seguridad-venezuela-seguridad-fallo-centro",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8cde1c1ecf5dc122",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "De la Espriella no pudo censurar la diversidad del Museo Nacional",
+      "summary": "\"Lo ocurrido en el Museo Nacional es un microcosmos de lo que estamos viviendo: actos de poder desnudos que debemos enfrentar con la Constitución en mano\". The post De la Espriella no pudo censurar la diversidad del Museo Nacional appeared first on La Silla Va",
+      "url": "https://www.lasillavacia.com/opinion/de-la-espriella-no-pudo-censurar-la-diversidad-del-museo-nacional/",
+      "publishedAt": "Sat, 31 Oct 2026 13:36:27 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-pudo",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9819b99f7a12f388",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "El regreso de los ancestros kawésqar desde Basilea y el derecho de las comunidades a decidir",
+      "summary": "La entrada El regreso de los ancestros kawésqar desde Basilea y el derecho de las comunidades a decidir se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/31/el-regreso-de-los-ancestros-kawesqar-desde-basilea-y-el-derecho-de-las-comunidades-a-decidir/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-regreso-de-los-ancestros-kawesqar-desde-basilea-y-el-derecho-de-las-comunidades-a-decidir",
+      "publishedAt": "Sat, 31 Oct 2026 13:32:11 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-regreso-ancestros",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e209b36a875921d3",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Carta abierta a Andrés Allamand, secretario general iberoamericano",
+      "summary": "La entrada Carta abierta a Andrés Allamand, secretario general iberoamericano se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/31/carta-abierta-a-andres-allamand-secretario-general-iberoamericano/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=carta-abierta-a-andres-allamand-secretario-general-iberoamericano",
+      "publishedAt": "Sat, 31 Oct 2026 13:00:23 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-carta-abierta",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d39596e04b310113",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Que la izquierda en Colombia se consiga su Lula",
+      "summary": "\"Bajo el mando de Petro, a la izquierda le quedó imposible hacer lo que Lula hizo en Brasil: convencer a suficientes indecisos de que su contrincante era la peor alternativa\". The post Que la izquierda en Colombia se consiga su Lula appeared first on La Silla ",
+      "url": "https://www.lasillavacia.com/opinion/que-la-izquierda-en-colombia-se-consiga-su-lula/",
+      "publishedAt": "Sat, 31 Oct 2026 12:40:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-izquierda-consiga",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -886,8 +1034,8 @@
       "publishedAt": "Sat, 31 Oct 2026 07:25:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cafetaleros-echan",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -903,8 +1051,25 @@
       "publishedAt": "Sat, 31 Oct 2026 00:13:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fallos-contradicen",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "edc36e9bec598041",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "El dólar BCV sigue indetenible: cotiza en 889,26 bolívares este viernes y sube a 889,58 para el lunes",
+      "summary": "El alza de la moneda estadounidense no se estanca a pocas semanas de la llegada de diciembre",
+      "url": "https://efectococuyo.com/economia/el-dolar-bcv-sigue-indetenible-cotiza-en-88926-bolivares-este-viernes-y-sube-a-88958-para-el-lunes/",
+      "publishedAt": "Fri, 30 Oct 2026 22:16:11 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-dolar-sigue",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -920,8 +1085,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:11:04 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -937,8 +1102,42 @@
       "publishedAt": "Fri, 30 Oct 2026 22:03:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-presion-washington",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "da5f920421f06f36",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Jueza Analisa Torres confirma vigencia del expediente y cronograma de juicio contra Maduro",
+      "summary": "Jurista toma su primera decisión en el caso y mantiene el inicio del juicio para 2027",
+      "url": "https://efectococuyo.com/internacionales/jueza-analisa-torres-confirma-vigencia-del-expediente-y-cronograma-de-juicio-contra-maduro/",
+      "publishedAt": "Fri, 30 Oct 2026 16:19:11 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-jueza-analisa",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1fe6d454b1ff975b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "El vínculo como centro del aprendizaje",
+      "summary": "La entrada El vínculo como centro del aprendizaje se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/30/el-vinculo-como-centro-del-aprendizaje/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-vinculo-como-centro-del-aprendizaje",
+      "publishedAt": "Fri, 30 Oct 2026 12:47:16 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-vinculo-centro",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -954,8 +1153,8 @@
       "publishedAt": "Thu, 29 Oct 2026 22:06:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fifa-autonomia",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -971,8 +1170,8 @@
       "publishedAt": "Thu, 29 Oct 2026 21:24:13 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-muere-patrick",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -988,8 +1187,8 @@
       "publishedAt": "Thu, 29 Oct 2026 21:05:41 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-grifos-secos",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -1005,8 +1204,8 @@
       "publishedAt": "Thu, 29 Oct 2026 18:41:14 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cidh-otorga",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -1022,8 +1221,8 @@
       "publishedAt": "Wed, 28 Oct 2026 15:42:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nueva-norma",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     },
     {
@@ -1039,25 +1238,8 @@
       "publishedAt": "Tue, 27 Oct 2026 18:01:41 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-brasil-lula",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4974be6fa7d175fc",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Fondos generacionales: el riesgo de repetir el error del Fondo E",
-      "summary": "La entrada Fondos generacionales: el riesgo de repetir el error del Fondo E se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/26/fondos-generacionales-el-riesgo-de-repetir-el-error-del-fondo-e/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=fondos-generacionales-el-riesgo-de-repetir-el-error-del-fondo-e",
-      "publishedAt": "Mon, 26 Oct 2026 18:52:58 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-fondos-generacionales",
-      "firstSeenAt": "2026-10-31T11:56:55.811Z",
-      "lastSeenAt": "2026-10-31T11:56:55.811Z",
+      "firstSeenAt": "2026-10-31T17:10:36.193Z",
+      "lastSeenAt": "2026-10-31T17:10:36.193Z",
       "seenCount": 1
     }
   ]
