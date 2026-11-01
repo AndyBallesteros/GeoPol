@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-11-01T05:20:43.655Z",
-  "count": 65,
-  "failures": [],
+  "generatedAt": "2026-11-01T12:56:58.350Z",
+  "count": 56,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-01T05:20:43.655Z",
-    "activeSignals": 65,
-    "archiveSignals": 123,
-    "countriesCovered": 9,
-    "highPrioritySignals": 32,
-    "averagePoliticalScore": 6.62
+    "generatedAt": "2026-11-01T12:56:58.350Z",
+    "activeSignals": 56,
+    "archiveSignals": 114,
+    "countriesCovered": 8,
+    "highPrioritySignals": 29,
+    "averagePoliticalScore": 6.64
   },
   "briefings": [
     {
@@ -29,8 +34,8 @@
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "Trump al borde de un ataque de nervios",
-      "leadUrl": "https://confidencial.digital/mundo/trump-al-borde-de-un-ataque-de-nervios/",
+      "leadTitle": "Remontada histórica en Brasil: Lula, presidente por cuarta vez",
+      "leadUrl": "https://confidencial.digital/opinion/remontada-historica-en-brasil-lula-presidente-por-cuarta-vez/",
       "focusTopics": [
         "Elecciones"
       ],
@@ -71,50 +76,21 @@
       "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "&#8220;Queremos elecciones con instituciones fortalecidas&#8221;: expectativas de opositores tras regreso de Machado",
-      "leadUrl": "https://efectococuyo.com/politica/queremos-elecciones-con-instituciones-fortalecidas-expectativas-de-opositores-tras-regreso-de-machado/",
-      "focusTopics": [
-        "Elecciones",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
       "country": "Espana",
       "priority": "Alta",
-      "leadTitle": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
-      "leadUrl": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
+      "leadTitle": "¿Se puede impedir votar a un español?",
+      "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
         "Elecciones",
-        "Seguridad"
+        "Seguridad",
+        "Gobernabilidad"
       ],
       "topSources": [
-        "El Mundo",
-        "El Pais"
+        "El Pais",
+        "El Mundo"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar El Mundo y El Pais."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Municipalidad de Lima: estos son los resultados de la ONPE al 99.989% de actas contabilizadas",
-      "leadUrl": "https://elcomercio.pe/politica/elecciones/alcaldia-de-lima-resultados-onpe-100-de-elecciones-regionales-y-municipales-2026-rafael-lopez-aliaga-de-renovacion-popular-y-francis-allison-de-avanza-pais-ultimas-noticia/",
-      "focusTopics": [
-        "Elecciones",
-        "Seguridad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar El Comercio y El Comercio."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Seguridad, Gobernabilidad. Vigilar El Pais y El Pais."
     },
     {
       "country": "Uruguay",
@@ -129,6 +105,20 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
+    },
+    {
+      "country": "Peru",
+      "priority": "Alta",
+      "leadTitle": "Las ‘midterms’ más reñidas: las elecciones que definirán el futuro de Trump",
+      "leadUrl": "https://elcomercio.pe/mundo/eeuu/las-midterms-mas-renidas-las-elecciones-que-definiran-el-futuro-de-trump-noticia/",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 1,
+      "summary": "Foco en Elecciones. Vigilar El Comercio."
     },
     {
       "country": "Cuba",
@@ -148,20 +138,20 @@
   ],
   "signals": [
     {
-      "id": "4e07937483b1e5e8",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
+      "id": "3adde9648e3f39dc",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Municipalidad de Lima: estos son los resultados de la ONPE al 99.989% de actas contabilizadas",
-      "summary": "A casi un mes de las elecciones del 4 de octubre, la Oficina Nacional de Procesos Electorales (ONPE) registra un avance de 99.989% de actas contabilizadas para la Municipalidad de Lima. A las 3:15 p.m. de este viernes 30 solo faltaban 3 actas del Jurado Electo",
-      "url": "https://elcomercio.pe/politica/elecciones/alcaldia-de-lima-resultados-onpe-100-de-elecciones-regionales-y-municipales-2026-rafael-lopez-aliaga-de-renovacion-popular-y-francis-allison-de-avanza-pais-ultimas-noticia/",
-      "publishedAt": "Sun, 01 Nov 2026 04:32:01 +0000",
-      "politicalScore": 17,
-      "eventKey": "peru-elecciones-peru-elecciones-municipalidad-lima",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "title": "Remontada histórica en Brasil: Lula, presidente por cuarta vez",
+      "summary": "El presidente de Brasil, Luiz Inácio Lula da Silva, logró lo que ningún presidente había conseguido antes. En la primera vuelta de las elecciones presidenciales, el 4 de octubre, quedó sorpresivamente detrás de Flávio Bolsonaro con 45.6 % frente a 47.03 %. Tre",
+      "url": "https://confidencial.digital/opinion/remontada-historica-en-brasil-lula-presidente-por-cuarta-vez/",
+      "publishedAt": "Sun, 01 Nov 2026 07:10:00 +0000",
+      "politicalScore": 13,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-remontada-historica",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -177,25 +167,8 @@
       "publishedAt": "Sat, 31 Oct 2026 23:20:42 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-derrota-huida",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d55c32e38157d5d8",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Milei expuso ante estudiantes: dos horas de charla, críticas a los políticos que solo quieren “ganar elecciones” y guiño a Karina: “Es tan ortodoxa como yo”",
-      "summary": "Además, el presidente volvió a cargar contra los periodistas, a quienes llamó “seres cargados de maldad” y le respondió a Domingo Cavallo",
-      "url": "https://www.lanacion.com.ar/politica/seres-cargados-de-maldad-milei-comenzo-su-exposicion-en-una-universidad-con-otro-ataque-al-nid30102026/",
-      "publishedAt": "Sat, 31 Oct 2026 06:36:13 +0000",
-      "politicalScore": 13,
-      "eventKey": "argentina-elecciones-argentina-elecciones-milei-expuso",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -211,25 +184,8 @@
       "publishedAt": "Sat, 31 Oct 2026 17:15:06 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trump-borde",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a258eaa0e382f005",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita del papa León XIV",
-      "summary": "El Presidente y su hermana participaron de la celebración del Día de las Iglesias Evangélicas en el Museo de la Casa Rosada y hoy inaugurarán un templo cuyo pastor es el padre de una senadora libertaria",
-      "url": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
-      "publishedAt": "Sat, 31 Oct 2026 11:37:43 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -245,25 +201,8 @@
       "publishedAt": "Fri, 30 Oct 2026 15:00:00 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-lula-remonta",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ff44caeb6cb6922c",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Santiago Abascal: \"El crecimiento de Vox es lo que asegura la alternativa\"",
-      "summary": "En la semana más crítica, con 69 fallecidos en el accidente de Urda y la campaña electoral avanzando hacia las elecciones del 29-N, Santiago Abascal se muestra cauto con la situación, critica el \"abandono que sufren los españoles\" y confía en un cambio polític",
-      "url": "https://www.elmundo.es/espana/2026/10/31/6ae5d63221efa081798b4597.html",
-      "publishedAt": "Sat, 31 Oct 2026 22:48:06 +0100",
-      "politicalScore": 11,
-      "eventKey": "espana-elecciones-espana-elecciones-santiago-abascal",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -279,25 +218,42 @@
       "publishedAt": "Sat, 31 Oct 2026 21:07:00 +0000",
       "politicalScore": 11,
       "eventKey": "colombia-elecciones-colombia-elecciones-arranco-otra",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
-      "id": "e88d14cc9e8cffe5",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
+      "id": "5397afe99fdecbca",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "&#8220;Queremos elecciones con instituciones fortalecidas&#8221;: expectativas de opositores tras regreso de Machado",
-      "summary": "Pidieron presionar por la habilitación de Machado sin dejarle toda la carga del cambio a la dirigente política",
-      "url": "https://efectococuyo.com/politica/queremos-elecciones-con-instituciones-fortalecidas-expectativas-de-opositores-tras-regreso-de-machado/",
-      "publishedAt": "Sat, 31 Oct 2026 13:30:00 +0000",
-      "politicalScore": 11,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-8220-queremos",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "title": "Las ‘midterms’ más reñidas: las elecciones que definirán el futuro de Trump",
+      "summary": "Este 3 de noviembre se sabrá si el Congreso dejará de ser controlado por los republicanos. Si las encuestas aciertan, al menos una de las cámaras pasará a mano de los demócratas, debido al descontento de los estadounidenses hacia la gestión de Donald Trump. En",
+      "url": "https://elcomercio.pe/mundo/eeuu/las-midterms-mas-renidas-las-elecciones-que-definiran-el-futuro-de-trump-noticia/",
+      "publishedAt": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "politicalScore": 10,
+      "eventKey": "peru-elecciones-peru-elecciones-midterms-renidas",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a515f5a2eca822e6",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina”",
+      "summary": "El secretario de Culto y Civilización afirmó que el Papa no dará un mensaje destinado exclusivamente al presidente Milei; “será para todos los argentinos”, dijo; se prevén dos centros sanitarios de alta complejidad si el pontífice necesita atención médica",
+      "url": "https://www.lanacion.com.ar/politica/agustin-caulo-el-gobierno-sigue-trabajando-para-que-no-se-politice-la-visita-de-leon-xiv-a-la-nid01112026/",
+      "publishedAt": "Sun, 01 Nov 2026 10:33:28 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-agustin",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -313,8 +269,8 @@
       "publishedAt": "Sat, 31 Oct 2026 23:47:46 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -330,8 +286,8 @@
       "publishedAt": "Sat, 31 Oct 2026 22:19:03 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -347,25 +303,8 @@
       "publishedAt": "Sat, 31 Oct 2026 19:42:00 +0000",
       "politicalScore": 10,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gaveta-hacienda",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8524c198089519b5",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Bullrich celebró la aprobación del RIIR en el Senado y dijo que atraerá “oportunidades de invertir y crecer”",
-      "summary": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
-      "publishedAt": "Sat, 31 Oct 2026 03:22:08 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-bullrich",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -381,8 +320,8 @@
       "publishedAt": "Fri, 30 Oct 2026 16:00:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-intermedias-saber",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -398,8 +337,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -415,8 +354,8 @@
       "publishedAt": "Sun, 01 Nov 2026 04:30:01 GMT",
       "politicalScore": 9,
       "eventKey": "espana-seguridad-espana-seguridad-puente-intenta",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -432,8 +371,8 @@
       "publishedAt": "Sat, 31 Oct 2026 18:30:34 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-mtop-informo",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -449,8 +388,8 @@
       "publishedAt": "Sat, 31 Oct 2026 19:47:34 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -466,8 +405,8 @@
       "publishedAt": "Sat, 31 Oct 2026 19:31:32 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-hermanos-passaglia",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -483,8 +422,8 @@
       "publishedAt": "Sat, 31 Oct 2026 07:20:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bukele-juez",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -500,8 +439,8 @@
       "publishedAt": "Sat, 31 Oct 2026 07:10:00 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excepcion-regla",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -517,8 +456,25 @@
       "publishedAt": "Tue, 27 Oct 2026 23:13:10 +0000",
       "politicalScore": 9,
       "eventKey": "chile-economia-politica-chile-economia-politica-diputados",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
+      "seenCount": 1
+    },
+    {
+      "id": "36beb8d4542d21d1",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Carlos Suárez, el estratega del proyecto populista de Abelardo de la Espriella",
+      "summary": "Perfil a profundidad del “número dos” de Abelardo, el hombre sin cargo público –socio y amigo del presidente– que aparece en las decisiones e intrigas del gobierno. The post Carlos Suárez, el estratega del proyecto populista de Abelardo de la Espriella appeare",
+      "url": "https://www.lasillavacia.com/silla-nacional/carlos-suarez-el-estratega-del-proyecto-populista-de-abelardo-de-la-espriella/",
+      "publishedAt": "Sun, 01 Nov 2026 05:21:27 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-carlos-suarez",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -534,8 +490,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:29:45 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-aprendio-brasil",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -551,8 +507,25 @@
       "publishedAt": "Thu, 29 Oct 2026 23:09:32 +0000",
       "politicalScore": 8,
       "eventKey": "chile-instituciones-chile-instituciones-desempleo-sube",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0e3309ec92aaa74a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El Gobierno busca evitar fricciones en la visita del papa León XIV y envía señales a la Iglesia",
+      "summary": "A una semana de la llegada del pontífice al país, Karina Milei pide no politizar el mensaje del líder de los católicos y hace gestos conciliadores a los obispos",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-busca-evitar-fricciones-en-la-visita-del-papa-leon-xiv-y-envia-senales-a-la-iglesia-nid01112026/",
+      "publishedAt": "Sun, 01 Nov 2026 05:59:01 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -568,8 +541,8 @@
       "publishedAt": "Sun, 01 Nov 2026 04:01:11 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-recesion",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -585,8 +558,8 @@
       "publishedAt": "Sun, 01 Nov 2026 01:50:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-orquesta",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -602,8 +575,8 @@
       "publishedAt": "Sat, 31 Oct 2026 22:28:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-biblia-necesita",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -619,8 +592,8 @@
       "publishedAt": "Sat, 31 Oct 2026 22:23:46 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-monsenor",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -636,8 +609,8 @@
       "publishedAt": "Wed, 28 Oct 2026 20:48:30 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-mauricio",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -653,76 +626,42 @@
       "publishedAt": "Tue, 27 Oct 2026 23:33:44 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-defensa",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
-      "id": "6b556617681608f7",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "El Salvador envía más de 2 000 militares a misión de rescate en Haití",
-      "summary": "El Salvador desplegó un contingente de más de 2 000 militares en Haití, en una operación de rescate de cuatro soldados salvadoreños que desaparecieron hace 10 días tras una emboscada de bandas armadas, informó el gobierno el miércoles (28.10.2026). Los soldado",
-      "url": "https://confidencial.digital/mundo/el-salvador-envia-mas-de-2-000-militares-a-mision-de-rescate-en-haiti/",
-      "publishedAt": "Fri, 30 Oct 2026 14:30:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-salvador-envia",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4883dd6f59f5ca9e",
+      "id": "cb13a73626aabc13",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "La violencia en Norte de Santander exige más que refuerzos militares",
-      "summary": "La persistencia de la violencia en Norte de Santander demuestra que el incremento de tropa resulta insuficiente si no hay protección y presencia estatal. The post La violencia en Norte de Santander exige más que refuerzos militares appeared first on La Silla V",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-la-paz/la-violencia-en-norte-de-santander-exige-mas-que-refuerzos-militares/",
-      "publishedAt": "Sat, 31 Oct 2026 18:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-seguridad-colombia-seguridad-violencia-norte",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "María Corina regresó, Trump no sabía y el chavismo decretó la Navidad y prepara la campaña de Delcy",
+      "summary": "María Corina Machado volvió a Venezuela tras 319 días y sacudió el tablero. Trump dijo no saber nada, Washington hizo control de daños y el chavismo de los Rodríguez respondió decretando la Navidad. ¿Quién lidera de verdad la transición? Y mientras tanto, ¿por",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/maria-corina-regreso-trump-no-sabia-y-el-chavismo-decreto-la-navidad-y-prepara-la-campana-de-delcy/",
+      "publishedAt": "Sun, 01 Nov 2026 12:43:57 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-elecciones-colombia-elecciones-maria-corina",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
-      "id": "4c9a472ca38c0f97",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
+      "id": "a83ea12e04ed56a7",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Keiko Fujimori agradece invitación de Nayib Bukele y destaca agenda sobre seguridad, salud y educación",
-      "summary": "Mandataria agradeció la oportunidad de compartir experiencias y avanzar con decisión en una agenda de cooperación bilateral.",
-      "url": "https://elcomercio.pe/politica/keiko-fujimori-agradece-invitacion-de-nayib-bukele-y-destaca-agenda-sobre-seguridad-salud-y-educacion-ultimas-noticia/",
-      "publishedAt": "Sun, 01 Nov 2026 05:11:46 +0000",
+      "title": "Carta abierta al Presidente Kast de las hijas del general Carlos Prats",
+      "summary": "La entrada Carta abierta al Presidente Kast de las hijas del general Carlos Prats se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/11/01/carta-abierta-al-presidente-kast-de-las-hijas-del-general-carlos-prats/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=carta-abierta-al-presidente-kast-de-las-hijas-del-general-carlos-prats",
+      "publishedAt": "Sun, 01 Nov 2026 12:09:43 +0000",
       "politicalScore": 6,
-      "eventKey": "peru-seguridad-peru-seguridad-keiko-fujimori",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "157799cb94777b0f",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Fundaredes reporta supuesto ataque de la Fanb contra campamento del ELN en Apure",
-      "summary": "La abogada y activista Rocío San Miguel señaló, en su cuenta en X, que el supuesto ataque fue en Buena Vista del Meta, estado Apure.",
-      "url": "https://efectococuyo.com/politica/fundaredes-ataque-fanb-campamento-eln/",
-      "publishedAt": "Sun, 01 Nov 2026 00:34:02 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-fundaredes-reporta",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "eventKey": "chile-probidad-chile-probidad-carta-abierta",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -738,59 +677,25 @@
       "publishedAt": "Sat, 31 Oct 2026 19:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-seguridad-colombia-seguridad-mide-delitos",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
-      "id": "66e606b496acbad2",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "id": "7dc959e233a2cc69",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Seguridad",
       "priority": "Media",
-      "title": "Lula y el proceso venezolano: analistas esperan postura “crítica” pero sin enfrentamientos",
-      "summary": "Maria Teresa Romero estima que Lula será prudente pero no incondicional con el rodrigato. Jesús Mazzei Alfonzo espera apoyo para que Venezuela retome democracia",
-      "url": "https://efectococuyo.com/politica/lula-y-el-proceso-venezolano-analistas-esperan-postura-critica-pero-sin-enfrentamientos/",
-      "publishedAt": "Sat, 31 Oct 2026 21:00:00 +0000",
+      "title": "De Bluefields a España: la historia del pediatra que cruzó el Atlántico para empezar de nuevo",
+      "summary": "Si al nicaragüense Luis Delgado le hubieran dicho que en el futuro ejercería su carrera como médico en un hospital de referencia en Cataluña, España, no lo&#160; hubiera creído. Marcharse de Nicaragua no estaba entre sus metas, pero la inseguridad que encontró",
+      "url": "https://confidencial.digital/migrantes/de-bluefields-a-espana-la-historia-del-pediatra-que-cruzo-el-atlantico-para-empezar-de-nuevo/",
+      "publishedAt": "Sun, 01 Nov 2026 07:25:00 +0000",
       "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-lula-proceso",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5318e046e29b60c3",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "China envía maquinaria y materiales al país para la recolección de escombros tras sismos",
-      "summary": "El buque proveniente de China también trajo viviendas prefabricadas para \"desconcentrar\" los campamentos con damnificados.",
-      "url": "https://efectococuyo.com/politica/china-envia-maquinaria-materiales-para-recoleccion-escombros/",
-      "publishedAt": "Sat, 31 Oct 2026 19:59:38 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-china-envia",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5658dfcbfcac44bb",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Magistrados de TSJ en el exilio piden a AN2015 reconozca su investidura",
-      "summary": "Los juristas piden aclara su situación jurídica y en caso de no prosperar su solicitud, arguyen que deben ser destituidos para así tomar acciones pertinentes",
-      "url": "https://efectococuyo.com/politica/magistrados-tsj-exilio-piden-reconozca-investidura/",
-      "publishedAt": "Sat, 31 Oct 2026 19:30:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-magistrados-exilio",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-bluefields-espana",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -806,8 +711,8 @@
       "publishedAt": "Fri, 30 Oct 2026 10:03:02 +0100",
       "politicalScore": 5,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-martin-tecnico",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -823,8 +728,59 @@
       "publishedAt": "Wed, 28 Oct 2026 23:32:49 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-oposicion-confirma",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ebe0b1ffb54eeea7",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo",
+      "summary": "Se trata de Gerardo León, que ingresó a la entidad que preside Claudio Tapia en 2017 y luego se transformó en “asesor”; LA NACION accedió a una docena de instrucciones de pago que le enviaban a la empresa de Javier Faroni; allegados a León aseguran que le fals",
+      "url": "https://www.lanacion.com.ar/politica/la-afa-ordeno-transferencias-a-10-sociedades-bajo-sospecha-con-la-firma-de-un-exdirector-ejecutivo-nid01112026/",
+      "publishedAt": "Sun, 01 Nov 2026 10:24:22 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-ordeno",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0edf320bfa125f53",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Nuestro inconsciente religioso en el fallido Diálogo Nacional",
+      "summary": "Hasta que no hagas consciente tu inconsciente, éste dirigirá tu vida y tú lo llamarás “el destino” (o “la voluntad de Dios”), Carl Jung Hemos señalado antes que el pragmatismo resignado y el voluntarismo heroico forman un círculo vicioso. El primero nos lleva ",
+      "url": "https://confidencial.digital/opinion/nuestro-inconsciente-religioso-en-el-fallido-dialogo-nacional/",
+      "publishedAt": "Sun, 01 Nov 2026 07:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nuestro-inconsciente",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
+      "seenCount": 1
+    },
+    {
+      "id": "df18327145c43940",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La universidad y su entorno social",
+      "summary": "La universidad tiene la responsabilidad de formar profesionales competentes y, al mismo tiempo, ciudadanos capaces de ejercer su libertad, comprender la democracia, defender los derechos humanos y asumir sus responsabilidades sociales. Pero hay una distinción ",
+      "url": "https://confidencial.digital/opinion/la-universidad-y-su-entorno-social/",
+      "publishedAt": "Sun, 01 Nov 2026 07:15:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-universidad-entorno",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -840,8 +796,8 @@
       "publishedAt": "Sun, 01 Nov 2026 01:44:43 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -857,8 +813,8 @@
       "publishedAt": "Sun, 01 Nov 2026 00:29:55 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-enojo",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -874,8 +830,8 @@
       "publishedAt": "Sat, 31 Oct 2026 23:04:30 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-diplomacia-colombia-diplomacia-trump-respaldo",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -891,8 +847,8 @@
       "publishedAt": "Sat, 31 Oct 2026 17:18:03 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-trump-tiene",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -908,25 +864,8 @@
       "publishedAt": "Sat, 31 Oct 2026 16:44:49 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-axel",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4cb52874a6bd2113",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Trump se juega el control del Congreso y su poder en los últimos años en la Casa Blanca",
-      "summary": "Aunque Trump no figura en la papeleta, los comicios del martes se han convertido en la práctica en un referéndum sobre su gestión.",
-      "url": "https://efectococuyo.com/internacionales/trump-juega-control-congreso-poder-casa-blanca/",
-      "publishedAt": "Sat, 31 Oct 2026 14:50:01 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-trump-juega",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -942,42 +881,8 @@
       "publishedAt": "Fri, 30 Oct 2026 12:08:43 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-telefonos-moviles",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "75c426eb0bfaae0d",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Dos momentos y un discurso",
-      "summary": "Un mes es un lapso que puede parecer largo, pero en política suele ser una eternidad. Es un periodo en el que se dan acontecimientos que merecen mayor atención, aunque también puede tratarse de cuatro semanas largas en las que aparentemente no sucede nada. En ",
-      "url": "https://confidencial.digital/opinion/dos-momentos-y-un-discurso/",
-      "publishedAt": "Fri, 30 Oct 2026 07:20:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-momentos-discurso",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "54035070f8c1b47c",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Brasil rescata sus antídotos contra la desdemocratización",
-      "summary": "Para una sociedad que se destaca a nivel regional por su baja simpatía por la democracia, por una amplia desconfianza en el uso de los recursos públicos y por un fuerte sentimiento de falta de representación política, los brasileños probaron que -así y todo- p",
-      "url": "https://confidencial.digital/opinion/brasil-rescata-sus-antidotos-contra-la-desdemocratizacion/",
-      "publishedAt": "Fri, 30 Oct 2026 07:10:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-brasil-rescata",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -993,8 +898,8 @@
       "publishedAt": "Sat, 31 Oct 2026 22:48:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-defensores-derechos",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1010,42 +915,8 @@
       "publishedAt": "Sat, 31 Oct 2026 20:22:04 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-familia-embrujada",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8cde1c1ecf5dc122",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "De la Espriella no pudo censurar la diversidad del Museo Nacional",
-      "summary": "\"Lo ocurrido en el Museo Nacional es un microcosmos de lo que estamos viviendo: actos de poder desnudos que debemos enfrentar con la Constitución en mano\". The post De la Espriella no pudo censurar la diversidad del Museo Nacional appeared first on La Silla Va",
-      "url": "https://www.lasillavacia.com/opinion/de-la-espriella-no-pudo-censurar-la-diversidad-del-museo-nacional/",
-      "publishedAt": "Sat, 31 Oct 2026 17:18:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-pudo",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a4ae9f2ce80469aa",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Un fallo del Centro de Control centra las pesquisas del accidente ferroviario en España",
-      "summary": "El error del Centro de Control se produjo después de que se hubiera caído el sistema de seguridad conocido como LZB.",
-      "url": "https://efectococuyo.com/internacionales/fallo-centro-control-centra-pesquisas-accidente-ferroviario/",
-      "publishedAt": "Sat, 31 Oct 2026 14:57:46 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-seguridad-venezuela-seguridad-fallo-centro",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1061,8 +932,8 @@
       "publishedAt": "Sat, 31 Oct 2026 14:40:09 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-evite",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1078,8 +949,8 @@
       "publishedAt": "Sat, 31 Oct 2026 13:32:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-regreso-ancestros",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1095,8 +966,8 @@
       "publishedAt": "Sat, 31 Oct 2026 13:00:23 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carta-abierta",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1112,8 +983,8 @@
       "publishedAt": "Sat, 31 Oct 2026 07:25:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cafetaleros-echan",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1129,8 +1000,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:13:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fallos-contradicen",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1146,8 +1017,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:11:04 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1163,8 +1034,8 @@
       "publishedAt": "Fri, 30 Oct 2026 22:03:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-presion-washington",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1180,8 +1051,8 @@
       "publishedAt": "Fri, 30 Oct 2026 12:47:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-vinculo-centro",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1197,25 +1068,8 @@
       "publishedAt": "Thu, 29 Oct 2026 22:06:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fifa-autonomia",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "aaf25c55652badcc",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Muere Patrick Stewart, actor de “Viaje a las estrellas” y “X-Men”",
-      "summary": "El actor británico Patrick Stewart, conocido por interpretar al Capitán Jean-Luc Picard en el universo Star Trek, ha fallecido en Los Ángeles a los 86 años tras convivir por un breve periodo de tiempo con el Alzheimer y demencia, informó el jueves 29 de octubr",
-      "url": "https://confidencial.digital/revista-niu/muere-patrick-stewart-actor-de-viaje-a-las-estrellas-y-x-men/",
-      "publishedAt": "Thu, 29 Oct 2026 21:24:13 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-muere-patrick",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     },
     {
@@ -1231,25 +1085,8 @@
       "publishedAt": "Wed, 28 Oct 2026 15:42:43 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-nueva-norma",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9813a033a9b67cf5",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "El Brasil que Lula tendrá que negociar",
-      "summary": "La entrada El Brasil que Lula tendrá que negociar se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/27/el-brasil-que-lula-tendra-que-negociar/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-brasil-que-lula-tendra-que-negociar",
-      "publishedAt": "Tue, 27 Oct 2026 18:01:41 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-brasil-lula",
-      "firstSeenAt": "2026-11-01T05:20:43.655Z",
-      "lastSeenAt": "2026-11-01T05:20:43.655Z",
+      "firstSeenAt": "2026-11-01T12:56:58.350Z",
+      "lastSeenAt": "2026-11-01T12:56:58.350Z",
       "seenCount": 1
     }
   ]
