@@ -1,30 +1,34 @@
 {
-  "generatedAt": "2026-11-02T05:19:33.434Z",
-  "count": 57,
-  "failures": [],
+  "generatedAt": "2026-11-02T15:15:25.634Z",
+  "count": 54,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-02T05:19:33.434Z",
-    "activeSignals": 57,
-    "archiveSignals": 115,
-    "countriesCovered": 9,
+    "generatedAt": "2026-11-02T15:15:25.634Z",
+    "activeSignals": 54,
+    "archiveSignals": 112,
+    "countriesCovered": 7,
     "highPrioritySignals": 21,
-    "averagePoliticalScore": 5.75
+    "averagePoliticalScore": 6.59
   },
   "briefings": [
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "Remontada histórica en Brasil: Lula, presidente por cuarta vez",
-      "leadUrl": "https://confidencial.digital/opinion/remontada-historica-en-brasil-lula-presidente-por-cuarta-vez/",
+      "leadTitle": "Si los demócratas ganan el Congreso, investigarán a Trump por corrupción",
+      "leadUrl": "https://confidencial.digital/entrevistas/si-los-democratas-ganan-el-congreso-investigaran-a-trump-por-corrupcion/",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Elecciones"
       ],
       "topSources": [
         "Confidencial"
       ],
-      "signalCount": 13,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
+      "signalCount": 14,
+      "summary": "Foco en Elecciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -33,35 +37,36 @@
       "leadUrl": "https://www.ciperchile.cl/2026/10/29/desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos",
       "focusTopics": [
         "Instituciones",
-        "Economia politica"
+        "Probidad",
+        "Elecciones"
       ],
       "topSources": [
         "CIPER"
       ],
       "signalCount": 13,
-      "summary": "Foco en Instituciones, Economia politica. Vigilar CIPER y CIPER."
+      "summary": "Foco en Instituciones, Probidad, Elecciones. Vigilar CIPER y CIPER."
     },
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "El ministro Mahiques impulsa el ascenso de un juez y se podría abrir una nueva vacante en Comodoro Py",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-ministro-mahiques-impulsa-el-ascenso-de-un-juez-y-se-podria-abrir-una-nueva-vacante-en-comodoro-nid01112026/",
+      "leadTitle": "Diputados: las elecciones en Estados Unidos postergan el avance del presupuesto 2027",
+      "leadUrl": "https://www.lanacion.com.ar/politica/diputados-las-elecciones-en-estados-unidos-postergan-el-avance-del-presupuesto-2027-nid02112026/",
       "focusTopics": [
-        "Instituciones",
         "Elecciones"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 12,
-      "summary": "Foco en Instituciones, Elecciones. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Cuba",
       "priority": "Alta",
-      "leadTitle": "La Fiscalía pide hasta cinco años de cárcel por una protesta en Bayamo",
-      "leadUrl": "https://www.14ymedio.com/cuba/fiscalia-pide-cinco-anos-carcel_1_1132711.html",
+      "leadTitle": "La prorrusa Iliana Yotova gana las elecciones presidenciales en Bulgaria",
+      "leadUrl": "https://www.14ymedio.com/internacional/prorrusa-iliana-yotova-gana-elecciones_1_1132721.html",
       "focusTopics": [
+        "Seguridad",
         "Economia politica",
         "Sociedad"
       ],
@@ -69,30 +74,15 @@
         "14ymedio"
       ],
       "signalCount": 6,
-      "summary": "Foco en Economia politica, Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Elecciones de EEUU pueden redefinir el margen de acción de Trump en Latinoamérica",
-      "leadUrl": "https://efectococuyo.com/internacionales/elecciones-eeuu-redefinir-margen-trump-latinoamerica/",
-      "focusTopics": [
-        "Elecciones",
-        "Diplomacia",
-        "Instituciones"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Diplomacia, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Seguridad, Economia politica, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "“Gobierno se juega su capital político”: Restrepo sobre nueva tributaria",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/gobierno-se-juega-su-capital-politico-restrepo-sobre-nueva-tributaria/",
+      "leadTitle": "Se destapan las cartas: así es la agenda legislativa de Abelardo en el Congreso",
+      "leadUrl": "https://www.lasillavacia.com/silla-nacional/se-destapan-las-cartas-asi-es-la-agenda-legislativa-de-abelardo-en-el-congreso/",
       "focusTopics": [
+        "Gobernabilidad",
         "Economia politica",
         "Seguridad"
       ],
@@ -100,7 +90,21 @@
         "La Silla Vacia"
       ],
       "signalCount": 4,
-      "summary": "Foco en Economia politica, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Gobernabilidad, Economia politica, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
+    },
+    {
+      "country": "Uruguay",
+      "priority": "Alta",
+      "leadTitle": "Cómo no comparar a Lula con Bolsonaro",
+      "leadUrl": "https://ladiaria.com.uy/opinion/articulo/2026/11/como-no-comparar-a-lula-con-bolsonaro/",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "La Diaria"
+      ],
+      "signalCount": 3,
+      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Espana",
@@ -116,37 +120,77 @@
       ],
       "signalCount": 2,
       "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Pais."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular",
-      "leadUrl": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 1,
-      "summary": "Foco en Elecciones. Vigilar El Comercio."
-    },
-    {
-      "country": "Uruguay",
-      "priority": "Media",
-      "leadTitle": "Piketty y la renuncia a transformar",
-      "leadUrl": "https://ladiaria.com.uy/opinion/articulo/2026/11/piketty-y-la-renuncia-a-transformar/",
-      "focusTopics": [
-        "Elecciones"
-      ],
-      "topSources": [
-        "La Diaria"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     }
   ],
   "signals": [
+    {
+      "id": "6b34247f2503e0b6",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Diputados: las elecciones en Estados Unidos postergan el avance del presupuesto 2027",
+      "summary": "El presidente de la Comisión de Presupuesto, Alberto Benegas Lynch, viajó a Washington y no habrá reunión; los aliados reclaman obras públicas, deudas previsionales y baja de impuestos; la ley de biocombustibles suma tensión con Santa Fe y Córdoba",
+      "url": "https://www.lanacion.com.ar/politica/diputados-las-elecciones-en-estados-unidos-postergan-el-avance-del-presupuesto-2027-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 13:14:44 +0000",
+      "politicalScore": 23,
+      "eventKey": "argentina-elecciones-argentina-elecciones-diputados-estados",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "023b30fcfe3421d1",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Si los demócratas ganan el Congreso, investigarán a Trump por corrupción",
+      "summary": "Cuando faltan solamente 24 horas para que se celebren las elecciones legislativas de medio término en Estados Unidos, en las que se juega la renovación total del Congreso y un tercio del Senado, todas encuestas siguen proyectando una amplia ventaja para el Par",
+      "url": "https://confidencial.digital/entrevistas/si-los-democratas-ganan-el-congreso-investigaran-a-trump-por-corrupcion/",
+      "publishedAt": "Mon, 02 Nov 2026 07:30:00 +0000",
+      "politicalScore": 19,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-democratas-ganan",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "46f27fc2421b0891",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+      "summary": "El año que viene los argentinos elegirán a su próximo presidente, y es importante para los que van a votar conocer previamente el lugar en el que ejercerán el sufragio para agilizar el trámite electoral",
+      "url": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 13:57:53 +0000",
+      "politicalScore": 18,
+      "eventKey": "argentina-elecciones-argentina-elecciones-donde-voto",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "842092db8afded18",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Cristina Kirchner le dio una entrevista al The Washington Post y cuestionó a la Justicia por su condena: “Es un sistema corrupto”",
+      "summary": "La expresidenta dio además detalles de sus días en prisión domiciliaria y pronosticó una derrota de Trump en las elecciones de Estados Unidos; no descarta una candidatura en caso de revertir su situación judicial",
+      "url": "https://www.lanacion.com.ar/politica/cristina-kirchner-le-dio-una-entrevista-al-the-washington-post-y-cuestiono-a-la-justicia-por-su-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 13:03:15 +0000",
+      "politicalScore": 13,
+      "eventKey": "argentina-elecciones-argentina-elecciones-cristina-kirchner",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
     {
       "id": "d063289aa1d894e9",
       "country": "Argentina",
@@ -160,8 +204,8 @@
       "publishedAt": "Mon, 02 Nov 2026 00:17:55 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-instituciones-argentina-instituciones-ministro-mahiques",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -177,8 +221,8 @@
       "publishedAt": "Sun, 01 Nov 2026 07:10:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-remontada-historica",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -194,8 +238,8 @@
       "publishedAt": "Mon, 02 Nov 2026 02:03:17 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-elecciones-argentina-elecciones-bariloche-alianza",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -211,42 +255,59 @@
       "publishedAt": "Sat, 31 Oct 2026 17:15:06 +0000",
       "politicalScore": 12,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trump-borde",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
-      "id": "68f325b304ada56d",
+      "id": "f338e159a26c7cdc",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "ATE anunció protestas en 27 aeropuertos para el viernes y podrían registrarse demoras y cancelaciones en vuelos",
+      "summary": "La medida apuntó contra el Gobierno por supuestos “incumplimientos en seguridad aeroportuaria”; sólo se garantizarán viajes sanitarios, humanitarios, traslado de órganos y oficiales",
+      "url": "https://www.lanacion.com.ar/politica/ate-anuncio-protestas-en-27-aeropuertos-para-el-viernes-y-podrian-registrarse-demoras-y-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 13:16:16 +0000",
+      "politicalScore": 11,
+      "eventKey": "argentina-seguridad-argentina-seguridad-anuncio-protestas",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a01ee129e66a9358",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Polémica en la Justicia federal de La Rioja: la hija de un juez salió al cruce de los cuestionamientos por su designación",
-      "summary": "La mujer pidió valorar su trayectoria; su padre debe investigar por acoso a uno de los camaristas que votó por nombrarla en un cargo",
-      "url": "https://www.lanacion.com.ar/politica/polemica-en-la-justicia-federal-de-la-rioja-la-hija-del-juez-salio-al-cruce-de-los-cuestionamientos-nid01112026/",
-      "publishedAt": "Mon, 02 Nov 2026 00:05:29 +0000",
+      "title": "Cómo no comparar a Lula con Bolsonaro",
+      "summary": "“Yo admiro a Bolsonaro”, dijo un senador de la República de la oposición. Qué claridad de valores y de principios contiene esa manifestación. ¿Admira a Bolsonaro padre? Seguramente conoce que durante el tratamiento del juicio de destitución de la entonces pres",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/como-no-comparar-a-lula-con-bolsonaro/",
+      "publishedAt": "Mon, 02 Nov 2026 11:56:30 -0300",
       "politicalScore": 10,
-      "eventKey": "argentina-elecciones-argentina-elecciones-polemica-justicia",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-comparar-lula",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
-      "id": "a515f5a2eca822e6",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "id": "c3b99d0c9c981faa",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Agustín Caulo: “El Gobierno sigue trabajando para que no se politice la visita de León XIV a la Argentina”",
-      "summary": "El secretario de Culto y Civilización afirmó que el Papa no dará un mensaje destinado exclusivamente al presidente Milei; “será para todos los argentinos”, dijo; se prevén dos centros sanitarios de alta complejidad si el pontífice necesita atención médica",
-      "url": "https://www.lanacion.com.ar/politica/agustin-caulo-el-gobierno-sigue-trabajando-para-que-no-se-politice-la-visita-de-leon-xiv-a-la-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 10:33:28 +0000",
+      "title": "Autonomía en Nicaragua, cada vez menos que celebrar",
+      "summary": "El 2 de septiembre de 1987, los diputados de la Asamblea Nacional aprobaron con una ovasión la Ley 28 “Estatuto de Autonomía de las Regiones de la Costa Caribe de Nicaragua”. Entró en vigencia al publicarse poco después el 30 de octubre. A 39 años de aquél apl",
+      "url": "https://confidencial.digital/opinion/autonomia-en-nicaragua-cada-vez-menos-que-celebrar/",
+      "publishedAt": "Mon, 02 Nov 2026 12:33:39 +0000",
       "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-agustin",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-autonomia-cada",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -262,110 +323,25 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
-      "id": "3c5701240a16e82f",
+      "id": "d7c74591624dafaa",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La Libertad Avanza busca ganar peso en la Justicia porteña: competirá en la elección de abogados del Consejo de la Magistratura",
-      "summary": "Diego Carbone y Roxana Kahale encabezan la lista para los comicios del 17 de noviembre; el antecedente desalentador de la renovación en el organismo nacional",
-      "url": "https://www.lanacion.com.ar/politica/la-libertad-avanza-busca-ganar-peso-en-la-justicia-portena-competira-en-la-eleccion-de-abogados-del-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 21:30:48 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-elecciones-argentina-elecciones-libertad-avanza",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "87ffd14b3e7db993",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Elecciones de EEUU pueden redefinir el margen de acción de Trump en Latinoamérica",
-      "summary": "Los antecedentes demócratas apuntan a una política regional más centrada en la diplomacia y la cooperación.",
-      "url": "https://efectococuyo.com/internacionales/elecciones-eeuu-redefinir-margen-trump-latinoamerica/",
-      "publishedAt": "Sun, 01 Nov 2026 13:59:13 +0000",
-      "politicalScore": 9,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-eeuu-pueden",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4e699b8c08768e55",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Bukele: ¿Juez, jurado, libertador?",
-      "summary": "El 13 de octubre, el hombre fuerte favorito de América Latina hizo una sorprendente admisión. Preguntado por la revisión de los casos de los presos, Nayib Bukele afirmó que su Gobierno estaba estudiando la posibilidad de excarcelar anticipadamente a aproximada",
-      "url": "https://confidencial.digital/opinion/bukele-juez-jurado-libertador/",
-      "publishedAt": "Sat, 31 Oct 2026 07:20:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bukele-juez",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5fa61d3e64dfa082",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "De excepción a regla: cómo la segunda vuelta está cambiando la democracia",
-      "summary": "El domingo 25 de octubre, Brasil resumió en una sola elección hacia dónde van las democracias latinoamericanas. Lula da Silva ganó la segunda vuelta con el 51.76% de los votos frente al 48.24% de Flávio Bolsonaro, una diferencia de 3.52 puntos. Esta es la prim",
-      "url": "https://confidencial.digital/opinion/de-excepcion-a-regla-como-la-segunda-vuelta-esta-cambiando-la-democracia/",
-      "publishedAt": "Sat, 31 Oct 2026 07:10:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excepcion-regla",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "93f7d4c8166c5c66",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "La mayoría de la Diputación Permanente del Congreso exige la dimisión de Puente por el accidente de Urda",
-      "summary": "PP, Vox, Junts y PNV pedirán responsabilidades políticas ya y el ministro y el Gobierno esgrimirán que en otros accidentes no se dieron tantas explicaciones",
-      "url": "https://elpais.com/espana/2026-11-02/la-mayoria-de-la-diputacion-permanente-del-congreso-exige-la-dimision-de-puente-por-el-accidente-de-urda.html",
-      "publishedAt": "Mon, 02 Nov 2026 04:30:01 GMT",
-      "politicalScore": 8,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-mayoria-diputacion",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f5084321a46f9adc",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "“Gobierno se juega su capital político”: Restrepo sobre nueva tributaria",
-      "summary": "El vicepresidente defendió la tributaria ante el riesgo de un default económico. Dijo que se les devolvería el IVA a la mayoría de colombianos. The post “Gobierno se juega su capital político”: Restrepo sobre nueva tributaria appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/gobierno-se-juega-su-capital-politico-restrepo-sobre-nueva-tributaria/",
-      "publishedAt": "Sun, 01 Nov 2026 14:10:51 +0000",
+      "title": "Javier Milei no tiene plan B si son derrotados Trump y sus demás aliados internacionales",
+      "summary": "El Presidente, que viaja mañana a España, se aferra a su vínculo con el mandatario estadounidense más allá de lo que pase en los comicios en ese país; además, apoya a Netanyahu y no planea normalizar vínculos con Lula ni con Pedro Sánchez",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-no-tiene-plan-b-si-son-derrotados-trump-y-sus-demas-aliados-internacionales-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 14:41:52 +0000",
       "politicalScore": 8,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -381,42 +357,76 @@
       "publishedAt": "Thu, 29 Oct 2026 23:09:32 +0000",
       "politicalScore": 8,
       "eventKey": "chile-instituciones-chile-instituciones-desempleo-sube",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
-      "id": "ad8c87d4742cfcef",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular",
-      "summary": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como mala y el 10% como buena, según la última encuesta nacional de Datum Internacional par",
-      "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
-      "publishedAt": "Mon, 02 Nov 2026 03:55:40 +0000",
-      "politicalScore": 7,
-      "eventKey": "peru-elecciones-peru-elecciones-primeros-dias",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "05b4f6f2b36eff0a",
+      "id": "ff1518c899310910",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Javier Milei opinó sobre el tenso cruce entre Santiago Maratea y la China Ansa: “Una emboscada por no ser kuka”",
-      "summary": "El Presidente se expresó en defensa del influencer, quien mantuvo un acalorado intercambio con la periodista tras una pregunta sobre sus colectas",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-opino-sobre-el-tenso-cruce-entre-santiago-maratea-y-la-china-ansa-una-emboscada-por-no-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 21:54:31 +0000",
+      "title": "El gobierno de Kicillof dio detalles del paso de León XIV por el conurbano: siete cuadras en el papamóvil y la visita al Cottolengo Don Orione",
+      "summary": "El Papa tiene previsto ir el lunes próximo a Claypole, en Almirante Brown; será recibido en una institución que asiste a discapacitados; se encontrará allí con el gobernador",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-kicillof-dio-detalles-del-paso-de-leon-xiv-por-el-conurbano-siete-cuadras-en-el-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 14:31:09 +0000",
       "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "100ae2fa564fcbee",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Reset",
+      "summary": "Así como nadie debería subestimar la potencia electoral del peronismo, tampoco los analistas clásicos deberían suponer que Javier Milei no será capaz de cambiar los errores no forzados",
+      "url": "https://www.lanacion.com.ar/politica/reset-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 14:09:20 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-reset",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "31eaa2e253c99572",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Seguridad",
+      "priority": "Alta",
+      "title": "La prorrusa Iliana Yotova gana las elecciones presidenciales en Bulgaria",
+      "summary": "La vencedora se comprometió a ser \"una presidenta de la paz\", abogó por restablecer las relaciones con Moscú y poner fin al apoyo militar a Ucrania",
+      "url": "https://www.14ymedio.com/internacional/prorrusa-iliana-yotova-gana-elecciones_1_1132721.html",
+      "publishedAt": "Mon, 02 Nov 2026 13:27:20 +0000",
+      "politicalScore": 7,
+      "eventKey": "cuba-seguridad-cuba-seguridad-prorrusa-iliana",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7cb24bebc0e0783f",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Se destapan las cartas: así es la agenda legislativa de Abelardo en el Congreso",
+      "summary": "De la Espriella plantea una relación nueva y tensa con el Congreso. Una reforma tributaria y el Estatuto Antiterrorista son dos de los 8 proyectos claves. The post Se destapan las cartas: así es la agenda legislativa de Abelardo en el Congreso appeared first o",
+      "url": "https://www.lasillavacia.com/silla-nacional/se-destapan-las-cartas-asi-es-la-agenda-legislativa-de-abelardo-en-el-congreso/",
+      "publishedAt": "Mon, 02 Nov 2026 06:00:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-destapan-cartas",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -432,59 +442,25 @@
       "publishedAt": "Sun, 01 Nov 2026 19:41:08 +0000",
       "politicalScore": 7,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
-      "id": "3a7e0b18411aa026",
-      "country": "Argentina",
-      "source": "La Nacion",
+      "id": "317f41953d599f87",
+      "country": "Espana",
+      "source": "El Pais",
       "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "Karina Milei y Jorge Macri recorrieron las obras del escenario donde dará misa el Papa",
-      "summary": "La secretaria general de la Presidencia y el jefe de Gobierno porteño buscaron dar una señal de unidad de cara a la visita de León XIV e incluso elogiaron el trabajo que realiza la provincia de Buenos Aires",
-      "url": "https://www.lanacion.com.ar/politica/karina-milei-y-jorge-macri-recorrieron-las-obras-del-escenario-donde-hablara-el-papa-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 16:09:17 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-karina",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "82d3832ebd3c7399",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Mauricio Daza por el Caso Guerra: “Si la fiscalía decide no formalizar a Chadwick, estaría incumpliendo sus deberes”",
-      "summary": "La entrada Mauricio Daza por el Caso Guerra: “Si la fiscalía decide no formalizar a Chadwick, estaría incumpliendo sus deberes” se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/28/mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mauricio-daza-por-el-caso-guerra-si-la-fiscalia-decide-no-formalizar-a-chadwick-estaria-incumpliendo-sus-deberes",
-      "publishedAt": "Wed, 28 Oct 2026 20:48:30 +0000",
-      "politicalScore": 7,
-      "eventKey": "chile-economia-politica-chile-economia-politica-mauricio",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ae798c32ebaccb5d",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Defensa de Hermosilla apuntó en el tribunal a Chadwick como la persona detrás de la contratación del exfiscal Guerra en la San Sebastián",
-      "summary": "La entrada Defensa de Hermosilla apuntó en el tribunal a Chadwick como la persona detrás de la contratación del exfiscal Guerra en la San Sebastián se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/27/defensa-de-hermosilla-apunto-en-el-tribunal-a-chadwick-como-la-persona-detras-de-la-contratacion-del-exfiscal-guerra-en-la-san-sebastian/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=defensa-de-hermosilla-apunto-en-el-tribunal-a-chadwick-como-la-persona-detras-de-la-contratacion-del-exfiscal-guerra-en-la-san-sebastian",
-      "publishedAt": "Tue, 27 Oct 2026 23:33:44 +0000",
-      "politicalScore": 7,
-      "eventKey": "chile-economia-politica-chile-economia-politica-defensa",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "title": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+      "summary": "Luis Pedro Marco de la Peña aguantó tras el siniestro de Adamuz, en el que se investiga un fallo de la infraestructura en la Madrid-Sevilla, y afronta ahora la investigación por un posible error de protocolo del centro de control de Atocha",
+      "url": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html",
+      "publishedAt": "Mon, 02 Nov 2026 12:06:54 GMT",
+      "politicalScore": 6,
+      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-maxima-presion",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -500,8 +476,25 @@
       "publishedAt": "Sun, 01 Nov 2026 16:20:17 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-telefonos-obedecen",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6719bbdf94ea9273",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Ortega y Murillo entre los “depredadores de la libertad de prensa” de 2026",
+      "summary": "Los esposos y “copresidentes” de Nicaragua, Daniel Ortega y Rosario Murillo, son parte de los “33 depredadores de la libertad de prensa” de 2026, una clasificación elaborada por Reporteros Sin Fronteras (RSF), con motivo del Día Internacional contra la Impunid",
+      "url": "https://confidencial.digital/noticias/ortega-y-murillo-entre-los-depredadores-de-la-libertad-de-prensa-de-2026/",
+      "publishedAt": "Mon, 02 Nov 2026 12:43:12 +0000",
+      "politicalScore": 6,
+      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-ortega-murillo",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -517,8 +510,8 @@
       "publishedAt": "Mon, 02 Nov 2026 00:13:53 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-piketty-renuncia",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -534,8 +527,8 @@
       "publishedAt": "Mon, 02 Nov 2026 00:57:16 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-consejo-magistratura",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -551,8 +544,8 @@
       "publishedAt": "Sun, 01 Nov 2026 22:03:08 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-abogado",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -568,8 +561,25 @@
       "publishedAt": "Sun, 01 Nov 2026 12:09:43 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-carta-abierta",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8195857760a02257",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Los Passaglia: el rechazo a la “avenida del centro”, la conversación con Macri y el “fracaso” de Milei y Kicillof",
+      "summary": "Los hermanos, cuyo poder está en San Nicolás, lanzaron su proyecto presidencial por el espacio Hechos; en una entrevista con LA NACION, cuestionan al jefe del Estado y por la “falta de respeto” con quienes “no llegan a fin de mes”",
+      "url": "https://www.lanacion.com.ar/politica/los-passaglia-el-rechazo-a-la-avenida-del-centro-la-conversacion-con-macri-y-el-fracaso-de-milei-y-nid02112026/",
+      "publishedAt": "Mon, 02 Nov 2026 15:06:52 +0000",
+      "politicalScore": 5,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-passaglia",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -585,42 +595,8 @@
       "publishedAt": "Mon, 02 Nov 2026 02:54:52 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-remontada-lula",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6683963a59a962e6",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "¿Qué mensajes enviaron Machado y Rodríguez a sus bases, al mundo político y al tutelaje?",
-      "summary": "Para Ricardo Ríos, la opositora marca el ritmo y la gobernante intenta pasar a la ofensiva. Desde el análisis de Erick Obermaier, la interina quiere transmitir gobernabilidad y Machado liderazgo",
-      "url": "https://efectococuyo.com/politica/que-mensajes-enviaron-machado-y-rodriguez-a-sus-bases-al-mundo-politico-y-al-tutelaje/",
-      "publishedAt": "Sun, 01 Nov 2026 21:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-mensajes-enviaron",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ac27a43b0e521933",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Hermanos Guevara: casi 22 años presos y una orden de la Corte IDH en desacato",
-      "summary": "Los tribunales niegan el destacamento de trabajo vencido en 2011, el régimen abierto en 2014 y la libertad condicional exigida desde mayo de 2023.",
-      "url": "https://efectococuyo.com/la-humanidad/hermanos-guevara-casi-22-anos-presos-y-una-orden-de-la-corte-idh-en-desacato/",
-      "publishedAt": "Sun, 01 Nov 2026 18:45:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-instituciones-venezuela-instituciones-hermanos-guevara",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -636,8 +612,8 @@
       "publishedAt": "Sun, 01 Nov 2026 14:08:27 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-plan-trump",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -653,8 +629,8 @@
       "publishedAt": "Sun, 01 Nov 2026 07:25:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-bluefields-espana",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -670,8 +646,42 @@
       "publishedAt": "Wed, 28 Oct 2026 23:32:49 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-oposicion-confirma",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f37c953b4cebcf3e",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Ahora sí, los primeros pasos hacia la apertura democrática en Venezuela",
+      "summary": "En efecto, tal como han señalado distintos analistas, en el transcurso de la semana se han producido cambios sustantivos en la escena política venezolana. Hay suficientes hechos que así lo documentan. Se ha puesto en movimiento, con evidente aceleración, proce",
+      "url": "https://confidencial.digital/opinion/ahora-si-los-primeros-pasos-hacia-la-apertura-democratica-en-venezuela/",
+      "publishedAt": "Mon, 02 Nov 2026 13:10:10 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ahora-primeros",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "66fe217aaee04445",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La Inteligencia Artificial, el amor y otras cosas",
+      "summary": "Es una gran novela, una de la que ha dicho su autor, Jorge Volpi: fue escrita en contra y con la inteligencia artificial. De lo segundo, no necesita convencernos. Volpi pone en práctica sus conocimientos de la IA mostrándonos en su novela La República que, ant",
+      "url": "https://confidencial.digital/opinion/la-inteligencia-artificial-el-amor-y-otras-cosas/",
+      "publishedAt": "Mon, 02 Nov 2026 12:52:10 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-inteligencia-artificial",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -687,59 +697,8 @@
       "publishedAt": "Mon, 02 Nov 2026 03:01:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-solo-veinte",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "96e89c1071c61c4b",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Marco Rubio se reunirá con el canciller Oliver Blanco este lunes en Washington",
-      "summary": "Será el primer encuentro entre los jefes de la diplomacia estadounidense y venezolana desde que ambos países restablecieron relaciones diplomáticas tras la captura de Nicolás Maduro",
-      "url": "https://efectococuyo.com/internacionales/marco-rubio-reunira-canciller-oliver-blanco-washington/",
-      "publishedAt": "Mon, 02 Nov 2026 02:53:13 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-marco-rubio",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "821d9a89340a7e8c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La política, atravesada por la fe",
-      "summary": "La llegada del Papa impregnó la dinámica política: las especulaciones y los interrogantes son enormes y cada sector tiene expectativas y respuestas distintas",
-      "url": "https://www.lanacion.com.ar/politica/la-politica-atravesada-por-la-fe-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 23:49:11 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-atravesada",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "45f6fd44707eca24",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Con 7800 voluntarios, 13.000 policías y un costo de 10 millones de dólares, Córdoba se prepara para recibir a León XIV",
-      "summary": "Se desplegarán 7000 metros cuadrados de pantallas en el predio de Fadea, donde se hará la misa central; la ciudad espera la presencia de 1,2 millón de personas",
-      "url": "https://www.lanacion.com.ar/politica/con-7800-voluntarios-13000-policias-y-un-costo-de-10-millones-de-dolares-cordoba-se-prepara-para-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 20:37:08 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-7800",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -755,25 +714,8 @@
       "publishedAt": "Sun, 01 Nov 2026 18:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-seguridad-colombia-seguridad-memoria-victimas",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ebe0b1ffb54eeea7",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La AFA ordenó transferencias a 10 sociedades bajo sospecha con la firma de un exdirector ejecutivo",
-      "summary": "Se trata de Gerardo León, que ingresó a la entidad que preside Claudio Tapia en 2017 y luego se transformó en “asesor”; LA NACION accedió a una docena de instrucciones de pago que le enviaban a la empresa de Javier Faroni; allegados a León aseguran que le fals",
-      "url": "https://www.lanacion.com.ar/politica/la-afa-ordeno-transferencias-a-10-sociedades-bajo-sospecha-con-la-firma-de-un-exdirector-ejecutivo-nid01112026/",
-      "publishedAt": "Sun, 01 Nov 2026 10:24:22 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-ordeno",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -789,8 +731,8 @@
       "publishedAt": "Sun, 01 Nov 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-nuestro-inconsciente",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -806,8 +748,8 @@
       "publishedAt": "Sun, 01 Nov 2026 07:15:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-universidad-entorno",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -823,25 +765,25 @@
       "publishedAt": "Sat, 31 Oct 2026 17:18:03 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-trump-tiene",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
-      "id": "12ea3450ea13f63b",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
+      "id": "919464fa211c5639",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
       "priority": "Media",
-      "title": "Los teléfonos móviles no seguirán las instrucciones del Gobierno cubano de mantener la hora de verano",
-      "summary": "Los usuarios deberán cambiar manualmente el reloj de sus celulares inteligentes",
-      "url": "https://www.14ymedio.com/cuba/telefonos-moviles-no-seguiran-instrucciones_1_1132615.html",
-      "publishedAt": "Fri, 30 Oct 2026 12:08:43 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-sociedad-cuba-sociedad-telefonos-moviles",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "title": "Represión policial, discapacidad y Derechos Humanos",
+      "summary": "La entrada Represión policial, discapacidad y Derechos Humanos se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/11/02/represion-policial-discapacidad-y-derechos-humanos/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=represion-policial-discapacidad-y-derechos-humanos",
+      "publishedAt": "Mon, 02 Nov 2026 13:00:22 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-represion-policial",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -857,8 +799,8 @@
       "publishedAt": "Mon, 02 Nov 2026 00:12:58 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-democracia-liberal",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -874,8 +816,8 @@
       "publishedAt": "Sun, 01 Nov 2026 20:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-competencia",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -891,8 +833,8 @@
       "publishedAt": "Sun, 01 Nov 2026 18:57:08 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-condenan-cadena",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -908,8 +850,8 @@
       "publishedAt": "Sun, 01 Nov 2026 14:21:57 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mexico-tibet",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -925,8 +867,8 @@
       "publishedAt": "Sat, 31 Oct 2026 22:48:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-defensores-derechos",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -942,8 +884,8 @@
       "publishedAt": "Sat, 31 Oct 2026 20:22:04 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-familia-embrujada",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -959,8 +901,8 @@
       "publishedAt": "Sat, 31 Oct 2026 14:40:09 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-evite",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -976,8 +918,8 @@
       "publishedAt": "Sat, 31 Oct 2026 13:32:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-regreso-ancestros",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -993,25 +935,8 @@
       "publishedAt": "Sat, 31 Oct 2026 13:00:23 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-carta-abierta",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3c94bb99867526d8",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Cafetaleros echan mano de TikTok para hallar cortadores en Nicaragua",
-      "summary": "Los cafetaleros nicaragüenses están usando todos los medios posibles para encontrar cortadores que quieran trabajar en sus fincas en el norte y sur del país. Las redes sociales, TikTok y Facebook, son las más mencionadas, pero también están recurriendo a poner",
-      "url": "https://confidencial.digital/analisis/cafetaleros-echan-mano-de-tiktok-para-hallar-cortadores/",
-      "publishedAt": "Sat, 31 Oct 2026 07:25:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cafetaleros-echan",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -1027,25 +952,8 @@
       "publishedAt": "Sat, 31 Oct 2026 00:13:12 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fallos-contradicen",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "39bedb37c3169375",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Ortega y Murillo asumen el control absoluto de la mediación judicial y arbitraje en Nicaragua",
-      "summary": "La Asamblea Nacional derogó la Procuraduría Nacional para la Defensa de la Libre Competencia y de Resolución Alterna de Conflictos, con lo cual se eliminó a la Dirección de Promoción de la Competencia (Procompetencia) y la Dirección de Resolución Alterna de Co",
-      "url": "https://confidencial.digital/analisis/ortega-y-murillo-asumen-el-control-absoluto-de-la-mediacion-judicial-y-arbitraje-en-nicaragua/",
-      "publishedAt": "Fri, 30 Oct 2026 22:11:04 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-murillo",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -1061,8 +969,42 @@
       "publishedAt": "Fri, 30 Oct 2026 22:03:38 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-presion-washington",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "78a006bc416b5c2b",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "VIDEO &#124; Entrevista Paulina Toro en Súbela &#8211; Aristas del Caso Hermosilla",
+      "summary": "La entrada VIDEO | Entrevista Paulina Toro en Súbela &#8211; Aristas del Caso Hermosilla se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/30/video-entrevista-paulina-toro-en-subela-aristas-del-caso-hermosilla/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=video-entrevista-paulina-toro-en-subela-aristas-del-caso-hermosilla",
+      "publishedAt": "Fri, 30 Oct 2026 15:03:35 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-video-entrevista",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
+      "seenCount": 1
+    },
+    {
+      "id": "27c6926ff34aba84",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Podcast &#124; Los fallos que contradicen a Rabat",
+      "summary": "La entrada Podcast | Los fallos que contradicen a Rabat se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/10/30/podcast-los-fallos-que-contradicen-a-rabat/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=podcast-los-fallos-que-contradicen-a-rabat",
+      "publishedAt": "Fri, 30 Oct 2026 14:57:07 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-podcast-fallos",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -1078,8 +1020,8 @@
       "publishedAt": "Fri, 30 Oct 2026 12:47:16 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-vinculo-centro",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     },
     {
@@ -1095,25 +1037,8 @@
       "publishedAt": "Thu, 29 Oct 2026 22:06:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-fifa-autonomia",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9d632435e026a690",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "Nueva norma lumínica en Chile: ¿iluminar menos o iluminar mejor?",
-      "summary": "La entrada Nueva norma lumínica en Chile: ¿iluminar menos o iluminar mejor? se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/10/28/nueva-norma-luminica-en-chile-iluminar-menos-o-iluminar-mejor/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=nueva-norma-luminica-en-chile-iluminar-menos-o-iluminar-mejor",
-      "publishedAt": "Wed, 28 Oct 2026 15:42:43 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-nueva-norma",
-      "firstSeenAt": "2026-11-02T05:19:33.434Z",
-      "lastSeenAt": "2026-11-02T05:19:33.434Z",
+      "firstSeenAt": "2026-11-02T15:15:25.634Z",
+      "lastSeenAt": "2026-11-02T15:15:25.634Z",
       "seenCount": 1
     }
   ]
