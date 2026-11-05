@@ -1,31 +1,21 @@
 {
-  "generatedAt": "2026-11-05T05:56:54.125Z",
-  "count": 69,
-  "failures": [],
+  "generatedAt": "2026-11-05T14:29:18.519Z",
+  "count": 62,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-05T05:56:54.125Z",
-    "activeSignals": 69,
-    "archiveSignals": 127,
-    "countriesCovered": 9,
-    "highPrioritySignals": 31,
-    "averagePoliticalScore": 7.16
+    "generatedAt": "2026-11-05T14:29:18.519Z",
+    "activeSignals": 62,
+    "archiveSignals": 120,
+    "countriesCovered": 7,
+    "highPrioritySignals": 27,
+    "averagePoliticalScore": 7.18
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "El giro demócrata del voto latino castiga a Trump en EE. UU.",
-      "leadUrl": "https://confidencial.digital/mundo/el-giro-democrata-del-voto-latino-castiga-a-trump-en-ee-uu/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 15,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -53,39 +43,39 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 12,
+      "signalCount": 13,
       "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
-      "country": "Colombia",
+      "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "Andrea Padilla aprobó Ley de Sometimiento y logró cambio en restauración ambiental",
-      "leadUrl": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/andrea-padilla-aprobo-ley-de-sometimiento-y-logro-cambio-en-restauracion-ambiental/",
-      "focusTopics": [
-        "Elecciones",
-        "Gobernabilidad",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "La Silla Vacia"
-      ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones, Gobernabilidad, Diplomacia. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Trump y republicanos pierden las elecciones de medio término: ¿Qué pasará con Venezuela?",
-      "leadUrl": "https://efectococuyo.com/politica/trump-y-republicanos-pierden-las-elecciones-de-medio-termino-que-pasara-con-venezuela/",
+      "leadTitle": "El giro demócrata del voto latino castiga a Trump en EE. UU.",
+      "leadUrl": "https://confidencial.digital/mundo/el-giro-democrata-del-voto-latino-castiga-a-trump-en-ee-uu/",
       "focusTopics": [
         "Elecciones",
         "Instituciones"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "Confidencial"
       ],
-      "signalCount": 7,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 13,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
+    },
+    {
+      "country": "Colombia",
+      "priority": "Alta",
+      "leadTitle": "Venezuela: ¿para qué votar en 2027?",
+      "leadUrl": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/venezuela-para-que-votar-en-2027/",
+      "focusTopics": [
+        "Elecciones",
+        "Instituciones",
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "La Silla Vacia"
+      ],
+      "signalCount": 9,
+      "summary": "Foco en Elecciones, Instituciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Cuba",
@@ -94,28 +84,27 @@
       "leadUrl": "https://www.14ymedio.com/cuba/rosa-maria-paya-presenta-madrid_1_1132793.html",
       "focusTopics": [
         "Elecciones",
-        "Seguridad"
+        "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 5,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 7,
+      "summary": "Foco en Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Interpelación: Castillo destacó que acuerdo en el puerto de Montevideo “estableció un horizonte de estabilidad y previsibilidad”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/11/interpelacion-castillo-destaco-que-acuerdo-en-el-puerto-de-montevideo-establecio-un-horizonte-de-estabilidad-y-previsibilidad/",
+      "leadTitle": "La Cámara de Diputados declaró como “no satisfactorias” las explicaciones de Castillo en la interpelación",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/11/la-camara-de-diputados-declaro-como-no-satisfactorias-las-explicaciones-de-castillo-en-la-interpelacion/",
       "focusTopics": [
-        "Economia politica",
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Economia politica, Elecciones. Vigilar La Diaria y La Diaria."
+      "signalCount": 5,
+      "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
       "country": "Espana",
@@ -123,28 +112,13 @@
       "leadTitle": "¿Se puede impedir votar a un español?",
       "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
-        "Elecciones",
-        "Economia politica"
+        "Elecciones"
       ],
       "topSources": [
         "El Pais"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar El Pais y El Pais."
-    },
-    {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Ministros debatirán los primeros tres decretos legislativos: ¿Cuáles serán los alcances?",
-      "leadUrl": "https://elcomercio.pe/politica/ministros-debatiran-los-primeros-tres-decretos-legislativos-cuales-seran-los-alcances-noticia/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
       "signalCount": 1,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio."
+      "summary": "Foco en Elecciones. Vigilar El Pais."
     }
   ],
   "signals": [
@@ -161,59 +135,59 @@
       "publishedAt": "Wed, 04 Nov 2026 22:00:55 +0000",
       "politicalScore": 20,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-senado",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "3c997e1e92b5145b",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Ministros debatirán los primeros tres decretos legislativos: ¿Cuáles serán los alcances?",
-      "summary": "En la próxima sesión del Consejo de Ministros, que se dará entre el jueves y el viernes, se someterá a debate tres decretos legislativos sobre la reforma del sistema penitenciario, en amparo de las facultades que otorgó el Congreso bicameral al gobierno de Kei",
-      "url": "https://elcomercio.pe/politica/ministros-debatiran-los-primeros-tres-decretos-legislativos-cuales-seran-los-alcances-noticia/",
-      "publishedAt": "Thu, 05 Nov 2026 05:01:00 +0000",
-      "politicalScore": 16,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-ministros-debatiran",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ce5446cbc2355fa9",
+      "id": "46f27fc2421b0891",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Patricia Bullrich cruzó a Cristina Kirchner en redes tras las elecciones en Estados Unidos: “Freedom is beautiful”",
-      "summary": "La senadora libertaria respondió a una publicación irónica de la expresidenta sobre la derrota de los republicanos y aludió a su situación judicial",
-      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cruzo-a-cristina-kirchner-en-redes-tras-las-elecciones-en-estados-unidos-freedom-nid04112026/",
-      "publishedAt": "Wed, 04 Nov 2026 19:25:17 +0000",
-      "politicalScore": 16,
-      "eventKey": "argentina-elecciones-argentina-elecciones-patricia-bullrich",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "title": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+      "summary": "El año que viene los argentinos elegirán a su próximo presidente, y es importante para los que van a votar conocer previamente el lugar en el que ejercerán el sufragio para agilizar el trámite electoral",
+      "url": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
+      "publishedAt": "Thu, 05 Nov 2026 10:48:17 +0000",
+      "politicalScore": 18,
+      "eventKey": "argentina-elecciones-argentina-elecciones-donde-voto",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "a11026ead1e43024",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
+      "id": "d6885902ba4878ca",
+      "country": "Uruguay",
+      "source": "La Diaria",
       "sourceType": "Analisis",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Andrea Padilla aprobó Ley de Sometimiento y logró cambio en restauración ambiental",
-      "summary": "La senadora animalista votó a favor de todos los artículos propuestos en la Ley de Sometimiento, que fue aprobada ayer en el Congreso. The post Andrea Padilla aprobó Ley de Sometimiento y logró cambio en restauración ambiental appeared first on La Silla Vacía ",
-      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/andrea-padilla-aprobo-ley-de-sometimiento-y-logro-cambio-en-restauracion-ambiental/",
-      "publishedAt": "Wed, 04 Nov 2026 23:30:26 +0000",
+      "title": "La Cámara de Diputados declaró como “no satisfactorias” las explicaciones de Castillo en la interpelación",
+      "summary": "Con los votos de toda la oposición, incluidos Cabildo Abierto e Identidad Soberana, se señaló que el ministro de Trabajo no informó el costo económico ni las consecuencias del conflicto en el puerto. En la Cámara de Representantes, la coalición interpeló este ",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/la-camara-de-diputados-declaro-como-no-satisfactorias-las-explicaciones-de-castillo-en-la-interpelacion/",
+      "publishedAt": "Wed, 04 Nov 2026 22:58:52 -0300",
+      "politicalScore": 16,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-camara-diputados",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "26a663907f2f2451",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Proyecto de reducción de multas: para el Frente Amplio, “es importante respetar el acuerdo que salió de la Cámara de Diputados”",
+      "summary": "Oficialismo y oposición buscan llegar al consenso con un texto que se trataría en comisión la próxima semana. El proyecto para rebajar el valor de la mayoría de las multas por exceso de velocidad, que fue aprobado en la cámara baja en mayo, demoró su tratamien",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/proyecto-de-reduccion-de-multas-para-el-frente-amplio-es-importante-respetar-el-acuerdo-que-salio-de-la-camara-de-diputados/",
+      "publishedAt": "Wed, 04 Nov 2026 20:39:51 -0300",
       "politicalScore": 14,
-      "eventKey": "colombia-elecciones-colombia-elecciones-andrea-padilla",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-proyecto-reduccion",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -229,42 +203,42 @@
       "publishedAt": "Wed, 04 Nov 2026 21:26:43 +0000",
       "politicalScore": 14,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-giro-democrata",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "ea76bb1b3c54d892",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Trump y republicanos pierden las elecciones de medio término: ¿Qué pasará con Venezuela?",
-      "summary": "Kenneth Ramírez señala que interinato y oposición pueden percibir menor margen de maniobra de Trump. Jesús Mazzei Alfonzo recuerda que política hacia Venezuela es bipartidista",
-      "url": "https://efectococuyo.com/politica/trump-y-republicanos-pierden-las-elecciones-de-medio-termino-que-pasara-con-venezuela/",
-      "publishedAt": "Thu, 05 Nov 2026 00:41:34 +0000",
-      "politicalScore": 13,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-trump-republicanos",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ea713584ce8ed0f6",
+      "id": "0813e91233d1cb92",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Llaryora llevó a Diputados los reclamos del interior por los subsidios y profundiza su disputa con Milei",
-      "summary": "Los intendentes cordobeses encabezaron una protesta por las desigualdades en el reparto de recursos entre el AMBA y las provincias; otros jefes comunales denunciaron recortes en medicamentos y deudas del PAMI",
-      "url": "https://www.lanacion.com.ar/politica/llaryora-llevo-a-diputados-los-reclamos-del-interior-por-los-subsidios-y-profundiza-su-disputa-con-nid04112026/",
-      "publishedAt": "Wed, 04 Nov 2026 20:13:09 +0000",
+      "title": "Por los desmarques de Bullrich, en el Gobierno ya evalúan otros nombres para acompañar a Milei en la boleta presidencial",
+      "summary": "Los mensajes para diferenciarse del Presidente generan cada vez más resistencia en la Casa Rosada; se revisa la estrategia electoral para 2027",
+      "url": "https://www.lanacion.com.ar/politica/por-los-desmarques-de-bullrich-en-el-gobierno-ya-evaluan-otros-nombres-para-acompanar-a-milei-en-la-nid05112026/",
+      "publishedAt": "Thu, 05 Nov 2026 13:38:54 +0000",
       "politicalScore": 13,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-llaryora",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-desmarques",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4b9afba0001db326",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Venezuela: ¿para qué votar en 2027?",
+      "summary": "Venezuela podría cambiar de presidente en 2027 sin cambiar realmente quién controla las condiciones para gobernar. Mientras no hay elecciones, se negocia el petróleo, se renuevan los tribunales y se reorganiza el poder. The post Venezuela: ¿para qué votar en 2",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-venezuela/venezuela-para-que-votar-en-2027/",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "politicalScore": 13,
+      "eventKey": "colombia-elecciones-colombia-elecciones-venezuela-votar",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -280,25 +254,8 @@
       "publishedAt": "Wed, 04 Nov 2026 19:27:50 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trump-admite",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "734eb297e67c8c8b",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La Casa Blanca recuerda que Trump &#8220;es todavía presidente&#8221; tras su derrota electoral",
-      "summary": "En un mensaje de X, Washington enfatizó que solo perdieron las elecciones legislativas y estatales",
-      "url": "https://efectococuyo.com/internacionales/la-casa-blanca-recuerda-que-trump-es-todavia-presidente-tras-su-derrota-electoral/",
-      "publishedAt": "Wed, 04 Nov 2026 18:18:10 +0000",
-      "politicalScore": 13,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-casa-blanca",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -314,8 +271,8 @@
       "publishedAt": "Wed, 04 Nov 2026 05:37:56 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-historica-democrata",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -328,11 +285,11 @@
       "title": "Se complica la chequera de Estados Unidos",
       "summary": "Entre las implicancias de la derrota de Trump en las elecciones de medio término, se encuentran las trabas que podría afrontar Bessent para volver a auxiliar a Milei; Caputo advierte que un PJ envalentonado puede provocar una presión muy inconveniente sobre el",
       "url": "https://www.lanacion.com.ar/politica/se-complica-la-chequera-de-estados-unidos-nid04112026/",
-      "publishedAt": "Thu, 05 Nov 2026 00:31:01 +0000",
+      "publishedAt": "Thu, 05 Nov 2026 06:40:02 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-elecciones-argentina-elecciones-complica-chequera",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -348,8 +305,8 @@
       "publishedAt": "Wed, 04 Nov 2026 21:52:17 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-instituciones-argentina-instituciones-camara-diputados",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -365,8 +322,8 @@
       "publishedAt": "Wed, 04 Nov 2026 15:00:00 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-trump-anuncia",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -382,8 +339,8 @@
       "publishedAt": "Wed, 04 Nov 2026 14:30:00 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-preguntas-debe",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -399,42 +356,8 @@
       "publishedAt": "Thu, 05 Nov 2026 03:19:44 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6145e805067dd067",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Interpelación: Castillo destacó que acuerdo en el puerto de Montevideo “estableció un horizonte de estabilidad y previsibilidad”",
-      "summary": "El ministro dijo que el movimiento de contenedores se mantuvo “prácticamente estable”; la oposición hizo hincapié en las pérdidas económicas señaladas por los exportadores, en los cierres de empresas y en el “comunismo” En la Cámara de Representantes, la coali",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/interpelacion-castillo-destaco-que-acuerdo-en-el-puerto-de-montevideo-establecio-un-horizonte-de-estabilidad-y-previsibilidad/",
-      "publishedAt": "Wed, 04 Nov 2026 22:58:52 -0300",
-      "politicalScore": 10,
-      "eventKey": "uruguay-economia-politica-uruguay-economia-politica-interpelacion",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f6f59891f778fe34",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Primero Justicia pide auditar ya el Registro Electoral sin esperar por nuevo CNE",
-      "summary": "Pedirán a la UE, OEA y la ONU mediar para depurar el registro de electores",
-      "url": "https://efectococuyo.com/politica/primero-justicia-pide-auditar-ya-el-registro-electoral-sin-esperar-por-nuevo-cne/",
-      "publishedAt": "Wed, 04 Nov 2026 22:50:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "venezuela-instituciones-venezuela-instituciones-primero-justicia",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -450,8 +373,8 @@
       "publishedAt": "Wed, 04 Nov 2026 09:34:22 +0000",
       "politicalScore": 10,
       "eventKey": "cuba-elecciones-cuba-elecciones-rosa-maria",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -467,8 +390,8 @@
       "publishedAt": "Mon, 02 Nov 2026 23:36:54 +0000",
       "politicalScore": 10,
       "eventKey": "chile-economia-politica-chile-economia-politica-crece",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -484,8 +407,25 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1910793cbfcacb0a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "En medio de la interna del PJ, Kicillof y Máximo Kirchner dialogaron y dieron signos de acercamiento",
+      "summary": "El gobernador y el diputado acordaron los términos de una reunión del PJ provincial; como consecuencia, el líder de La Cámpora presidirá el congreso partidario el 21 de noviembre; documento contra Milei y con reclamos por Cristina",
+      "url": "https://www.lanacion.com.ar/politica/en-medio-de-la-interna-del-pj-kicillof-y-maximo-kirchner-dialogaron-y-dieron-signos-de-acercamiento-nid04112026/",
+      "publishedAt": "Thu, 05 Nov 2026 11:53:09 +0000",
+      "politicalScore": 9,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-medio",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -501,8 +441,8 @@
       "publishedAt": "Thu, 05 Nov 2026 04:06:32 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-instituciones-argentina-instituciones-marcha-velas",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -518,76 +458,59 @@
       "publishedAt": "Wed, 04 Nov 2026 22:13:59 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-vicepresidente-antel",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "03a738f6a9ab19c0",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
+      "id": "5ef7da6fb1dcd61d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Reforma de ley contra el odio no ofrece respuesta a víctimas, advierten ONG",
-      "summary": "Las organizaciones subrayan que la reforma tampoco contempla la liberación de presos políticos ni el cierre de sus causas judiciales",
-      "url": "https://efectococuyo.com/politica/reforma-ley-contra-odio-no-ofrece-respuesta-victimas/",
-      "publishedAt": "Thu, 05 Nov 2026 00:13:11 +0000",
-      "politicalScore": 9,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-reforma-odio",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1910793cbfcacb0a",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "En medio de la interna del PJ, Kicillof y Máximo Kirchner dialogaron y dieron signos de acercamiento",
-      "summary": "El gobernador y el diputado acordaron los términos de una reunión del PJ provincial; como consecuencia, el líder de La Cámpora presidirá el congreso partidario el 21 de noviembre",
-      "url": "https://www.lanacion.com.ar/politica/en-medio-de-la-interna-del-pj-kicillof-y-maximo-kirchner-dialogaron-y-dieron-signos-de-acercamiento-nid04112026/",
-      "publishedAt": "Wed, 04 Nov 2026 23:06:46 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-medio",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cae1d333fa88bb3a",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Parlamento venezolano aprueba en un primer debate la reforma a la criticada ley del odio",
-      "summary": "El Parlamento de Venezuela, con mayoría chavista, aprobó el martes 3 de noviembre de 2026 en primera discusión la reforma de la ley contra el odio para despenalizar y establecer sanciones administrativas o multas a quienes incurran en estas faltas, tras una pe",
-      "url": "https://confidencial.digital/mundo/parlamento-venezolano-aprueba-en-un-primer-debate-la-reforma-a-la-criticada-ley-del-odio/",
-      "publishedAt": "Tue, 03 Nov 2026 22:35:49 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-parlamento-venezolano",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "51498036d51cf762",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "La fiscalía pidió procesar al financista Ariel Vallejo por asociación ilícita y lavado de dinero: sus vínculos con el juego clandestino",
-      "summary": "Blanqueaba plata de un casino clandestino mediante indigentes, dijo Cecilia Incardona; extendió la acusación a otras 14 personas",
-      "url": "https://www.lanacion.com.ar/politica/la-fiscalia-pidio-procesar-al-financista-ariel-vallejo-por-asociacion-ilicita-y-lavado-de-dinero-sus-nid04112026/",
-      "publishedAt": "Wed, 04 Nov 2026 20:13:16 +0000",
+      "title": "“No es una prueba”: defensa de Petro sobre video de Deicy Jiménez",
+      "summary": "El expresidente, a su turno, sostiene que en la grabación “no hay corrupción” y sugirió que detrás hay una cortina de humo. The post “No es una prueba”: defensa de Petro sobre video de Deicy Jiménez appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/no-es-una-prueba-defensa-de-petro-sobre-video-de-deicy-jimenez/",
+      "publishedAt": "Thu, 05 Nov 2026 13:01:20 +0000",
       "politicalScore": 8,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "colombia-instituciones-colombia-instituciones-prueba-defensa",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ef13f72d98f9cda5",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "La trinocracia de Abelardo: los influencers atacan, el presidente despide",
+      "summary": "Análisis de la relación entre redes y escucha social que moldea el gobierno De la Espriella. Hay una influyente red de influencers que tiene más poder que todos los demás. The post La trinocracia de Abelardo: los influencers atacan, el presidente despide appea",
+      "url": "https://www.lasillavacia.com/silla-nacional/la-trinocracia-de-abelardo-los-influencers-atacan-el-presidente-despide/",
+      "publishedAt": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-trinocracia-abelardo",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7aad779245ecdf6a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Milei saludó a Sánchez en la Cumbre Iberoamericana de Madrid y luego atacó al socialismo",
+      "summary": "El Presidente habló en el evento encabezado por el rey de España; ante la mirada del líder del PSOE, comparó al socialismo con el fascismo; días atrás lo había llamado “corrupto” y “dictador”",
+      "url": "https://www.lanacion.com.ar/politica/milei-saludo-a-sanchez-en-la-cumbre-iberoamericana-de-madrid-y-luego-ataco-al-socialismo-nid05112026/",
+      "publishedAt": "Thu, 05 Nov 2026 12:46:01 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-instituciones-argentina-instituciones-milei-saludo",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -603,25 +526,8 @@
       "publishedAt": "Wed, 04 Nov 2026 23:57:47 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "62956bbbc0e38077",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Qué significan los resultados de elecciones de medio término para Venezuela, según Laura Dib (Wola)",
-      "summary": "Laura Dib asegura que la política exterior permanece en manos del Poder Ejecutivo, por lo que es poco probable que se produzcan cambios sustanciales",
-      "url": "https://efectococuyo.com/internacionales/que-significan-los-resultados-de-elecciones-de-medio-termino-para-para-venezuela-segun-laura-dib-wola/",
-      "publishedAt": "Wed, 04 Nov 2026 22:28:37 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-significan-resultados",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -637,8 +543,8 @@
       "publishedAt": "Wed, 04 Nov 2026 20:35:44 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-axel",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -654,8 +560,8 @@
       "publishedAt": "Wed, 04 Nov 2026 07:10:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-america-latina",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -671,25 +577,25 @@
       "publishedAt": "Tue, 03 Nov 2026 21:26:47 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "dd1ec0b6ed32731a",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
+      "id": "b799ce7c32ae077e",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "La Fiscalía de Cataluña prioriza el derecho al anonimato de un violador impune frente a tres víctimas que piden copia de la investigación",
-      "summary": "El fiscal superior, Francisco Bañeres, dice que la condición de perjudicadas no les da derecho a esa documentación, aunque la circular del Ministerio Público sobre la materia dice lo contrario",
-      "url": "https://elpais.com/espana/2026-11-05/la-fiscalia-de-cataluna-prioriza-el-derecho-al-anonimato-de-un-violador-impune-frente-a-tres-victimas-que-piden-copia-de-la-investigacion.html",
-      "publishedAt": "Thu, 05 Nov 2026 04:30:01 GMT",
+      "title": "Por qué Cuba niega la existencia de presos políticos",
+      "summary": "Las detenciones masivas que siguieron a las protestas prodemocráticas del 11 de julio de 2021 llevaron el encarcelamiento político a miles de hogares cubanos, convirtiendo lo que podría parecer una cuestión ideológica en una realidad profundamente humana. Un e",
+      "url": "https://confidencial.digital/opinion/por-que-cuba-niega-la-existencia-de-presos-politicos/",
+      "publishedAt": "Thu, 05 Nov 2026 07:10:00 +0000",
       "politicalScore": 6,
-      "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuba-niega",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -705,8 +611,8 @@
       "publishedAt": "Thu, 05 Nov 2026 00:32:11 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-redistribuir-riqueza",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -722,8 +628,8 @@
       "publishedAt": "Wed, 04 Nov 2026 23:09:19 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-defensoria-ninez",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -739,8 +645,59 @@
       "publishedAt": "Sun, 01 Nov 2026 12:09:43 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-carta-abierta",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "66c122cc6b0f30c4",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Desayune informado con las claves de este 5 de noviembre de 2026",
+      "summary": "Abrimos con el análisis de la relación entre las redes y la escucha social que moldea el gobierno De la Espriella. The post Desayune informado con las claves de este 5 de noviembre de 2026 appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/desayune-informado-con-las-claves-de-este-5-de-noviembre-de-2026/",
+      "publishedAt": "Thu, 05 Nov 2026 12:21:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-desayune-informado",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "75a644ad8d13037a",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La misa del Papa en Luján concentrará la fuerte preocupación de la Iglesia por las deudas sociales",
+      "summary": "En Cáritas adelantaron que en la vigilia previa y en la celebración tendrán un lugar destacado las personas con discapacidad, trabajadores de la economía popular, jóvenes que transitan procesos de recuperación de adicciones y adultos mayores",
+      "url": "https://www.lanacion.com.ar/politica/la-misa-del-papa-en-lujan-concentrara-la-fuerte-preocupacion-de-la-iglesia-por-las-deudas-sociales-nid05112026/",
+      "publishedAt": "Thu, 05 Nov 2026 12:13:17 +0000",
+      "politicalScore": 5,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-misa",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6d0f1fc06ded6b3b",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Tener de aliado a un lame duck: Abelardo y los demócratas",
+      "summary": "Hoy en el pódcast Huevos Revueltos con Política revisamos cómo queda Colombia y el gobierno después de la victoria demócrata The post Tener de aliado a un lame duck: Abelardo y los demócratas appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/podcasts/huevos-revueltos-con-politica/tener-de-aliado-a-un-lame-duck-abelardo-y-los-democratas/",
+      "publishedAt": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-tener-aliado",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -756,8 +713,8 @@
       "publishedAt": "Thu, 05 Nov 2026 02:02:59 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-deicy-jimenez",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -773,8 +730,8 @@
       "publishedAt": "Thu, 05 Nov 2026 00:27:35 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-diplomacia-colombia-diplomacia-duerma-informado",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -790,25 +747,8 @@
       "publishedAt": "Thu, 05 Nov 2026 00:11:41 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-fedegan-cierra",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "61e90f254fbfa4ab",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Nombran consejo de juristas que evaluará a los candidatos al TSJ",
-      "summary": "Dinorah Figuera y Jorge Rodríguez anunciaron la conformación de esta nueva instancia evaluadora",
-      "url": "https://efectococuyo.com/politica/nombran-consejo-de-juristas-que-evaluara-a-los-candidatos-al-tsj/",
-      "publishedAt": "Wed, 04 Nov 2026 22:29:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-nombran-consejo",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -824,8 +764,8 @@
       "publishedAt": "Wed, 04 Nov 2026 17:00:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-angeles-dice",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -841,8 +781,8 @@
       "publishedAt": "Wed, 04 Nov 2026 16:07:36 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-fallos-cortes",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -858,8 +798,8 @@
       "publishedAt": "Wed, 04 Nov 2026 07:20:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-endeudamiento",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -875,8 +815,8 @@
       "publishedAt": "Wed, 04 Nov 2026 07:00:14 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-indh",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -892,8 +832,8 @@
       "publishedAt": "Wed, 04 Nov 2026 06:31:00 +0000",
       "politicalScore": 5,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-suspende-intercambio",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -909,8 +849,8 @@
       "publishedAt": "Tue, 03 Nov 2026 23:23:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-condenan-lavado",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -926,76 +866,76 @@
       "publishedAt": "Mon, 02 Nov 2026 02:54:52 +0000",
       "politicalScore": 5,
       "eventKey": "chile-elecciones-chile-elecciones-remontada-lula",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "87703be7c0ae50ed",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Dirigentes del PSOE se aferran a la “lección política” de Puente y la derrota de Trump para relanzar la campaña",
-      "summary": "Los socialistas explotarán la defensa de Feijóo a Mazón durante un año y reorientan su campaña en los servicios públicos frente a los recortes en EE UU",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/dirigentes-del-psoe-se-aferran-a-la-leccion-politica-de-puente-y-la-derrota-de-trump-para-relanzar-la-campana.html",
-      "publishedAt": "Thu, 05 Nov 2026 04:30:01 GMT",
-      "politicalScore": 4,
-      "eventKey": "espana-elecciones-espana-elecciones-dirigentes-psoe",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "bf67c800d1b6b1ec",
+      "id": "810e6a486d44e684",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "topic": "Instituciones",
       "priority": "Media",
-      "title": "Radican ley “anti-cepo” para proteger a periodistas del acoso judicial",
-      "summary": "La iniciativa define el acoso litigioso y les permite a los jueces ponerle freno mediante una sentencia anticipada. The post Radican ley “anti-cepo” para proteger a periodistas del acoso judicial appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/radican-ley-anti-cepo-para-proteger-a-periodistas-del-acoso-judicial/",
-      "publishedAt": "Wed, 04 Nov 2026 23:26:30 +0000",
+      "title": "Tribunal mantiene suspendido el piloto de aspersión aérea en Putumayo",
+      "summary": "Sostuvo que sigue habiendo dudas sobre los efectos de la aspersión en el ecosistema. La medida se extenderá por cuatro meses. The post Tribunal mantiene suspendido el piloto de aspersión aérea en Putumayo appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/tribunal-mantiene-suspendido-el-piloto-de-aspersion-aerea-en-putumayo/",
+      "publishedAt": "Thu, 05 Nov 2026 13:53:15 +0000",
       "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-radican-anti",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "colombia-instituciones-colombia-instituciones-tribunal-mantiene",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "1b176f11a255ff2b",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
+      "id": "73445d44e675bfc3",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
       "priority": "Media",
-      "title": "La fusión de Minciencias pone en juego la autonomía de la ciencia en Colombia",
-      "summary": "La fusión de Minciencias y Educación no puede priorizar el ahorro fiscal sobre la autonomía científica: debilitar la investigación compromete el desarrollo de Colombia. The post La fusión de Minciencias pone en juego la autonomía de la ciencia en Colombia appe",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-fusion-de-minciencias-pone-en-juego-la-autonomia-de-la-ciencia-en-colombia/",
-      "publishedAt": "Wed, 04 Nov 2026 23:06:35 +0000",
+      "title": "Los latinos fueron los votantes que más se alejaron de los republicanos y Trump",
+      "summary": "El gobernador DeSantis califica de \"extinción\" y \"meteorito\" la derrota electoral",
+      "url": "https://www.14ymedio.com/internacional/latinos-votantes-alejaron-republicanos-trump_1_1132850.html",
+      "publishedAt": "Thu, 05 Nov 2026 12:24:27 +0000",
       "politicalScore": 4,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-fusion",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "cuba-sociedad-cuba-sociedad-latinos-fueron",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "e0a4ec3372a69f11",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
+      "id": "aa5797d852b84f91",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
       "priority": "Media",
-      "title": "JEP imputó a nueve exFarc por crímenes contra menores reclutados",
-      "summary": "Recoge dos patrones criminales: por un lado, torturas, malos tratos y ejecuciones extrajudiciales. Por otro, violencias reproductivas. The post JEP imputó a nueve exFarc por crímenes contra menores reclutados appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/jep-imputo-a-nueve-exfarc-por-crimenes-contra-menores-reclutados/",
-      "publishedAt": "Wed, 04 Nov 2026 22:10:58 +0000",
+      "title": "La Administración Trump asegura que las deportaciones seguirán pese a la derrota electoral",
+      "summary": "Los republicanos perdieron terreno en el 99% de unos 2.200 condados contabilizados respecto a 2024, con retrocesos especialmente pronunciados en condados de mayoría hispana",
+      "url": "https://www.14ymedio.com/internacional/administracion-trump-asegura-deportaciones-seguiran_1_1132849.html",
+      "publishedAt": "Thu, 05 Nov 2026 11:59:43 +0000",
       "politicalScore": 4,
-      "eventKey": "colombia-seguridad-colombia-seguridad-imputo-nueve",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "eventKey": "cuba-sociedad-cuba-sociedad-administracion-trump",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
+      "seenCount": 1
+    },
+    {
+      "id": "19dff7fde99abd28",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "La tragedia y la farsa de los Bolsonaro en Brasil",
+      "summary": "Karl Marx escribió, en El 18 Brumario de Luis Bonaparte lo siguiente: “Hegel dice en alguna parte que todos los grandes hechos y personajes de la historia universal aparecen, por así decirlo, dos veces. Pero se olvidó de agregar: una vez como tragedia y la otr",
+      "url": "https://confidencial.digital/opinion/la-tragedia-y-la-farsa-de-los-bolsonaro-en-brasil/",
+      "publishedAt": "Thu, 05 Nov 2026 07:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tragedia-farsa",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1011,8 +951,8 @@
       "publishedAt": "Wed, 04 Nov 2026 21:23:44 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1028,59 +968,25 @@
       "publishedAt": "Wed, 04 Nov 2026 19:52:54 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-policia-politica",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
-      "id": "aed3b7d61bd7a3c4",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "El Tribunal Supremo archiva una querella y tres denuncias contra Sánchez y el Consejo de Ministros por la entrada masiva de inmigrantes en Ceuta",
-      "summary": "El Alto Tribunal considera que los escritos presentados por Vox, Manos Limpias y dos particulares carecen de elementos suficientes para precisar el alcance penal de las decisiones u omisiones que atribuyen&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/11/04/6aeb403e21efa03e7a8b45ae.html",
-      "publishedAt": "Wed, 04 Nov 2026 15:46:26 +0100",
-      "politicalScore": 4,
-      "eventKey": "espana-instituciones-espana-instituciones-tribunal-supremo",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e78b853c197ed0a3",
+      "id": "439734bacded83c1",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
-      "topic": "Instituciones",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "Diez países conforman Grupo Ministerial de la OEA sobre Nicaragua",
-      "summary": "El Grupo Ministerial de Seguimiento sobre Nicaragua de la Organización de los Estados Americanos (OEA), que buscará un diálogo “rápido y directo” con la dictadura de Daniel Ortega y Rosario, quedó conformado por Argentina, Brasil, Canadá, Chile, Colombia, Cost",
-      "url": "https://confidencial.digital/noticias/conforman-grupo-ministerial-de-la-oea-sobre-nicaragua/",
-      "publishedAt": "Tue, 03 Nov 2026 16:36:24 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-diez-paises",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5b16724d802697f5",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "El peso de la deuda amenaza el futuro democrático de Venezuela",
-      "summary": "La mejora de las difíciles condiciones de vida se mantiene entre las expectativas más urgentes de los venezolanos. Según una encuesta de AtlasIntel realizada en septiembre, el 84 por ciento de los consultados califica negativamente la situación económica actua",
-      "url": "https://confidencial.digital/mundo/el-peso-de-la-deuda-amenaza-el-futuro-democratico-de-venezuela/",
-      "publishedAt": "Tue, 03 Nov 2026 15:15:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-peso-deuda",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "title": "Estiman “desaceleración” y un crecimiento de apenas 3.6% en 2026, según informe",
+      "summary": "El Producto Interno Bruto (PIB) de Nicaragua crecerá 3.6% en 2026, por debajo del 4.9% del año pasado, según las proyecciones de la Fundación Sin Límites. Esto porque la economía nicaragüense se está desacelerando. El Índice Mensual de Actividad Económica (IMA",
+      "url": "https://confidencial.digital/noticias/estiman-desaceleracion-y-un-crecimiento-de-apenas-3-6-en-2026-segun-informe/",
+      "publishedAt": "Thu, 05 Nov 2026 06:10:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-estiman",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1096,8 +1002,8 @@
       "publishedAt": "Thu, 05 Nov 2026 00:32:12 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-infancias-trans",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1113,25 +1019,8 @@
       "publishedAt": "Wed, 04 Nov 2026 21:50:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-denuncian-contradiccion",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f3de0b7ec1b9f08f",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Vicerrector de Ucab: Nueva Ley de Universidades debe romper asimetrías entre instituciones públicas y privadas",
-      "summary": "José Francisco Juárez afirmó que Venezuela necesita una nueva legislación, pero no puede responder a una “urgencia coyuntural”",
-      "url": "https://efectococuyo.com/la-humanidad/vicerrector-de-ucab-nueva-ley-de-universidades-debe-romper-asimetrias-entre-instituciones-publicas-y-privadas/",
-      "publishedAt": "Wed, 04 Nov 2026 21:35:47 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-vicerrector-ucab",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1147,8 +1036,8 @@
       "publishedAt": "Wed, 04 Nov 2026 18:11:06 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-tribunal-ciego",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1164,8 +1053,8 @@
       "publishedAt": "Wed, 04 Nov 2026 16:13:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-todas-violas",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1181,8 +1070,8 @@
       "publishedAt": "Wed, 04 Nov 2026 15:53:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-trump-perdio",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1198,8 +1087,8 @@
       "publishedAt": "Wed, 04 Nov 2026 14:35:09 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-belice-rompe",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1215,25 +1104,8 @@
       "publishedAt": "Wed, 04 Nov 2026 08:27:14 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-importo-agosto",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "43d1e445d9f0a711",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Olas de calor están dañando salud y productividad de los nicaragüenses, según estudio",
-      "summary": "La exposición a altas temperaturas y los cambios en los patrones climáticos de Nicaragua están afectando gravemente la salud de adultos mayores, niños pequeños, mujeres embarazadas, pacientes con enfermedades crónicas y trabajadores, advierte el informe 2026 T",
-      "url": "https://confidencial.digital/noticias/olas-de-calor-estan-danando-salud-y-productividad-de-los-nicaraguenses-segun-estudio/",
-      "publishedAt": "Tue, 03 Nov 2026 20:58:34 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-olas-calor",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1249,25 +1121,8 @@
       "publishedAt": "Tue, 03 Nov 2026 18:41:04 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-derrumbe-fondos",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cef09066e71d4bac",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Una mexicana toma las riendas de la comunicación del Vaticano",
-      "summary": "La ejecutiva de medios mexicana María Montserrat Alvarado acaba de asumir como directora del poderoso departamento de comunicación del Vaticano, y es la primera mujer laica en ocupar un cargo de este rango en la Curia romana. Nacida en Ciudad de México y criad",
-      "url": "https://confidencial.digital/mundo/una-mexicana-toma-las-riendas-de-la-comunicacion-del-vaticano/",
-      "publishedAt": "Tue, 03 Nov 2026 16:00:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mexicana-toma",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1283,8 +1138,8 @@
       "publishedAt": "Tue, 03 Nov 2026 12:11:00 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-isabel-margarita",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1300,8 +1155,8 @@
       "publishedAt": "Mon, 02 Nov 2026 13:00:22 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-represion-policial",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     },
     {
@@ -1317,8 +1172,8 @@
       "publishedAt": "Sat, 31 Oct 2026 13:32:11 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-regreso-ancestros",
-      "firstSeenAt": "2026-11-05T05:56:54.125Z",
-      "lastSeenAt": "2026-11-05T05:56:54.125Z",
+      "firstSeenAt": "2026-11-05T14:29:18.519Z",
+      "lastSeenAt": "2026-11-05T14:29:18.519Z",
       "seenCount": 1
     }
   ]
