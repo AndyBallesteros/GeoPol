@@ -1,21 +1,32 @@
 {
-  "generatedAt": "2026-11-05T23:28:25.098Z",
-  "count": 59,
-  "failures": [
-    {
-      "source": "efecto-cocuyo-venezuela",
-      "error": "403 Forbidden"
-    }
-  ],
+  "generatedAt": "2026-11-06T05:53:24.398Z",
+  "count": 62,
+  "failures": [],
   "stats": {
-    "generatedAt": "2026-11-05T23:28:25.098Z",
-    "activeSignals": 59,
-    "archiveSignals": 117,
-    "countriesCovered": 8,
-    "highPrioritySignals": 25,
-    "averagePoliticalScore": 6.31
+    "generatedAt": "2026-11-06T05:53:24.398Z",
+    "activeSignals": 62,
+    "archiveSignals": 120,
+    "countriesCovered": 9,
+    "highPrioritySignals": 24,
+    "averagePoliticalScore": 6.1
   },
   "briefings": [
+    {
+      "country": "Argentina",
+      "priority": "Alta",
+      "leadTitle": "En plena interna con el Gobierno, Bullrich defendió la libertad de prensa y pidió completar la Corte",
+      "leadUrl": "https://www.lanacion.com.ar/politica/en-plena-interna-con-el-gobierno-bullrich-defendio-la-libertad-de-prensa-y-pidio-completar-la-corte-nid05112026/",
+      "focusTopics": [
+        "Instituciones",
+        "Economia politica",
+        "Seguridad"
+      ],
+      "topSources": [
+        "La Nacion"
+      ],
+      "signalCount": 13,
+      "summary": "Foco en Instituciones, Economia politica, Seguridad. Vigilar La Nacion y La Nacion."
+    },
     {
       "country": "Nicaragua",
       "priority": "Alta",
@@ -48,47 +59,32 @@
       "summary": "Foco en Economia politica, Probidad. Vigilar CIPER y CIPER."
     },
     {
-      "country": "Argentina",
-      "priority": "Alta",
-      "leadTitle": "El gobierno de Milei niega que Santiago Peña esté en la Argentina, frente a versiones originadas en Paraguay",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-de-milei-niega-que-santiago-pena-este-en-la-argentina-frente-a-versiones-originadas-en-nid05112026/",
-      "focusTopics": [
-        "Economia politica",
-        "Seguridad"
-      ],
-      "topSources": [
-        "La Nacion"
-      ],
-      "signalCount": 10,
-      "summary": "Foco en Economia politica, Seguridad. Vigilar La Nacion y La Nacion."
-    },
-    {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Fiscalía imputó al exgerente de campaña Santos por ocultar plata de Odebrecht",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/fiscalia-imputo-al-exgerente-de-campana-de-santos-por-ocultar-plata-de-odebrecht/",
+      "leadTitle": "Uribe critica tributaria por IVA, poco recorte y timidez en inversión",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/uribe-critica-tributaria-por-iva-poco-recorte-y-timidez-en-inversion/",
       "focusTopics": [
-        "Elecciones",
+        "Instituciones",
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
       "signalCount": 7,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
+      "summary": "Foco en Instituciones, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "El 63% de las viviendas promovidas en 2026 fueron monoambientes o de un dormitorio",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/11/el-63-de-las-viviendas-promovidas-en-2026-fueron-monoambientes-o-de-un-dormitorio/",
+      "leadTitle": "Encuesta de Equipos: 52% desaprueba la gestión de Orsi y 24% la aprueba",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/11/encuesta-de-equipos-52-desaprueba-la-gestion-de-orsi-y-24-la-aprueba/",
       "focusTopics": [
         "Elecciones"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 5,
+      "signalCount": 3,
       "summary": "Foco en Elecciones. Vigilar La Diaria y La Diaria."
     },
     {
@@ -98,80 +94,78 @@
       "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-10-13/se-puede-impedir-votar-a-un-espanol.html",
       "focusTopics": [
         "Elecciones",
-        "Gobernabilidad"
+        "Seguridad"
       ],
       "topSources": [
         "El Pais",
         "El Mundo"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Gobernabilidad. Vigilar El Pais y El Mundo."
+      "signalCount": 3,
+      "summary": "Foco en Elecciones, Seguridad. Vigilar El Pais y El Mundo."
+    },
+    {
+      "country": "Venezuela",
+      "priority": "Alta",
+      "leadTitle": "AN difiere por tercera vez sanción de la Ley del Servicio Eléctrico: oposición rechaza texto distinto",
+      "leadUrl": "https://efectococuyo.com/politica/an-difiere-por-tercera-vez-sancion-de-la-ley-del-servicio-electrico-oposicion-rechaza-texto-distinto/",
+      "focusTopics": [
+        "Diplomacia",
+        "Seguridad",
+        "Economia politica"
+      ],
+      "topSources": [
+        "Efecto Cocuyo"
+      ],
+      "signalCount": 3,
+      "summary": "Foco en Diplomacia, Seguridad, Economia politica. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Luis Galarreta se reunió con el fiscal de la Nación este jueves en sesión de la comisión para la seguridad",
-      "leadUrl": "https://elcomercio.pe/politica/gobierno/luis-galarreta-se-reune-con-el-fiscal-de-la-nacion-este-jueves-en-sesion-de-la-comision-para-la-seguridad-ultimas-noticia/",
+      "leadTitle": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+      "leadUrl": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
       "focusTopics": [
-        "Seguridad",
         "Gobernabilidad"
       ],
       "topSources": [
         "El Comercio"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "signalCount": 2,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Cuba",
       "priority": "Media",
-      "leadTitle": "El entorno de Marco Rubio desmiente que renuncie para preparar su candidatura presidencial en 2028",
-      "leadUrl": "https://www.14ymedio.com/internacional/entorno-marco-rubio-desmiente-renuncie_1_1132866.html",
+      "leadTitle": "Por cambiar 300 dólares para un asilo, cuatro masones cubanos reciben condenas de dos a cuatro años",
+      "leadUrl": "https://www.14ymedio.com/cuba/cambiar-300-dolares-asilo-cuatro_1_1132877.html",
       "focusTopics": [
+        "Diplomacia",
         "Sociedad",
-        "Seguridad",
-        "Instituciones"
+        "Seguridad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 4,
-      "summary": "Foco en Sociedad, Seguridad, Instituciones. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 5,
+      "summary": "Foco en Diplomacia, Sociedad, Seguridad. Vigilar 14ymedio y 14ymedio."
     }
   ],
   "signals": [
     {
-      "id": "980375980023f673",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "El 63% de las viviendas promovidas en 2026 fueron monoambientes o de un dormitorio",
-      "summary": "La Agencia Nacional de Vivienda evitó explicitar su postura en el Parlamento respecto al proyecto sobre monoambientes impulsado por el FA. La Comisión de Vivienda y Ordenamiento Territorial de la Cámara de Senadores, que estudia el proyecto de ley sobre monoam",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/el-63-de-las-viviendas-promovidas-en-2026-fueron-monoambientes-o-de-un-dormitorio/",
-      "publishedAt": "Thu, 05 Nov 2026 16:44:20 -0300",
-      "politicalScore": 15,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-viviendas-promovidas",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "81d43b62f0d6c8cb",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "f6320c5f3c3d4d78",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Seguridad",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Luis Galarreta se reunió con el fiscal de la Nación este jueves en sesión de la comisión para la seguridad",
-      "summary": "El presidente del Consejo de Ministros, Luis Galarreta, encabezó este jueves una nueva sesión de la Comisión Multisectorial de Alto Nivel para Recuperar la Seguridad y el Orden Público, que contó con la participación del fiscal de la Nación, Tomás Gálvez.",
-      "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-se-reune-con-el-fiscal-de-la-nacion-este-jueves-en-sesion-de-la-comision-para-la-seguridad-ultimas-noticia/",
-      "publishedAt": "Thu, 05 Nov 2026 23:20:42 +0000",
-      "politicalScore": 13,
-      "eventKey": "peru-seguridad-peru-seguridad-luis-galarreta",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "title": "En plena interna con el Gobierno, Bullrich defendió la libertad de prensa y pidió completar la Corte",
+      "summary": "La jefa de los senadores de LLA brindó un discurso ante el Colegio de Abogados en el que volvió a diferenciarse de la Casa Rosada; rechazó haber “cruzado un límite”",
+      "url": "https://www.lanacion.com.ar/politica/en-plena-interna-con-el-gobierno-bullrich-defendio-la-libertad-de-prensa-y-pidio-completar-la-corte-nid05112026/",
+      "publishedAt": "Fri, 06 Nov 2026 00:56:39 +0000",
+      "politicalScore": 16,
+      "eventKey": "argentina-instituciones-argentina-instituciones-plena-interna",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -187,8 +181,8 @@
       "publishedAt": "Thu, 05 Nov 2026 22:27:20 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -204,8 +198,25 @@
       "publishedAt": "Thu, 05 Nov 2026 15:00:00 +0000",
       "politicalScore": 13,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-victoria-democrata",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ab5147bf62b34ffc",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Encuesta de Equipos: 52% desaprueba la gestión de Orsi y 24% la aprueba",
+      "summary": "El saldo negativo de 28 puntos porcentuales es el más alto registrado por la consultora en lo que va del gobierno. La consultora Equipos divulgó en la noche de este jueves su última encuesta sobre el desempeño del gobierno encabezado por el presidente de la Re",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/encuesta-de-equipos-52-desaprueba-la-gestion-de-orsi-y-24-la-aprueba/",
+      "publishedAt": "Thu, 05 Nov 2026 21:49:52 -0300",
+      "politicalScore": 12,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-encuesta-equipos",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -221,8 +232,8 @@
       "publishedAt": "Thu, 05 Nov 2026 20:50:23 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-seguridad-argentina-seguridad-corte-rechazo",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -238,25 +249,25 @@
       "publishedAt": "Thu, 05 Nov 2026 21:12:40 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-peor",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
-      "id": "c270a09e54f6e1f2",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "id": "3bc0e348041859b9",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "El proyecto de causal jubilatoria a los 60 años es “un riesgoso saludo a la bandera”, afirmó Saldain",
-      "summary": "El diputado cabildante Perrone, que puede tener la llave para aprobar la iniciativa, dijo que analizará cuál es la tasa de reemplazo que se propone. Este jueves, las bancadas de la Coalición Republicana se reunieron para analizar el proyecto de ley presentado ",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/el-proyecto-de-causal-jubilatoria-a-los-60-anos-es-un-riesgoso-saludo-a-la-bandera-afirmo-saldain/",
-      "publishedAt": "Thu, 05 Nov 2026 20:17:58 -0300",
+      "title": "El Gobierno agrega una actividad a la agenda de León XIV: Jorge Macri le entregará las llaves de la Ciudad",
+      "summary": "Será un encuentro este domingo, luego de la bilateral con Milei y antes del encuentro en el Palacio Libertad; el papel de Karina Milei y el gesto en clave electoral; resta la oficialización de la Santa Sede",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-agrega-una-actividad-a-la-agenda-de-leon-xiv-jorge-macri-le-entregara-las-llaves-de-la-nid05112026/",
+      "publishedAt": "Fri, 06 Nov 2026 01:46:56 +0000",
       "politicalScore": 10,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-proyecto-causal",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -272,8 +283,8 @@
       "publishedAt": "Thu, 05 Nov 2026 22:52:37 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-seguridad-argentina-seguridad-corte-suprema",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -289,25 +300,8 @@
       "publishedAt": "Thu, 05 Nov 2026 22:18:35 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-instituciones-argentina-instituciones-corte-propino",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "c139109b6a4926dc",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Otro aliados en crisis: el Gobierno, de los elogios al modelo paraguayo a la incomodidad tras la renuncia de Santiago Peña",
-      "summary": "El Presidente estaba en el último tramo de su gira por España cuando su par paraguayo anunció su salida por el colapso de un banco del que fue accionista",
-      "url": "https://www.lanacion.com.ar/politica/crisis-en-paraguay-milei-se-mantiene-en-silencio-tras-la-renuncia-de-su-aliado-santiago-pena-nid05112026/",
-      "publishedAt": "Thu, 05 Nov 2026 20:05:46 +0000",
-      "politicalScore": 10,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-otro",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -323,8 +317,8 @@
       "publishedAt": "Mon, 02 Nov 2026 23:36:54 +0000",
       "politicalScore": 10,
       "eventKey": "chile-economia-politica-chile-economia-politica-crece",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -340,8 +334,25 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0379266415739636",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "AN difiere por tercera vez sanción de la Ley del Servicio Eléctrico: oposición rechaza texto distinto",
+      "summary": "Diputada Nora Bracho (UNT) advirtió que el proyecto de ley llevado a la Cámara no es el mismo que se presentó en la Comisión de Administración y Servicios",
+      "url": "https://efectococuyo.com/politica/an-difiere-por-tercera-vez-sancion-de-la-ley-del-servicio-electrico-oposicion-rechaza-texto-distinto/",
+      "publishedAt": "Thu, 05 Nov 2026 23:21:44 +0000",
+      "politicalScore": 9,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-difiere-tercera",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -357,8 +368,8 @@
       "publishedAt": "Thu, 05 Nov 2026 19:53:33 +0100",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-feijoo-defiende",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -374,8 +385,8 @@
       "publishedAt": "Thu, 05 Nov 2026 17:06:02 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-santiago-pena",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -391,42 +402,76 @@
       "publishedAt": "Thu, 05 Nov 2026 23:04:38 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-instituciones-argentina-instituciones-corte-aplico",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
-      "id": "bc90713ebb31d565",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "id": "5d9494c83c4844ab",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
       "priority": "Alta",
-      "title": "“Se va como un héroe”: la despedida de Gonzalo Moratorio en el Palacio Legislativo",
-      "summary": "Mahía anunció que se decretó duelo nacional para este 5 y 6 de noviembre; Radi destacó el “afán de servir a la sociedad a través de la ciencia” que caracterizó al investigador y la “huella indeleble” que deja en Uruguay. Este jueves por la tarde, allegados a l",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/se-va-como-un-heroe-la-despedida-de-gonzalo-moratorio-en-el-palacio-legislativo/",
-      "publishedAt": "Thu, 05 Nov 2026 17:15:52 -0300",
-      "politicalScore": 8,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-heroe-despedida",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+      "summary": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+      "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+      "publishedAt": "Fri, 06 Nov 2026 05:01:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-keiko-fujimori",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
-      "id": "7d6bc8ff7ad6fb2e",
+      "id": "9452f450c87e5315",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Renuncia ministro del Interior de Paraguay en medio de crisis bancaria",
+      "summary": "El ministro del Interior de Paraguay, Enrique Riera, renunció el jueves a su cargo, según un decreto publicado por la prensa local, en medio de una crisis bancaria que desató un juicio de destitución contra el presidente Santiago Peña.",
+      "url": "https://elcomercio.pe/mundo/latinoamerica/paraguay-santiago-pena-renuncia-ministro-del-interior-enrique-riera-en-medio-de-crisis-bancaria-ueno-bank-carlos-benitez-ultimas-noticia/",
+      "publishedAt": "Fri, 06 Nov 2026 04:29:48 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-renuncia-ministro",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "97552a6d841600e5",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "El frío saludo entre Milei y Pedro Sánchez durante la Cumbre Iberoamericana de Madrid",
+      "summary": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-le-envio-un-mensaje-al-papa-leon-xiv-antes-de-su-nid05112026/",
+      "publishedAt": "Fri, 06 Nov 2026 02:12:06 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-frio",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ab9e5bf6fc659aef",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "topic": "Instituciones",
       "priority": "Alta",
-      "title": "Fiscalía imputó al exgerente de campaña Santos por ocultar plata de Odebrecht",
-      "summary": "Roberto Prieto habría ocultado un millón de dólares en las cuentas de campaña de Juan Manuel Santos. Es imputado por fraude procesal y enriquecimiento ilícito. The post Fiscalía imputó al exgerente de campaña Santos por ocultar plata de Odebrecht appeared firs",
-      "url": "https://www.lasillavacia.com/en-vivo/fiscalia-imputo-al-exgerente-de-campana-de-santos-por-ocultar-plata-de-odebrecht/",
-      "publishedAt": "Thu, 05 Nov 2026 19:44:51 +0000",
-      "politicalScore": 8,
-      "eventKey": "colombia-elecciones-colombia-elecciones-fiscalia-imputo",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "title": "Uribe critica tributaria por IVA, poco recorte y timidez en inversión",
+      "summary": "El Centro Democrático llevará esas inquietudes a la reunión con el presidente De la Espriella el sábado en Barranquilla. The post Uribe critica tributaria por IVA, poco recorte y timidez en inversión appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/uribe-critica-tributaria-por-iva-poco-recorte-y-timidez-en-inversion/",
+      "publishedAt": "Thu, 05 Nov 2026 23:35:25 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-instituciones-colombia-instituciones-uribe-critica",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -442,25 +487,8 @@
       "publishedAt": "Thu, 05 Nov 2026 22:23:58 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-aprueban-proyecto",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6b55b41f3eb47e89",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Seguridad",
-      "priority": "Alta",
-      "title": "Violencia, muerte, cárcel e inseguridad en Uruguay: una mirada sobre cómo la sociedad trata a sus jóvenes",
-      "summary": "Uruguay discute mucho sobre los jóvenes que pueden ser peligrosos y bastante menos sobre los jóvenes que están en peligro. Esa diferencia de mirada aparece cuando se colocan juntas estadísticas que normalmente viven separadas: suicidio, siniestros de tránsito,",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/violencia-muerte-carcel-e-inseguridad-en-uruguay-una-mirada-sobre-como-la-sociedad-trata-a-sus-jovenes/",
-      "publishedAt": "Thu, 05 Nov 2026 16:32:35 -0300",
-      "politicalScore": 7,
-      "eventKey": "uruguay-seguridad-uruguay-seguridad-violencia-muerte",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -476,8 +504,8 @@
       "publishedAt": "Thu, 05 Nov 2026 15:41:15 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-cuatro",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -493,42 +521,8 @@
       "publishedAt": "Tue, 03 Nov 2026 21:26:47 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2ff0a869c6852e82",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Santiago Peña, aún en el poder en Paraguay, promete acudir al juicio político en su contra",
-      "summary": "El presidente de Paraguay, Santiago Peña, anunció este jueves, poco después de que fracasara por falta de quórum una sesión en el Congreso para tratar su renuncia, que se presentará y ejercerá su “derecho a la defensa” en el juicio político que deberá enfrenta",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/santiago-pena-aun-en-el-poder-en-paraguay-promete-acudir-al-juicio-politico-en-su-contra-ueno-bank-congreso-nacional-senado-ultimas-noticia/",
-      "publishedAt": "Thu, 05 Nov 2026 23:18:25 +0000",
-      "politicalScore": 6,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-santiago-pena",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b2a9500fb29259b7",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Paraguay: Congreso levanta sesión por falta de quorum sin pronunciarse sobre renuncia de Santiago Peña",
-      "summary": "La sesión conjunta del Congreso de Paraguay en la que debía resolverse si se aceptaba la renuncia del presidente Santiago Peña se levantó este jueves por falta de quorum, por lo que el mandatario permanece formalmente en el cargo y queda pendiente su salida de",
-      "url": "https://elcomercio.pe/mundo/latinoamerica/santiago-pena-paraguay-congreso-levanta-sesion-por-falta-de-quorum-sin-pronunciarse-sobre-renuncia-del-presidente-ueno-bank-ultimas-noticia/",
-      "publishedAt": "Thu, 05 Nov 2026 22:51:42 +0000",
-      "politicalScore": 6,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-paraguay-congreso",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -544,25 +538,42 @@
       "publishedAt": "Thu, 05 Nov 2026 21:28:15 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-sanciona-empresas",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
-      "id": "7a1401ec328a5b94",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "id": "959f3fcd3ee4a62b",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Paraguay: renuncia presidente en medio de crisis bancaria",
-      "summary": "Santiago Peña dejó el cargo luego del cierre de Ueno Bank el principal banco del país que gestionaba, además, parte del fondo pensional público. The post Paraguay: renuncia presidente en medio de crisis bancaria appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/paraguay-renuncia-presidente-en-medio-de-crisis-bancaria/",
-      "publishedAt": "Thu, 05 Nov 2026 18:13:10 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-paraguay-renuncia",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "title": "EEUU impone nuevas sanciones contra redes financieras y militares del régimen cubano",
+      "summary": "Marco Rubio afirmó que “Estados Unidos no tolerará redes comunistas subversivas en nuestro hemisferio”",
+      "url": "https://efectococuyo.com/internacionales/eeuu-impone-nuevas-sanciones-contra-redes-financieras-y-militares-del-regimen-cubano/",
+      "publishedAt": "Thu, 05 Nov 2026 22:00:30 +0000",
+      "politicalScore": 4,
+      "eventKey": "venezuela-seguridad-venezuela-seguridad-eeuu-impone",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7fcec704e3545848",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Pobreza y desigualdad, la paz y abusos sexuales: los temas que les gustaría a los uruguayos que priorizara León XIV en su visita",
+      "summary": "Tras casi 40 años, este viernes llega otro papa a Uruguay; la Usina evaluó en una encuesta la identificación religiosa de los uruguayos. Este viernes a las 16.30 llegará el papa León XIV al Aeropuerto Internacional de Carrasco y comenzará una visita que marca ",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/pobreza-y-desigualdad-la-paz-y-abusos-sexuales-los-temas-que-les-gustaria-a-los-uruguayos-que-priorizara-leon-xiv-en-su-visita/",
+      "publishedAt": "Fri, 06 Nov 2026 00:58:44 -0300",
+      "politicalScore": 6,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-pobreza-desigualdad",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -578,8 +589,8 @@
       "publishedAt": "Thu, 05 Nov 2026 23:10:29 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-gobierno-impugno",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -595,8 +606,8 @@
       "publishedAt": "Thu, 05 Nov 2026 15:44:47 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-estos-informes",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -612,8 +623,8 @@
       "publishedAt": "Thu, 05 Nov 2026 14:34:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-nueva-caravana",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -629,8 +640,8 @@
       "publishedAt": "Thu, 05 Nov 2026 07:10:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuba-niega",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -646,8 +657,25 @@
       "publishedAt": "Wed, 04 Nov 2026 23:09:19 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-defensoria-ninez",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "20ba404c350b6b84",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Los trenes que soñó Petro dominan la lista de grandes proyectos de Abelardo",
+      "summary": "El 80% de los $109 billones de pesos que saldrá a buscar el gobierno De la Espriella en la Milagro Week son trenes, de momento. Incluye la línea férrea interoceánica. The post Los trenes que soñó Petro dominan la lista de grandes proyectos de Abelardo appeared",
+      "url": "https://www.lasillavacia.com/silla-nacional/los-trenes-que-sono-petro-dominan-la-lista-de-grandes-proyectos-de-abelardo/",
+      "publishedAt": "Thu, 05 Nov 2026 23:41:45 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-trenes-sono",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -663,8 +691,8 @@
       "publishedAt": "Thu, 05 Nov 2026 22:01:21 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-instituciones-colombia-instituciones-demostrare-inocencia",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -674,48 +702,14 @@
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Tres personas entraron a la casa del director del Dapre, según Presidencia",
-      "summary": "Tienen antecedentes por homicidio y hurto agravado. El gobierno destaca ese dato en medio de sus denuncias por la presunta “instrumentalización de mujeres” de Petro. The post Tres personas entraron a la casa del director del Dapre, según Presidencia appeared f",
+      "title": "Tres personas entraron a la casa del director del Dapre, denuncia Presidencia",
+      "summary": "Tienen antecedentes por homicidio y hurto agravado. El gobierno destaca ese dato en medio de sus denuncias por la presunta “instrumentalización de mujeres” de Petro. The post Tres personas entraron a la casa del director del Dapre, denuncia Presidencia appeare",
       "url": "https://www.lasillavacia.com/en-vivo/tres-personas-entraron-a-la-casa-del-director-del-dapre-segun-presidencia/",
       "publishedAt": "Thu, 05 Nov 2026 21:16:54 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-tres-personas",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "73c54e70258bf9a1",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "El precio de la reforma tributaria lo pagan las mujeres más pobres",
-      "summary": "El mecanismo EfectIVA de la reforma tributaria exige que personas en pobreza financien al Estado mientras esperan devoluciones que tardan semanas en llegar. The post El precio de la reforma tributaria lo pagan las mujeres más pobres appeared first on La Silla ",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-las-mujeres/el-precio-de-la-reforma-tributaria-lo-pagan-las-mujeres-mas-pobres/",
-      "publishedAt": "Thu, 05 Nov 2026 19:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-precio-reforma",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7df45b582f6468bf",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Hombre ingenuo que buscó afecto: Rusinque defiende a Petro tras video",
-      "summary": "Aliados y defensores del expresidente usan “#LaDerechaNoCulea” para justificarlo. Feministas piden al Pacto no guardar silencio. The post Hombre ingenuo que buscó afecto: Rusinque defiende a Petro tras video appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/hombre-ingenuo-que-busco-afecto-rusinque-defiende-a-petro-tras-video/",
-      "publishedAt": "Thu, 05 Nov 2026 18:15:53 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-hombre-ingenuo",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -731,25 +725,8 @@
       "publishedAt": "Thu, 05 Nov 2026 17:37:52 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-rabat-rechazo",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "93f60dc4d4c69acd",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
-      "summary": "La JEP no autoriza suprimir al ministro dimitido pese a su renuncia a las listas y ratifica que no hace falta imprimir una nueva candidatura",
-      "url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:03:40 GMT",
-      "politicalScore": 5,
-      "eventKey": "espana-gobernabilidad-espana-gobernabilidad-junta-electoral",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -765,8 +742,8 @@
       "publishedAt": "Wed, 04 Nov 2026 16:07:36 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-fallos-cortes",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -782,8 +759,8 @@
       "publishedAt": "Wed, 04 Nov 2026 07:00:14 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-indh",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -799,8 +776,93 @@
       "publishedAt": "Tue, 03 Nov 2026 23:23:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-condenan-lavado",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4126ebde097471d4",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "León vs. león: una coincidencia y muchas diferencias: así piensan Milei y el Papa",
+      "summary": "Ultima actualizacion de La Nacion.",
+      "url": "https://www.lanacion.com.ar/politica/leon-vs-leon-una-coincidencia-y-muchas-diferencias-asi-piensan-milei-y-el-papa-nid06112026/",
+      "publishedAt": "Fri, 06 Nov 2026 03:58:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-leon",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a94057cbbd9f5d6a",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Tras dos meses, Iván Sánchez sale de la Adres. Lo reemplaza Marcela Brun",
+      "summary": "Sánchez llevaba poco más de dos meses en el cargo cuando el Ministerio de Salud lo declaró insubsistente, sin explicar por qué. The post Tras dos meses, Iván Sánchez sale de la Adres. Lo reemplaza Marcela Brun appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/tras-dos-meses-ivan-sanchez-sale-de-la-adres-lo-reemplaza-marcela-brun/",
+      "publishedAt": "Thu, 05 Nov 2026 23:50:23 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-meses-ivan",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "69dc89f93296d548",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Con presión social, Concejo de Mocoa aprueba corredor biológico en Pbot",
+      "summary": "Se logró con el voto de 12 concejales. Esto es importante por sus implicaciones en el Proyecto Mocoa de cobre. The post Con presión social, Concejo de Mocoa aprueba corredor biológico en Pbot appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/con-presion-social-concejo-de-mocoa-aprueba-corredor-biologico-en-pbot/",
+      "publishedAt": "Thu, 05 Nov 2026 23:49:03 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-elecciones-colombia-elecciones-presion-social",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "6994f8b4adccd072",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Por cambiar 300 dólares para un asilo, cuatro masones cubanos reciben condenas de dos a cuatro años",
+      "summary": "Entre los sancionados figuran el escritor Ángel Santiesteban y José Ramón Viñas Alonso, en medio de las presiones del Gobierno para controlar el Supremo Consejo del Grado 33",
+      "url": "https://www.14ymedio.com/cuba/cambiar-300-dolares-asilo-cuatro_1_1132877.html",
+      "publishedAt": "Thu, 05 Nov 2026 23:30:04 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-diplomacia-cuba-diplomacia-cambiar-dolares",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d4cd95ee9b343a0d",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Larreta sugirió que Milei trae mala suerte y compartió una foto junto a Jorge Macri: “Solo te pido uno más”",
+      "summary": "Con ironía, el legislador porteño hizo alusión a las derrotas de Bolsonaro, Trump y Netanyahu, aliados del mandatario; también mencionó la reciente renuncia de Peña",
+      "url": "https://www.lanacion.com.ar/politica/larreta-sugirio-que-milei-trae-mala-suerte-y-compartio-una-foto-junto-a-jorge-macri-solo-te-pido-uno-nid05112026/",
+      "publishedAt": "Thu, 05 Nov 2026 23:27:35 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-larreta",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -816,25 +878,8 @@
       "publishedAt": "Thu, 05 Nov 2026 23:20:40 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-virginia",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d4cd95ee9b343a0d",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Larreta sugirió que Milei trae mala suerte y compartió una foto junto a Jorge Macri: “Solo te pido uno más”",
-      "summary": "Con ironía, el legislador porteño hizo alusión a las derrotas de Bolsonaro, Trump y Netanyahu, aliados del mandatario; también mencionó la reciente renuncia de Peña",
-      "url": "https://www.lanacion.com.ar/politica/larreta-sugirio-que-milei-trae-mala-suerte-y-compartio-una-foto-junto-a-jorge-macri-solo-te-pido-uno-nid05112026/",
-      "publishedAt": "Thu, 05 Nov 2026 22:57:25 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-larreta",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -850,8 +895,8 @@
       "publishedAt": "Thu, 05 Nov 2026 21:18:10 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-internacional-socialista",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -867,8 +912,8 @@
       "publishedAt": "Thu, 05 Nov 2026 19:02:17 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-sociedad-cuba-sociedad-entorno-marco",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -884,8 +929,8 @@
       "publishedAt": "Thu, 05 Nov 2026 16:02:23 +0100",
       "politicalScore": 4,
       "eventKey": "espana-seguridad-espana-seguridad-policia-identifica",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -901,8 +946,8 @@
       "publishedAt": "Thu, 05 Nov 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-tragedia-farsa",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -918,8 +963,25 @@
       "publishedAt": "Wed, 04 Nov 2026 19:52:54 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-policia-politica",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
+      "seenCount": 1
+    },
+    {
+      "id": "68842680e8ee5132",
+      "country": "Uruguay",
+      "source": "La Diaria",
+      "sourceType": "Analisis",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "El proyecto +Colonia: del ciudadano al suscriptor, el alquiler de la identidad",
+      "summary": "Hace 20 años la pregunta incómoda era qué quedaba del ciudadano cuando el mercado lo había convertido en consumidor. Hoy esa pregunta llega tarde. En Colonia del Sacramento, a una hora de ferri de Buenos Aires, se proyecta una ciudad que ya no piensa ni en el ",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/el-proyecto-colonia-del-ciudadano-al-suscriptor-el-alquiler-de-la-identidad/",
+      "publishedAt": "Fri, 06 Nov 2026 00:19:08 -0300",
+      "politicalScore": 3,
+      "eventKey": "uruguay-elecciones-uruguay-elecciones-proyecto-colonia",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -929,31 +991,31 @@
       "sourceType": "Investigacion",
       "topic": "Instituciones",
       "priority": "Media",
-      "title": "Denuncian la detención de la periodista Yoani Sánchez en La Habana",
-      "summary": "La periodista Yoani Sánchez, directora del periódico digital independiente 14Ymedio, fue detenida el jueves 5 de noviembre de 2026 en La Habana, denunció ese medio fundado por ella en 2014. Sánchez fue detenida por la policía política cuando salía por la mañan",
+      "title": "Detuvieron por nueve horas a la periodista Yoani Sánchez en La Habana",
+      "summary": "La periodista Yoani Sánchez, directora del periódico digital independiente 14Ymedio, fue detenida durante nueve horas, el jueves 5 de noviembre de 2026 en La Habana, denunció ese medio fundado por ella en 2014. Según su propio testimonio, le han imputado el ca",
       "url": "https://confidencial.digital/mundo/denuncian-la-detencion-de-la-periodista-yoani-sanchez-en-la-habana/",
       "publishedAt": "Thu, 05 Nov 2026 21:34:54 +0000",
       "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-denuncian-detencion",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-detuvieron-nueve",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
-      "id": "dc07ce95a8bff416",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
+      "id": "1769f514a222d51b",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "Sobre salud mental y la falta de prevención y controles",
-      "summary": "Actualmente escuchamos una y otra vez, en diferentes medios, de manera casi cotidiana, dos palabras: salud mental. Asociado a ello, algún episodio social o privado, en donde se considera que “lo mental” estuvo en juego o fue determinante. La salud mental resue",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/sobre-salud-mental-y-la-falta-de-prevencion-y-controles/",
-      "publishedAt": "Thu, 05 Nov 2026 16:25:31 -0300",
+      "title": "BCV dice que Venezuela registra una inflación del 6,2 % en octubre",
+      "summary": "Según en tente emisor, es la cifra más baja en lo que va de año",
+      "url": "https://efectococuyo.com/economia/bcv-dice-que-venezuela-registra-una-inflacion-del-62-en-octubre/",
+      "publishedAt": "Thu, 05 Nov 2026 19:06:33 +0000",
       "politicalScore": 3,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-salud-mental",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-dice",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -969,8 +1031,8 @@
       "publishedAt": "Thu, 05 Nov 2026 17:22:39 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-machado-gonzalez",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -986,8 +1048,8 @@
       "publishedAt": "Thu, 05 Nov 2026 16:24:19 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-demandan-detencion",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1003,8 +1065,8 @@
       "publishedAt": "Thu, 05 Nov 2026 16:09:16 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-victoria-judicial",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1020,8 +1082,8 @@
       "publishedAt": "Thu, 05 Nov 2026 15:18:15 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-despues-aluvion",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1037,8 +1099,8 @@
       "publishedAt": "Thu, 05 Nov 2026 06:10:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-estiman",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1054,8 +1116,8 @@
       "publishedAt": "Wed, 04 Nov 2026 21:50:15 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-denuncian-contradiccion",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1071,8 +1133,8 @@
       "publishedAt": "Wed, 04 Nov 2026 18:11:06 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-tribunal-ciego",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1088,8 +1150,8 @@
       "publishedAt": "Wed, 04 Nov 2026 16:13:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-todas-violas",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1105,8 +1167,8 @@
       "publishedAt": "Wed, 04 Nov 2026 15:53:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-trump-perdio",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1122,8 +1184,8 @@
       "publishedAt": "Tue, 03 Nov 2026 18:41:04 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-derrumbe-fondos",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     },
     {
@@ -1139,8 +1201,8 @@
       "publishedAt": "Tue, 03 Nov 2026 12:11:00 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-isabel-margarita",
-      "firstSeenAt": "2026-11-05T23:28:25.098Z",
-      "lastSeenAt": "2026-11-05T23:28:25.098Z",
+      "firstSeenAt": "2026-11-06T05:53:24.398Z",
+      "lastSeenAt": "2026-11-06T05:53:24.398Z",
       "seenCount": 1
     }
   ]
