@@ -1,31 +1,21 @@
 {
-  "generatedAt": "2026-11-07T05:25:22.408Z",
-  "count": 68,
-  "failures": [],
+  "generatedAt": "2026-11-07T12:43:45.866Z",
+  "count": 63,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-07T05:25:22.408Z",
-    "activeSignals": 68,
-    "archiveSignals": 126,
+    "generatedAt": "2026-11-07T12:43:45.866Z",
+    "activeSignals": 63,
+    "archiveSignals": 121,
     "countriesCovered": 8,
-    "highPrioritySignals": 27,
-    "averagePoliticalScore": 6.29
+    "highPrioritySignals": 25,
+    "averagePoliticalScore": 6.27
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "La barrida demócrata en las elecciones de EE.UU.: consecuencias para Nicaragua",
-      "leadUrl": "https://confidencial.digital/opinion/la-barrida-democrata-en-las-elecciones-de-ee-uu-consecuencias-para-nicaragua/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 14,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Argentina",
       "priority": "Alta",
@@ -40,6 +30,21 @@
       ],
       "signalCount": 14,
       "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+    },
+    {
+      "country": "Nicaragua",
+      "priority": "Alta",
+      "leadTitle": "La barrida demócrata en las elecciones de EE.UU.: consecuencias para Nicaragua",
+      "leadUrl": "https://confidencial.digital/opinion/la-barrida-democrata-en-las-elecciones-de-ee-uu-consecuencias-para-nicaragua/",
+      "focusTopics": [
+        "Elecciones",
+        "Instituciones"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 13,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Chile",
@@ -88,21 +93,6 @@
       "summary": "Foco en Gobernabilidad, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Machado llama a reconstruir Venezuela con &#8220;innovación&#8221; una vez que se elija nuevo gobierno",
-      "leadUrl": "https://efectococuyo.com/politica/machado-llama-a-reconstruir-venezuela-con-innovacion-una-vez-que-se-elija-nuevo-gobierno/",
-      "focusTopics": [
-        "Diplomacia",
-        "Economia politica"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 6,
-      "summary": "Foco en Diplomacia, Economia politica. Vigilar Efecto Cocuyo y Efecto Cocuyo."
-    },
-    {
       "country": "Uruguay",
       "priority": "Alta",
       "leadTitle": "Cómo pueden los montevideanos incidir en decisiones sobre sus barrios",
@@ -131,6 +121,20 @@
       ],
       "signalCount": 4,
       "summary": "Foco en Economia politica, Seguridad, Diplomacia. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Peru",
+      "priority": "Media",
+      "leadTitle": "Marco Vinelli: “Hoy los indicadores de El Niño son mucho mayores que los anteriores”",
+      "leadUrl": "https://elcomercio.pe/politica/fenomeno-el-nino-marco-vinelli-hoy-los-indicadores-de-el-nino-son-mucho-mayores-que-los-anteriores-gobierno-keiko-fujimori-apuesplan-noticia/",
+      "focusTopics": [
+        "Gobernabilidad"
+      ],
+      "topSources": [
+        "El Comercio"
+      ],
+      "signalCount": 2,
+      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
     }
   ],
   "signals": [
@@ -147,8 +151,8 @@
       "publishedAt": "Fri, 06 Nov 2026 07:20:00 +0000",
       "politicalScore": 14,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-barrida-democrata",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -164,8 +168,8 @@
       "publishedAt": "Sat, 07 Nov 2026 03:01:00 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-elecciones-argentina-elecciones-2027-carlos",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -181,8 +185,8 @@
       "publishedAt": "Fri, 06 Nov 2026 20:25:05 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-mahiques",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -198,8 +202,8 @@
       "publishedAt": "Fri, 06 Nov 2026 23:46:34 +0000",
       "politicalScore": 11,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-congreso-paraguay",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -215,25 +219,8 @@
       "publishedAt": "Fri, 06 Nov 2026 23:46:34 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-quien",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "cad7bbf479a678bc",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Patricia Bullrich se alinea con la Iglesia y dice que el Senado tratará el proyecto de ley para prevenir la ludopatía",
-      "summary": "En la previa de la visita de León XIV, la senadora dijo que buscará salvar la iniciativa que prohíbe la publicidad de apuestas online y que está frenada hace dos años",
-      "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-se-alinea-con-la-iglesia-y-dice-que-el-senado-tratara-el-proyecto-de-ley-para-nid06112026/",
-      "publishedAt": "Fri, 06 Nov 2026 17:03:57 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-patricia",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -249,8 +236,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:38:17 -0300",
       "politicalScore": 10,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-pueden-montevideanos",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -266,8 +253,8 @@
       "publishedAt": "Fri, 06 Nov 2026 20:00:00 +0000",
       "politicalScore": 10,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-fotos-confirman",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -283,8 +270,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -300,8 +287,8 @@
       "publishedAt": "Sat, 07 Nov 2026 04:30:01 GMT",
       "politicalScore": 9,
       "eventKey": "espana-economia-politica-espana-economia-politica-inflacion",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -317,8 +304,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:36:45 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-espiritu",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -334,8 +321,8 @@
       "publishedAt": "Fri, 06 Nov 2026 23:02:29 +0000",
       "politicalScore": 9,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-destituyen-detienen",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -351,8 +338,8 @@
       "publishedAt": "Fri, 06 Nov 2026 18:55:42 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-instituciones-argentina-instituciones-camara-federal",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -368,8 +355,8 @@
       "publishedAt": "Fri, 06 Nov 2026 17:13:48 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-fiscal",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -385,25 +372,8 @@
       "publishedAt": "Thu, 05 Nov 2026 19:53:33 +0100",
       "politicalScore": 9,
       "eventKey": "espana-elecciones-espana-elecciones-feijoo-defiende",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5962132d33df9ac1",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Santiago Peña renuncia a presidencia de Paraguay arrastrado por crisis tras el cierre de Ueno bank",
-      "summary": "El presidente de Paraguay, Santiago Peña, renunció el jueves 4 de noviembre de 2026, poco antes de ser sometido a un juicio político en el Congreso, en medio de la tormenta desatada en el país por la intervención de Ueno bank, una entidad privada a la que fue ",
-      "url": "https://confidencial.digital/mundo/santiago-pena-renuncia-a-presidencia-de-paraguay-arrastrado-por-crisis-tras-el-cierre-de-ueno-bank/",
-      "publishedAt": "Thu, 05 Nov 2026 17:06:02 +0000",
-      "politicalScore": 9,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-santiago-pena",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -419,8 +389,8 @@
       "publishedAt": "Sat, 07 Nov 2026 01:16:11 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-derrota",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -436,8 +406,8 @@
       "publishedAt": "Fri, 06 Nov 2026 19:01:49 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-luis",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -453,25 +423,8 @@
       "publishedAt": "Fri, 06 Nov 2026 15:43:05 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espana-concede",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "358fe6438c3fc4cf",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Machado llama a reconstruir Venezuela con &#8220;innovación&#8221; una vez que se elija nuevo gobierno",
-      "summary": "La líder opositora recibió un doctorado honoris causa de la Universidad Siglo 21 de Argentina",
-      "url": "https://efectococuyo.com/politica/machado-llama-a-reconstruir-venezuela-con-innovacion-una-vez-que-se-elija-nuevo-gobierno/",
-      "publishedAt": "Fri, 06 Nov 2026 14:03:32 +0000",
-      "politicalScore": 8,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-machado-llama",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -487,8 +440,8 @@
       "publishedAt": "Fri, 06 Nov 2026 09:12:28 GMT",
       "politicalScore": 8,
       "eventKey": "espana-seguridad-espana-seguridad-fiscalia-europea",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -504,8 +457,25 @@
       "publishedAt": "Fri, 06 Nov 2026 06:36:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-juez-ordena",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
+      "seenCount": 1
+    },
+    {
+      "id": "37c1ec279567cb77",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Una política exterior para América Latina",
+      "summary": "“La mejor política exterior es la política interior,” declaró Andrés Manuel López Obrador en una reunión de diplomáticos mexicanos al comienzo de 2024. Parece que muchos de los nuevos presidentes latinoamericanos de derechas están de acuerdo con él. En la prác",
+      "url": "https://confidencial.digital/opinion/una-politica-exterior-para-america-latina/",
+      "publishedAt": "Sat, 07 Nov 2026 07:15:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-politica-exterior",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -521,8 +491,8 @@
       "publishedAt": "Sat, 07 Nov 2026 05:05:00 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-militarizar-estrategia",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -538,8 +508,8 @@
       "publishedAt": "Fri, 06 Nov 2026 19:27:32 +0100",
       "politicalScore": 7,
       "eventKey": "espana-instituciones-espana-instituciones-anticorrupcion-pide",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -555,8 +525,8 @@
       "publishedAt": "Tue, 03 Nov 2026 21:26:47 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -572,8 +542,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:04:29 +0100",
       "politicalScore": 6,
       "eventKey": "espana-seguridad-espana-seguridad-fiscalia-europea",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -589,8 +559,25 @@
       "publishedAt": "Thu, 05 Nov 2026 21:28:15 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-sanciona-empresas",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
+      "seenCount": 1
+    },
+    {
+      "id": "0bac30fec9b271cc",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Marco Vinelli: “Hoy los indicadores de El Niño son mucho mayores que los anteriores”",
+      "summary": "El ministro de Desarrollo Agrario y Riego advierte que el Perú enfrenta un Fenómeno El Niño de mayor intensidad que los anteriores. Explica qué regiones están en riesgo, las acciones de prevención y las vulnerabilidades de Lima.",
+      "url": "https://elcomercio.pe/politica/fenomeno-el-nino-marco-vinelli-hoy-los-indicadores-de-el-nino-son-mucho-mayores-que-los-anteriores-gobierno-keiko-fujimori-apuesplan-noticia/",
+      "publishedAt": "Sat, 07 Nov 2026 11:00:01 +0000",
+      "politicalScore": 6,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-marco-vinelli",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -606,25 +593,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:38:13 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-bien-comun",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6e379d552eff25a1",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Detienen al expresidente Santiago Peña tras su destitución",
-      "summary": "Una de las fiscales del caso informó que se constató que Peña está en su domicilio y se puso a disposición.",
-      "url": "https://efectococuyo.com/internacionales/detienen-expresidente-santiago-pena/",
-      "publishedAt": "Sat, 07 Nov 2026 01:19:20 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-economia-politica-venezuela-economia-politica-detienen",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -640,8 +610,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:40:16 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-llegada",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -657,8 +627,8 @@
       "publishedAt": "Fri, 06 Nov 2026 22:59:53 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-renuncia",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -674,8 +644,8 @@
       "publishedAt": "Fri, 06 Nov 2026 22:44:30 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-corte-ordeno",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -691,25 +661,8 @@
       "publishedAt": "Fri, 06 Nov 2026 20:31:01 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-situacion-sigue",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f32329f56b7e1995",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Chavismo celebra el 250 aniversario de la independencia de Estados Unidos",
-      "summary": "Las Barras y Estrellas sonaron este viernes en la plaza Washington, de El Paraíso, con la presencia de Delcy Rodríguez",
-      "url": "https://efectococuyo.com/politica/chavismo-celebra-el-250-aniversario-de-la-independencia-de-estados-unidos/",
-      "publishedAt": "Fri, 06 Nov 2026 19:53:38 +0000",
-      "politicalScore": 6,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-chavismo-celebra",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -725,8 +678,8 @@
       "publishedAt": "Fri, 06 Nov 2026 17:22:57 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-citan",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -742,8 +695,8 @@
       "publishedAt": "Thu, 05 Nov 2026 15:44:47 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-estos-informes",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -759,8 +712,8 @@
       "publishedAt": "Wed, 04 Nov 2026 23:09:19 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-defensoria-ninez",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -771,13 +724,13 @@
       "topic": "Elecciones",
       "priority": "Media",
       "title": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
-      "summary": "Un estudio advierte de la creación en Vietnam de una red de canales de Internet para influir en la campaña electoral del 29-N",
+      "summary": "Un estudio advierte de la creación en Vietnam de una granja de cuentas de Internet para influir en la campaña electoral del 29-N",
       "url": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
       "publishedAt": "Sat, 07 Nov 2026 04:30:01 GMT",
       "politicalScore": 5,
       "eventKey": "espana-elecciones-espana-elecciones-profesor-buscado",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -793,8 +746,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:01:31 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-democrata-gregory",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -810,8 +763,8 @@
       "publishedAt": "Fri, 06 Nov 2026 22:08:43 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-pone",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -827,8 +780,8 @@
       "publishedAt": "Fri, 06 Nov 2026 21:38:24 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-proyecto-reforma",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -844,25 +797,8 @@
       "publishedAt": "Fri, 06 Nov 2026 21:21:31 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-nombramientos-fugaces",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9354ef50c5c074e5",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Tamara Adrián inscribe su nombre en postulaciones al TSJ",
-      "summary": "La primera diputada trans de Venezuela consignó los documentos ante la Comisión parlamentaria",
-      "url": "https://efectococuyo.com/politica/tamara-adrian-inscribe-su-nombre-en-postulaciones-al-tsj/",
-      "publishedAt": "Fri, 06 Nov 2026 21:05:38 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-tamara-adrian",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -878,8 +814,8 @@
       "publishedAt": "Thu, 05 Nov 2026 17:37:52 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-rabat-rechazo",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -895,8 +831,8 @@
       "publishedAt": "Wed, 04 Nov 2026 16:07:36 +0000",
       "politicalScore": 5,
       "eventKey": "chile-instituciones-chile-instituciones-fallos-cortes",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -912,8 +848,8 @@
       "publishedAt": "Wed, 04 Nov 2026 07:00:14 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-reforma-indh",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -929,8 +865,42 @@
       "publishedAt": "Tue, 03 Nov 2026 23:23:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-condenan-lavado",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
+      "seenCount": 1
+    },
+    {
+      "id": "13b3fac7acce4caf",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Los empresarios que pagaron la visita pastoral tendrán un cara a cara con el Papa",
+      "summary": "Manzano, Vila, Eurnekian y Marcos y Alejandro Bulgheroni estarían en el grupo, que será recibido en una carpa VIP después de la misa en el Monumento a los Españoles",
+      "url": "https://www.lanacion.com.ar/politica/los-empresarios-que-pagaron-la-visita-pastoral-tendran-un-cara-a-cara-con-el-papa-nid07112026/",
+      "publishedAt": "Sat, 07 Nov 2026 12:31:07 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-empresarios",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
+      "seenCount": 1
+    },
+    {
+      "id": "8134e7f67ad81d28",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
+      "summary": "Diversos líderes empresariales de la Confiep y de sus gremios asociados nos dan su opinión tras los 100 días de la presidenta Fujimori.",
+      "url": "https://elcomercio.pe/economia/peru/balance-de-los-primeros-100-dias-del-gobierno-de-la-presidenta-keiko-fujimori-peru-100-dias-de-keiko-fujimori-noticia/",
+      "publishedAt": "Sat, 07 Nov 2026 11:01:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-balance-primeros",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -946,8 +916,8 @@
       "publishedAt": "Fri, 06 Nov 2026 22:38:48 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-prision",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -963,8 +933,8 @@
       "publishedAt": "Fri, 06 Nov 2026 21:28:55 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-seguridad-cuba-seguridad-estado-impide",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -980,8 +950,8 @@
       "publishedAt": "Fri, 06 Nov 2026 20:54:05 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-instituciones-colombia-instituciones-corte-suprema",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -997,8 +967,8 @@
       "publishedAt": "Fri, 06 Nov 2026 19:21:01 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-semana",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1014,8 +984,8 @@
       "publishedAt": "Fri, 06 Nov 2026 17:39:43 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-virginia",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1031,8 +1001,8 @@
       "publishedAt": "Fri, 06 Nov 2026 18:21:54 +0100",
       "politicalScore": 4,
       "eventKey": "espana-seguridad-espana-seguridad-prision-provisional",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1048,8 +1018,8 @@
       "publishedAt": "Thu, 05 Nov 2026 23:30:04 +0000",
       "politicalScore": 4,
       "eventKey": "cuba-diplomacia-cuba-diplomacia-cambiar-dolares",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1065,8 +1035,25 @@
       "publishedAt": "Thu, 05 Nov 2026 21:18:10 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-internacional-socialista",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
+      "seenCount": 1
+    },
+    {
+      "id": "fa2c53237bba021e",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Ortega reduce a la mitad sus escasas apariciones públicas",
+      "summary": "El dictador nicaragüense Daniel Ortega cumplirá el ocho de noviembre 66 días ausente desde la última vez que compareció en público. Este es el período más largo sin apariciones que ha tenido el mandatario, pero sobre todo, marca un patrón de desaparición cada ",
+      "url": "https://confidencial.digital/analisis/daniel-ortega-reduce-apariciones-publicas-nicaragua/",
+      "publishedAt": "Sat, 07 Nov 2026 06:14:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-ortega-reduce",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1082,42 +1069,8 @@
       "publishedAt": "Sat, 07 Nov 2026 00:25:02 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-callo-rabat",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "4fd30b16af54d1d6",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "ONG documenta 198 casos de violencia contra personas LGTBI en Venezuela en 9 meses",
-      "summary": "Observatorio Venezolano de Violencias LGBTIQ+ también documentó hasta septiembre el asesinato de dos personas",
-      "url": "https://efectococuyo.com/la-humanidad/ong-documenta-198-casos-de-violencia-contra-personas-lgtbi-en-venezuela-en-9-meses/",
-      "publishedAt": "Fri, 06 Nov 2026 21:13:38 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-seguridad-venezuela-seguridad-documenta-casos",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "160cae02f83d8437",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Machado en Rodeo I: No descansaremos hasta que el último preso político obtenga libertad plena",
-      "summary": "Familiares de presos políticos mantienen una protesta pacífica desde hace 302 días en el Campamento de la Dignidad, instalado en las afueras del penal mirandino.",
-      "url": "https://efectococuyo.com/la-humanidad/machado-en-el-rodeo-i-no-descansaremos-hasta-que-el-ultimo-preso-politico-obtenga-libertad-plena/",
-      "publishedAt": "Fri, 06 Nov 2026 20:46:30 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-machado-rodeo",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1133,8 +1086,8 @@
       "publishedAt": "Fri, 06 Nov 2026 18:59:31 +0000",
       "politicalScore": 3,
       "eventKey": "chile-economia-politica-chile-economia-politica-riesgo",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1150,8 +1103,8 @@
       "publishedAt": "Fri, 06 Nov 2026 16:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-desnutricion-invisible",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1167,8 +1120,8 @@
       "publishedAt": "Fri, 06 Nov 2026 15:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-cuatro-paises",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1184,42 +1137,8 @@
       "publishedAt": "Thu, 05 Nov 2026 21:34:54 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-detuvieron-nueve",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7355a7f7f897fa24",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Machado y González Urrutia: “Venezuela no será verdaderamente libre mientras no lo sean Cuba y Nicaragua”",
-      "summary": "La líder opositora de Venezuela y premio nobel de la paz 2025, María Corina Machado, y el opositor Edmundo González Urrutia, afirmaron que la libertad de Venezuela no estará completa mientras no lo sean también Nicaragua y Cuba. “Ante la región sostenemos que ",
-      "url": "https://confidencial.digital/noticias/machado-y-gonzalez-urrutia-venezuela-no-sera-verdaderamente-libre-mientras-no-lo-sean-cuba-y-nicaragua/",
-      "publishedAt": "Thu, 05 Nov 2026 17:22:39 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-machado-gonzalez",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
-      "seenCount": 1
-    },
-    {
-      "id": "42051584b7a81e85",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Demandan detención en España del “cocanciller” Valdrack Jaentschke",
-      "summary": "Las desterradas políticas nicaragüenses, nacionalizadas españolas, Ana Margarita Vijil, Tamara Dávila y Dora María Téllez presentaron una querella penal ante la Audiencia Nacional de España contra el “cocanciller” de la dictadura de Nicaragua, Valdrack Jaentsc",
-      "url": "https://confidencial.digital/noticias/demandan-detencion-en-espana-del-cocanciller-valdrack-jaentschke/",
-      "publishedAt": "Thu, 05 Nov 2026 16:24:19 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-demandan-detencion",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1235,8 +1154,8 @@
       "publishedAt": "Thu, 05 Nov 2026 16:09:16 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-victoria-judicial",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1252,8 +1171,8 @@
       "publishedAt": "Thu, 05 Nov 2026 15:18:15 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-despues-aluvion",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1269,8 +1188,8 @@
       "publishedAt": "Wed, 04 Nov 2026 16:13:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-todas-violas",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     },
     {
@@ -1286,8 +1205,8 @@
       "publishedAt": "Wed, 04 Nov 2026 15:53:49 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-trump-perdio",
-      "firstSeenAt": "2026-11-07T05:25:22.408Z",
-      "lastSeenAt": "2026-11-07T05:25:22.408Z",
+      "firstSeenAt": "2026-11-07T12:43:45.866Z",
+      "lastSeenAt": "2026-11-07T12:43:45.866Z",
       "seenCount": 1
     }
   ]
