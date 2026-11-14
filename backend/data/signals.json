@@ -1,36 +1,41 @@
 {
-  "generatedAt": "2026-11-14T05:44:04.477Z",
+  "generatedAt": "2026-11-14T13:15:16.377Z",
   "count": 61,
-  "failures": [],
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-14T05:44:04.477Z",
+    "generatedAt": "2026-11-14T13:15:16.377Z",
     "activeSignals": 61,
     "archiveSignals": 119,
-    "countriesCovered": 9,
-    "highPrioritySignals": 20,
-    "averagePoliticalScore": 5.57
+    "countriesCovered": 8,
+    "highPrioritySignals": 19,
+    "averagePoliticalScore": 5.52
   },
   "briefings": [
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Alejandra García, candidata al Consejo de la Magistratura porteño: “Estas elecciones son fundacionales”",
-      "leadUrl": "https://www.lanacion.com.ar/politica/alejandra-garcia-candidata-al-consejo-de-la-magistratura-porteno-estas-elecciones-son-fundacionales-nid13112026/",
+      "leadTitle": "Piden informes a dos empresas vinculadas a los Menem por su contratación en los eventos del Papa",
+      "leadUrl": "https://www.lanacion.com.ar/politica/piden-informes-a-dos-empresas-vinculadas-a-los-menem-por-su-contratacion-en-los-eventos-del-papa-nid13112026/",
       "focusTopics": [
-        "Elecciones",
-        "Economia politica"
+        "Economia politica",
+        "Elecciones"
       ],
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 13,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+      "signalCount": 14,
+      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "La represión fractura a la Iglesia católica perseguida de Nicaragua",
-      "leadUrl": "https://confidencial.digital/opinion/la-represion-fractura-a-la-iglesia-catolica-perseguida-de-nicaragua/",
+      "leadTitle": "El trumpismo menguante",
+      "leadUrl": "https://confidencial.digital/opinion/el-trumpismo-menguante/",
       "focusTopics": [
         "Elecciones",
         "Instituciones"
@@ -67,24 +72,23 @@
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 6,
+      "signalCount": 7,
       "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
-      "country": "Venezuela",
+      "country": "Peru",
       "priority": "Alta",
-      "leadTitle": "Informe asegura que Petro ayudó a Maduro a mantenerse en el poder tras elecciones de 2024",
-      "leadUrl": "https://efectococuyo.com/internacionales/informe-asegura-que-petro-ayudo-a-maduro-a-mantenerse-en-el-poder-tras-elecciones-de-2024/",
+      "leadTitle": "Top ten del Congreso: Lo bueno, lo malo y lo feo de la era bicameral en sus primeros 100 días",
+      "leadUrl": "https://elcomercio.pe/politica/top-ten-del-congreso-lo-bueno-lo-malo-y-lo-feo-de-la-era-bicameral-en-sus-primeros-100-dias-senado-diputados-noticia/",
       "focusTopics": [
-        "Elecciones",
-        "Diplomacia",
+        "Gobernabilidad",
         "Seguridad"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "El Comercio"
       ],
       "signalCount": 5,
-      "summary": "Foco en Elecciones, Diplomacia, Seguridad. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "summary": "Foco en Gobernabilidad, Seguridad. Vigilar El Comercio y El Comercio."
     },
     {
       "country": "Espana",
@@ -116,20 +120,6 @@
       "summary": "Foco en Elecciones, Economia politica. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Peru",
-      "priority": "Alta",
-      "leadTitle": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-      "leadUrl": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-      "focusTopics": [
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
-    },
-    {
       "country": "Cuba",
       "priority": "Media",
       "leadTitle": "El Premio Knight reconoce el trabajo de ‘elTOQUE’ frente a la censura y las amenazas",
@@ -147,20 +137,20 @@
   ],
   "signals": [
     {
-      "id": "ddd66610130dbe37",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
+      "id": "7a57e6ffeb7369fa",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Alejandra García, candidata al Consejo de la Magistratura porteño: “Estas elecciones son fundacionales”",
-      "summary": "Con la Justicia de la Ciudad en plena expansión, el martes se eligen a los abogados para el organismo que remueve y elije a los magistrados; la presidenta del Colegio Público de Abogados ocupa el segundo lugar en la lista referenciada en Ricardo Gil Lavedra",
-      "url": "https://www.lanacion.com.ar/politica/alejandra-garcia-candidata-al-consejo-de-la-magistratura-porteno-estas-elecciones-son-fundacionales-nid13112026/",
-      "publishedAt": "Fri, 13 Nov 2026 18:27:27 +0000",
-      "politicalScore": 12,
-      "eventKey": "argentina-elecciones-argentina-elecciones-alejandra-garcia",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "title": "El trumpismo menguante",
+      "summary": "Las elecciones intermedias en Estados Unidos, bajo un sistema presidencialista y federal como el de esa república, no deben ser sobreestimadas. La derecha republicana puede recuperarse en la contienda presidencial de 2028, si algún o alguna sucesora de Donald ",
+      "url": "https://confidencial.digital/opinion/el-trumpismo-menguante/",
+      "publishedAt": "Sat, 14 Nov 2026 07:10:00 +0000",
+      "politicalScore": 11,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trumpismo-menguante",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -176,8 +166,8 @@
       "publishedAt": "Sat, 14 Nov 2026 00:33:04 -0300",
       "politicalScore": 11,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-juan-castillo",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -193,8 +183,8 @@
       "publishedAt": "Fri, 13 Nov 2026 23:36:38 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-piden",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -210,25 +200,8 @@
       "publishedAt": "Fri, 13 Nov 2026 21:10:27 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-elecciones-argentina-elecciones-causa-libra",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "acc0a5b2a1cdcdfd",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Informe asegura que Petro ayudó a Maduro a mantenerse en el poder tras elecciones de 2024",
-      "summary": "El Miranda Center acusó al gobierno colombiano de contribuir a blanquear la legitimidad de Maduro tras los comicios.",
-      "url": "https://efectococuyo.com/internacionales/informe-asegura-que-petro-ayudo-a-maduro-a-mantenerse-en-el-poder-tras-elecciones-de-2024/",
-      "publishedAt": "Fri, 13 Nov 2026 15:06:08 +0000",
-      "politicalScore": 10,
-      "eventKey": "venezuela-elecciones-venezuela-elecciones-informe-asegura",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -244,8 +217,8 @@
       "publishedAt": "Fri, 13 Nov 2026 07:30:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-represion-fractura",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -261,8 +234,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -278,8 +251,8 @@
       "publishedAt": "Sat, 14 Nov 2026 01:00:00 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -295,8 +268,8 @@
       "publishedAt": "Sat, 14 Nov 2026 04:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-elecciones-espana-elecciones-psoe-pelea",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -312,8 +285,8 @@
       "publishedAt": "Sat, 14 Nov 2026 04:30:01 GMT",
       "politicalScore": 8,
       "eventKey": "espana-elecciones-espana-elecciones-miden-techo",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -329,8 +302,8 @@
       "publishedAt": "Fri, 13 Nov 2026 23:56:05 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-duerma-informado",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -346,8 +319,25 @@
       "publishedAt": "Tue, 10 Nov 2026 23:31:31 +0000",
       "politicalScore": 8,
       "eventKey": "chile-seguridad-chile-seguridad-gobierno-amenaza",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ecd6693b69188d5d",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "Top ten del Congreso: Lo bueno, lo malo y lo feo de la era bicameral en sus primeros 100 días",
+      "summary": "En sus primeros 100 días, la nueva era bicameral estuvo marcada por entrampamientos, disidencias y casos de ética parlamentaria.",
+      "url": "https://elcomercio.pe/politica/top-ten-del-congreso-lo-bueno-lo-malo-y-lo-feo-de-la-era-bicameral-en-sus-primeros-100-dias-senado-diputados-noticia/",
+      "publishedAt": "Sat, 14 Nov 2026 12:49:01 +0000",
+      "politicalScore": 7,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-congreso-bueno",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -360,11 +350,28 @@
       "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
       "summary": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
       "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-      "publishedAt": "Sat, 14 Nov 2026 05:01:00 +0000",
+      "publishedAt": "Sat, 14 Nov 2026 12:47:40 +0000",
       "politicalScore": 7,
       "eventKey": "peru-gobernabilidad-peru-gobernabilidad-vladimiro-montesinos",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "30e8ea767a90c20e",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Nahuel Gallo: “A veces siento que se sacaron la foto y se olvidaron de mí”",
+      "summary": "El gendarme que sobrevivió 448 días en las cárceles chavistas aguarda el reconocimiento del Gobiernos y la administración porteña; corre maratones y milita por “la libertad de los presos políticos”",
+      "url": "https://www.lanacion.com.ar/politica/nahuel-gallo-a-veces-siento-que-se-sacaron-la-foto-y-se-olvidaron-de-mi-nid14112026/",
+      "publishedAt": "Sat, 14 Nov 2026 12:44:13 +0000",
+      "politicalScore": 7,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-nahuel",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -380,25 +387,8 @@
       "publishedAt": "Fri, 13 Nov 2026 21:14:56 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-discusion",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2a371ae612bd17f9",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Chavismo evalúa &#8220;ajustar a estándares internacionales&#8221; cuestionada ley de odio",
-      "summary": "Jorge Arreaza señaló que la idea también es formar a quienes vayan a aplicar la ley para que no se repitan los \"excesos y abusos\"",
-      "url": "https://efectococuyo.com/politica/chavismo-evalua-ajustar-a-estandares-internacionales-cuestionada-ley-de-odio/",
-      "publishedAt": "Fri, 13 Nov 2026 20:18:29 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-chavismo-evalua",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -414,8 +404,8 @@
       "publishedAt": "Fri, 13 Nov 2026 20:17:18 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-elecciones-argentina-elecciones-karina-milei",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -431,25 +421,8 @@
       "publishedAt": "Fri, 13 Nov 2026 18:48:07 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-lemoine",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3d9f1d239a168640",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "México impide paso a nueva caravana migratoria hacia EE.UU.",
-      "summary": "México impidió este martes (10.11.2026) el paso de una caravana de un centenar de migrantes centroamericanos que buscaba llegar a Estados Unidos, días después de que otra logró internarse en territorio mexicano en medio de la euforia por el fracaso electoral d",
-      "url": "https://confidencial.digital/migrantes/mexico-impide-paso-a-nueva-caravana-migratoria-hacia-ee-uu/",
-      "publishedAt": "Thu, 12 Nov 2026 15:30:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mexico-impide",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -465,25 +438,93 @@
       "publishedAt": "Wed, 11 Nov 2026 23:00:13 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
-      "id": "0ac70ad8634c2929",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
+      "id": "f8e6c28670fe24f0",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
       "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Ocho militares sufren descompensación tras 96 horas en huelga de hambre en Ramo Verde",
-      "summary": "36 uniformados mantienen la protesta desde el 9 de noviembre para exigir la revisión de sus casos y ser incluidos en la Ley de Amnistía.",
-      "url": "https://efectococuyo.com/la-humanidad/ocho-militares-sufren-descompensacion-tras-96-horas-en-huelga-de-hambre/",
-      "publishedAt": "Fri, 13 Nov 2026 22:14:19 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-seguridad-venezuela-seguridad-ocho-militares",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "title": "Zelensky dice que EE.UU. propuso que Ucrania ceda territorio a cambio de su adhesión a la OTAN",
+      "summary": "El presidente ucraniano, Volodymyr Zelensky, dijo que Estados Unidos le ha propuesto ceder territorio a cambio de la adhesión de su país a la OTAN y que Kiev negocia garantías de seguridad “concretas”.",
+      "url": "https://elcomercio.pe/mundo/europa/guerra-rusia-ucrania-volodymyr-zelensky-dice-que-estados-unidos-propuso-que-kiev-ceda-territorio-a-cambio-de-su-adhesion-a-la-otan-vladimir-putin-ultimas-noticia/",
+      "publishedAt": "Sat, 14 Nov 2026 12:39:45 +0000",
+      "politicalScore": 6,
+      "eventKey": "peru-seguridad-peru-seguridad-zelensky-dice",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f4ef49183dfa6018",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "La izquierda de Petro: paraíso perdido",
+      "summary": "\"Con los escándalos recientes del expresidente Petro, no sería exagerado decir que la izquierda liderada por él ha sido expulsada del paraíso que había construido\". The post La izquierda de Petro: paraíso perdido appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/la-izquierda-de-petro-paraiso-perdido/",
+      "publishedAt": "Sat, 14 Nov 2026 12:40:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-izquierda-petro",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "4a0463694ce4017d",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Van 100, faltan 1.361",
+      "summary": "El gobierno de Abelardo de la Espriella llega a sus cien días y el país está haciendo la cuenta, poco para medir resultados y suficiente para ver hacia dónde va. The post Van 100, faltan 1.361 appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/van-100-faltan-1-361/",
+      "publishedAt": "Sat, 14 Nov 2026 12:35:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-faltan",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e49d686ffc6d7429",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Escándalos grandes y más grandes",
+      "summary": "\"Todo indica que, durante los últimos meses del gobierno Petro, en Colombia se intentó convertir nuestra democracia en un régimen autoritario para satisfacer los deseos, la voluntad de poder y la necesidad de impunidad de Gustavo Petro\". The post Escándalos gr",
+      "url": "https://www.lasillavacia.com/opinion/escandalos-grandes-y-mas-grandes/",
+      "publishedAt": "Sat, 14 Nov 2026 12:30:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-escandalos-grandes",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5010d8ac3e0c0ed5",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Hugo Moyano denunció en la Justicia un fraude millonario en Camioneros, pero ahora busca cerrar la causa",
+      "summary": "El sindicato no presentó toda la documentación contable para respaldar un supuesto desvío de fondos en la administración de un hotel en Mar del Plata; la pericia contable no detectó un perjuicio económico; presiones en la ARCA",
+      "url": "https://www.lanacion.com.ar/politica/hugo-moyano-denuncio-en-la-justicia-un-fraude-millonario-en-camioneros-pero-ahora-busca-cerrar-la-nid14112026/",
+      "publishedAt": "Sat, 14 Nov 2026 12:28:58 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-hugo",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -499,8 +540,8 @@
       "publishedAt": "Sat, 14 Nov 2026 01:16:21 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-justicia-ordeno",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -516,8 +557,8 @@
       "publishedAt": "Fri, 13 Nov 2026 20:58:14 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-instituciones-argentina-instituciones-hotesur-sauces",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -533,8 +574,8 @@
       "publishedAt": "Fri, 13 Nov 2026 16:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espriella-accidentados",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -550,8 +591,8 @@
       "publishedAt": "Fri, 13 Nov 2026 14:45:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-microsoft-descarta",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -567,8 +608,8 @@
       "publishedAt": "Fri, 13 Nov 2026 13:23:37 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excluyen-obispos",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -584,76 +625,25 @@
       "publishedAt": "Thu, 12 Nov 2026 23:21:20 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-gobierno-camioneros",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
-      "id": "606911d65dd4497d",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Chavismo y la AN2015 instalan cuarta ronda de diálogo: agenda incluye tema del CNE",
-      "summary": "Jorge Millán, de la Comisión Delegada de la AN 2015, dijo que aspiran a lograr la liberación de todos los presos políticos en este ciclo de negociaciones",
-      "url": "https://efectococuyo.com/politica/chavismo-an2015-instalan-cuarta-ronda-agenda-cne/",
-      "publishedAt": "Sat, 14 Nov 2026 00:49:59 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-chavismo-an2015",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3ce393dfbfaf3e4b",
+      "id": "d564eaa6f73d9f0d",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Comisión Tercera de Senado nombra nueve ponentes para la tributaria",
-      "summary": "Los coordinadores serán David Barguil (Conservador) y Juan Fernando Caicedo (Centro Democrático). Entre los ponentes está Yessid Pulgar (Liberal). The post Comisión Tercera de Senado nombra nueve ponentes para la tributaria appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/comision-tercera-de-senado-nombra-nueve-ponentes-para-la-tributaria/",
-      "publishedAt": "Fri, 13 Nov 2026 23:36:17 +0000",
+      "title": "Alejandro Ordóñez: el teócrata en jefe",
+      "summary": "\"Uno de los ideólogos de este proyecto político (la teocracia) es el nuevo ministro del Interior, Alejandro Ordóñez Maldonado\". The post Alejandro Ordóñez: el teócrata en jefe appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/alejandro-ordonez-el-teocrata-en-jefe/",
+      "publishedAt": "Sat, 14 Nov 2026 13:00:00 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-comision-tercera",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "9b7be4d0d9d37786",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "En este video no abuchean a De la Espriella, sino a “Timochenko” en 2018",
-      "summary": "La grabación muestra al entonces candidato presidencial, en Yumbo. No hay registros de que el presidente haya sido abucheado en Cúcuta. The post En este video no abuchean a De la Espriella, sino a “Timochenko” en 2018 appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/en-este-video-no-abuchean-a-de-la-espriella-sino-a-timochenko-en-2018/",
-      "publishedAt": "Fri, 13 Nov 2026 22:51:51 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-video-abuchean",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3ad2cd0b1d2dd939",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Semana no publicó este chat entre Petro y Deicy Jiménez: fue hecho con IA",
-      "summary": "Semana no publicó esa conversación y la fotografía tampoco muestra al expresidente. Es un montaje hecho con inteligencia artificial. The post Semana no publicó este chat entre Petro y Deicy Jiménez: fue hecho con IA appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/semana-no-publico-este-chat-entre-petro-y-deicy-jimenez-fue-hecho-con-ia/",
-      "publishedAt": "Fri, 13 Nov 2026 22:37:53 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-semana-publico",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-alejandro-ordonez",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -669,42 +659,8 @@
       "publishedAt": "Fri, 13 Nov 2026 16:29:32 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-nuevo-informe",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "29bdb4cfdfcdab72",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Comienza este viernes nuevo ciclo de diálogo entre asuntos pendientes y logros parciales",
-      "summary": "Lo acordado y lo pendiente en el diálogo venezolano impulsado por EEUU para la transición",
-      "url": "https://efectococuyo.com/politica/comienza-este-viernes-nuevo-ciclo-de-dialogo-entre-asuntos-pendientes-y-logros-parciales/",
-      "publishedAt": "Fri, 13 Nov 2026 14:14:29 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-comienza-viernes",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0645f461da66c4d4",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Haití: más de 1 100 muertos por violencia en tercer trimestre de 2026",
-      "summary": "Con este número, el total de personas que han perdido la vida por la violencia en el país caribeño en los primeros nueve meses del año asciende a más de 4 200. Al menos 1.167 personas murieron y 459 resultaron heridas en Haití entre julio y septiembre de este ",
-      "url": "https://confidencial.digital/mundo/haiti-mas-de-1-100-muertos-por-violencia-en-tercer-trimestre-de-2026/",
-      "publishedAt": "Thu, 12 Nov 2026 15:00:00 +0000",
-      "politicalScore": 5,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-haiti-muertos",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -720,8 +676,8 @@
       "publishedAt": "Wed, 11 Nov 2026 21:19:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-diplomacia-chile-diplomacia-leon-frente",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -734,11 +690,62 @@
       "title": "A una acta del 100% del conteo en Lima: especialistas critican demora del JNE en proclamar resultados",
       "summary": "Con el 99,996% de las actas contabilizadas, la lista de Renovación Popular, que tiene a Rafael López Aliaga como candidato a primer regidor, encabeza los resultados.",
       "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-alcaldia-de-lima-a-una-acta-del-100-del-conteo-en-lima-especialistas-critican-demora-del-jne-en-proclamar-resultados-apuesplan-noticia/",
-      "publishedAt": "Sat, 14 Nov 2026 05:01:00 +0000",
+      "publishedAt": "Sat, 14 Nov 2026 12:48:18 +0000",
       "politicalScore": 4,
       "eventKey": "peru-gobernabilidad-peru-gobernabilidad-acta-conteo",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "13eedf7f14f8eaac",
+      "country": "Peru",
+      "source": "El Comercio",
+      "sourceType": "Generalista",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "León, arrullos y rugidos, una crónica de Fernando Vivas sobre el Papa y el Perú",
+      "summary": "Quien fuera entre nosotros, primero padre, luego monseñor Robert Prevost; regresó como Su Santidad León XIV. Más que una visita apostólica, es un reencuentro con el terruño.",
+      "url": "https://elcomercio.pe/politica/leon-xiv-arrullos-y-rugidos-una-cronica-de-fernando-vivas-sobre-el-papa-y-el-peru-apuesta-noticia/",
+      "publishedAt": "Sat, 14 Nov 2026 12:48:02 +0000",
+      "politicalScore": 4,
+      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-leon-arrullos",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "274510862a51443e",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Dos décadas sin resultados de un censo nacional",
+      "summary": "Hace más de dos décadas, en 2005, se publicaron los resultados del VII Censo Nacional de Población y IV de Vivienda. La información que arroja este tipo de censos tiene una importancia estratégica porque constituye la base más completa y detallada con la que c",
+      "url": "https://confidencial.digital/opinion/dos-decadas-sin-resultados-de-un-censo-nacional/",
+      "publishedAt": "Sat, 14 Nov 2026 07:30:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-decadas-resultados",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e6852f12755ac188",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Los presos políticos en Venezuela: mercancía humana",
+      "summary": "Hasta donde me alcanza la memoria, este debe ser aproximadamente el artículo número quince o dieciséis que dedico a los presos políticos en los últimos cuatro años. Cada vez que he decidido abordar el tema, lo he hecho con la esperanza de que sea la última vez",
+      "url": "https://confidencial.digital/opinion/los-presos-politicos-en-venezuela-mercancia-humana/",
+      "publishedAt": "Sat, 14 Nov 2026 07:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-presos-politicos",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -754,8 +761,8 @@
       "publishedAt": "Sat, 14 Nov 2026 00:02:33 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-rectificacion-angie",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -771,8 +778,8 @@
       "publishedAt": "Fri, 13 Nov 2026 21:55:15 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-seguridad-argentina-seguridad-quien-lazaro",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -788,8 +795,8 @@
       "publishedAt": "Fri, 13 Nov 2026 21:32:45 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-empresa",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -805,8 +812,8 @@
       "publishedAt": "Fri, 13 Nov 2026 20:32:43 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -822,8 +829,8 @@
       "publishedAt": "Fri, 13 Nov 2026 19:29:45 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-mirilla",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -839,8 +846,8 @@
       "publishedAt": "Fri, 13 Nov 2026 18:42:11 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-audios",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -856,8 +863,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mujeres-cuanto",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -873,8 +880,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:57:44 +0100",
       "politicalScore": 4,
       "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -890,25 +897,8 @@
       "publishedAt": "Fri, 13 Nov 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-europa-regresa",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "adeddb06828e6f85",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "EE. UU. entregó a Venezuela 12 000 millones de dólares por venta de crudo",
-      "summary": "Estados Unidos gestionó entre enero y septiembre de 2026 más de 12 000 millones de dólares procedentes de la venta de recursos naturales venezolanos, principalmente petróleo, mediante un sistema de custodia para supervisar y autorizar el uso de esos ingresos p",
-      "url": "https://confidencial.digital/mundo/ee-uu-entrego-a-venezuela-12-000-millones-de-dolares-por-venta-de-crudo/",
-      "publishedAt": "Thu, 12 Nov 2026 22:35:31 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-entrego-venezuela",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -924,8 +914,8 @@
       "publishedAt": "Thu, 12 Nov 2026 14:13:18 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-importar-fechas",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -941,8 +931,42 @@
       "publishedAt": "Thu, 12 Nov 2026 13:16:29 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-temor-delito",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9ea55a3183d87f52",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Policía arresta diario a más de 70 conductores ebrios o sin licencias en Nicaragua",
+      "summary": "La Policía de Nicaragua ha elevado a 71 el número de arrestos diarios de conductores ebrios o sin licencia, desde mediados de octubre de 2026. Previo a esa fecha, la cifra era de 46 detenidos al día, según un monitoreo de CONFIDENCIAL a las escasas estadística",
+      "url": "https://confidencial.digital/analisis/policia-arresta-diario-a-mas-de-70-conductores-ebrios-o-sin-licencias-en-nicaragua/",
+      "publishedAt": "Sat, 14 Nov 2026 07:25:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-policia-arresta",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
+      "seenCount": 1
+    },
+    {
+      "id": "1213248d203e81cb",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "El proyecto sobre denuncias falsas y la cifra que nadie ha medido",
+      "summary": "La entrada El proyecto sobre denuncias falsas y la cifra que nadie ha medido se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/11/14/el-proyecto-sobre-denuncias-falsas-y-la-cifra-que-nadie-ha-medido/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=el-proyecto-sobre-denuncias-falsas-y-la-cifra-que-nadie-ha-medido",
+      "publishedAt": "Sat, 14 Nov 2026 07:00:32 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-proyecto-denuncias",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -958,8 +982,8 @@
       "publishedAt": "Sat, 14 Nov 2026 05:05:00 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-amenaza-fumigacion",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -975,8 +999,8 @@
       "publishedAt": "Sat, 14 Nov 2026 00:18:31 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-venganza-bastardos",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -992,8 +1016,8 @@
       "publishedAt": "Sat, 14 Nov 2026 00:18:29 -0300",
       "politicalScore": 3,
       "eventKey": "uruguay-economia-politica-uruguay-economia-politica-sistema",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1009,8 +1033,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:35:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-papa-leon",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1026,8 +1050,8 @@
       "publishedAt": "Fri, 13 Nov 2026 14:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dimite-jensen",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1043,8 +1067,8 @@
       "publishedAt": "Fri, 13 Nov 2026 12:31:26 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-economia-politica-cuba-economia-politica-premio",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1060,8 +1084,8 @@
       "publishedAt": "Fri, 13 Nov 2026 07:25:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-centroamerica-actualiza",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1077,8 +1101,8 @@
       "publishedAt": "Thu, 12 Nov 2026 23:04:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-adoptar-doctrina",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1094,8 +1118,8 @@
       "publishedAt": "Thu, 12 Nov 2026 20:43:09 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-instituciones-cuba-instituciones-justicia-pide",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1111,25 +1135,8 @@
       "publishedAt": "Thu, 12 Nov 2026 20:18:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sexta-version",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0be84040530d32db",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Régimen impone nuevos controles a la salida de capitales de Nicaragua",
-      "summary": "El régimen actualizó y unificó su normativa destinada a combatir el lavado de dinero. El nuevo texto legal, además de mantener el espionaje sobre las remesas que reciben los nicaragüenses, impone nuevos controles sobre la salida de capitales de Nicaragua, e in",
-      "url": "https://confidencial.digital/analisis/regimen-impone-nuevos-controles-a-la-salida-de-capitales-de-nicaragua/",
-      "publishedAt": "Thu, 12 Nov 2026 07:25:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-regimen-impone",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1145,8 +1152,8 @@
       "publishedAt": "Wed, 11 Nov 2026 15:31:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-necesario-introducir",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     },
     {
@@ -1162,25 +1169,8 @@
       "publishedAt": "Tue, 10 Nov 2026 19:39:18 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-caida-ueno",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2f6aad5eaabe56b4",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Probidad",
-      "priority": "Media",
-      "title": "«Aquí tienes la parte considerativa y resolutiva»: la huella de la Inteligencia Artificial en sentencias del Poder Judicial",
-      "summary": "La entrada «Aquí tienes la parte considerativa y resolutiva»: la huella de la Inteligencia Artificial en sentencias del Poder Judicial se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/11/10/aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=aqui-tienes-la-parte-considerativa-y-resolutiva-la-huella-de-la-inteligencia-artificial-en-sentencias-del-poder-judicial",
-      "publishedAt": "Tue, 10 Nov 2026 19:34:45 +0000",
-      "politicalScore": 3,
-      "eventKey": "chile-probidad-chile-probidad-aqui-tienes",
-      "firstSeenAt": "2026-11-14T05:44:04.477Z",
-      "lastSeenAt": "2026-11-14T05:44:04.477Z",
+      "firstSeenAt": "2026-11-14T13:15:16.377Z",
+      "lastSeenAt": "2026-11-14T13:15:16.377Z",
       "seenCount": 1
     }
   ]
