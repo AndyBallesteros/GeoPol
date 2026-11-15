@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-14T22:09:32.924Z",
-  "count": 61,
-  "failures": [
-    {
-      "source": "efecto-cocuyo-venezuela",
-      "error": "403 Forbidden"
-    }
-  ],
+  "generatedAt": "2026-11-15T05:43:51.147Z",
+  "count": 58,
+  "failures": [],
   "stats": {
-    "generatedAt": "2026-11-14T22:09:32.924Z",
-    "activeSignals": 61,
-    "archiveSignals": 119,
+    "generatedAt": "2026-11-15T05:43:51.147Z",
+    "activeSignals": 58,
+    "archiveSignals": 116,
     "countriesCovered": 8,
-    "highPrioritySignals": 22,
-    "averagePoliticalScore": 5.85
+    "highPrioritySignals": 21,
+    "averagePoliticalScore": 5.9
   },
   "briefings": [
     {
@@ -58,7 +53,7 @@
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 12,
+      "signalCount": 11,
       "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
     },
     {
@@ -86,39 +81,39 @@
         "Elecciones"
       ],
       "topSources": [
-        "El Pais"
+        "El Pais",
+        "El Mundo"
       ],
-      "signalCount": 5,
+      "signalCount": 4,
       "summary": "Foco en Elecciones. Vigilar El Pais y El Pais."
     },
     {
-      "country": "Peru",
+      "country": "Venezuela",
       "priority": "Alta",
-      "leadTitle": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-      "leadUrl": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+      "leadTitle": "Gobierno de Trump atribuye el caos aéreo en EEUU a un sistema obsoleto",
+      "leadUrl": "https://efectococuyo.com/internacionales/gobierno-de-trump-atribuye-el-caos-aereo-en-eeuu-a-un-sistema-obsoleto/",
       "focusTopics": [
-        "Gobernabilidad"
+        "Diplomacia"
       ],
       "topSources": [
-        "El Comercio"
+        "Efecto Cocuyo"
       ],
       "signalCount": 4,
-      "summary": "Foco en Gobernabilidad. Vigilar El Comercio y El Comercio."
+      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Uruguay",
       "priority": "Alta",
-      "leadTitle": "Juan Castillo: “Estamos en un mejor momento” y “Yamandú está jugando un rol mucho más importante de dirección”",
-      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/11/juan-castillo-estamos-en-un-mejor-momento-y-yamandu-esta-jugando-un-rol-mucho-mas-importante-de-direccion/",
+      "leadTitle": "Con más de 200 participantes se desarrolló el 9º Encuentro Nacional de Género y Cooperativismo en Minas",
+      "leadUrl": "https://ladiaria.com.uy/politica/articulo/2026/11/con-mas-de-200-participantes-se-desarrollo-el-9o-encuentro-nacional-de-genero-y-cooperativismo-en-minas/",
       "focusTopics": [
-        "Elecciones",
         "Seguridad"
       ],
       "topSources": [
         "La Diaria"
       ],
-      "signalCount": 2,
-      "summary": "Foco en Elecciones, Seguridad. Vigilar La Diaria y La Diaria."
+      "signalCount": 1,
+      "summary": "Foco en Seguridad. Vigilar La Diaria."
     },
     {
       "country": "Cuba",
@@ -149,8 +144,59 @@
       "publishedAt": "Sat, 14 Nov 2026 21:56:34 +0000",
       "politicalScore": 17,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3b410ffd50f255be",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "El Gobierno acelera el debate para suspender las PASO sin saber si tiene los votos asegurados",
+      "summary": "El oficialismo buscará dictaminar el martes una reforma electoral que sumaría la posibilidad de incorporar listas de acople o adhesión; hasta el momento cuenta con 31 votos asegurados de los 37 que necesita para darle media sanción",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/",
+      "publishedAt": "Sun, 15 Nov 2026 03:19:00 +0000",
+      "politicalScore": 16,
+      "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-acelera",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "3e0dcdc0fd9e23ab",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Una prueba de fuego para el futuro del Gobierno",
+      "summary": "Con la reforma electoral Milei pone en juego su sustentabilidad política, la tranquilidad de los mercados y la relación con Bullrich; el impacto social de la visita del Papa y la interpelación a la dirigencia",
+      "url": "https://www.lanacion.com.ar/politica/una-prueba-de-fuego-para-el-futuro-del-gobierno-nid14112026/",
+      "publishedAt": "Sun, 15 Nov 2026 01:50:00 +0000",
+      "politicalScore": 12,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-prueba",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7d9367a4ff215e12",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Milei ratificó sus intenciones de competir en 2027: “Para los que dudan, sí, estoy yendo por la reelección”",
+      "summary": "El Presidente inauguró una muestra de Belgrano en el Museo de la Casa Rosada; prometió que si gana va a comerciar con “90% del planeta” y a devolverles a los argentinos “US$500.000 millones” en impuestos",
+      "url": "https://www.lanacion.com.ar/politica/milei-ratifico-sus-intenciones-de-competir-en-2027-para-los-que-dudan-si-estoy-yendo-por-la-nid14112026/",
+      "publishedAt": "Sat, 14 Nov 2026 22:53:46 +0000",
+      "politicalScore": 11,
+      "eventKey": "argentina-elecciones-argentina-elecciones-milei-ratifico",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -166,59 +212,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:10:00 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trumpismo-menguante",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "435a19ebfa8315fe",
-      "country": "Uruguay",
-      "source": "La Diaria",
-      "sourceType": "Analisis",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Juan Castillo: “Estamos en un mejor momento” y “Yamandú está jugando un rol mucho más importante de dirección”",
-      "summary": "Alentados por indicadores positivos en materia de pobreza, ingresos, salarios y producción, ministros del gobierno destacan que se ingresó en una “nueva etapa” y adelantan proyectos para lo que resta del mandato. En mayo de este año se conoció la noticia de qu",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/juan-castillo-estamos-en-un-mejor-momento-y-yamandu-esta-jugando-un-rol-mucho-mas-importante-de-direccion/",
-      "publishedAt": "Sat, 14 Nov 2026 00:33:04 -0300",
-      "politicalScore": 11,
-      "eventKey": "uruguay-elecciones-uruguay-elecciones-juan-castillo",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "fe467a447b01b359",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Piden informes a dos empresas vinculadas a los Menem por su contratación en los eventos del Papa",
-      "summary": "Se trata de Tech Security SRL y Purgato S.A.; en ambas tienen acciones los hermanos del presidente de la Cámara de Diputados; ya habían sido señaladas por prestar servicios para el Banco Nación y la Superintendencia de Riesgos del Trabajo",
-      "url": "https://www.lanacion.com.ar/politica/piden-informes-a-dos-empresas-vinculadas-a-los-menem-por-su-contratacion-en-los-eventos-del-papa-nid13112026/",
-      "publishedAt": "Fri, 13 Nov 2026 23:36:38 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-piden",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ab3f41a7b71d8a10",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Causa $LIBRA: el lobista Novelli pidió que la jueza que votó en favor de los querellantes y contra el Gobierno se aparte de la causa",
-      "summary": "Se trata de la camarista Ángela Ledesma; su voto fue clave en la una resolución reciente que podría derivar en la reapertura del expediente",
-      "url": "https://www.lanacion.com.ar/politica/causa-libra-el-lobista-novelli-pidio-que-la-jueza-que-voto-en-favor-de-los-querellantes-y-contra-el-nid13112026/",
-      "publishedAt": "Fri, 13 Nov 2026 21:10:27 +0000",
-      "politicalScore": 11,
-      "eventKey": "argentina-elecciones-argentina-elecciones-causa-libra",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -234,8 +229,8 @@
       "publishedAt": "Fri, 13 Nov 2026 07:30:00 +0000",
       "politicalScore": 10,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-represion-fractura",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -251,8 +246,8 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -268,25 +263,8 @@
       "publishedAt": "Sat, 14 Nov 2026 17:06:27 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cepeda-denunciara",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b530658847a82016",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Javier Milei: “Lo único que le faltaba al país eran reglas claras”",
-      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/",
-      "publishedAt": "Sat, 14 Nov 2026 01:00:00 +0000",
-      "politicalScore": 9,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-javier",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -302,25 +280,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:16:29 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-seguridad-uruguay-seguridad-participantes-desarrollo",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "66b5266de30c9623",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "Sánchez pide “el voto europeísta” para frenar a Abascal",
-      "summary": "El presidente no hace distinción entre Feijóo y su socio potencial de Gobierno y destaca las alianzas del líder de Vox con dirigentes de la ultraderecha global como Trump, Milei, Orban, Salvini y Meloni",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html",
-      "publishedAt": "Sat, 14 Nov 2026 17:23:22 GMT",
-      "politicalScore": 8,
-      "eventKey": "espana-elecciones-espana-elecciones-sanchez-pide",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -336,42 +297,42 @@
       "publishedAt": "Sat, 14 Nov 2026 16:20:06 +0000",
       "politicalScore": 8,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
-      "id": "ba09ea867035e298",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "id": "a5291c521f34b10f",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
       "priority": "Alta",
-      "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-      "summary": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
-      "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-      "publishedAt": "Sat, 14 Nov 2026 21:32:29 +0000",
-      "politicalScore": 7,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-vladimiro-montesinos",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "title": "Gobierno de Trump atribuye el caos aéreo en EEUU a un sistema obsoleto",
+      "summary": "El Gobierno del presidente de EE. UU., Donald Trump, atribuyó este viernes a la obsolescencia de los sistemas de comunicaciones aéreas el fallo que obligó a suspender durante cuatro horas los despegues en todo Estados Unidos y provocó miles de cancelaciones y ",
+      "url": "https://efectococuyo.com/internacionales/gobierno-de-trump-atribuye-el-caos-aereo-en-eeuu-a-un-sistema-obsoleto/",
+      "publishedAt": "Sat, 14 Nov 2026 15:00:38 +0000",
+      "politicalScore": 8,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-trump",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
-      "id": "ecd6693b69188d5d",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "25fcb84494be5c28",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Top ten del Congreso: Lo bueno, lo malo y lo feo de la era bicameral en sus primeros 100 días",
-      "summary": "En sus primeros 100 días, la nueva era bicameral estuvo marcada por entrampamientos, disidencias y casos de ética parlamentaria.",
-      "url": "https://elcomercio.pe/politica/top-ten-del-congreso-lo-bueno-lo-malo-y-lo-feo-de-la-era-bicameral-en-sus-primeros-100-dias-senado-diputados-noticia/",
-      "publishedAt": "Sat, 14 Nov 2026 21:32:08 +0000",
+      "title": "Las tres crisis simultáneas que asedian al Gobierno",
+      "summary": "Disipada la euforia papal, afloran números preocupantes de la economía y se agrava el desorden político libertario; León XIV trazó un contraste con el discurso moral de Milei, en medio de un alza del pesimismo social",
+      "url": "https://www.lanacion.com.ar/politica/las-tres-crisis-simultaneas-que-asedian-al-gobierno-nid14112026/",
+      "publishedAt": "Sat, 14 Nov 2026 23:31:00 +0000",
       "politicalScore": 7,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-congreso-bueno",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-tres",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -387,8 +348,8 @@
       "publishedAt": "Sat, 14 Nov 2026 20:53:15 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-nahuel",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -398,14 +359,14 @@
       "sourceType": "Generalista",
       "topic": "Economia politica",
       "priority": "Alta",
-      "title": "Tensión por Malvinas: después de quince años, un buque chileno partirá de Punta Arenas hacia las islas",
-      "summary": "Pese a la advertencia del Gobierno argentino, la naviera trasandina Easter Island Logistics confirmó que el 17 de diciembre próximo se reactivará la ruta comercial con el archipiélago",
+      "title": "Malvinas: después de quince años, un buque chileno partirá de Punta Arenas hacia las islas",
+      "summary": "La naviera trasandina Easter Island Logistics confirmó que el 17 de diciembre próximo se reactivará la ruta comercial con el archipiélago; el Gobierno exige que cumpla la normativa vigente",
       "url": "https://www.lanacion.com.ar/politica/tension-por-malvinas-despues-de-quince-anos-un-buque-chileno-partira-de-punta-arenas-hacia-las-islas-nid14112026/",
       "publishedAt": "Sat, 14 Nov 2026 20:42:27 +0000",
       "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-tension",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-malvinas",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -421,8 +382,8 @@
       "publishedAt": "Sat, 14 Nov 2026 19:06:51 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-silla-vacia",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -438,8 +399,25 @@
       "publishedAt": "Sat, 14 Nov 2026 17:37:44 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-efectividad-grupo",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a6fa82efd27182af",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
+      "priority": "Alta",
+      "title": "Ley del Sistema y Servicio Eléctrico en 8 claves: Se quedó a medio camino, señalan expertos",
+      "summary": "Elías Matta considera positiva la apertura al capital privado, pero dice que temas como el arbitraje y los subsidios no están bien definidos",
+      "url": "https://efectococuyo.com/politica/ley-del-sistema-y-servicio-electrico-en-8-claves-se-quedo-a-medio-camino-senalan-expertos/",
+      "publishedAt": "Sat, 14 Nov 2026 15:30:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sistema-servicio",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -455,8 +433,8 @@
       "publishedAt": "Sat, 14 Nov 2026 14:49:26 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-luis-felipe",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -472,8 +450,8 @@
       "publishedAt": "Fri, 13 Nov 2026 21:14:56 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-discusion",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -489,25 +467,25 @@
       "publishedAt": "Wed, 11 Nov 2026 23:00:13 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
-      "id": "01227452a35fa61f",
+      "id": "49926270a04f2716",
       "country": "Espana",
       "source": "El Pais",
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Abascal defiende la prioridad nacional: “Nos presentamos a las elecciones para hacer legal lo que hoy nos dicen que es ilegal”",
-      "summary": "El líder de Vox contesta al líder del PP, Alberto Núñez Feijóo, que el viernes calificó de ilegal el principio que propone la formación de ultraderecha",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/abascal-defiende-la-prioridad-nacional-nos-presentamos-a-las-elecciones-para-hacer-legal-lo-que-hoy-nos-dicen-que-es-ilegal.html",
-      "publishedAt": "Sat, 14 Nov 2026 15:38:54 GMT",
+      "title": "Miriam Nogueras, candidata de Junts: “No me presento para poner o quitar presidentes españoles”",
+      "summary": "La cabeza de lista de la formación reivindica los éxitos que le ha dado la presión a Pedro Sánchez, pero veta al actual presidente para una eventual reelección",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/miriam-nogueras-candidata-de-junts-no-me-presento-para-poner-o-quitar-presidentes-espanoles.html",
+      "publishedAt": "Sun, 15 Nov 2026 04:30:01 GMT",
       "politicalScore": 6,
-      "eventKey": "espana-elecciones-espana-elecciones-abascal-defiende",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "eventKey": "espana-elecciones-espana-elecciones-miriam-nogueras",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -523,8 +501,8 @@
       "publishedAt": "Sat, 14 Nov 2026 21:13:12 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-malvinas-camino",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -540,8 +518,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:47:25 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-hugo",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -557,42 +535,8 @@
       "publishedAt": "Sat, 14 Nov 2026 15:40:00 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-izquierda-petro",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "885ff5b4a5fcbcd2",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "La justicia ordenó la liquidación de las acciones de Austral Agro SA, una de las empresas que operaba Lázaro Báez desde la cárcel",
-      "summary": "Es una de las empresas con las que el empresario kirchnerista seguía administrando campos por fuera del circuito judicial",
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-ordeno-la-liquidacion-de-las-acciones-de-austral-agro-sa-para-ejecutar-las-multas-a-nid13112026/",
-      "publishedAt": "Sat, 14 Nov 2026 01:16:21 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-justicia-ordeno",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3cf988f02bc716f1",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Hotesur-Los Sauces: el tribunal acelera las audiencias y habilita un nuevo día para el desarrollo del juicio",
-      "summary": "Por primera vez, el proceso en el que se acusa a Cristina y Máximo Kircher por lavado se desarrollará un miércoles; la intención es sumar ese día para pronto poder realizar tres sesiones por semana",
-      "url": "https://www.lanacion.com.ar/politica/hotesur-los-sauces-el-tribunal-acelera-las-audiencias-y-habilita-un-nuevo-dia-para-el-desarrollo-del-nid13112026/",
-      "publishedAt": "Fri, 13 Nov 2026 20:58:14 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-instituciones-argentina-instituciones-hotesur-sauces",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -608,8 +552,8 @@
       "publishedAt": "Fri, 13 Nov 2026 16:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espriella-accidentados",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -625,8 +569,8 @@
       "publishedAt": "Fri, 13 Nov 2026 14:45:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-microsoft-descarta",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -642,8 +586,8 @@
       "publishedAt": "Fri, 13 Nov 2026 13:23:37 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excluyen-obispos",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -659,8 +603,42 @@
       "publishedAt": "Thu, 12 Nov 2026 23:21:20 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-gobierno-camioneros",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "c629a69eddfdba41",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Abelardo gana tutela por el “Viva Cristo Rey”. Deberá rectificar en otra",
+      "summary": "El primer fallo reconoció que el presidente no está despojado de su libertad de culto. En el otro, un ciudadano ateo dijo que vulneró sus derechos en un discurso. The post Abelardo gana tutela por el “Viva Cristo Rey”. Deberá rectificar en otra appeared first ",
+      "url": "https://www.lasillavacia.com/en-vivo/abelardo-gana-tutela-por-el-viva-cristo-rey-debera-rectificar-en-otra/",
+      "publishedAt": "Sat, 14 Nov 2026 22:23:26 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-gana",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "24cdd870c299aa7b",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Abascal se encomienda a sus feudos del Levante para \"echar a la mafia\" del Gobierno: \"Meten miedo al mismo demonio\"",
+      "summary": "El líder de Vox pide el voto en Almería y en Murcia para lograr un \"cambio profundo\" frente al \"recambio\" del PP&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/2026/11/14/6af832e4e85eceaa6f8b4598.html",
+      "publishedAt": "Sat, 14 Nov 2026 21:52:02 +0100",
+      "politicalScore": 5,
+      "eventKey": "espana-elecciones-espana-elecciones-abascal-encomienda",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -676,42 +654,25 @@
       "publishedAt": "Sat, 14 Nov 2026 19:39:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-foto-gobierno",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
-      "id": "21c2b1c0248c2216",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Elecciones",
+      "id": "8e5033429bf1cbee",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Diplomacia",
       "priority": "Media",
-      "title": "Colau contrapone su propuesta para ampliar la cobertura de la sanidad pública con el modelo “debilitado” del PP en Andalucía",
-      "summary": "Frente Amplio se desmarca de Adelante y llama al voto con una reivindicación de su papel en el Gobierno",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-14/colau-contrapone-su-propuesta-para-ampliar-la-cobertura-de-la-sanidad-publica-con-el-modelo-debilitado-del-pp-en-andalucia.html",
-      "publishedAt": "Sat, 14 Nov 2026 16:24:51 GMT",
+      "title": "Mesas técnicas de diálogo se centran este sábado en temas de garantías políticas y oro venezolano",
+      "summary": "AN 2015 anunció los temas que se tratarán en la reunión de este sábado 14 de noviembre",
+      "url": "https://efectococuyo.com/politica/mesas-tecnicas-de-dialogo-se-centran-este-sabado-en-temas-de-garantias-politicas-y-oro-venezolano/",
+      "publishedAt": "Sat, 14 Nov 2026 16:54:09 +0000",
       "politicalScore": 5,
-      "eventKey": "espana-elecciones-espana-elecciones-colau-contrapone",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a911eb805e912627",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Cien días de miedo de Abelardo de la Espriella",
-      "summary": "\"Más allá de las discusiones sobre la situación fiscal, la atención del terremoto o los escándalos de Petro, estos han sido 100 días de miedo\". The post Cien días de miedo de Abelardo de la Espriella appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/cien-dias/",
-      "publishedAt": "Sat, 14 Nov 2026 14:20:37 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-cien",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-mesas-tecnicas",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -727,8 +688,8 @@
       "publishedAt": "Fri, 13 Nov 2026 16:29:32 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-nuevo-informe",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -744,42 +705,59 @@
       "publishedAt": "Wed, 11 Nov 2026 21:19:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-diplomacia-chile-diplomacia-leon-frente",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
-      "id": "c86ce8785d9df199",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "6a7dfdc1dc1f0764",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "Alcaldía de Lima: especialistas cuestionan demora del JNE en proclamar resultados",
-      "summary": "Con el 99,996% de las actas contabilizadas, la lista de Renovación Popular, que tiene a Rafael López Aliaga como candidato a primer regidor, encabeza los resultados.",
-      "url": "https://elcomercio.pe/politica/rafael-lopez-aliaga-alcaldia-de-lima-a-una-acta-del-100-del-conteo-en-lima-especialistas-critican-demora-del-jne-en-proclamar-resultados-apuesplan-noticia/",
-      "publishedAt": "Sat, 14 Nov 2026 21:33:39 +0000",
+      "title": "El Gobierno eliminó el pago adicional de 30% al uso del GNC en los colectivos y reavivó la guerra por los subsidios",
+      "summary": "Reemplazó el “incentivo” por una tarifa que calcula; la medida oficial se da en medio de causas penales cruzadas, $6500 millones retenidos y $12 millones por mes de compensación por cada unidad que circula",
+      "url": "https://www.lanacion.com.ar/economia/el-gobierno-elimino-el-pago-adicional-de-30-al-uso-del-gnc-en-los-colectivos-y-reavivo-la-guerra-por-nid15112026/",
+      "publishedAt": "Sun, 15 Nov 2026 04:00:00 +0000",
       "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-alcaldia-lima",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
-      "id": "13eedf7f14f8eaac",
-      "country": "Peru",
-      "source": "El Comercio",
+      "id": "891ff1af754d8252",
+      "country": "Argentina",
+      "source": "La Nacion",
       "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
+      "topic": "Economia politica",
       "priority": "Media",
-      "title": "León, arrullos y rugidos, una crónica de Fernando Vivas sobre el Papa y el Perú",
-      "summary": "Quien fuera entre nosotros, primero padre, luego monseñor Robert Prevost; regresó como Su Santidad León XIV. Más que una visita apostólica, es un reencuentro con el terruño.",
-      "url": "https://elcomercio.pe/politica/leon-xiv-arrullos-y-rugidos-una-cronica-de-fernando-vivas-sobre-el-papa-y-el-peru-apuesta-noticia/",
-      "publishedAt": "Sat, 14 Nov 2026 21:31:49 +0000",
+      "title": "Federico Beligoy, el protegido de Chiqui Tapia que está de los dos lados del mostrador",
+      "summary": "Es director de arbitraje en la AFA y a su vez lidera uno de los gremios de referís; fue vendedor de libros y ahora está baja la lupa por operaciones inmobiliarias millonarias",
+      "url": "https://www.lanacion.com.ar/politica/federico-beligoy-el-protegido-de-chiqui-tapia-que-esta-de-los-dos-lados-del-mostrador-nid15112026/",
+      "publishedAt": "Sun, 15 Nov 2026 03:02:00 +0000",
       "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-leon-arrullos",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-federico",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "af25f8e19ffba442",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "Agreden con piedras y petardos a Jon Echeverría en Hernani y Feijóo reclama: \"Ni un paso atrás. Con todas las ganas de ganarles también a los socios de Sánchez\"",
+      "summary": "Tras lo ocurrido, el PP ha indicado que \"no se dan las condiciones democráticas suficientes para realizar una campaña\" y solo celebrará bajo ciertas \"condiciones de seguridad\"&nbsp; Leer",
+      "url": "https://www.elmundo.es/pais-vasco/2026/11/14/6af863cae85ecedc3b8b457b.html",
+      "publishedAt": "Sat, 14 Nov 2026 20:27:33 +0100",
+      "politicalScore": 4,
+      "eventKey": "espana-seguridad-espana-seguridad-agreden-piedras",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -795,8 +773,8 @@
       "publishedAt": "Sat, 14 Nov 2026 16:53:13 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -812,42 +790,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:30:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-decadas-resultados",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "69858a350aca2c47",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Quién es quién: Lázaro Báez, el caso de lavado y las sospechas de narcotráfico",
-      "summary": "Desde la cárcel, el exempresario kirchnerista daba instrucciones para usufuctuar las propiedades que debían estar decomisadas; quedó vinculado a nuevas investigaciones",
-      "url": "https://www.lanacion.com.ar/politica/lazaro-baez-el-caso-de-lavado-y-las-sospechas-de-narcotrafico-nid13112026/",
-      "publishedAt": "Fri, 13 Nov 2026 21:55:15 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-seguridad-argentina-seguridad-quien-lazaro",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "16e47111d5f29668",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Una empresa norteamericana que fue proveedora de la AFA pagó el vuelo del escape de Flavio Bolsonaro",
-      "summary": "Se trata de Emerald Aviation Inc., cuyo dueño es un piloto argentino; se desconoce todavía quién la contrató; costó US$150.000",
-      "url": "https://www.lanacion.com.ar/politica/una-empresa-norteamericana-que-fue-proveedora-de-la-afa-pago-el-vuelo-del-escape-de-flavio-bolsonaro-nid13112026/",
-      "publishedAt": "Fri, 13 Nov 2026 21:32:45 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-empresa",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -863,25 +807,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mujeres-cuanto",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0a51921597435d5f",
-      "country": "Espana",
-      "source": "El Mundo",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "La Fiscalía denuncia a TikTok por la elaboración y difusión de contenidos de abuso sexual infantil",
-      "summary": "Pide retirar los contenidos denunciados con carácter inmediato y declarar secretas las actuaciones que se practiquen&nbsp; Leer",
-      "url": "https://www.elmundo.es/espana/2026/11/13/6af721fefdddff53028b45a5.html",
-      "publishedAt": "Fri, 13 Nov 2026 15:57:44 +0100",
-      "politicalScore": 4,
-      "eventKey": "espana-economia-politica-espana-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -897,8 +824,8 @@
       "publishedAt": "Fri, 13 Nov 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-europa-regresa",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -914,8 +841,8 @@
       "publishedAt": "Thu, 12 Nov 2026 14:13:18 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-importar-fechas",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -931,8 +858,25 @@
       "publishedAt": "Thu, 12 Nov 2026 13:16:29 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-temor-delito",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "seenCount": 1
+    },
+    {
+      "id": "7b7a388f206a3dd7",
+      "country": "Venezuela",
+      "source": "Efecto Cocuyo",
+      "sourceType": "Digital",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "¿Quiénes son los presos políticos del caso Paramacay con condenas ratificadas de hasta 30 años?",
+      "summary": "La Sala 2 de la Corte de Apelaciones ratificó las condenas de 30 años de prisión para 16 procesados del caso Paramacay",
+      "url": "https://efectococuyo.com/la-humanidad/quienes-son-los-presos-politicos-paramacay-con-condenas-ratificadas-de-hasta-30-anos/",
+      "publishedAt": "Sat, 14 Nov 2026 20:10:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "venezuela-instituciones-venezuela-instituciones-quienes-presos",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -948,8 +892,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:26:36 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-casa-blanca",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -965,8 +909,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:21:37 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-poner-limite",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -982,8 +926,8 @@
       "publishedAt": "Sat, 14 Nov 2026 16:38:40 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-fogatas-cacerolazos",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -999,8 +943,8 @@
       "publishedAt": "Sat, 14 Nov 2026 16:15:29 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-paradoja-agua",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1016,8 +960,8 @@
       "publishedAt": "Sat, 14 Nov 2026 12:54:31 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-moscu-reitera",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1033,8 +977,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:25:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-policia-arresta",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1050,8 +994,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:00:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-proyecto-denuncias",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1067,8 +1011,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:00:21 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-seguimos-llegando",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1084,8 +1028,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:35:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-papa-leon",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1101,8 +1045,8 @@
       "publishedAt": "Fri, 13 Nov 2026 14:30:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dimite-jensen",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1118,8 +1062,8 @@
       "publishedAt": "Fri, 13 Nov 2026 07:25:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-centroamerica-actualiza",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1135,8 +1079,8 @@
       "publishedAt": "Thu, 12 Nov 2026 23:04:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-adoptar-doctrina",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1152,8 +1096,8 @@
       "publishedAt": "Thu, 12 Nov 2026 20:18:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sexta-version",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     },
     {
@@ -1169,8 +1113,8 @@
       "publishedAt": "Wed, 11 Nov 2026 15:31:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-necesario-introducir",
-      "firstSeenAt": "2026-11-14T22:09:32.924Z",
-      "lastSeenAt": "2026-11-14T22:09:32.924Z",
+      "firstSeenAt": "2026-11-15T05:43:51.147Z",
+      "lastSeenAt": "2026-11-15T05:43:51.147Z",
       "seenCount": 1
     }
   ]
