@@ -1,31 +1,21 @@
 {
-  "generatedAt": "2026-11-15T05:43:51.147Z",
-  "count": 58,
-  "failures": [],
+  "generatedAt": "2026-11-15T13:43:30.199Z",
+  "count": 51,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-15T05:43:51.147Z",
-    "activeSignals": 58,
-    "archiveSignals": 116,
-    "countriesCovered": 8,
-    "highPrioritySignals": 21,
-    "averagePoliticalScore": 5.9
+    "generatedAt": "2026-11-15T13:43:30.199Z",
+    "activeSignals": 51,
+    "archiveSignals": 109,
+    "countriesCovered": 7,
+    "highPrioritySignals": 17,
+    "averagePoliticalScore": 5.98
   },
   "briefings": [
-    {
-      "country": "Nicaragua",
-      "priority": "Alta",
-      "leadTitle": "El trumpismo menguante",
-      "leadUrl": "https://confidencial.digital/opinion/el-trumpismo-menguante/",
-      "focusTopics": [
-        "Elecciones",
-        "Instituciones"
-      ],
-      "topSources": [
-        "Confidencial"
-      ],
-      "signalCount": 14,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
-    },
     {
       "country": "Chile",
       "priority": "Alta",
@@ -44,33 +34,47 @@
     {
       "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "El Gobierno prioriza la negociación para eliminar las PASO y posterga la ofensiva para ordenar a Bullrich",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-prioriza-la-negociacion-para-eliminar-las-paso-y-posterga-la-ofensiva-para-ordenar-a-nid14112026/",
+      "leadTitle": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+      "leadUrl": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
       "focusTopics": [
-        "Economia politica",
-        "Elecciones"
+        "Elecciones",
+        "Economia politica"
       ],
       "topSources": [
         "La Nacion"
       ],
-      "signalCount": 11,
-      "summary": "Foco en Economia politica, Elecciones. Vigilar La Nacion y La Nacion."
+      "signalCount": 12,
+      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+    },
+    {
+      "country": "Nicaragua",
+      "priority": "Alta",
+      "leadTitle": "El trumpismo menguante",
+      "leadUrl": "https://confidencial.digital/opinion/el-trumpismo-menguante/",
+      "focusTopics": [
+        "Elecciones",
+        "Instituciones"
+      ],
+      "topSources": [
+        "Confidencial"
+      ],
+      "signalCount": 12,
+      "summary": "Foco en Elecciones, Instituciones. Vigilar Confidencial y Confidencial."
     },
     {
       "country": "Colombia",
       "priority": "Alta",
-      "leadTitle": "Cepeda denunciará a Ordóñez por publicaciones en redes del MinInterior",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/cepeda-denunciara-a-ordonez-por-publicaciones-en-redes-del-mininterior/",
+      "leadTitle": "La Silla Vacía rechaza nuevos señalamientos de Carlos Suárez, presidente de la junta de Ecopetrol",
+      "leadUrl": "https://www.lasillavacia.com/en-vivo/la-silla-vacia-rechaza-nuevos-senalamientos-de-carlos-suarez-presidente-de-la-junta-de-ecopetrol/",
       "focusTopics": [
-        "Gobernabilidad",
-        "Economia politica",
-        "Seguridad"
+        "Seguridad",
+        "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 8,
-      "summary": "Foco en Gobernabilidad, Economia politica, Seguridad. Vigilar La Silla Vacia y La Silla Vacia."
+      "signalCount": 5,
+      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
     },
     {
       "country": "Espana",
@@ -86,20 +90,6 @@
       ],
       "signalCount": 4,
       "summary": "Foco en Elecciones. Vigilar El Pais y El Pais."
-    },
-    {
-      "country": "Venezuela",
-      "priority": "Alta",
-      "leadTitle": "Gobierno de Trump atribuye el caos aéreo en EEUU a un sistema obsoleto",
-      "leadUrl": "https://efectococuyo.com/internacionales/gobierno-de-trump-atribuye-el-caos-aereo-en-eeuu-a-un-sistema-obsoleto/",
-      "focusTopics": [
-        "Diplomacia"
-      ],
-      "topSources": [
-        "Efecto Cocuyo"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
     },
     {
       "country": "Uruguay",
@@ -118,19 +108,36 @@
     {
       "country": "Cuba",
       "priority": "Media",
-      "leadTitle": "Fogatas, cacerolazos y gritos de \"¡Queremos luz!\" en una nueva protesta en Calabazar",
-      "leadUrl": "https://www.14ymedio.com/cuba/fogatas-cacerolazos-gritos-protesta-apagones_1_1133228.html",
+      "leadTitle": "Díaz-Canel rescata una vieja propuesta de expertos independientes: generar electricidad con la caña de azúcar",
+      "leadUrl": "https://www.14ymedio.com/cuba/diaz-canel-rescata-vieja-propuesta_1_1133260.html",
       "focusTopics": [
         "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 3,
+      "signalCount": 4,
       "summary": "Foco en Sociedad. Vigilar 14ymedio y 14ymedio."
     }
   ],
   "signals": [
+    {
+      "id": "46f27fc2421b0891",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+      "summary": "El año que viene los argentinos elegirán a su próximo presidente, y es importante para los que van a votar conocer previamente el lugar en el que ejercerán el sufragio para agilizar el trámite electoral",
+      "url": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
+      "publishedAt": "Sun, 15 Nov 2026 12:56:43 +0000",
+      "politicalScore": 18,
+      "eventKey": "argentina-elecciones-argentina-elecciones-donde-voto",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
     {
       "id": "90ab0e8fe9aa0e78",
       "country": "Argentina",
@@ -144,8 +151,8 @@
       "publishedAt": "Sat, 14 Nov 2026 21:56:34 +0000",
       "politicalScore": 17,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -161,8 +168,8 @@
       "publishedAt": "Sun, 15 Nov 2026 03:19:00 +0000",
       "politicalScore": 16,
       "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-acelera",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -178,8 +185,8 @@
       "publishedAt": "Sun, 15 Nov 2026 01:50:00 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-prueba",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -195,8 +202,8 @@
       "publishedAt": "Sat, 14 Nov 2026 22:53:46 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-elecciones-argentina-elecciones-milei-ratifico",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -212,25 +219,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:10:00 +0000",
       "politicalScore": 11,
       "eventKey": "nicaragua-elecciones-nicaragua-elecciones-trumpismo-menguante",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "dbaa4c9043aead40",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Alta",
-      "title": "La represión fractura a la Iglesia católica perseguida de Nicaragua",
-      "summary": "La elección del obispo de la Diócesis de Granada, Jorge Solórzano, como nuevo Presidente de la Conferencia Episcopal de Nicaragua (CEN) –sin consultar a los obispos exiliados–, pone en evidencia la fractura que existe en la jerarquía y en la comunión de la Igl",
-      "url": "https://confidencial.digital/opinion/la-represion-fractura-a-la-iglesia-catolica-perseguida-de-nicaragua/",
-      "publishedAt": "Fri, 13 Nov 2026 07:30:00 +0000",
-      "politicalScore": 10,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-represion-fractura",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -246,25 +236,25 @@
       "publishedAt": "Tue, 13 Oct 2026 03:30:01 GMT",
       "politicalScore": 10,
       "eventKey": "espana-elecciones-espana-elecciones-puede-impedir",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
-      "id": "40fbaa29c01c6783",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
+      "id": "409a547535b8d38d",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Elecciones",
       "priority": "Alta",
-      "title": "Cepeda denunciará a Ordóñez por publicaciones en redes del MinInterior",
-      "summary": "La cartera trinó dos pronunciamientos del ministro contra el senador. Uno es un collage de fotos donde aparece Cepeda con ex-Farc. The post Cepeda denunciará a Ordóñez por publicaciones en redes del MinInterior appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/cepeda-denunciara-a-ordonez-por-publicaciones-en-redes-del-mininterior/",
-      "publishedAt": "Sat, 14 Nov 2026 17:06:27 +0000",
-      "politicalScore": 9,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-cepeda-denunciara",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "title": "El ejército digital que impulsó a Lula",
+      "summary": "En el canal “Ejército de Lula” de WhatsApp, los mensajes de André Janones llegaban a toda hora. “¡Urgente!”, anunciaba el diputado federal brasileño antes de asignar nuevas “misiones”: compartir contenidos de campaña, difundir etiquetas como #ComLulanaRua y ev",
+      "url": "https://confidencial.digital/opinion/el-ejercito-digital-que-impulso-a-lula/",
+      "publishedAt": "Sun, 15 Nov 2026 07:20:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-ejercito-digital",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -280,42 +270,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:16:29 -0300",
       "politicalScore": 8,
       "eventKey": "uruguay-seguridad-uruguay-seguridad-participantes-desarrollo",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2cf7071e14eb61f6",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Fiscalía archiva otro caso contra Uribe por presunto soborno a testigos",
-      "summary": "El caso es de 2018, cuando la Corte Suprema se abstuvo de investigar a Iván Cepeda. La decisión se tomó por falta de pruebas. The post Fiscalía archiva otro caso contra Uribe por presunto soborno a testigos appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/fiscalia-archiva-otro-caso-contra-uribe-por-presunto-soborno-a-testigos/",
-      "publishedAt": "Sat, 14 Nov 2026 16:20:06 +0000",
-      "politicalScore": 8,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-fiscalia",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a5291c521f34b10f",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Gobierno de Trump atribuye el caos aéreo en EEUU a un sistema obsoleto",
-      "summary": "El Gobierno del presidente de EE. UU., Donald Trump, atribuyó este viernes a la obsolescencia de los sistemas de comunicaciones aéreas el fallo que obligó a suspender durante cuatro horas los despegues en todo Estados Unidos y provocó miles de cancelaciones y ",
-      "url": "https://efectococuyo.com/internacionales/gobierno-de-trump-atribuye-el-caos-aereo-en-eeuu-a-un-sistema-obsoleto/",
-      "publishedAt": "Sat, 14 Nov 2026 15:00:38 +0000",
-      "politicalScore": 8,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-gobierno-trump",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -331,8 +287,8 @@
       "publishedAt": "Sat, 14 Nov 2026 23:31:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-tres",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -348,8 +304,8 @@
       "publishedAt": "Sat, 14 Nov 2026 20:53:15 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-nahuel",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -365,8 +321,8 @@
       "publishedAt": "Sat, 14 Nov 2026 20:42:27 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-malvinas",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -382,8 +338,8 @@
       "publishedAt": "Sat, 14 Nov 2026 19:06:51 +0000",
       "politicalScore": 7,
       "eventKey": "colombia-seguridad-colombia-seguridad-silla-vacia",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -399,42 +355,8 @@
       "publishedAt": "Sat, 14 Nov 2026 17:37:44 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-efectividad-grupo",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a6fa82efd27182af",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Alta",
-      "title": "Ley del Sistema y Servicio Eléctrico en 8 claves: Se quedó a medio camino, señalan expertos",
-      "summary": "Elías Matta considera positiva la apertura al capital privado, pero dice que temas como el arbitraje y los subsidios no están bien definidos",
-      "url": "https://efectococuyo.com/politica/ley-del-sistema-y-servicio-electrico-en-8-claves-se-quedo-a-medio-camino-senalan-expertos/",
-      "publishedAt": "Sat, 14 Nov 2026 15:30:00 +0000",
-      "politicalScore": 7,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-sistema-servicio",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "20160fddb7834c71",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Luis Felipe Henao es el nuevo gerente del Fondo Milagro",
-      "summary": "Es miembro de la Junta de Ecopetrol y exministro de Vivienda en el gobierno Santos. Su esposa, Luz Stella Murgas, es la nueva presidenta de la Andi. The post Luis Felipe Henao es el nuevo gerente del Fondo Milagro appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/luis-felipe-henao-es-el-nuevo-gerente-del-fondo-milagro/",
-      "publishedAt": "Sat, 14 Nov 2026 14:49:26 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-luis-felipe",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -450,8 +372,8 @@
       "publishedAt": "Fri, 13 Nov 2026 21:14:56 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-discusion",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -467,8 +389,8 @@
       "publishedAt": "Wed, 11 Nov 2026 23:00:13 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -484,8 +406,8 @@
       "publishedAt": "Sun, 15 Nov 2026 04:30:01 GMT",
       "politicalScore": 6,
       "eventKey": "espana-elecciones-espana-elecciones-miriam-nogueras",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -501,42 +423,8 @@
       "publishedAt": "Sat, 14 Nov 2026 21:13:12 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-diplomacia-argentina-diplomacia-malvinas-camino",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5010d8ac3e0c0ed5",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Hugo Moyano denunció en la Justicia un fraude millonario en Camioneros, pero ahora busca cerrar la causa",
-      "summary": "El sindicato no presentó toda la documentación contable para respaldar un supuesto desvío de fondos en la administración de un hotel en Mar del Plata; la pericia contable no detectó un perjuicio económico; presiones en la ARCA",
-      "url": "https://www.lanacion.com.ar/politica/hugo-moyano-denuncio-en-la-justicia-un-fraude-millonario-en-camioneros-pero-ahora-busca-cerrar-la-nid14112026/",
-      "publishedAt": "Sat, 14 Nov 2026 18:47:25 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-hugo",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f4ef49183dfa6018",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "La izquierda de Petro: paraíso perdido",
-      "summary": "\"Con los escándalos recientes del expresidente Petro, no sería exagerado decir que la izquierda liderada por él ha sido expulsada del paraíso que había construido\". The post La izquierda de Petro: paraíso perdido appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/la-izquierda-de-petro-paraiso-perdido/",
-      "publishedAt": "Sat, 14 Nov 2026 15:40:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-izquierda-petro",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -552,8 +440,8 @@
       "publishedAt": "Fri, 13 Nov 2026 16:00:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-espriella-accidentados",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -569,25 +457,8 @@
       "publishedAt": "Fri, 13 Nov 2026 14:45:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-microsoft-descarta",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7d7118e070b7cb22",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Elecciones",
-      "priority": "Media",
-      "title": "Excluyen a obispos en el exilio en la Conferencia Episcopal de Nicaragua",
-      "summary": "La elección de la nueva junta directiva de la Conferencia Episcopal de Nicaragua (CEN), encabezada por el obispo de Granada, monseñor Jorge Solórzano, dejó al descubierto una fractura en la institución. Fuentes cercanas a la cúpula de la Iglesia católica, reve",
-      "url": "https://confidencial.digital/analisis/excluyen-a-obispos-en-el-exilio-en-la-conferencia-episcopal-de-nicaragua/",
-      "publishedAt": "Fri, 13 Nov 2026 13:23:37 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-elecciones-nicaragua-elecciones-excluyen-obispos",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -603,8 +474,25 @@
       "publishedAt": "Thu, 12 Nov 2026 23:21:20 +0000",
       "politicalScore": 6,
       "eventKey": "chile-probidad-chile-probidad-gobierno-camioneros",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
+    {
+      "id": "71da3525eb4872f1",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "La ciencia colombiana necesita que Expociencia perdure",
+      "summary": "Expociencia es un patrimonio científico de Colombia que debe trascender los gobiernos y consolidarse como un espacio permanente de encuentro alrededor del conocimiento. The post La ciencia colombiana necesita que Expociencia perdure appeared first on La Silla ",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-de-ciencia-e-innovacion/la-ciencia-colombiana-necesita-que-expociencia-perdure/",
+      "publishedAt": "Sun, 15 Nov 2026 13:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ciencia-colombiana",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -620,8 +508,8 @@
       "publishedAt": "Sat, 14 Nov 2026 22:23:26 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-gana",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -637,8 +525,8 @@
       "publishedAt": "Sat, 14 Nov 2026 21:52:02 +0100",
       "politicalScore": 5,
       "eventKey": "espana-elecciones-espana-elecciones-abascal-encomienda",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -654,25 +542,8 @@
       "publishedAt": "Sat, 14 Nov 2026 19:39:00 +0000",
       "politicalScore": 5,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-foto-gobierno",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "8e5033429bf1cbee",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Mesas técnicas de diálogo se centran este sábado en temas de garantías políticas y oro venezolano",
-      "summary": "AN 2015 anunció los temas que se tratarán en la reunión de este sábado 14 de noviembre",
-      "url": "https://efectococuyo.com/politica/mesas-tecnicas-de-dialogo-se-centran-este-sabado-en-temas-de-garantias-politicas-y-oro-venezolano/",
-      "publishedAt": "Sat, 14 Nov 2026 16:54:09 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-mesas-tecnicas",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -688,8 +559,8 @@
       "publishedAt": "Fri, 13 Nov 2026 16:29:32 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-nuevo-informe",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -705,8 +576,93 @@
       "publishedAt": "Wed, 11 Nov 2026 21:19:03 +0000",
       "politicalScore": 5,
       "eventKey": "chile-diplomacia-chile-diplomacia-leon-frente",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
+    {
+      "id": "34c44cf813a232f8",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "Díaz-Canel rescata una vieja propuesta de expertos independientes: generar electricidad con la caña de azúcar",
+      "summary": "“El sector azucarero está en un proceso de reconversión, no de abandono”, decretan en una reunión del presidente con directivos de Azcuba",
+      "url": "https://www.14ymedio.com/cuba/diaz-canel-rescata-vieja-propuesta_1_1133260.html",
+      "publishedAt": "Sun, 15 Nov 2026 13:10:49 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-sociedad-cuba-sociedad-diaz-canel",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f12fea5819e962d9",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Sociedad",
+      "priority": "Media",
+      "title": "Venezuela prevé producir tres millones de barriles diarios de petróleo en diez años",
+      "summary": "Según el presidente de Pdvsa, la producción de crudo cerrará el año en 1,3 millones de bpd",
+      "url": "https://www.14ymedio.com/internacional/venezuela-preve-producir-tres-millones_1_1133255.html",
+      "publishedAt": "Sun, 15 Nov 2026 12:21:04 +0000",
+      "politicalScore": 4,
+      "eventKey": "cuba-sociedad-cuba-sociedad-venezuela-preve",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bd564f7eb288642e",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Natalio Botana: “León XIV señaló el camino que la democracia debería tener en la Argentina”",
+      "summary": "El politólogo e historiador elogió la recuperación que el Papa hizo de la doctrina social de la Iglesia y analiza cómo interpela su visita al país a todo el sistema político",
+      "url": "https://www.lanacion.com.ar/politica/natalio-botana-leon-xiv-senalo-el-camino-que-la-democracia-deberia-tener-en-la-argentina-nid15112026/",
+      "publishedAt": "Sun, 15 Nov 2026 09:00:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-natalio",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
+    {
+      "id": "84fae5721cbbfc46",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "El miedo a la dignidad",
+      "summary": "Mi padre, Carlos Brenes Sánchez, fue detenido el 14 de agosto de 2025 junto a Salvadora Martínez. El 15 de noviembre de este año son 15 meses sin saber de ellos. Ambos son hipertensos. Mi padre insulinodependiente. Salvadora tenía planeada una cirugía de la ve",
+      "url": "https://confidencial.digital/opinion/el-miedo-a-la-dignidad/",
+      "publishedAt": "Sun, 15 Nov 2026 07:30:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-miedo-dignidad",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
+      "seenCount": 1
+    },
+    {
+      "id": "e6852f12755ac188",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Los presos políticos en Venezuela: mercancía humana",
+      "summary": "Hasta donde me alcanza la memoria, este debe ser aproximadamente el artículo número quince o dieciséis que dedico a los presos políticos en los últimos cuatro años. Cada vez que he decidido abordar el tema, lo he hecho con la esperanza de que sea la última vez",
+      "url": "https://confidencial.digital/opinion/los-presos-politicos-en-venezuela-mercancia-humana/",
+      "publishedAt": "Sun, 15 Nov 2026 07:10:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-presos-politicos",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -722,8 +678,8 @@
       "publishedAt": "Sun, 15 Nov 2026 04:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-gobierno",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -739,8 +695,8 @@
       "publishedAt": "Sun, 15 Nov 2026 03:02:00 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-federico",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -756,8 +712,8 @@
       "publishedAt": "Sat, 14 Nov 2026 20:27:33 +0100",
       "politicalScore": 4,
       "eventKey": "espana-seguridad-espana-seguridad-agreden-piedras",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -773,8 +729,8 @@
       "publishedAt": "Sat, 14 Nov 2026 16:53:13 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -790,8 +746,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:30:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-decadas-resultados",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -807,25 +763,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-mujeres-cuanto",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f94b227d71bee8a8",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Europa regresa a América Latina: ¿demasiado tarde?",
-      "summary": "En 2003, durante una visita oficial a Paraguay, viví una escena que todavía recuerdo con cierta incredulidad. Un cónsul honorario de Polonia me invitó a visitar una propiedad suya en plena selva. En medio de aquella vegetación, apareció un hombre vestido de tr",
-      "url": "https://confidencial.digital/opinion/europa-regresa-a-america-latina-demasiado-tarde/",
-      "publishedAt": "Fri, 13 Nov 2026 07:20:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-europa-regresa",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -841,8 +780,8 @@
       "publishedAt": "Thu, 12 Nov 2026 14:13:18 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-importar-fechas",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -858,25 +797,8 @@
       "publishedAt": "Thu, 12 Nov 2026 13:16:29 +0000",
       "politicalScore": 4,
       "eventKey": "chile-probidad-chile-probidad-temor-delito",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "7b7a388f206a3dd7",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "¿Quiénes son los presos políticos del caso Paramacay con condenas ratificadas de hasta 30 años?",
-      "summary": "La Sala 2 de la Corte de Apelaciones ratificó las condenas de 30 años de prisión para 16 procesados del caso Paramacay",
-      "url": "https://efectococuyo.com/la-humanidad/quienes-son-los-presos-politicos-paramacay-con-condenas-ratificadas-de-hasta-30-anos/",
-      "publishedAt": "Sat, 14 Nov 2026 20:10:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "venezuela-instituciones-venezuela-instituciones-quienes-presos",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -892,8 +814,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:26:36 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-casa-blanca",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -909,8 +831,8 @@
       "publishedAt": "Sat, 14 Nov 2026 18:21:37 +0000",
       "politicalScore": 3,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-poner-limite",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -926,8 +848,8 @@
       "publishedAt": "Sat, 14 Nov 2026 16:38:40 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-fogatas-cacerolazos",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -943,25 +865,8 @@
       "publishedAt": "Sat, 14 Nov 2026 16:15:29 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-paradoja-agua",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "f4759c8955cb8c10",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "Moscú reitera a Cuba su \"firme solidaridad y apoyo\" en \"tiempos tan difíciles\"",
-      "summary": "El viceministro ruso de Exteriores Serguéi Riabkov expuso la disposición de su país a “seguir brindando a La Habana la necesaria asistencia política y financiera”",
-      "url": "https://www.14ymedio.com/internacional/moscu-reitera-cuba-firme-solidaridad_1_1133212.html",
-      "publishedAt": "Sat, 14 Nov 2026 12:54:31 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-sociedad-cuba-sociedad-moscu-reitera",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -977,8 +882,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:25:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-policia-arresta",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -994,8 +899,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:00:32 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-proyecto-denuncias",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -1011,8 +916,8 @@
       "publishedAt": "Sat, 14 Nov 2026 07:00:21 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-seguimos-llegando",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -1028,42 +933,8 @@
       "publishedAt": "Fri, 13 Nov 2026 15:35:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-papa-leon",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b76b2aa4cea45421",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Dimite Jensen Huang y sacude al gigante de la IA Nvidia",
-      "summary": "El cofundador y consejero delegado de Nvidia, Jensen Huang, abandona el cargo, lo que abre dudas sobre el futuro del fabricante de chips que convirtió en una potencia de la IA. La empresa lo anunció el jueves 12 de noviembre de 2026. La directora financiera, C",
-      "url": "https://confidencial.digital/revista-niu/dimite-jensen-huang-y-sacude-al-gigante-de-la-ia-nvidia/",
-      "publishedAt": "Fri, 13 Nov 2026 14:30:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-dimite-jensen",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
-      "seenCount": 1
-    },
-    {
-      "id": "ec2a6840769eee7d",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Centroamérica actualiza acuerdo aduanero: ¿Lo respetará Nicaragua?",
-      "summary": "Nicaragua se comprometió por escrito con el resto de países de Centroamérica, a implementar un nuevo acuerdo regional para facilitar los trámites aduaneros a partir del 29 de abril de 2027. Usuarios del sistema, consultados por CONFIDENCIAL, expresaron sus dud",
-      "url": "https://confidencial.digital/analisis/centroamerica-actualiza-acuerdo-aduanero-lo-respetara-nicaragua/",
-      "publishedAt": "Fri, 13 Nov 2026 07:25:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-centroamerica-actualiza",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -1079,8 +950,8 @@
       "publishedAt": "Thu, 12 Nov 2026 23:04:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-adoptar-doctrina",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -1096,8 +967,8 @@
       "publishedAt": "Thu, 12 Nov 2026 20:18:27 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-sexta-version",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     },
     {
@@ -1113,8 +984,8 @@
       "publishedAt": "Wed, 11 Nov 2026 15:31:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-necesario-introducir",
-      "firstSeenAt": "2026-11-15T05:43:51.147Z",
-      "lastSeenAt": "2026-11-15T05:43:51.147Z",
+      "firstSeenAt": "2026-11-15T13:43:30.199Z",
+      "lastSeenAt": "2026-11-15T13:43:30.199Z",
       "seenCount": 1
     }
   ]
