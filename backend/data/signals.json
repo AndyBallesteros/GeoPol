@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T06:27:23.197Z",
-  "count": 54,
+  "generatedAt": "2026-11-21T18:55:21.601Z",
+  "count": 55,
   "failures": [
     {
       "source": "efecto-cocuyo-venezuela",
@@ -8,12 +8,12 @@
     }
   ],
   "stats": {
-    "generatedAt": "2026-11-21T06:27:23.197Z",
-    "activeSignals": 54,
-    "archiveSignals": 112,
-    "countriesCovered": 8,
-    "highPrioritySignals": 13,
-    "averagePoliticalScore": 5.09
+    "generatedAt": "2026-11-21T18:55:21.601Z",
+    "activeSignals": 55,
+    "archiveSignals": 113,
+    "countriesCovered": 7,
+    "highPrioritySignals": 17,
+    "averagePoliticalScore": 5.51
   },
   "briefings": [
     {
@@ -34,8 +34,8 @@
     {
       "country": "Nicaragua",
       "priority": "Alta",
-      "leadTitle": "“Así funciona el mundo”: concluye la cumbre entre Xi, Trump y Putin",
-      "leadUrl": "https://confidencial.digital/mundo/asi-funciona-el-mundo-concluye-la-cumbre-entre-xi-trump-y-putin/",
+      "leadTitle": "Moscú y Pekín en la consolidación autoritaria de Nicaragua",
+      "leadUrl": "https://confidencial.digital/opinion/moscu-y-pekin-en-la-consolidacion-autoritaria-de-nicaragua/",
       "focusTopics": [
         "Instituciones",
         "Economia politica"
@@ -53,13 +53,14 @@
       "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-admite-que-tiene-los-votos-justos-para-aprobar-la-suspension-de-las-paso-en-el-senado-nid21112026/",
       "focusTopics": [
         "Elecciones",
+        "Instituciones",
         "Economia politica"
       ],
       "topSources": [
         "La Nacion"
       ],
       "signalCount": 11,
-      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
+      "summary": "Foco en Elecciones, Instituciones, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Cuba",
@@ -68,57 +69,42 @@
       "leadUrl": "https://www.14ymedio.com/cuba/camila-acosta-angel-santiesteban-acusados_1_1133512.html",
       "focusTopics": [
         "Seguridad",
+        "Elecciones",
         "Sociedad"
       ],
       "topSources": [
         "14ymedio"
       ],
-      "signalCount": 6,
-      "summary": "Foco en Seguridad, Sociedad. Vigilar 14ymedio y 14ymedio."
+      "signalCount": 5,
+      "summary": "Foco en Seguridad, Elecciones, Sociedad. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
+      "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "El Pais"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Elecciones. Vigilar El Pais y El Pais."
     },
     {
       "country": "Colombia",
-      "priority": "Alta",
-      "leadTitle": "Abelardo desautoriza nuevamente a su gobierno",
-      "leadUrl": "https://www.lasillavacia.com/en-vivo/abelardo-desautoriza-nuevamente-a-su-gobierno/",
+      "priority": "Media",
+      "leadTitle": "Los 1360 días que faltan",
+      "leadUrl": "https://www.lasillavacia.com/opinion/los-1360-dias-que-faltan/",
       "focusTopics": [
         "Gobernabilidad"
       ],
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 5,
+      "signalCount": 7,
       "summary": "Foco en Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Peru",
-      "priority": "Media",
-      "leadTitle": "Congreso aprueba Presupuesto Público 2027 por más de S/266 mil millones",
-      "leadUrl": "https://elcomercio.pe/economia/congreso-aprueba-presupuesto-publico-2027-por-mas-de-s266-mil-millones-ultimas-noticia/",
-      "focusTopics": [
-        "Economia politica",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Comercio"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Economia politica, Gobernabilidad. Vigilar El Comercio y El Comercio."
-    },
-    {
-      "country": "Espana",
-      "priority": "Media",
-      "leadTitle": "Miles de millones para el ferrocarril: garantizar la seguridad en la alta velocidad decanta votos",
-      "leadUrl": "https://elpais.com/espana/elecciones-generales/2026-11-21/miles-de-millones-para-el-ferrocarril-garantizar-la-seguridad-en-la-alta-velocidad-decanta-votos.html",
-      "focusTopics": [
-        "Seguridad",
-        "Gobernabilidad"
-      ],
-      "topSources": [
-        "El Pais"
-      ],
-      "signalCount": 2,
-      "summary": "Foco en Seguridad, Gobernabilidad. Vigilar El Pais y El Pais."
     },
     {
       "country": "Uruguay",
@@ -149,8 +135,25 @@
       "publishedAt": "Sat, 21 Nov 2026 04:00:00 +0000",
       "politicalScore": 14,
       "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-admite",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "93ddd4afe3c5d4f6",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "La Corte y los DNU: Milei perdió un rasgo que compartía con Cristina Kirchner y entró en un grupo reducido de presidentes",
+      "summary": "Un relevamiento del constitucionalista Gustavo Arballo ayuda a poner en contexto la resolución que declaró inconstitucional dos artículos del megadecreto 70/2023; solo 18 de más de 970 decretos firmados desde 1994 fueron invalidados por el máximo tribunal",
+      "url": "https://www.lanacion.com.ar/politica/la-corte-y-los-dnu-milei-perdio-un-rasgo-que-compartia-con-cristina-kirchner-y-entro-en-un-grupo-nid21112026/",
+      "publishedAt": "Sat, 21 Nov 2026 09:00:01 +0000",
+      "politicalScore": 13,
+      "eventKey": "argentina-instituciones-argentina-instituciones-corte-milei",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -166,8 +169,8 @@
       "publishedAt": "Fri, 20 Nov 2026 20:18:25 +0000",
       "politicalScore": 11,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-rafecas",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -180,11 +183,45 @@
       "title": "El Gobierno adjudica la turbulencia financiera a factores externos y a las dudas del mercado sobre una reelección de Milei",
       "summary": "A pesar de los indicadores, en la Casa Rosada afirman que no habrá un cambio de rumbo económico",
       "url": "https://www.lanacion.com.ar/politica/el-gobierno-adjudica-la-turbulencia-financiera-a-factores-externos-y-a-las-dudas-del-mercado-sobre-nid20112026/",
-      "publishedAt": "Fri, 20 Nov 2026 22:48:28 +0000",
+      "publishedAt": "Sat, 21 Nov 2026 17:18:06 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-adjudica",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "67aac160169f2d84",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "La plana mayor del primer Gobierno de Felipe González pide el voto para Pedro Sánchez: “Hay riesgo de involución y recorte de derechos”",
+      "summary": "Solana, Serra, Almunia y Solchaga encabezan un artículo en apoyo del actual líder socialista frente a la posición del expresidente",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/la-plana-mayor-del-primer-gobierno-de-felipe-gonzalez-pide-el-voto-para-pedro-sanchez.html",
+      "publishedAt": "Sat, 21 Nov 2026 11:47:46 GMT",
+      "politicalScore": 10,
+      "eventKey": "espana-elecciones-espana-elecciones-plana-mayor",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "5db3ad5800b5342d",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Bono conmina a González a reconsiderar su voto en blanco: “El PSOE te debe mucho, pero tú más al PSOE”",
+      "summary": "El histórico expresidente de las Cortes y exministro socialista pide al expresidente que “no haga el tonto”",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/bono-conmina-a-gonzalez-a-reconsiderar-su-voto-en-blanco-el-psoe-te-debe-mucho-pero-tu-mas-al-psoe.html",
+      "publishedAt": "Sat, 21 Nov 2026 17:03:32 GMT",
+      "politicalScore": 9,
+      "eventKey": "espana-elecciones-espana-elecciones-bono-conmina",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -200,8 +237,25 @@
       "publishedAt": "Fri, 20 Nov 2026 21:11:16 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-elecciones-argentina-elecciones-politicos-echan",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "ea33997fa4f05d7c",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Alta",
+      "title": "Moscú y Pekín en la consolidación autoritaria de Nicaragua",
+      "summary": "El 5 de octubre de 2026, el presidente Daniel Ortega anunció la retirada de Nicaragua del Parlamento Centroamericano (PARLACEN), después de que el país abandonara en 2023 la Organización de los Estados Americanos (OEA). Esta decisión pone de manifiesto el alej",
+      "url": "https://confidencial.digital/opinion/moscu-y-pekin-en-la-consolidacion-autoritaria-de-nicaragua/",
+      "publishedAt": "Sat, 21 Nov 2026 07:25:00 +0000",
+      "politicalScore": 8,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-moscu-pekin",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -217,8 +271,8 @@
       "publishedAt": "Sat, 21 Nov 2026 01:58:29 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-instituciones-argentina-instituciones-talerico-grupo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -234,8 +288,8 @@
       "publishedAt": "Fri, 20 Nov 2026 19:21:16 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-murio",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -251,8 +305,25 @@
       "publishedAt": "Thu, 19 Nov 2026 22:05:48 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-seguridad-cuba-seguridad-camila-acosta",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9fdf6c695e991710",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Machado llama a debatir en grupos pequeños sobre cómo será la futura Venezuela",
+      "summary": "El mecanismo, llamado Punto de Acuerdo, tiene como objetivo debatir y generar un acuerdo en varios temas como salud, educación, petróleo y elecciones, para una transición política",
+      "url": "https://www.14ymedio.com/internacional/machado-llama-debatir-futura-venezuela_1_1133549.html",
+      "publishedAt": "Sat, 21 Nov 2026 11:40:10 +0000",
+      "politicalScore": 7,
+      "eventKey": "cuba-elecciones-cuba-elecciones-machado-llama",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -268,8 +339,8 @@
       "publishedAt": "Sat, 21 Nov 2026 04:03:58 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -285,25 +356,8 @@
       "publishedAt": "Sat, 21 Nov 2026 01:03:10 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-cerramos",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "66309a7f3b47a4cd",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Alta",
-      "title": "Abelardo desautoriza nuevamente a su gobierno",
-      "summary": "Por segunda vez en menos de una semana, De la Espriella desautorizó a su equipo: esta vez retiró el decreto que revivía las corridas de toros. The post Abelardo desautoriza nuevamente a su gobierno appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/abelardo-desautoriza-nuevamente-a-su-gobierno/",
-      "publishedAt": "Sat, 21 Nov 2026 00:39:41 +0000",
-      "politicalScore": 7,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-abelardo-desautoriza",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -319,8 +373,8 @@
       "publishedAt": "Fri, 20 Nov 2026 14:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-funciona-mundo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -336,8 +390,8 @@
       "publishedAt": "Thu, 19 Nov 2026 22:01:15 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-demandan",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -353,8 +407,25 @@
       "publishedAt": "Tue, 17 Nov 2026 23:34:35 +0000",
       "politicalScore": 7,
       "eventKey": "chile-economia-politica-chile-economia-politica-comision",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "d75482bf68c49f68",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Los 1360 días que faltan",
+      "summary": "Han pasado algo más de cien días del gobierno de Abelardo y no ha pasado gran cosa. Ni para bien ni para mal. The post Los 1360 días que faltan appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/los-1360-dias-que-faltan/",
+      "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "politicalScore": 6,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-1360-dias",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -370,8 +441,8 @@
       "publishedAt": "Sat, 21 Nov 2026 00:13:37 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-carril-derecha",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -387,25 +458,8 @@
       "publishedAt": "Fri, 20 Nov 2026 17:53:05 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-alemania-alerta",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b9f963144748ba3c",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Máximo Kirchner: “Vamos a armar todo el quilombo que haya que armar”",
-      "summary": "El diputado propuso “auditar” los beneficios a las inversiones otorgados a través del RIGI; críticas a la política económica",
-      "url": "https://www.lanacion.com.ar/politica/maximo-kirchner-vamos-a-armar-todo-el-quilombo-que-haya-que-armar-nid20112026/",
-      "publishedAt": "Fri, 20 Nov 2026 17:51:36 +0000",
-      "politicalScore": 6,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-maximo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -421,8 +475,8 @@
       "publishedAt": "Fri, 20 Nov 2026 12:51:53 +0000",
       "politicalScore": 6,
       "eventKey": "cuba-sociedad-cuba-sociedad-gobierno-rebaja",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -438,59 +492,76 @@
       "publishedAt": "Fri, 20 Nov 2026 07:25:00 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-elegir-esperanza",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
-      "id": "7af25c801150edca",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "¿Cómo gestionamos la violencia cuando viene de una compañera de lucha?",
-      "summary": "A lo largo de la vida he aprendido a alzar la voz frente a la violencia machista, la violencia política, el abuso de poder y la violencia racista. Mi acercamiento al feminismo también me llevó a revisar mis propios aprendizajes y a reconocer cuánto del machism",
-      "url": "https://confidencial.digital/opinion/como-gestionamos-la-violencia-cuando-viene-de-una-companera-de-lucha/",
-      "publishedAt": "Thu, 19 Nov 2026 07:10:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-seguridad-nicaragua-seguridad-gestionamos-violencia",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "64e611117de4bc14",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Congreso aprueba Presupuesto Público 2027 por más de S/266 mil millones",
-      "summary": "Ultima actualizacion de El Comercio.",
-      "url": "https://elcomercio.pe/economia/congreso-aprueba-presupuesto-publico-2027-por-mas-de-s266-mil-millones-ultimas-noticia/",
-      "publishedAt": "Sat, 21 Nov 2026 04:16:11 +0000",
-      "politicalScore": 5,
-      "eventKey": "peru-economia-politica-peru-economia-politica-congreso",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0ded1c3d7f3edf5b",
+      "id": "d62afa208841d7f0",
       "country": "Colombia",
       "source": "La Silla Vacia",
       "sourceType": "Analisis",
       "topic": "Gobernabilidad",
       "priority": "Media",
-      "title": "Deicy Jiménez no publicó esta frase sobre Petro; fue una cuenta falsa",
-      "summary": "Un perfil en Facebook suplanta a la mujer de 26 años que denunció el escándalo por los \"sexocontratos\" del expresidente. The post Deicy Jiménez no publicó esta frase sobre Petro; fue una cuenta falsa appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/detector-de-mentiras/falso/deicy-jimenez-no-publico-esta-frase-sobre-petro-fue-una-cuenta-falsa/",
-      "publishedAt": "Fri, 20 Nov 2026 21:44:44 +0000",
+      "title": "De la Espriella anuncia nuevo bombardeo contra disidencias de “Mordisco”",
+      "summary": "Es el undécimo bombardeo en lo que va del gobierno De la Espriella. Fue en zona rural de Mapiripán, Meta, contra el Frente 44 de las disidencias de las Farc. The post De la Espriella anuncia nuevo bombardeo contra disidencias de “Mordisco” appeared first on La",
+      "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-anuncia-nuevo-bombardeo-contra-disidencias-de-mordisco/",
+      "publishedAt": "Sat, 21 Nov 2026 14:20:05 +0000",
       "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-deicy-jimenez",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-anuncia",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "452b932d18b96938",
+      "country": "Espana",
+      "source": "El Pais",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Media",
+      "title": "Colau llama a dar la vuelta a las encuestas en el final de campaña: “Vamos a congelar la sonrisa a Feijóo”",
+      "summary": "Frente Amplio anima a “no bajar los brazos” hasta el 29-N. Yolanda Díaz recupera la reducción de jornada, bandera en 2023, y recuerda al PSOE que el objetivo no es “quedar primero”, sino “reeditar el Gobierno”",
+      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/colau-llama-a-dar-la-vuelta-a-las-encuestas-en-el-final-de-campana-vamos-a-congelar-la-sonrisa-a-feijoo.html",
+      "publishedAt": "Sat, 21 Nov 2026 13:14:01 GMT",
+      "politicalScore": 5,
+      "eventKey": "espana-elecciones-espana-elecciones-colau-llama",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "600d4f0d142b2052",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Indígenas hablan de falta de garantías para consulta previa del PND y otras noticias",
+      "summary": "El gobierno abrirá rondas mineras permanentes, tres proyectos de la Amazonía recibirán plata por la Milagro Week y otras noticias. The post Indígenas hablan de falta de garantías para consulta previa del PND y otras noticias appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/en-vivo/indigenas-hablan-de-falta-de-garantias-para-consulta-previa-del-pnd-y-otras-noticias/",
+      "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-indigenas-hablan",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "b11907d1abf0cacc",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Seguridad",
+      "priority": "Media",
+      "title": "65 años caminando con Colombia: lecciones de resiliencia y democracia",
+      "summary": "En 1960, expertos de la Fundación Ford recorrieron Colombia buscando cómo apoyar la educación superior en “un país sacudido por la violencia”. The post 65 años caminando con Colombia: lecciones de resiliencia y democracia appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/65-anos-caminando-con-colombia-lecciones-de-resiliencia-y-democracia/",
+      "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "politicalScore": 5,
+      "eventKey": "colombia-seguridad-colombia-seguridad-anos-caminando",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -506,8 +577,59 @@
       "publishedAt": "Wed, 18 Nov 2026 07:00:22 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-poder-menos",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "501774c2d55bf5c6",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "¿Y ahora cómo quedamos con los EE.UU.?",
+      "summary": "Juanita León y Héctor Riveros analizan la relación de Abelardo con Estados Unidos: la visita de Hegseth, el tránsito de tropas y el choque con los demócratas. The post ¿Y ahora cómo quedamos con los EE.UU.? appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/y-ahora-como-quedamos-con-los-ee-uu/",
+      "publishedAt": "Sat, 21 Nov 2026 15:49:47 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ahora-quedamos",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "12c7757a679c3bed",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "El proyecto de rescate económico dejaría a la cultura sin garantías",
+      "summary": "La reforma tributaria amenaza la financiación y el acceso a la cultura al eliminar recursos, gravar entradas y reducir la capacidad institucional del sector. The post El proyecto de rescate económico dejaría a la cultura sin garantías appeared first on La Sill",
+      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-proyecto-de-rescate-economico-deja-a-la-cultura-sin-garantias/",
+      "publishedAt": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "colombia-economia-politica-colombia-economia-politica-proyecto",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "00c4ec3502f74126",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Bukele: ¿El Salvador de Haití?",
+      "summary": "La llamaban la Perla de las Antillas. En el siglo XVIII, Saint-Domingue, la colonia francesa que se convertiría en Haití, fue uno de los grandes productores de azúcar y café del mundo. Su riqueza descansaba en el trabajo de personas esclavizadas. De su rebelió",
+      "url": "https://confidencial.digital/opinion/bukele-el-salvador-de-haiti/",
+      "publishedAt": "Sat, 21 Nov 2026 07:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bukele-salvador",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -523,93 +645,8 @@
       "publishedAt": "Sat, 21 Nov 2026 05:35:18 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-elon",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "2f4148f5921ec6e4",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Asociar las marchas con vandalismo reduce hasta un 17 % el apoyo ciudadano",
-      "summary": "Un experimento con 3.020 colombianos demuestra que vincular las protestas con vandalismo o grupos armados reduce el respaldo ciudadano hasta en una quinta parte. The post Asociar las marchas con vandalismo reduce hasta un 17 % el apoyo ciudadano appeared first",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/asociar-las-marchas-con-vandalismo-reduce-hasta-un-17-el-apoyo-ciudadano/",
-      "publishedAt": "Sat, 21 Nov 2026 05:05:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-asociar-marchas",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "88ce6b0068465846",
-      "country": "Peru",
-      "source": "El Comercio",
-      "sourceType": "Generalista",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
-      "summary": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
-      "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
-      "publishedAt": "Sat, 21 Nov 2026 05:01:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "peru-gobernabilidad-peru-gobernabilidad-keiko-fujimori",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "5227acc44541cffb",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Miles de millones para el ferrocarril: garantizar la seguridad en la alta velocidad decanta votos",
-      "summary": "El PP sitúa al tren en el centro de un plan de infraestructuras con participación privada, mientras el PSOE se enfoca en reforzar el mantenimiento de las vías",
-      "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/miles-de-millones-para-el-ferrocarril-garantizar-la-seguridad-en-la-alta-velocidad-decanta-votos.html",
-      "publishedAt": "Sat, 21 Nov 2026 04:30:01 GMT",
-      "politicalScore": 4,
-      "eventKey": "espana-seguridad-espana-seguridad-miles-millones",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a05be568eb068650",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "MinCultura declara insubsistente a Julia Daza, directora de la Biblioteca Nacional",
-      "summary": "La decisión se da días después de que el Tribunal Administrativo de Cundinamarca suspendiera provisionalmente su nombramiento. The post MinCultura declara insubsistente a Julia Daza, directora de la Biblioteca Nacional appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/en-vivo/mincultura-declara-insubsistente-a-julia-daza-directora-de-la-biblioteca-nacional/",
-      "publishedAt": "Fri, 20 Nov 2026 23:59:08 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-instituciones-colombia-instituciones-mincultura-declara",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "014d28abb7f744b9",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "Plan de Ordenamiento de Mocoa quedó en veremos",
-      "summary": "Se venció el plazo para que lo estudiara el Concejo de Mocoa. Ahora el alcalde tiene facultades para aprobarlo por decreto. The post Plan de Ordenamiento de Mocoa quedó en veremos appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/silla-amazonia/amazonia-en-breve/plan-de-ordenamiento-de-mocoa-quedo-en-veremos/",
-      "publishedAt": "Fri, 20 Nov 2026 22:00:10 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-plan-ordenamiento",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -625,25 +662,8 @@
       "publishedAt": "Fri, 20 Nov 2026 21:26:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-convoca-organo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1a90bc186391bb38",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Sociedad",
-      "priority": "Media",
-      "title": "Ya son más de 355.000 los casos pendientes de residencia por la Ley de Ajuste Cubano",
-      "summary": "Estados Unidos aprobó 652 solicitudes el pasado septiembre, pero 347.613 expedientes llevan más de seis meses sin resolverse y el tiempo medio de tramitación alcanza los 21,5 meses",
-      "url": "https://www.14ymedio.com/cuba/migracion/son-355-000-casos-pendientes_1_1133535.html",
-      "publishedAt": "Fri, 20 Nov 2026 21:15:15 +0000",
-      "politicalScore": 4,
-      "eventKey": "cuba-sociedad-cuba-sociedad-casos-pendientes",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -659,8 +679,8 @@
       "publishedAt": "Fri, 20 Nov 2026 19:55:57 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-congela",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -676,8 +696,8 @@
       "publishedAt": "Fri, 20 Nov 2026 07:10:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-matar-camilo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -693,8 +713,8 @@
       "publishedAt": "Fri, 20 Nov 2026 06:14:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-mayoria",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -710,8 +730,8 @@
       "publishedAt": "Thu, 19 Nov 2026 23:23:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-jessica-feijoo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -727,8 +747,8 @@
       "publishedAt": "Thu, 19 Nov 2026 15:00:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-jefe-pentagono",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -744,25 +764,8 @@
       "publishedAt": "Thu, 19 Nov 2026 13:09:08 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-sitios",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d5221a4949963010",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Repensar a Dios y la política",
-      "summary": "Decíamos en nuestro artículo anterior que el pobre desarrollo de nuestras fuerzas productivas, junto con nuestro lamentable desarrollo científico, ha sido incapaz de propiciar un sentido de autoconfianza que nos permita domesticar, como lo hizo Europa, la inse",
-      "url": "https://confidencial.digital/opinion/repensar-a-dios-y-la-politica/",
-      "publishedAt": "Thu, 19 Nov 2026 07:20:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-repensar-dios",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -778,8 +781,8 @@
       "publishedAt": "Wed, 18 Nov 2026 23:14:07 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-inversion",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -795,8 +798,8 @@
       "publishedAt": "Wed, 18 Nov 2026 19:24:43 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -812,8 +815,42 @@
       "publishedAt": "Wed, 18 Nov 2026 07:27:10 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "23cac033bb4bf9b6",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Media",
+      "title": "Legislar y mentir",
+      "summary": "Hannah Arendt en Truth and Politics dijo que “nadie ha contado jamás la veracidad entre las virtudes políticas”, lo dijo en 1967, sigue vigente. The post Legislar y mentir appeared first on La Silla Vacía .",
+      "url": "https://www.lasillavacia.com/opinion/legislar-y-mentir/",
+      "publishedAt": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-legislar-mentir",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
+      "seenCount": 1
+    },
+    {
+      "id": "eb0731a6b23a477b",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Diplomacia",
+      "priority": "Media",
+      "title": "Williston Ortiz Romero, de niño refugiado a médico en Costa Rica",
+      "summary": "El nicaragüense Williston Ortiz Romero nació en Masaya en 1975 y tenía tres años cuando su familia cruzó, por primera vez, la frontera hacia Costa Rica. Hoy es médico de urgencias en la Caja Costarricense de Seguro Social y autor de “Cuentos, Versos y Algo Más",
+      "url": "https://confidencial.digital/migrantes/williston-ortiz-romero-de-nino-refugiado-a-medico-en-costa-rica/",
+      "publishedAt": "Sat, 21 Nov 2026 06:28:00 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-williston-ortiz",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -829,8 +866,8 @@
       "publishedAt": "Sat, 21 Nov 2026 02:34:37 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-suprema-desmantela",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -846,8 +883,8 @@
       "publishedAt": "Sat, 21 Nov 2026 00:19:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-curioso-alivio",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -863,8 +900,8 @@
       "publishedAt": "Fri, 20 Nov 2026 23:23:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-chats-grupo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -880,8 +917,8 @@
       "publishedAt": "Fri, 20 Nov 2026 22:04:39 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-logra-repatriar",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -897,8 +934,8 @@
       "publishedAt": "Fri, 20 Nov 2026 21:51:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-chats-socios",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -914,8 +951,8 @@
       "publishedAt": "Fri, 20 Nov 2026 18:06:48 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-inauguran-hotel",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -931,8 +968,8 @@
       "publishedAt": "Thu, 19 Nov 2026 23:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-renuncia-subsecretaria",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -948,25 +985,8 @@
       "publishedAt": "Thu, 19 Nov 2026 21:00:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-lado-oscuro",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "a71949c87f4ae3e6",
-      "country": "Cuba",
-      "source": "14ymedio",
-      "sourceType": "Digital",
-      "topic": "Seguridad",
-      "priority": "Media",
-      "title": "Asesinada por su pareja una mujer de 40 años en Cárdenas",
-      "summary": "Es el segundo crimen vinculado a la violencia machista en menos de un mes y medio en el pequeño asentamiento de Merceditas",
-      "url": "https://www.14ymedio.com/cuba/asesinada-mujer-pareja-cardenas_1_1133486.html",
-      "publishedAt": "Thu, 19 Nov 2026 17:07:29 +0000",
-      "politicalScore": 3,
-      "eventKey": "cuba-seguridad-cuba-seguridad-asesinada-pareja",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -982,8 +1002,8 @@
       "publishedAt": "Thu, 19 Nov 2026 16:00:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-trump",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -999,25 +1019,8 @@
       "publishedAt": "Thu, 19 Nov 2026 15:03:52 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-elecciones-cuba-elecciones-ganar-tiempo",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d353b76ac96945df",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Por qué “GTA VI” es más que un simple videojuego",
-      "summary": "El 19 de noviembre llega “Grand Theft Auto VI” y millones de jugadores de todo el mundo esperan ansiosos su lanzamiento. ¿Por qué este videojuego despierta tanta expectación entre distintas generaciones?“¡Oh, it is so on now!” (¡Ahora sí que empieza la acción!",
-      "url": "https://confidencial.digital/revista-niu/por-que-gta-vi-es-mas-que-un-simple-videojuego/",
-      "publishedAt": "Thu, 19 Nov 2026 14:30:00 +0000",
-      "politicalScore": 3,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-simple-videojuego",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -1033,8 +1036,8 @@
       "publishedAt": "Thu, 19 Nov 2026 12:32:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-paro-camioneros",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     },
     {
@@ -1050,8 +1053,8 @@
       "publishedAt": "Wed, 18 Nov 2026 15:34:25 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-postergar-meta",
-      "firstSeenAt": "2026-11-21T06:27:23.197Z",
-      "lastSeenAt": "2026-11-21T06:27:23.197Z",
+      "firstSeenAt": "2026-11-21T18:55:21.601Z",
+      "lastSeenAt": "2026-11-21T18:55:21.601Z",
       "seenCount": 1
     }
   ]
