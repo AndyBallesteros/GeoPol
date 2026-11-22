@@ -1,30 +1,35 @@
 {
-  "generatedAt": "2026-11-22T05:57:04.019Z",
-  "count": 58,
-  "failures": [],
+  "generatedAt": "2026-11-22T14:26:46.482Z",
+  "count": 56,
+  "failures": [
+    {
+      "source": "efecto-cocuyo-venezuela",
+      "error": "403 Forbidden"
+    }
+  ],
   "stats": {
-    "generatedAt": "2026-11-22T05:57:04.019Z",
-    "activeSignals": 58,
-    "archiveSignals": 116,
-    "countriesCovered": 8,
-    "highPrioritySignals": 17,
-    "averagePoliticalScore": 5.41
+    "generatedAt": "2026-11-22T14:26:46.482Z",
+    "activeSignals": 56,
+    "archiveSignals": 114,
+    "countriesCovered": 7,
+    "highPrioritySignals": 20,
+    "averagePoliticalScore": 5.84
   },
   "briefings": [
     {
-      "country": "Chile",
+      "country": "Argentina",
       "priority": "Alta",
-      "leadTitle": "Comisión investigadora de gestión de Steinert enviará antecedentes a la fiscalía; CGR detecta a 315 funcionarios públicos con condenas vigentes, y piden explicaciones a ministra Lincolao por acuerdo con OpenAI",
-      "leadUrl": "https://www.ciperchile.cl/2026/11/17/radar-17-11-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-17-11-26",
+      "leadTitle": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+      "leadUrl": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
       "focusTopics": [
-        "Economia politica",
-        "Probidad"
+        "Elecciones",
+        "Economia politica"
       ],
       "topSources": [
-        "CIPER"
+        "La Nacion"
       ],
       "signalCount": 14,
-      "summary": "Foco en Economia politica, Probidad. Vigilar CIPER y CIPER."
+      "summary": "Foco en Elecciones, Economia politica. Vigilar La Nacion y La Nacion."
     },
     {
       "country": "Nicaragua",
@@ -42,19 +47,34 @@
       "summary": "Foco en Instituciones, Economia politica. Vigilar Confidencial y Confidencial."
     },
     {
-      "country": "Argentina",
+      "country": "Cuba",
       "priority": "Alta",
-      "leadTitle": "El Gobierno admite que tiene los votos justos para aprobar la suspensión de las PASO en el Senado",
-      "leadUrl": "https://www.lanacion.com.ar/politica/el-gobierno-admite-que-tiene-los-votos-justos-para-aprobar-la-suspension-de-las-paso-en-el-senado-nid21112026/",
+      "leadTitle": "Camila Acosta y Ángel Santiesteban, acusados de \"atentado\" por publicaciones sobre el juicio a los masones",
+      "leadUrl": "https://www.14ymedio.com/cuba/camila-acosta-angel-santiesteban-acusados_1_1133512.html",
       "focusTopics": [
-        "Elecciones",
-        "Instituciones"
+        "Seguridad",
+        "Sociedad"
       ],
       "topSources": [
-        "La Nacion"
+        "14ymedio"
       ],
-      "signalCount": 12,
-      "summary": "Foco en Elecciones, Instituciones. Vigilar La Nacion y La Nacion."
+      "signalCount": 5,
+      "summary": "Foco en Seguridad, Sociedad. Vigilar 14ymedio y 14ymedio."
+    },
+    {
+      "country": "Espana",
+      "priority": "Alta",
+      "leadTitle": "Sánchez ya no es el preferido de las mujeres: Feijóo empata en preferencia para ser presidente",
+      "leadUrl": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b01d978fc6c830e508b457a.html",
+      "focusTopics": [
+        "Elecciones"
+      ],
+      "topSources": [
+        "El Mundo",
+        "El Pais"
+      ],
+      "signalCount": 4,
+      "summary": "Foco en Elecciones. Vigilar El Mundo y El Pais."
     },
     {
       "country": "Colombia",
@@ -68,38 +88,8 @@
       "topSources": [
         "La Silla Vacia"
       ],
-      "signalCount": 6,
+      "signalCount": 4,
       "summary": "Foco en Economia politica, Gobernabilidad. Vigilar La Silla Vacia y La Silla Vacia."
-    },
-    {
-      "country": "Cuba",
-      "priority": "Alta",
-      "leadTitle": "Camila Acosta y Ángel Santiesteban, acusados de \"atentado\" por publicaciones sobre el juicio a los masones",
-      "leadUrl": "https://www.14ymedio.com/cuba/camila-acosta-angel-santiesteban-acusados_1_1133512.html",
-      "focusTopics": [
-        "Seguridad",
-        "Sociedad"
-      ],
-      "topSources": [
-        "14ymedio"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Seguridad, Sociedad. Vigilar 14ymedio y 14ymedio."
-    },
-    {
-      "country": "Espana",
-      "priority": "Alta",
-      "leadTitle": "La campaña eleva el drama en la recta final: “¡A por ellos!”. “¡No pasarán!”",
-      "leadUrl": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
-      "focusTopics": [
-        "Elecciones",
-        "Diplomacia"
-      ],
-      "topSources": [
-        "El Pais"
-      ],
-      "signalCount": 4,
-      "summary": "Foco en Elecciones, Diplomacia. Vigilar El Pais y El Pais."
     },
     {
       "country": "Uruguay",
@@ -117,36 +107,71 @@
       "summary": "Foco en Elecciones, Seguridad. Vigilar La Diaria y La Diaria."
     },
     {
-      "country": "Venezuela",
+      "country": "Chile",
       "priority": "Media",
-      "leadTitle": "¿Qué hay detrás del mensaje mariano de María Corina Machado?",
-      "leadUrl": "https://efectococuyo.com/politica/que-hay-detras-del-mensaje-mariano-de-maria-corina-machado/",
+      "leadTitle": "¿Más poder, menos responsabilidad? La reforma al mercado de capitales y su efecto en las sociedades anónimas",
+      "leadUrl": "https://www.ciperchile.cl/2026/11/18/mas-poder-menos-responsabilidad-la-reforma-al-mercado-de-capitales-y-su-efecto-en-las-sociedades-anonimas/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=mas-poder-menos-responsabilidad-la-reforma-al-mercado-de-capitales-y-su-efecto-en-las-sociedades-anonimas",
       "focusTopics": [
-        "Diplomacia"
+        "Probidad",
+        "Economia politica"
       ],
       "topSources": [
-        "Efecto Cocuyo"
+        "CIPER"
       ],
-      "signalCount": 3,
-      "summary": "Foco en Diplomacia. Vigilar Efecto Cocuyo y Efecto Cocuyo."
+      "signalCount": 14,
+      "summary": "Foco en Probidad, Economia politica. Vigilar CIPER y CIPER."
     }
   ],
   "signals": [
     {
-      "id": "77aad232f04a2a6e",
+      "id": "46f27fc2421b0891",
       "country": "Argentina",
       "source": "La Nacion",
       "sourceType": "Generalista",
       "topic": "Elecciones",
       "priority": "Alta",
-      "title": "El Gobierno admite que tiene los votos justos para aprobar la suspensión de las PASO en el Senado",
-      "summary": "Confían en el oficialismo tener 38 avales asegurados de los 37 que necesitan para obtener la media sanción del proyecto; la sesión será el jueves próximo",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-admite-que-tiene-los-votos-justos-para-aprobar-la-suspension-de-las-paso-en-el-senado-nid21112026/",
-      "publishedAt": "Sat, 21 Nov 2026 04:00:00 +0000",
+      "title": "Dónde voto: publicaron el padrón provisorio para las elecciones de Argentina 2027",
+      "summary": "El año que viene los argentinos elegirán a su próximo presidente, y es importante para los que van a votar conocer previamente el lugar en el que ejercerán el sufragio para agilizar el trámite electoral",
+      "url": "https://www.lanacion.com.ar/politica/donde-voto-publicaron-el-padron-provisorio-para-las-elecciones-de-argentina-2027-nid02112026/",
+      "publishedAt": "Sun, 22 Nov 2026 12:53:37 +0000",
+      "politicalScore": 18,
+      "eventKey": "argentina-elecciones-argentina-elecciones-donde-voto",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "f21aca17852c1f8b",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Se profundiza la interna macrista en la Capital: De Andreis desafía a Jorge Macri y Ritondo respalda al jefe de gobierno",
+      "summary": "El alfil del expresidente dijo que aspira a ser candidato a alcalde, mientras el titular de los diputados de Pro considera que “le corresponde continuar en el cargo” al exintendente de Vicente López",
+      "url": "https://www.lanacion.com.ar/politica/se-profundiza-la-interna-macrista-en-la-capital-de-andreis-desafia-a-jorge-macri-y-ritondo-respalda-nid22112026/",
+      "publishedAt": "Sun, 22 Nov 2026 10:38:40 +0000",
       "politicalScore": 14,
-      "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-admite",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-profundiza",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "a7dfb080dd415850",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Calendario electoral 2027: cuándo se vota gobernador en Salta",
+      "summary": "La provincia desdobla la votación de las elecciones nacionales del año próximo; cuándo serán los comicios locales",
+      "url": "https://www.lanacion.com.ar/politica/calendario-electoral-2027-cuando-se-vota-gobernador-en-salta-nid17112026/",
+      "publishedAt": "Sun, 22 Nov 2026 12:54:06 +0000",
+      "politicalScore": 13,
+      "eventKey": "argentina-elecciones-argentina-elecciones-calendario-electoral",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -162,8 +187,8 @@
       "publishedAt": "Sat, 21 Nov 2026 09:00:01 +0000",
       "politicalScore": 13,
       "eventKey": "argentina-instituciones-argentina-instituciones-corte-milei",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -179,8 +204,25 @@
       "publishedAt": "Sat, 21 Nov 2026 19:54:42 +0000",
       "politicalScore": 12,
       "eventKey": "argentina-instituciones-argentina-instituciones-mensaje-oculto",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "255fa7448ac43779",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Alta",
+      "title": "Dogma vs. pragmatismo: la disputa dentro del gobierno ortodoxo de Milei que se exacerba con los últimos ruidos del plan",
+      "summary": "La suba del riesgo país y la tendencia alcista del dólar intensifican el apego al programa del Presidente, pero también los planteos de Bullrich sobre una economía “cercana a la gente”; todos coinciden que aplicar un “plan platita” sería ir a un desastre",
+      "url": "https://www.lanacion.com.ar/politica/dogma-vs-pragmatismo-la-disputa-dentro-del-gobierno-ortodoxo-de-milei-que-se-exacerba-con-los-nid22112026/",
+      "publishedAt": "Sun, 22 Nov 2026 06:03:10 +0000",
+      "politicalScore": 10,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-dogma",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -196,8 +238,25 @@
       "publishedAt": "Sat, 21 Nov 2026 17:18:06 +0000",
       "politicalScore": 10,
       "eventKey": "argentina-elecciones-argentina-elecciones-gobierno-adjudica",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "219a92735c9493cd",
+      "country": "Espana",
+      "source": "El Mundo",
+      "sourceType": "Generalista",
+      "topic": "Elecciones",
+      "priority": "Alta",
+      "title": "Sánchez ya no es el preferido de las mujeres: Feijóo empata en preferencia para ser presidente",
+      "summary": "El 'popular' arrasa en percepción de cuál de los dos gobernará tras las elecciones&nbsp; Leer",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/22/6b01d978fc6c830e508b457a.html",
+      "publishedAt": "Sun, 22 Nov 2026 12:25:58 +0100",
+      "politicalScore": 9,
+      "eventKey": "espana-elecciones-espana-elecciones-sanchez-preferido",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -213,8 +272,8 @@
       "publishedAt": "Sat, 21 Nov 2026 22:42:33 +0000",
       "politicalScore": 9,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-acuerdo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -230,8 +289,8 @@
       "publishedAt": "Sat, 21 Nov 2026 18:16:50 -0300",
       "politicalScore": 9,
       "eventKey": "uruguay-elecciones-uruguay-elecciones-aprobo-ingreso",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -247,8 +306,8 @@
       "publishedAt": "Sat, 21 Nov 2026 20:29:40 +0000",
       "politicalScore": 9,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-viuda",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -264,8 +323,8 @@
       "publishedAt": "Sat, 21 Nov 2026 21:14:20 +0000",
       "politicalScore": 8,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-vialidad",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -281,25 +340,8 @@
       "publishedAt": "Sat, 21 Nov 2026 07:25:00 +0000",
       "politicalScore": 8,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-moscu-pekin",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "3b885b826db17e91",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Instituciones",
-      "priority": "Alta",
-      "title": "Talerico y el grupo Será Justicia pidieron el juicio político de los camaristas de Casación Borinsky y Barroetaveña",
-      "summary": "La abogada y exvicepresidenta de la UIF basó su denuncia en el fallo de la Corte de este jueves sobre la quinta de Pilar en el caso AFA, que dejó sin efecto una sentencia de los dos jueces",
-      "url": "https://www.lanacion.com.ar/politica/talerico-pidio-el-juicio-politico-de-los-camaristas-de-casacion-borinsky-y-barroetavena-cuestionados-nid20112026/",
-      "publishedAt": "Sat, 21 Nov 2026 01:58:29 +0000",
-      "politicalScore": 8,
-      "eventKey": "argentina-instituciones-argentina-instituciones-talerico-grupo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -315,8 +357,25 @@
       "publishedAt": "Thu, 19 Nov 2026 22:05:48 +0000",
       "politicalScore": 8,
       "eventKey": "cuba-seguridad-cuba-seguridad-camila-acosta",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "706098b72cd8c38b",
+      "country": "Colombia",
+      "source": "La Silla Vacia",
+      "sourceType": "Analisis",
+      "topic": "Gobernabilidad",
+      "priority": "Alta",
+      "title": "El parque solar de $71 mil millones que conecta a Edwin Palma con contratistas y políticos del Pacto",
+      "summary": "El exministro del gobierno Petro financió un proyecto en Bahía Solano que maneja un contratista relacionado con su grupo político. Debía estar terminado, pero va en 15%. The post El parque solar de $71 mil millones que conecta a Edwin Palma con contratistas y ",
+      "url": "https://www.lasillavacia.com/silla-nacional/el-parque-solar-de-71-mil-millones-que-conecta-a-edwin-palma-con-contratistas-y-politicos-del-pacto/",
+      "publishedAt": "Sun, 22 Nov 2026 06:00:00 +0000",
+      "politicalScore": 7,
+      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-parque-solar",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -332,8 +391,8 @@
       "publishedAt": "Sun, 22 Nov 2026 04:30:01 GMT",
       "politicalScore": 7,
       "eventKey": "espana-elecciones-espana-elecciones-campana-eleva",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -349,8 +408,8 @@
       "publishedAt": "Sun, 22 Nov 2026 01:50:00 +0000",
       "politicalScore": 7,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-guernica",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -366,25 +425,8 @@
       "publishedAt": "Sat, 21 Nov 2026 21:21:35 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-colombia",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d97f4032cdf0ebef",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Alta",
-      "title": "Milei defendió la apertura comercial en el acto por la llegada de los autos Tesla: “Vivimos detrás de una cortina de hierro”",
-      "summary": "El Presidente participó del lanzamiento en el país de la automotriz de Elon Musk; “esto permite que la producción nacional se especialice, exporte y que bajen los precios”, dijo el mandatario",
-      "url": "https://www.lanacion.com.ar/politica/milei-celebro-la-apertura-del-mercado-con-el-lanzamiento-de-tesla-durante-decadas-la-argentina-vivio-nid20112026/",
-      "publishedAt": "Sat, 21 Nov 2026 04:03:58 +0000",
-      "politicalScore": 7,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-milei",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -400,25 +442,42 @@
       "publishedAt": "Fri, 20 Nov 2026 14:30:00 +0000",
       "politicalScore": 7,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-funciona-mundo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
-      "id": "5db6cbbc7fa70a5b",
-      "country": "Chile",
-      "source": "CIPER",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
+      "id": "4e2d69610721a0ce",
+      "country": "Cuba",
+      "source": "14ymedio",
+      "sourceType": "Digital",
+      "topic": "Seguridad",
       "priority": "Alta",
-      "title": "Comisión investigadora de gestión de Steinert enviará antecedentes a la fiscalía; CGR detecta a 315 funcionarios públicos con condenas vigentes, y piden explicaciones a ministra Lincolao por acuerdo con OpenAI",
-      "summary": "La entrada Comisión investigadora de gestión de Steinert enviará antecedentes a la fiscalía; CGR detecta a 315 funcionarios públicos con condenas vigentes, y piden explicaciones a ministra Lincolao por acuerdo con OpenAI se publicó primero en CIPER Chile .",
-      "url": "https://www.ciperchile.cl/2026/11/17/radar-17-11-26/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=radar-17-11-26",
-      "publishedAt": "Tue, 17 Nov 2026 23:34:35 +0000",
-      "politicalScore": 7,
-      "eventKey": "chile-economia-politica-chile-economia-politica-comision",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "title": "Denuncian la prohibición de visitas a 36 militares presos en huelga de hambre en Venezuela",
+      "summary": "Los reclusos protestan contra los retrasos procesales y exigen que revisen sus expedientes",
+      "url": "https://www.14ymedio.com/internacional/denuncian-prohibicion-visitas-36-militares_1_1133573.html",
+      "publishedAt": "Sun, 22 Nov 2026 13:40:53 +0000",
+      "politicalScore": 3,
+      "eventKey": "cuba-seguridad-cuba-seguridad-denuncian-prohibicion",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "bc602c6624624f70",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "La estrategia de evitar la confrontación se impone en el kicillofismo, luego de quedar afuera del acto de Massa",
+      "summary": "En el Movimiento Derecho al Futuro no plantean una reacción ante el agrupamiento del exministro de Economía con cristinistas y otros sectores del peronismo; observan que la eliminación de las PASO sería un punto de inflexión",
+      "url": "https://www.lanacion.com.ar/politica/la-estrategia-de-evitar-la-confrontacion-se-impone-en-el-kicillofismo-luego-de-quedar-afuera-del-nid22112026/",
+      "publishedAt": "Sun, 22 Nov 2026 10:36:01 +0000",
+      "politicalScore": 6,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-estrategia",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -434,8 +493,8 @@
       "publishedAt": "Sun, 22 Nov 2026 02:36:38 +0000",
       "politicalScore": 6,
       "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-1360-dias",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -451,8 +510,8 @@
       "publishedAt": "Sat, 21 Nov 2026 21:36:57 -0300",
       "politicalScore": 6,
       "eventKey": "uruguay-seguridad-uruguay-seguridad-coloco-placa",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -468,8 +527,8 @@
       "publishedAt": "Sat, 21 Nov 2026 21:48:53 +0000",
       "politicalScore": 6,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-peronismo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -485,93 +544,25 @@
       "publishedAt": "Fri, 20 Nov 2026 17:53:05 +0000",
       "politicalScore": 6,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-alemania-alerta",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
-      "id": "a811d539f13728cc",
+      "id": "9e3965a5899c1a8f",
       "country": "Nicaragua",
       "source": "Confidencial",
       "sourceType": "Investigacion",
       "topic": "Instituciones",
       "priority": "Media",
-      "title": "Elegir la esperanza es un acto de resistencia",
-      "summary": "Nicaragua permanece en la memoria de muchos suecos, donde la revolución triunfó en 1979 y los sandinistas, que gobernaron el país durante la década de 1980, implementaron importantes reformas contra el analfabetismo, las enfermedades y la pobreza, para mejorar",
-      "url": "https://confidencial.digital/opinion/elegir-la-esperanza-es-un-acto-de-resistencia/",
-      "publishedAt": "Fri, 20 Nov 2026 07:25:00 +0000",
-      "politicalScore": 6,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-elegir-esperanza",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "0a900e62fa212468",
-      "country": "Espana",
-      "source": "El Pais",
-      "sourceType": "Generalista",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Inmigración, el ruido más estridente de la batalla política",
-      "summary": "Los programas electorales de las derechas y las izquierdas encuentran en las medidas de extranjería planteamientos irreconciliables",
-      "url": "https://elpais.com/espana/2026-11-22/inmigracion-el-ruido-mas-estridente-de-la-batalla-politica.html",
-      "publishedAt": "Sun, 22 Nov 2026 04:30:01 GMT",
+      "title": "Soberanía en versión chavista",
+      "summary": "El 18 de noviembre, Pete Hegseth se reunió en el Palacio de Miraflores con Delcy Rodriguez. El primero en su carácter de Secretario de Guerra de Estados Unidos, antes Secretario de Defensa, que visita a Rodríguez como presidenta encargada de Venezuela. La agen",
+      "url": "https://confidencial.digital/opinion/soberania-en-version-chavista/",
+      "publishedAt": "Sun, 22 Nov 2026 07:10:00 +0000",
       "politicalScore": 5,
-      "eventKey": "espana-diplomacia-espana-diplomacia-inmigracion-ruido",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "95b42f7d48478ca6",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "¿Qué hay detrás del mensaje mariano de María Corina Machado?",
-      "summary": "En el accionar político de la líder opositora venezolana, Premio Nobel de la Paz 2025 y coordinadora de Vente Venezuela está presente la inclusión de símbolos religiosos para acercarse a las masas",
-      "url": "https://efectococuyo.com/politica/que-hay-detras-del-mensaje-mariano-de-maria-corina-machado/",
-      "publishedAt": "Sat, 21 Nov 2026 21:30:29 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-detras-mensaje",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "1fb04957a3f296f6",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "Vente Venezuela recibe a Magalli Meda con acto público en la Quinta El Bejucal",
-      "summary": "Meda dijo que \"todo estaba hecho para destruirnos, para destruir la esencia del venezolano que es libertario\"",
-      "url": "https://efectococuyo.com/politica/vente-venezuela-recibe-a-magalli-meda-con-acto-publico-en-la-quinta-el-bejucal/",
-      "publishedAt": "Sat, 21 Nov 2026 20:03:28 +0000",
-      "politicalScore": 5,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-vente-recibe",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "d62afa208841d7f0",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "De la Espriella anuncia nuevo bombardeo contra disidencias de “Mordisco”",
-      "summary": "Es el undécimo bombardeo en lo que va del gobierno De la Espriella. Fue en zona rural de Mapiripán, Meta, contra el Frente 44 de las disidencias de las Farc. The post De la Espriella anuncia nuevo bombardeo contra disidencias de “Mordisco” appeared first on La",
-      "url": "https://www.lasillavacia.com/en-vivo/de-la-espriella-anuncia-nuevo-bombardeo-contra-disidencias-de-mordisco/",
-      "publishedAt": "Sat, 21 Nov 2026 14:20:05 +0000",
-      "politicalScore": 5,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-espriella-anuncia",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-soberania-version",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -587,8 +578,42 @@
       "publishedAt": "Wed, 18 Nov 2026 07:00:22 +0000",
       "politicalScore": 5,
       "eventKey": "chile-probidad-chile-probidad-poder-menos",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "50df975cb634c2f5",
+      "country": "Argentina",
+      "source": "La Nacion",
+      "sourceType": "Generalista",
+      "topic": "Economia politica",
+      "priority": "Media",
+      "title": "Beligoy amplió su patrimonio: compró una casa de más de 300 m2 en unos de los barrios privados más exclusivos de la zona sur",
+      "summary": "La operación se concretó en 2023, según registros oficiales a los que accedió LA NACION; una propiedad de esas características está valuada en al menos 700.000 dólares",
+      "url": "https://www.lanacion.com.ar/politica/beligoy-amplio-su-patrimonio-compro-una-casa-de-mas-de-300-m2-en-unos-de-los-barrios-privados-mas-nid22112026/",
+      "publishedAt": "Sun, 22 Nov 2026 10:30:11 +0000",
+      "politicalScore": 4,
+      "eventKey": "argentina-economia-politica-argentina-economia-politica-beligoy",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "95899b04e23190af",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Shenzhen: La versión de segunda categoría de Yalta de Trump",
+      "summary": "La historia sí se repite—la primera vez como tragedia, la segunda vez como farsa. La cumbre original de Yalta tuvo lugar en un destartalado palacio zarista en la península de Crimea en febrero de 1945. Las tropas de Hitler ya estaban en retirada cuando el pres",
+      "url": "https://confidencial.digital/opinion/shenzhen-la-version-de-segunda-categoria-de-yalta-de-trump/",
+      "publishedAt": "Sun, 22 Nov 2026 07:20:00 +0000",
+      "politicalScore": 4,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-shenzhen-version",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -604,8 +629,8 @@
       "publishedAt": "Sun, 22 Nov 2026 04:30:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-elecciones-espana-elecciones-doce-horas",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -621,8 +646,8 @@
       "publishedAt": "Sun, 22 Nov 2026 02:06:44 +0000",
       "politicalScore": 4,
       "eventKey": "colombia-economia-politica-colombia-economia-politica-necesitamos",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -638,59 +663,8 @@
       "publishedAt": "Sat, 21 Nov 2026 21:24:35 +0000",
       "politicalScore": 4,
       "eventKey": "argentina-economia-politica-argentina-economia-politica-insolito",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "e5f3a003afd3c3cb",
-      "country": "Venezuela",
-      "source": "Efecto Cocuyo",
-      "sourceType": "Digital",
-      "topic": "Diplomacia",
-      "priority": "Media",
-      "title": "El FBI investiga un nuevo ataque informático contra su base de datos nacional",
-      "summary": "Trump dijo que el hackeo podría permitir conocer sobre recientes fraudes electorales y la participación de Rusia en ellos",
-      "url": "https://efectococuyo.com/internacionales/el-fbi-investiga-un-nuevo-ataque-informatico-contra-su-base-de-datos-nacional/",
-      "publishedAt": "Sat, 21 Nov 2026 17:57:01 +0000",
-      "politicalScore": 4,
-      "eventKey": "venezuela-diplomacia-venezuela-diplomacia-investiga-nuevo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "501774c2d55bf5c6",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Gobernabilidad",
-      "priority": "Media",
-      "title": "¿Y ahora cómo quedamos con los EE.UU.?",
-      "summary": "Juanita León y Héctor Riveros analizan la relación de Abelardo con Estados Unidos: la visita de Hegseth, el tránsito de tropas y el choque con los demócratas. The post ¿Y ahora cómo quedamos con los EE.UU.? appeared first on La Silla Vacía .",
-      "url": "https://www.lasillavacia.com/opinion/y-ahora-como-quedamos-con-los-ee-uu/",
-      "publishedAt": "Sat, 21 Nov 2026 15:49:47 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-gobernabilidad-colombia-gobernabilidad-ahora-quedamos",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "12c7757a679c3bed",
-      "country": "Colombia",
-      "source": "La Silla Vacia",
-      "sourceType": "Analisis",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "El proyecto de rescate económico dejaría a la cultura sin garantías",
-      "summary": "La reforma tributaria amenaza la financiación y el acceso a la cultura al eliminar recursos, gravar entradas y reducir la capacidad institucional del sector. The post El proyecto de rescate económico dejaría a la cultura sin garantías appeared first on La Sill",
-      "url": "https://www.lasillavacia.com/red-de-expertos/red-social/el-proyecto-de-rescate-economico-deja-a-la-cultura-sin-garantias/",
-      "publishedAt": "Sat, 21 Nov 2026 14:00:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "colombia-economia-politica-colombia-economia-politica-proyecto",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -706,25 +680,8 @@
       "publishedAt": "Sat, 21 Nov 2026 07:20:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-bukele-salvador",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "6ae1130b54d51fb8",
-      "country": "Argentina",
-      "source": "La Nacion",
-      "sourceType": "Generalista",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Elon Musk dejó un confuso mensaje por videollamada tras el discurso de Milei en el lanzamiento de Tesla en la Argentina",
-      "summary": "El empresario dueño de SpaceX ponderó la llegada de la compañía al país y prometió establecer una red de supercargadores; “no sé muy bien qué decir”, confesó",
-      "url": "https://www.lanacion.com.ar/politica/elon-musk-dejo-un-confuso-mensaje-por-videollamada-tras-el-discurso-de-milei-en-el-lanzamiento-de-nid21112026/",
-      "publishedAt": "Sat, 21 Nov 2026 05:35:18 +0000",
-      "politicalScore": 4,
-      "eventKey": "argentina-economia-politica-argentina-economia-politica-elon",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -740,42 +697,8 @@
       "publishedAt": "Fri, 20 Nov 2026 21:26:00 +0000",
       "politicalScore": 4,
       "eventKey": "nicaragua-seguridad-nicaragua-seguridad-convoca-organo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "b816e2957ce2604d",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Instituciones",
-      "priority": "Media",
-      "title": "Matar a Camilo para intentar silenciar a todos",
-      "summary": "Un periodista costarricense ha sido acribillado a la luz del día por balas asesinas. Su voz fue acallada para siempre, cerca de las 3:20 p. m. del lunes, por sicarios que cumplían con una encomienda ajena. La suya se suma a varias vidas más apagadas por causa ",
-      "url": "https://confidencial.digital/opinion/matar-a-camilo-para-intentar-silenciar-a-todos/",
-      "publishedAt": "Fri, 20 Nov 2026 07:10:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-matar-camilo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
-      "seenCount": 1
-    },
-    {
-      "id": "db43b6ee0c521719",
-      "country": "Nicaragua",
-      "source": "Confidencial",
-      "sourceType": "Investigacion",
-      "topic": "Economia politica",
-      "priority": "Media",
-      "title": "Mayoría de universidades recibirán menos presupuesto en 2027, tras repentina redistribución",
-      "summary": "La Asamblea Nacional aprobó el traspaso de 129 millones de córdobas para las universidades nacionales Héroes de San José de las Mulas y la Multidisciplinaria Ricardo Morales Avilés, que inicialmente eran de la Secretaría Técnica para Atención a las Universidad",
-      "url": "https://confidencial.digital/noticias/presupuesto-universidades-nicaragua-redistribucion-recortes/",
-      "publishedAt": "Fri, 20 Nov 2026 06:14:00 +0000",
-      "politicalScore": 4,
-      "eventKey": "nicaragua-economia-politica-nicaragua-economia-politica-mayoria",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -791,8 +714,8 @@
       "publishedAt": "Thu, 19 Nov 2026 23:23:01 GMT",
       "politicalScore": 4,
       "eventKey": "espana-gobernabilidad-espana-gobernabilidad-jessica-feijoo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -808,8 +731,8 @@
       "publishedAt": "Thu, 19 Nov 2026 13:09:08 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-sitios",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -825,8 +748,8 @@
       "publishedAt": "Wed, 18 Nov 2026 23:14:07 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-inversion",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -842,8 +765,8 @@
       "publishedAt": "Wed, 18 Nov 2026 19:24:43 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -859,8 +782,42 @@
       "publishedAt": "Wed, 18 Nov 2026 07:27:10 +0000",
       "politicalScore": 4,
       "eventKey": "chile-economia-politica-chile-economia-politica-presupuesto",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "9a9ceeb9a16983ce",
+      "country": "Chile",
+      "source": "CIPER",
+      "sourceType": "Investigacion",
+      "topic": "Probidad",
+      "priority": "Media",
+      "title": "Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen",
+      "summary": "La entrada Yalta sin decoro: lo que Putin, Xi y Trump dejaron en Shenzhen se publicó primero en CIPER Chile .",
+      "url": "https://www.ciperchile.cl/2026/11/22/yalta-sin-decoro-lo-que-putin-xi-y-trump-dejaron-en-shenzhen/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=yalta-sin-decoro-lo-que-putin-xi-y-trump-dejaron-en-shenzhen",
+      "publishedAt": "Sun, 22 Nov 2026 11:59:09 +0000",
+      "politicalScore": 3,
+      "eventKey": "chile-probidad-chile-probidad-yalta-decoro",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
+      "seenCount": 1
+    },
+    {
+      "id": "853ef3eac0dd6852",
+      "country": "Nicaragua",
+      "source": "Confidencial",
+      "sourceType": "Investigacion",
+      "topic": "Instituciones",
+      "priority": "Media",
+      "title": "Dos estudiantes nicas asesinados en Alemania oriental en 1961",
+      "summary": "En la noche del sábado 19 de agosto de 1961, un vehículo oficial avanza por la antigua autopista de Berlín a Leipzig (hoy A9) con tres pasajeros a bordo. Son los días de la Operación Rosa (Unternehmen Rose), nombre en clave de la construcción del Muro de Berl",
+      "url": "https://confidencial.digital/reportajes/dos-estudiantes-nicas-asesinados-en-alemania-oriental-en-1961/",
+      "publishedAt": "Sun, 22 Nov 2026 06:09:48 +0000",
+      "politicalScore": 3,
+      "eventKey": "nicaragua-instituciones-nicaragua-instituciones-estudiantes-nicas",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -876,8 +833,8 @@
       "publishedAt": "Sat, 21 Nov 2026 22:32:55 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-fallece-victor",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -893,8 +850,8 @@
       "publishedAt": "Sat, 21 Nov 2026 21:49:18 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-humano-palabra",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -910,8 +867,8 @@
       "publishedAt": "Sat, 21 Nov 2026 18:25:49 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-sociedad-cuba-sociedad-treintena-mipymes",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -927,8 +884,8 @@
       "publishedAt": "Sat, 21 Nov 2026 06:28:00 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-diplomacia-nicaragua-diplomacia-williston-ortiz",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -944,8 +901,8 @@
       "publishedAt": "Sat, 21 Nov 2026 02:34:37 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-suprema-desmantela",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -961,8 +918,8 @@
       "publishedAt": "Sat, 21 Nov 2026 00:19:24 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-curioso-alivio",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -978,8 +935,8 @@
       "publishedAt": "Fri, 20 Nov 2026 23:23:44 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-chats-grupo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -995,8 +952,8 @@
       "publishedAt": "Fri, 20 Nov 2026 22:04:39 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-seguridad-cuba-seguridad-logra-repatriar",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1012,8 +969,8 @@
       "publishedAt": "Fri, 20 Nov 2026 21:51:48 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-chats-socios",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1029,8 +986,8 @@
       "publishedAt": "Fri, 20 Nov 2026 18:06:48 +0000",
       "politicalScore": 3,
       "eventKey": "nicaragua-instituciones-nicaragua-instituciones-inauguran-hotel",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1046,8 +1003,8 @@
       "publishedAt": "Thu, 19 Nov 2026 23:00:53 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-renuncia-subsecretaria",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1063,8 +1020,8 @@
       "publishedAt": "Thu, 19 Nov 2026 21:00:47 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-lado-oscuro",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1080,8 +1037,8 @@
       "publishedAt": "Thu, 19 Nov 2026 15:03:52 +0000",
       "politicalScore": 3,
       "eventKey": "cuba-elecciones-cuba-elecciones-ganar-tiempo",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1097,8 +1054,8 @@
       "publishedAt": "Thu, 19 Nov 2026 12:32:40 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-paro-camioneros",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     },
     {
@@ -1114,8 +1071,8 @@
       "publishedAt": "Wed, 18 Nov 2026 15:34:25 +0000",
       "politicalScore": 3,
       "eventKey": "chile-probidad-chile-probidad-postergar-meta",
-      "firstSeenAt": "2026-11-22T05:57:04.019Z",
-      "lastSeenAt": "2026-11-22T05:57:04.019Z",
+      "firstSeenAt": "2026-11-22T14:26:46.482Z",
+      "lastSeenAt": "2026-11-22T14:26:46.482Z",
       "seenCount": 1
     }
   ]
